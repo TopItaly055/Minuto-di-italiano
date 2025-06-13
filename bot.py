@@ -48,10 +48,9 @@ exercises = [
 user_data = {}
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text(
-        "Привет! Это тренажёр по итальянским артиклям.
-Напиши /quiz, чтобы начать."
-    )
+await update.message.reply_text(
+    "Привет! Это тренажёр по итальянским артиклям.\nНапиши /quiz, чтобы начать."
+)
 
 async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_id = update.effective_user.id
