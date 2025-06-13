@@ -1,5 +1,7 @@
 import os
 import logging
+import telegram
+print("PTB version:", telegram.__version__)
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import (
     ApplicationBuilder,
@@ -90,10 +92,14 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     if not TOKEN:
-        print("❌ BOT_TOKEN не найден. Убедись, что переменная окружения установлена.")
+        print("❌ BOT_TOKEN не найден.")
         return
 
-    app = ApplicationBuilder().token(TOKEN).build()
+    try:
+        app = ApplicationBuilder().token(TOKEN).build()
+    except Exception as e:
+        import traceback; traceback.print_exc()
+        return
 
     conv_handler = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
