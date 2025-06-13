@@ -9,6 +9,7 @@ from telegram.ext import (
     CommandHandler,
     ConversationHandler,
     MessageHandler,
+    CallbackQueryHandler,
     filters
 )
 
@@ -102,13 +103,27 @@ def main():
         return
 
     conv_handler = ConversationHandler(
-        entry_points=[CommandHandler("quiz", quiz)],
-        states={QUIZ: [MessageHandler(filters.TEXT & ~filters.COMMAND, handle_answer)]},
-        fallbacks=[CommandHandler("cancel", cancel)]
-    )
+        entry_points=[
+        CommandHandler("quiz", quiz),
+        CallbackQueryHandler(on_topic_select, pattern=r"^topic\|")
+    ],
+    states={
+        QUIZ: [
+            MessageHandler(filters.TEXT & ~filters.COMMAND, handle_answer)
+        ]
+    },
+    fallbacks=[CommandHandler("cancel", cancel)]
+)
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(conv_handler)
+        CallbackQueryHandler(
+            on_topic_select,
+            pattern=r"^topic\|"
+        )
+    )
+    app.add_handler(conv_handler)
+
 
     print("✅ Бот запущен. Ожидаем команды в Telegram...")
     app.run_polling()
