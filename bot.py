@@ -48,7 +48,7 @@ exercises = [
 user_data = {}
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-await update.message.reply_text(
+    await update.message.reply_text(
     "Привет! Это тренажёр по итальянским артиклям.\nНапиши /quiz, чтобы начать."
 )
 
