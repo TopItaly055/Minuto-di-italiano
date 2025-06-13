@@ -49,7 +49,7 @@ user_data = {}
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        "Привет! Это тренажёр по итальянским артиклям.
+        "Привет! Это тренажёр по итальянским артиклям."
 Напиши /quiz, чтобы начать."
     )
 
