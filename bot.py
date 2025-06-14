@@ -192,12 +192,16 @@ def main():
         logging.error("❌ BOT_TOKEN не задан.")
         return
 
-    # Сброс webhooks
-    asyncio.run(Bot(token=TOKEN).delete_webhook(drop_pending_updates=True))
-    logging.info("🔄 Webhook удалён, очередь сброшена.")
+    # Создаём приложение и тут же регистрируем удаление вебхука
+    app = (
+        ApplicationBuilder()
+        .token(TOKEN)
+        .post_init(delete_webhook_on_startup)
+        .build()
+    )
 
-    # Настройка приложения
-    app = ApplicationBuilder().token(TOKEN).build()
+    # Регистрируем обработчики
+    app.add_handler(CommandHandler("start", start))
     conv = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
         states={
@@ -208,9 +212,9 @@ def main():
         fallbacks=[CommandHandler("cancel", cancel)],
         allow_reentry=True,
     )
-    app.add_handler(CommandHandler("start", start))
     app.add_handler(conv)
 
+    # Запускаем polling — внутри него будет удалён вебхук
     logging.info("✅ Запускаем polling…")
     app.run_polling(drop_pending_updates=True)
 
