@@ -2,6 +2,7 @@ import os
 import json
 import logging
 from telegram import (
+    Bot,
     Update,
     ReplyKeyboardMarkup,
     InlineKeyboardMarkup,
@@ -66,7 +67,7 @@ async def on_level_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await query.edit_message_text(f"❌ Нет папки content/{level} с упражнениями.")
         return STATE_LEVEL
 
-    files = [f for f in sorted(os.listdir(folder)) if f.endswith(".json")]
+    files = sorted(f for f in os.listdir(folder) if f.endswith(".json"))
     if not files:
         await query.edit_message_text(f"❌ В папке content/{level} нет JSON-файлов.")
         return STATE_LEVEL
@@ -99,10 +100,8 @@ async def on_topic_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await query.answer()
     topic_file = query.data.split("|", 1)[1]
     level = context.user_data.get("level")
-    folder = os.path.join("content", level)
-    path = os.path.join(folder, topic_file)
+    path = os.path.join("content", level, topic_file)
 
-    # Попытка загрузить JSON
     try:
         data = json.load(open(path, encoding="utf-8"))
     except FileNotFoundError:
@@ -119,7 +118,6 @@ async def on_topic_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return STATE_TOPIC
 
     context.user_data.update({
-        "topic_key": topic_file[:-5],
         "topic_name": data.get("topic_name", topic_file[:-5]),
         "exercises": exercises,
         "index": 0,
@@ -158,7 +156,9 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if user_ans.lower() == correct.lower():
         await update.message.reply_text(f"✅ Верно!\n{ex.get('explanation','')}")
     else:
-        await update.message.reply_text(f"❌ Неверно.\nПравильный ответ: {correct}\n{ex.get('explanation','')}")
+        await update.message.reply_text(
+            f"❌ Неверно.\nПравильный ответ: {correct}\n{ex.get('explanation','')}"
+        )
 
     context.user_data["index"] = idx + 1
     return await send_question(update, context)
@@ -182,14 +182,21 @@ def main():
         logging.error("❌ BOT_TOKEN не найден в окружении.")
         return
 
+    # 1) удаляем старый webhook и очищаем очередь
+    bot = Bot(token=TOKEN)
+    bot.delete_webhook(drop_pending_updates=True)
+    logging.info("🔄 Webhook удалён и старые обновления сброшены.")
+
+    # 2) создаём приложение
     app = ApplicationBuilder().token(TOKEN).build()
 
+    # 3) настраиваем ConversationHandler
     conv = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
         states={
             STATE_LEVEL: [CallbackQueryHandler(on_level_select, pattern=r"^level\|")],
             STATE_TOPIC: [CallbackQueryHandler(on_topic_select, pattern=r"^topic\|")],
-            STATE_QUIZ: [MessageHandler(filters.TEXT & ~filters.COMMAND, handle_answer)],
+            STATE_QUIZ:   [MessageHandler(filters.TEXT & ~filters.COMMAND, handle_answer)],
         },
         fallbacks=[CommandHandler("cancel", cancel)],
         allow_reentry=True,
@@ -199,6 +206,7 @@ def main():
     app.add_handler(conv)
 
     logging.info("✅ Бот запущен. Ожидает команд.")
+    # 4) запускаем polling, сбрасывая pending updates
     app.run_polling(drop_pending_updates=True)
 
 if __name__ == "__main__":
