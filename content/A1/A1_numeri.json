@@ -1,0 +1,1107 @@
+{
+  "level": "A1",
+  "topic_key": "numeri",
+  "topic_name": "Numeri cardinali",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "2",
+        "9",
+        "17"
+      ],
+      "answer": "2",
+      "explanation": "Risposta corretta: 2"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "4",
+        "18",
+        "16"
+      ],
+      "answer": "4",
+      "explanation": "Risposta corretta: 4"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "17",
+        "9",
+        "10"
+      ],
+      "answer": "10",
+      "explanation": "Risposta corretta: 10"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "9",
+        "13",
+        "18"
+      ],
+      "answer": "13",
+      "explanation": "Risposta corretta: 13"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "5",
+        "8",
+        "1"
+      ],
+      "answer": "1",
+      "explanation": "Risposta corretta: 1"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "2",
+        "4",
+        "11"
+      ],
+      "answer": "11",
+      "explanation": "Risposta corretta: 11"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "4",
+        "17",
+        "14"
+      ],
+      "answer": "14",
+      "explanation": "Risposta corretta: 14"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "5",
+        "20",
+        "15"
+      ],
+      "answer": "5",
+      "explanation": "Risposta corretta: 5"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "3",
+        "1",
+        "14"
+      ],
+      "answer": "3",
+      "explanation": "Risposta corretta: 3"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "6",
+        "8",
+        "14"
+      ],
+      "answer": "6",
+      "explanation": "Risposta corretta: 6"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "6",
+        "7",
+        "4"
+      ],
+      "answer": "6",
+      "explanation": "Risposta corretta: 6"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "12",
+        "4",
+        "11"
+      ],
+      "answer": "12",
+      "explanation": "Risposta corretta: 12"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "17",
+        "15",
+        "18"
+      ],
+      "answer": "18",
+      "explanation": "Risposta corretta: 18"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "14",
+        "2",
+        "7"
+      ],
+      "answer": "2",
+      "explanation": "Risposta corretta: 2"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "13",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "Risposta corretta: 7"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "4",
+        "5",
+        "12"
+      ],
+      "answer": "12",
+      "explanation": "Risposta corretta: 12"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "10",
+        "3",
+        "1"
+      ],
+      "answer": "3",
+      "explanation": "Risposta corretta: 3"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "5",
+        "9",
+        "11"
+      ],
+      "answer": "9",
+      "explanation": "Risposta corretta: 9"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "3",
+        "16",
+        "11"
+      ],
+      "answer": "3",
+      "explanation": "Risposta corretta: 3"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "17",
+        "5",
+        "12"
+      ],
+      "answer": "5",
+      "explanation": "Risposta corretta: 5"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "1",
+      "explanation": "Risposta corretta: 1"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "2",
+        "6",
+        "3"
+      ],
+      "answer": "3",
+      "explanation": "Risposta corretta: 3"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "6",
+        "15",
+        "7"
+      ],
+      "answer": "7",
+      "explanation": "Risposta corretta: 7"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "14",
+        "11",
+        "3"
+      ],
+      "answer": "11",
+      "explanation": "Risposta corretta: 11"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "15",
+        "18",
+        "4"
+      ],
+      "answer": "15",
+      "explanation": "Risposta corretta: 15"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "13",
+        "3",
+        "7"
+      ],
+      "answer": "13",
+      "explanation": "Risposta corretta: 13"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "10",
+        "6",
+        "17"
+      ],
+      "answer": "6",
+      "explanation": "Risposta corretta: 6"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "15",
+        "8",
+        "1"
+      ],
+      "answer": "8",
+      "explanation": "Risposta corretta: 8"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "1",
+        "16",
+        "17"
+      ],
+      "answer": "16",
+      "explanation": "Risposta corretta: 16"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "14",
+        "8",
+        "3"
+      ],
+      "answer": "14",
+      "explanation": "Risposta corretta: 14"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "5",
+        "14",
+        "20"
+      ],
+      "answer": "20",
+      "explanation": "Risposta corretta: 20"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "3",
+        "20",
+        "11"
+      ],
+      "answer": "20",
+      "explanation": "Risposta corretta: 20"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "13",
+        "2",
+        "15"
+      ],
+      "answer": "2",
+      "explanation": "Risposta corretta: 2"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "18",
+        "12",
+        "4"
+      ],
+      "answer": "12",
+      "explanation": "Risposta corretta: 12"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "16",
+        "11",
+        "12"
+      ],
+      "answer": "11",
+      "explanation": "Risposta corretta: 11"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "8",
+        "1",
+        "11"
+      ],
+      "answer": "11",
+      "explanation": "Risposta corretta: 11"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "16",
+        "15",
+        "8"
+      ],
+      "answer": "16",
+      "explanation": "Risposta corretta: 16"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "3",
+        "15",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "Risposta corretta: 3"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "5",
+        "19",
+        "4"
+      ],
+      "answer": "4",
+      "explanation": "Risposta corretta: 4"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "14",
+        "16",
+        "5"
+      ],
+      "answer": "14",
+      "explanation": "Risposta corretta: 14"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "11",
+        "10",
+        "19"
+      ],
+      "answer": "11",
+      "explanation": "Risposta corretta: 11"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "2",
+        "12",
+        "15"
+      ],
+      "answer": "15",
+      "explanation": "Risposta corretta: 15"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "4",
+        "10",
+        "19"
+      ],
+      "answer": "19",
+      "explanation": "Risposta corretta: 19"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "2",
+        "6",
+        "16"
+      ],
+      "answer": "16",
+      "explanation": "Risposta corretta: 16"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "12",
+        "20",
+        "8"
+      ],
+      "answer": "20",
+      "explanation": "Risposta corretta: 20"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "4",
+        "14",
+        "1"
+      ],
+      "answer": "1",
+      "explanation": "Risposta corretta: 1"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "8",
+        "16",
+        "20"
+      ],
+      "answer": "20",
+      "explanation": "Risposta corretta: 20"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "5",
+        "12",
+        "18"
+      ],
+      "answer": "18",
+      "explanation": "Risposta corretta: 18"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "6",
+        "17",
+        "15"
+      ],
+      "answer": "6",
+      "explanation": "Risposta corretta: 6"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "1",
+        "12",
+        "8"
+      ],
+      "answer": "8",
+      "explanation": "Risposta corretta: 8"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "14",
+        "2",
+        "16"
+      ],
+      "answer": "16",
+      "explanation": "Risposta corretta: 16"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "10",
+        "4",
+        "8"
+      ],
+      "answer": "8",
+      "explanation": "Risposta corretta: 8"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "13",
+        "15",
+        "3"
+      ],
+      "answer": "13",
+      "explanation": "Risposta corretta: 13"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "1",
+        "15",
+        "8"
+      ],
+      "answer": "1",
+      "explanation": "Risposta corretta: 1"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "17",
+        "19",
+        "11"
+      ],
+      "answer": "11",
+      "explanation": "Risposta corretta: 11"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "14",
+        "2",
+        "15"
+      ],
+      "answer": "2",
+      "explanation": "Risposta corretta: 2"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "15",
+        "1",
+        "20"
+      ],
+      "answer": "20",
+      "explanation": "Risposta corretta: 20"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "9",
+        "8",
+        "16"
+      ],
+      "answer": "9",
+      "explanation": "Risposta corretta: 9"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "2",
+        "18",
+        "3"
+      ],
+      "answer": "3",
+      "explanation": "Risposta corretta: 3"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "5",
+        "3",
+        "14"
+      ],
+      "answer": "5",
+      "explanation": "Risposta corretta: 5"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "13",
+        "4",
+        "14"
+      ],
+      "answer": "4",
+      "explanation": "Risposta corretta: 4"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "2",
+        "13",
+        "17"
+      ],
+      "answer": "2",
+      "explanation": "Risposta corretta: 2"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "1",
+        "12",
+        "9"
+      ],
+      "answer": "12",
+      "explanation": "Risposta corretta: 12"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "7",
+        "14",
+        "10"
+      ],
+      "answer": "10",
+      "explanation": "Risposta corretta: 10"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "8",
+        "7",
+        "4"
+      ],
+      "answer": "8",
+      "explanation": "Risposta corretta: 8"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "4",
+        "11",
+        "18"
+      ],
+      "answer": "18",
+      "explanation": "Risposta corretta: 18"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "16",
+        "9",
+        "18"
+      ],
+      "answer": "16",
+      "explanation": "Risposta corretta: 16"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "16",
+        "12",
+        "14"
+      ],
+      "answer": "16",
+      "explanation": "Risposta corretta: 16"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "9",
+        "3",
+        "12"
+      ],
+      "answer": "9",
+      "explanation": "Risposta corretta: 9"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "6",
+        "3",
+        "14"
+      ],
+      "answer": "14",
+      "explanation": "Risposta corretta: 14"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "5",
+        "12",
+        "3"
+      ],
+      "answer": "12",
+      "explanation": "Risposta corretta: 12"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "3",
+        "6",
+        "4"
+      ],
+      "answer": "3",
+      "explanation": "Risposta corretta: 3"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "20",
+        "17",
+        "10"
+      ],
+      "answer": "10",
+      "explanation": "Risposta corretta: 10"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "16",
+        "15",
+        "7"
+      ],
+      "answer": "15",
+      "explanation": "Risposta corretta: 15"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "10",
+        "4",
+        "5"
+      ],
+      "answer": "5",
+      "explanation": "Risposta corretta: 5"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "6",
+        "20",
+        "11"
+      ],
+      "answer": "6",
+      "explanation": "Risposta corretta: 6"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "8",
+        "2",
+        "16"
+      ],
+      "answer": "8",
+      "explanation": "Risposta corretta: 8"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "14",
+        "7",
+        "5"
+      ],
+      "answer": "7",
+      "explanation": "Risposta corretta: 7"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "2",
+        "8",
+        "13"
+      ],
+      "answer": "13",
+      "explanation": "Risposta corretta: 13"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "11",
+        "10",
+        "1"
+      ],
+      "answer": "1",
+      "explanation": "Risposta corretta: 1"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "15",
+        "16",
+        "3"
+      ],
+      "answer": "3",
+      "explanation": "Risposta corretta: 3"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "5",
+        "13",
+        "16"
+      ],
+      "answer": "13",
+      "explanation": "Risposta corretta: 13"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "12",
+        "18",
+        "13"
+      ],
+      "answer": "13",
+      "explanation": "Risposta corretta: 13"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "8",
+        "7",
+        "10"
+      ],
+      "answer": "10",
+      "explanation": "Risposta corretta: 10"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "8",
+        "4",
+        "1"
+      ],
+      "answer": "1",
+      "explanation": "Risposta corretta: 1"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "17",
+        "15",
+        "10"
+      ],
+      "answer": "10",
+      "explanation": "Risposta corretta: 10"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "8",
+        "18",
+        "4"
+      ],
+      "answer": "8",
+      "explanation": "Risposta corretta: 8"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "9",
+        "2",
+        "13"
+      ],
+      "answer": "9",
+      "explanation": "Risposta corretta: 9"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "11",
+        "18",
+        "17"
+      ],
+      "answer": "11",
+      "explanation": "Risposta corretta: 11"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "18",
+        "5",
+        "4"
+      ],
+      "answer": "4",
+      "explanation": "Risposta corretta: 4"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "10",
+        "8",
+        "15"
+      ],
+      "answer": "15",
+      "explanation": "Risposta corretta: 15"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "8",
+        "9",
+        "2"
+      ],
+      "answer": "9",
+      "explanation": "Risposta corretta: 9"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "11",
+        "17",
+        "20"
+      ],
+      "answer": "11",
+      "explanation": "Risposta corretta: 11"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "4",
+        "5",
+        "3"
+      ],
+      "answer": "4",
+      "explanation": "Risposta corretta: 4"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "11",
+        "14",
+        "8"
+      ],
+      "answer": "14",
+      "explanation": "Risposta corretta: 14"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "19",
+        "3",
+        "1"
+      ],
+      "answer": "3",
+      "explanation": "Risposta corretta: 3"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "2",
+        "18",
+        "9"
+      ],
+      "answer": "9",
+      "explanation": "Risposta corretta: 9"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "13",
+        "7",
+        "15"
+      ],
+      "answer": "15",
+      "explanation": "Risposta corretta: 15"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "4",
+        "15",
+        "11"
+      ],
+      "answer": "4",
+      "explanation": "Risposta corretta: 4"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "8",
+        "15",
+        "19"
+      ],
+      "answer": "19",
+      "explanation": "Risposta corretta: 19"
+    }
+  ]
+}

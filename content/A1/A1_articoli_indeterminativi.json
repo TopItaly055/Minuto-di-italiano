@@ -1,0 +1,1107 @@
+{
+  "level": "A1",
+  "topic_key": "articoli_indeterminativi",
+  "topic_name": "Articoli indeterminativi",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "una"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "una",
+        "un"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un",
+        "una"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "uno",
+        "un'"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "un'"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "uno"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "uno",
+        "una"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "una",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "un'"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "una",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un'",
+        "uno"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "una",
+        "un"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "una",
+        "uno"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un",
+        "un'"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un'",
+        "un"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "una"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "un",
+        "uno"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "una",
+        "un"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un'",
+        "un"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "un"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "una",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "un'",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un'",
+        "un"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "un'",
+        "uno"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "un",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un'",
+        "un"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "un",
+        "una"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un'",
+        "un"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "una",
+        "uno"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "una",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "una",
+        "un"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "una"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "una",
+        "un"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "uno",
+        "un'"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "una",
+        "un"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "uno",
+        "un'"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "una",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "uno",
+        "un'"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "un",
+        "uno"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "un",
+        "una"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "uno",
+        "una"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "uno"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un'",
+        "uno"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "una",
+        "un"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "uno",
+        "un'"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un",
+        "una"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "uno",
+        "un"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "una",
+        "un"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "un'"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un'",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "una"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "uno",
+        "un'"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "una",
+        "un'"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "un'",
+        "una"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "un"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "una",
+        "un'"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "un",
+        "una"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "uno"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "un",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "un'"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "una",
+        "un"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "una",
+        "uno"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un'",
+        "un"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "un"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "una",
+        "un"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "uno",
+        "un'"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "una"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un",
+        "un'"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "una",
+        "un"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un",
+        "una"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "un'",
+        "una"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un'",
+        "uno"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "uno",
+        "una"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un'",
+        "una"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "una",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "un'"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "un",
+        "uno"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "un'",
+        "una"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un",
+        "un'"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "una",
+        "un'",
+        "uno"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "uno",
+        "un'"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "un'",
+        "una"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "una"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "uno",
+        "un'"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "un"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un",
+        "una"
+      ],
+      "answer": "un",
+      "explanation": "Risposta corretta: un"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un'",
+        "una"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "una",
+        "un'"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un",
+        "una"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un'",
+        "un"
+      ],
+      "answer": "un'",
+      "explanation": "Risposta corretta: un'"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "un'",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "una"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "una",
+        "un"
+      ],
+      "answer": "una",
+      "explanation": "Risposta corretta: una"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "una",
+        "un'"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un",
+        "una",
+        "uno"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "un"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "uno",
+        "un",
+        "un'"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "un'",
+        "uno",
+        "una"
+      ],
+      "answer": "uno",
+      "explanation": "Risposta corretta: uno"
+    }
+  ]
+}

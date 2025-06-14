@@ -1,0 +1,1107 @@
+{
+  "level": "A1",
+  "topic_key": "aggettivi_qualificativi",
+  "topic_name": "Aggettivi qualificativi",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "bello",
+        "bella"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "nuovo",
+        "bella"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "bello",
+        "bella"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "piccolo",
+        "nuovo"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "grande",
+        "bella"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "bello",
+        "bella"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "piccolo",
+        "grande"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "piccolo",
+        "bella"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vecchio",
+        "piccolo",
+        "bella"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "grande",
+        "vecchio"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "grande",
+        "bello"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "piccolo",
+        "vecchio"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "bella",
+        "bello"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "nuovo",
+        "bella"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "vecchio",
+        "grande"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "grande",
+        "bella"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "nuovo",
+        "piccolo"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "bella",
+        "vecchio"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vecchio",
+        "bella",
+        "bello"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "piccolo",
+        "bella"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "vecchio",
+        "piccolo"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "grande",
+        "vecchio"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "vecchio",
+        "piccolo"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "nuovo",
+        "bello"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "grande",
+        "piccolo"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "piccolo",
+        "grande"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "nuovo",
+        "vecchio"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "nuovo",
+        "bello"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "bella",
+        "piccolo"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "piccolo",
+        "bello"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "grande",
+        "nuovo"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "bello",
+        "bella"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "vecchio",
+        "bella"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "bello",
+        "vecchio"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "piccolo",
+        "vecchio"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "bella",
+        "bello"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "nuovo",
+        "bello"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "piccolo",
+        "bella"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "vecchio",
+        "nuovo"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "vecchio",
+        "bello"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vecchio",
+        "bella",
+        "piccolo"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vecchio",
+        "piccolo",
+        "bella"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vecchio",
+        "piccolo",
+        "bella"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "nuovo",
+        "vecchio"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "grande",
+        "bello"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "vecchio",
+        "bella"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "vecchio",
+        "nuovo"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "bello",
+        "piccolo"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "vecchio",
+        "bello"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "bello",
+        "piccolo"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "nuovo",
+        "piccolo"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "grande",
+        "piccolo"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "grande",
+        "bello"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "vecchio",
+        "piccolo"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "piccolo",
+        "grande"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "grande",
+        "bella"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "grande",
+        "piccolo"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "nuovo",
+        "grande"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "vecchio",
+        "bello"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "grande",
+        "vecchio"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "vecchio",
+        "nuovo"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "nuovo",
+        "grande"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "bella",
+        "grande"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "nuovo",
+        "grande"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "piccolo",
+        "vecchio"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "grande",
+        "nuovo"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "nuovo",
+        "grande"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "vecchio",
+        "nuovo"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "vecchio",
+        "nuovo"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "nuovo",
+        "vecchio"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "bella",
+        "vecchio"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "bella",
+        "bello"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "grande",
+        "nuovo"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vecchio",
+        "grande",
+        "bella"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "piccolo",
+        "nuovo"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "nuovo",
+        "bello"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "piccolo",
+        "nuovo"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "vecchio",
+        "bella"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "piccolo",
+        "bello"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vecchio",
+        "grande",
+        "nuovo"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "vecchio",
+        "grande"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "grande",
+        "nuovo"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "vecchio",
+        "bella"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "nuovo",
+        "bello"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "bella",
+        "bello"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bella",
+        "nuovo",
+        "piccolo"
+      ],
+      "answer": "bella",
+      "explanation": "Risposta corretta: bella"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "nuovo",
+        "bello"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "bello",
+        "grande"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "vecchio",
+        "piccolo"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "bella",
+        "vecchio"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "piccolo",
+        "vecchio",
+        "nuovo"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "piccolo",
+        "vecchio"
+      ],
+      "answer": "vecchio",
+      "explanation": "Risposta corretta: vecchio"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "bello",
+        "vecchio"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "piccolo",
+        "bella"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "vecchio",
+        "piccolo"
+      ],
+      "answer": "grande",
+      "explanation": "Risposta corretta: grande"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "vecchio",
+        "nuovo"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vecchio",
+        "nuovo",
+        "grande"
+      ],
+      "answer": "nuovo",
+      "explanation": "Risposta corretta: nuovo"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nuovo",
+        "bello",
+        "bella"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "grande",
+        "piccolo",
+        "bello"
+      ],
+      "answer": "bello",
+      "explanation": "Risposta corretta: bello"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "bello",
+        "piccolo",
+        "grande"
+      ],
+      "answer": "piccolo",
+      "explanation": "Risposta corretta: piccolo"
+    }
+  ]
+}

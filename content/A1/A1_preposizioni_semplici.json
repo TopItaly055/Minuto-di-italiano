@@ -1,0 +1,1107 @@
+{
+  "level": "A1",
+  "topic_key": "preposizioni_semplici",
+  "topic_name": "Preposizioni semplici",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "con",
+        "di",
+        "fra"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "su",
+        "fra"
+      ],
+      "answer": "per",
+      "explanation": "Risposta corretta: per"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "tra",
+        "con"
+      ],
+      "answer": "tra",
+      "explanation": "Risposta corretta: tra"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "tra",
+        "a"
+      ],
+      "answer": "a",
+      "explanation": "Risposta corretta: a"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "per",
+        "da"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "tra",
+        "a"
+      ],
+      "answer": "a",
+      "explanation": "Risposta corretta: a"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "in",
+        "da"
+      ],
+      "answer": "per",
+      "explanation": "Risposta corretta: per"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "con",
+        "su",
+        "a"
+      ],
+      "answer": "a",
+      "explanation": "Risposta corretta: a"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "con",
+        "su"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "fra",
+        "a",
+        "per"
+      ],
+      "answer": "a",
+      "explanation": "Risposta corretta: a"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "in",
+        "tra",
+        "fra"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "da",
+        "tra"
+      ],
+      "answer": "tra",
+      "explanation": "Risposta corretta: tra"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "con",
+        "per"
+      ],
+      "answer": "per",
+      "explanation": "Risposta corretta: per"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "da",
+        "con"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "per",
+        "da"
+      ],
+      "answer": "di",
+      "explanation": "Risposta corretta: di"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "su",
+        "per"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "a",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "con",
+        "fra"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "in",
+        "tra",
+        "a"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "su",
+        "tra",
+        "in"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "in",
+        "da",
+        "con"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "fra",
+        "da"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "in",
+        "di",
+        "con"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "con",
+        "su",
+        "da"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "con",
+        "a",
+        "in"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "con",
+        "a"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "da",
+        "fra"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "fra",
+        "su",
+        "per"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "con",
+        "in"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "su",
+        "fra"
+      ],
+      "answer": "tra",
+      "explanation": "Risposta corretta: tra"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "fra",
+        "in",
+        "da"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "di",
+        "da"
+      ],
+      "answer": "di",
+      "explanation": "Risposta corretta: di"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "su",
+        "fra"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "di",
+        "su"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "a",
+        "su"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "fra",
+        "su",
+        "con"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "su",
+        "a",
+        "per"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "su",
+        "tra",
+        "per"
+      ],
+      "answer": "per",
+      "explanation": "Risposta corretta: per"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "per",
+        "con"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "con",
+        "tra",
+        "a"
+      ],
+      "answer": "tra",
+      "explanation": "Risposta corretta: tra"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "da",
+        "per"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "con",
+        "fra",
+        "tra"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "per",
+        "a"
+      ],
+      "answer": "di",
+      "explanation": "Risposta corretta: di"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "con",
+        "a"
+      ],
+      "answer": "per",
+      "explanation": "Risposta corretta: per"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "con",
+        "su"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "di",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "in",
+        "tra"
+      ],
+      "answer": "tra",
+      "explanation": "Risposta corretta: tra"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "per",
+        "in"
+      ],
+      "answer": "per",
+      "explanation": "Risposta corretta: per"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "tra",
+        "a"
+      ],
+      "answer": "tra",
+      "explanation": "Risposta corretta: tra"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "su",
+        "in"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "di",
+        "per"
+      ],
+      "answer": "di",
+      "explanation": "Risposta corretta: di"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "con",
+        "tra"
+      ],
+      "answer": "tra",
+      "explanation": "Risposta corretta: tra"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "per",
+        "con"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "fra",
+        "su"
+      ],
+      "answer": "di",
+      "explanation": "Risposta corretta: di"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "su",
+        "in",
+        "da"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "fra",
+        "con"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "in",
+        "tra"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "con",
+        "fra"
+      ],
+      "answer": "tra",
+      "explanation": "Risposta corretta: tra"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "in",
+        "di",
+        "da"
+      ],
+      "answer": "di",
+      "explanation": "Risposta corretta: di"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "a",
+        "fra"
+      ],
+      "answer": "fra",
+      "explanation": "Risposta corretta: fra"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "in",
+        "a",
+        "da"
+      ],
+      "answer": "a",
+      "explanation": "Risposta corretta: a"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "su",
+        "tra",
+        "di"
+      ],
+      "answer": "di",
+      "explanation": "Risposta corretta: di"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "da",
+        "con"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "fra",
+        "con"
+      ],
+      "answer": "per",
+      "explanation": "Risposta corretta: per"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "di",
+        "tra"
+      ],
+      "answer": "di",
+      "explanation": "Risposta corretta: di"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "su",
+        "fra",
+        "da"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "in",
+        "su"
+      ],
+      "answer": "per",
+      "explanation": "Risposta corretta: per"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "a",
+        "di"
+      ],
+      "answer": "a",
+      "explanation": "Risposta corretta: a"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "fra",
+        "per"
+      ],
+      "answer": "a",
+      "explanation": "Risposta corretta: a"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "fra",
+        "con"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "da",
+        "di"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "per",
+        "tra"
+      ],
+      "answer": "per",
+      "explanation": "Risposta corretta: per"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "con",
+        "per",
+        "su"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "su",
+        "di",
+        "in"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "fra",
+        "da",
+        "a"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "con",
+        "a"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "tra",
+        "fra"
+      ],
+      "answer": "per",
+      "explanation": "Risposta corretta: per"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "fra",
+        "a"
+      ],
+      "answer": "a",
+      "explanation": "Risposta corretta: a"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "in",
+        "su",
+        "di"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "su",
+        "in"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "su",
+        "in"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "con",
+        "tra",
+        "da"
+      ],
+      "answer": "tra",
+      "explanation": "Risposta corretta: tra"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "su",
+        "in"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "su",
+        "con"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "in",
+        "fra"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "con",
+        "da",
+        "di"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "a",
+        "su"
+      ],
+      "answer": "a",
+      "explanation": "Risposta corretta: a"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "su",
+        "in",
+        "per"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "da",
+        "tra",
+        "di"
+      ],
+      "answer": "da",
+      "explanation": "Risposta corretta: da"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "su",
+        "per",
+        "in"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "su",
+        "da"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "fra",
+        "in",
+        "con"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tra",
+        "su",
+        "da"
+      ],
+      "answer": "tra",
+      "explanation": "Risposta corretta: tra"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "in",
+        "con",
+        "su"
+      ],
+      "answer": "in",
+      "explanation": "Risposta corretta: in"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "di",
+        "in",
+        "su"
+      ],
+      "answer": "su",
+      "explanation": "Risposta corretta: su"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "fra",
+        "in",
+        "a"
+      ],
+      "answer": "fra",
+      "explanation": "Risposta corretta: fra"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "per",
+        "con",
+        "da"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "in",
+        "con",
+        "fra"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "con",
+        "per",
+        "di"
+      ],
+      "answer": "di",
+      "explanation": "Risposta corretta: di"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "a",
+        "con",
+        "in"
+      ],
+      "answer": "con",
+      "explanation": "Risposta corretta: con"
+    }
+  ]
+}

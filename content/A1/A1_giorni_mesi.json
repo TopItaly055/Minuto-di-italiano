@@ -1,0 +1,1107 @@
+{
+  "level": "A1",
+  "topic_key": "giorni_mesi",
+  "topic_name": "Giorni della settimana e mesi",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dicembre",
+        "domenica",
+        "giovedì"
+      ],
+      "answer": "dicembre",
+      "explanation": "Risposta corretta: dicembre"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sabato",
+        "settembre",
+        "agosto"
+      ],
+      "answer": "settembre",
+      "explanation": "Risposta corretta: settembre"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "settembre",
+        "marzo",
+        "novembre"
+      ],
+      "answer": "novembre",
+      "explanation": "Risposta corretta: novembre"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "maggio",
+        "sabato",
+        "febbraio"
+      ],
+      "answer": "febbraio",
+      "explanation": "Risposta corretta: febbraio"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "giugno",
+        "marzo"
+      ],
+      "answer": "marzo",
+      "explanation": "Risposta corretta: marzo"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "dicembre",
+        "aprile"
+      ],
+      "answer": "aprile",
+      "explanation": "Risposta corretta: aprile"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "domenica",
+        "febbraio",
+        "dicembre"
+      ],
+      "answer": "domenica",
+      "explanation": "Risposta corretta: domenica"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "marzo",
+        "giugno",
+        "aprile"
+      ],
+      "answer": "aprile",
+      "explanation": "Risposta corretta: aprile"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giugno",
+        "dicembre",
+        "sabato"
+      ],
+      "answer": "dicembre",
+      "explanation": "Risposta corretta: dicembre"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "luglio",
+        "febbraio"
+      ],
+      "answer": "febbraio",
+      "explanation": "Risposta corretta: febbraio"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dicembre",
+        "aprile",
+        "gennaio"
+      ],
+      "answer": "aprile",
+      "explanation": "Risposta corretta: aprile"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dicembre",
+        "lunedì",
+        "gennaio"
+      ],
+      "answer": "gennaio",
+      "explanation": "Risposta corretta: gennaio"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "settembre",
+        "febbraio",
+        "mercoledì"
+      ],
+      "answer": "settembre",
+      "explanation": "Risposta corretta: settembre"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "domenica",
+        "venerdì",
+        "maggio"
+      ],
+      "answer": "domenica",
+      "explanation": "Risposta corretta: domenica"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mercoledì",
+        "giugno",
+        "settembre"
+      ],
+      "answer": "settembre",
+      "explanation": "Risposta corretta: settembre"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "marzo",
+        "ottobre",
+        "agosto"
+      ],
+      "answer": "ottobre",
+      "explanation": "Risposta corretta: ottobre"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "agosto",
+        "mercoledì",
+        "martedì"
+      ],
+      "answer": "mercoledì",
+      "explanation": "Risposta corretta: mercoledì"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "novembre",
+        "domenica",
+        "marzo"
+      ],
+      "answer": "novembre",
+      "explanation": "Risposta corretta: novembre"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gennaio",
+        "sabato",
+        "martedì"
+      ],
+      "answer": "sabato",
+      "explanation": "Risposta corretta: sabato"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "settembre",
+        "maggio",
+        "ottobre"
+      ],
+      "answer": "settembre",
+      "explanation": "Risposta corretta: settembre"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "maggio",
+        "agosto",
+        "giovedì"
+      ],
+      "answer": "maggio",
+      "explanation": "Risposta corretta: maggio"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lunedì",
+        "gennaio",
+        "aprile"
+      ],
+      "answer": "lunedì",
+      "explanation": "Risposta corretta: lunedì"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lunedì",
+        "domenica",
+        "sabato"
+      ],
+      "answer": "lunedì",
+      "explanation": "Risposta corretta: lunedì"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "settembre",
+        "sabato",
+        "novembre"
+      ],
+      "answer": "sabato",
+      "explanation": "Risposta corretta: sabato"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "novembre",
+        "gennaio",
+        "ottobre"
+      ],
+      "answer": "novembre",
+      "explanation": "Risposta corretta: novembre"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "aprile",
+        "martedì",
+        "ottobre"
+      ],
+      "answer": "martedì",
+      "explanation": "Risposta corretta: martedì"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "mercoledì",
+        "settembre"
+      ],
+      "answer": "settembre",
+      "explanation": "Risposta corretta: settembre"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "febbraio",
+        "luglio",
+        "martedì"
+      ],
+      "answer": "martedì",
+      "explanation": "Risposta corretta: martedì"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "domenica",
+        "luglio",
+        "settembre"
+      ],
+      "answer": "settembre",
+      "explanation": "Risposta corretta: settembre"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "giugno",
+        "sabato"
+      ],
+      "answer": "giugno",
+      "explanation": "Risposta corretta: giugno"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lunedì",
+        "maggio",
+        "febbraio"
+      ],
+      "answer": "febbraio",
+      "explanation": "Risposta corretta: febbraio"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "maggio",
+        "febbraio",
+        "settembre"
+      ],
+      "answer": "febbraio",
+      "explanation": "Risposta corretta: febbraio"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lunedì",
+        "mercoledì",
+        "aprile"
+      ],
+      "answer": "lunedì",
+      "explanation": "Risposta corretta: lunedì"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "aprile",
+        "dicembre",
+        "agosto"
+      ],
+      "answer": "dicembre",
+      "explanation": "Risposta corretta: dicembre"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "marzo",
+        "domenica",
+        "aprile"
+      ],
+      "answer": "marzo",
+      "explanation": "Risposta corretta: marzo"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gennaio",
+        "lunedì",
+        "aprile"
+      ],
+      "answer": "aprile",
+      "explanation": "Risposta corretta: aprile"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dicembre",
+        "venerdì",
+        "luglio"
+      ],
+      "answer": "venerdì",
+      "explanation": "Risposta corretta: venerdì"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mercoledì",
+        "luglio",
+        "settembre"
+      ],
+      "answer": "settembre",
+      "explanation": "Risposta corretta: settembre"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giugno",
+        "giovedì",
+        "dicembre"
+      ],
+      "answer": "giugno",
+      "explanation": "Risposta corretta: giugno"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "aprile",
+        "giovedì",
+        "agosto"
+      ],
+      "answer": "aprile",
+      "explanation": "Risposta corretta: aprile"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giugno",
+        "giovedì",
+        "domenica"
+      ],
+      "answer": "giugno",
+      "explanation": "Risposta corretta: giugno"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giugno",
+        "domenica",
+        "agosto"
+      ],
+      "answer": "domenica",
+      "explanation": "Risposta corretta: domenica"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mercoledì",
+        "lunedì",
+        "aprile"
+      ],
+      "answer": "aprile",
+      "explanation": "Risposta corretta: aprile"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sabato",
+        "giugno",
+        "lunedì"
+      ],
+      "answer": "giugno",
+      "explanation": "Risposta corretta: giugno"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lunedì",
+        "maggio",
+        "venerdì"
+      ],
+      "answer": "maggio",
+      "explanation": "Risposta corretta: maggio"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dicembre",
+        "giugno",
+        "maggio"
+      ],
+      "answer": "maggio",
+      "explanation": "Risposta corretta: maggio"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gennaio",
+        "sabato",
+        "mercoledì"
+      ],
+      "answer": "sabato",
+      "explanation": "Risposta corretta: sabato"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "domenica",
+        "venerdì",
+        "martedì"
+      ],
+      "answer": "domenica",
+      "explanation": "Risposta corretta: domenica"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sabato",
+        "venerdì",
+        "lunedì"
+      ],
+      "answer": "lunedì",
+      "explanation": "Risposta corretta: lunedì"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "martedì",
+        "giovedì",
+        "novembre"
+      ],
+      "answer": "martedì",
+      "explanation": "Risposta corretta: martedì"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "martedì",
+        "sabato",
+        "mercoledì"
+      ],
+      "answer": "martedì",
+      "explanation": "Risposta corretta: martedì"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "agosto",
+        "sabato",
+        "martedì"
+      ],
+      "answer": "agosto",
+      "explanation": "Risposta corretta: agosto"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giugno",
+        "luglio",
+        "giovedì"
+      ],
+      "answer": "giugno",
+      "explanation": "Risposta corretta: giugno"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "luglio",
+        "venerdì",
+        "lunedì"
+      ],
+      "answer": "luglio",
+      "explanation": "Risposta corretta: luglio"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gennaio",
+        "novembre",
+        "giugno"
+      ],
+      "answer": "giugno",
+      "explanation": "Risposta corretta: giugno"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "domenica",
+        "mercoledì",
+        "febbraio"
+      ],
+      "answer": "mercoledì",
+      "explanation": "Risposta corretta: mercoledì"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "luglio",
+        "novembre",
+        "martedì"
+      ],
+      "answer": "martedì",
+      "explanation": "Risposta corretta: martedì"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "martedì",
+        "maggio",
+        "sabato"
+      ],
+      "answer": "martedì",
+      "explanation": "Risposta corretta: martedì"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "dicembre",
+        "giugno"
+      ],
+      "answer": "giugno",
+      "explanation": "Risposta corretta: giugno"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "luglio",
+        "lunedì",
+        "dicembre"
+      ],
+      "answer": "luglio",
+      "explanation": "Risposta corretta: luglio"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "luglio",
+        "maggio",
+        "giovedì"
+      ],
+      "answer": "maggio",
+      "explanation": "Risposta corretta: maggio"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "settembre",
+        "dicembre",
+        "giugno"
+      ],
+      "answer": "dicembre",
+      "explanation": "Risposta corretta: dicembre"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sabato",
+        "lunedì",
+        "dicembre"
+      ],
+      "answer": "sabato",
+      "explanation": "Risposta corretta: sabato"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "maggio",
+        "ottobre",
+        "giugno"
+      ],
+      "answer": "maggio",
+      "explanation": "Risposta corretta: maggio"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lunedì",
+        "sabato",
+        "giovedì"
+      ],
+      "answer": "sabato",
+      "explanation": "Risposta corretta: sabato"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "martedì",
+        "mercoledì"
+      ],
+      "answer": "giovedì",
+      "explanation": "Risposta corretta: giovedì"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "settembre",
+        "giugno"
+      ],
+      "answer": "giugno",
+      "explanation": "Risposta corretta: giugno"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mercoledì",
+        "maggio",
+        "lunedì"
+      ],
+      "answer": "lunedì",
+      "explanation": "Risposta corretta: lunedì"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gennaio",
+        "febbraio",
+        "giovedì"
+      ],
+      "answer": "febbraio",
+      "explanation": "Risposta corretta: febbraio"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lunedì",
+        "dicembre",
+        "giovedì"
+      ],
+      "answer": "dicembre",
+      "explanation": "Risposta corretta: dicembre"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "febbraio",
+        "giovedì",
+        "maggio"
+      ],
+      "answer": "giovedì",
+      "explanation": "Risposta corretta: giovedì"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gennaio",
+        "lunedì",
+        "ottobre"
+      ],
+      "answer": "lunedì",
+      "explanation": "Risposta corretta: lunedì"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lunedì",
+        "giugno",
+        "giovedì"
+      ],
+      "answer": "lunedì",
+      "explanation": "Risposta corretta: lunedì"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "marzo",
+        "luglio"
+      ],
+      "answer": "luglio",
+      "explanation": "Risposta corretta: luglio"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gennaio",
+        "settembre",
+        "novembre"
+      ],
+      "answer": "novembre",
+      "explanation": "Risposta corretta: novembre"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "settembre",
+        "giugno",
+        "agosto"
+      ],
+      "answer": "settembre",
+      "explanation": "Risposta corretta: settembre"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "domenica",
+        "ottobre",
+        "novembre"
+      ],
+      "answer": "domenica",
+      "explanation": "Risposta corretta: domenica"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "aprile",
+        "luglio"
+      ],
+      "answer": "giovedì",
+      "explanation": "Risposta corretta: giovedì"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "venerdì",
+        "sabato",
+        "marzo"
+      ],
+      "answer": "marzo",
+      "explanation": "Risposta corretta: marzo"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "aprile",
+        "novembre",
+        "venerdì"
+      ],
+      "answer": "aprile",
+      "explanation": "Risposta corretta: aprile"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "febbraio",
+        "maggio",
+        "martedì"
+      ],
+      "answer": "maggio",
+      "explanation": "Risposta corretta: maggio"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giugno",
+        "sabato",
+        "lunedì"
+      ],
+      "answer": "giugno",
+      "explanation": "Risposta corretta: giugno"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "febbraio",
+        "martedì",
+        "lunedì"
+      ],
+      "answer": "martedì",
+      "explanation": "Risposta corretta: martedì"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "giovedì",
+        "novembre",
+        "lunedì"
+      ],
+      "answer": "giovedì",
+      "explanation": "Risposta corretta: giovedì"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "marzo",
+        "aprile",
+        "novembre"
+      ],
+      "answer": "aprile",
+      "explanation": "Risposta corretta: aprile"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lunedì",
+        "novembre",
+        "agosto"
+      ],
+      "answer": "novembre",
+      "explanation": "Risposta corretta: novembre"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "venerdì",
+        "domenica",
+        "giugno"
+      ],
+      "answer": "domenica",
+      "explanation": "Risposta corretta: domenica"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "domenica",
+        "martedì",
+        "ottobre"
+      ],
+      "answer": "domenica",
+      "explanation": "Risposta corretta: domenica"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "settembre",
+        "lunedì",
+        "aprile"
+      ],
+      "answer": "settembre",
+      "explanation": "Risposta corretta: settembre"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "martedì",
+        "agosto",
+        "aprile"
+      ],
+      "answer": "agosto",
+      "explanation": "Risposta corretta: agosto"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sabato",
+        "venerdì",
+        "dicembre"
+      ],
+      "answer": "dicembre",
+      "explanation": "Risposta corretta: dicembre"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "luglio",
+        "domenica",
+        "gennaio"
+      ],
+      "answer": "luglio",
+      "explanation": "Risposta corretta: luglio"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "domenica",
+        "aprile",
+        "luglio"
+      ],
+      "answer": "luglio",
+      "explanation": "Risposta corretta: luglio"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "martedì",
+        "lunedì",
+        "maggio"
+      ],
+      "answer": "maggio",
+      "explanation": "Risposta corretta: maggio"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "martedì",
+        "maggio",
+        "ottobre"
+      ],
+      "answer": "ottobre",
+      "explanation": "Risposta corretta: ottobre"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "martedì",
+        "febbraio",
+        "marzo"
+      ],
+      "answer": "martedì",
+      "explanation": "Risposta corretta: martedì"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lunedì",
+        "ottobre",
+        "aprile"
+      ],
+      "answer": "aprile",
+      "explanation": "Risposta corretta: aprile"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "domenica",
+        "maggio",
+        "sabato"
+      ],
+      "answer": "domenica",
+      "explanation": "Risposta corretta: domenica"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "marzo",
+        "novembre",
+        "luglio"
+      ],
+      "answer": "marzo",
+      "explanation": "Risposta corretta: marzo"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "novembre",
+        "gennaio",
+        "domenica"
+      ],
+      "answer": "gennaio",
+      "explanation": "Risposta corretta: gennaio"
+    }
+  ]
+}

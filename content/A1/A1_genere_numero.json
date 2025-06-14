@@ -1,0 +1,1107 @@
+{
+  "level": "A1",
+  "topic_key": "genere_numero",
+  "topic_name": "Genere e numero dei nomi",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazzo",
+        "libri"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "ragazzo",
+        "libri"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "studenti",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "ragazza",
+        "ragazzo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "studenti",
+        "ragazza"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "ragazza",
+        "libri"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "ragazzo",
+        "case"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "case",
+        "studenti"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "libri",
+        "case"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazzo",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "ragazza",
+        "ragazzo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "case",
+        "ragazza"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "case",
+        "ragazzo"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "ragazzo",
+        "ragazza"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "ragazza",
+        "libri"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "studenti",
+        "ragazzo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "libri",
+        "ragazzo"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "libri",
+        "ragazzo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazza",
+        "libri"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "ragazzo",
+        "libri"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "ragazza",
+        "studenti"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "libri",
+        "ragazzo"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazza",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "studenti",
+        "ragazzo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "case",
+        "libri"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "ragazzo",
+        "ragazza"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "case",
+        "ragazza"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "ragazzo",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "case",
+        "ragazza"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "studenti",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazzo",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "ragazzo",
+        "case"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "case",
+        "ragazzo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "studenti",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "case",
+        "studenti"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "libri",
+        "ragazza"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "ragazza",
+        "case"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "case",
+        "ragazzo"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "studenti",
+        "ragazza"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "studenti",
+        "ragazzo"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazza",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "libri",
+        "studenti"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "ragazza",
+        "studenti"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "case",
+        "ragazza"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "case",
+        "studenti"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "studenti",
+        "case"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "libri",
+        "case"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "case",
+        "studenti"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "case",
+        "studenti"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "case",
+        "libri"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "studenti",
+        "case"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "case",
+        "studenti"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "libri",
+        "ragazza"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "libri",
+        "ragazza"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "libri",
+        "ragazzo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "ragazzo",
+        "libri"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "studenti",
+        "ragazzo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "studenti",
+        "ragazza"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "case",
+        "ragazzo"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "studenti",
+        "ragazzo"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "ragazza",
+        "case"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "case",
+        "studenti"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "studenti",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "ragazza",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "studenti",
+        "case"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazzo",
+        "libri"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "libri",
+        "ragazza"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "ragazza",
+        "studenti"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "ragazza",
+        "ragazzo"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "studenti",
+        "libri"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "libri",
+        "studenti"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazzo",
+        "ragazza"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "ragazza",
+        "ragazzo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazza",
+        "libri"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "libri",
+        "ragazzo"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "case",
+        "ragazzo"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "studenti",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "studenti",
+        "ragazza"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "libri",
+        "ragazzo",
+        "studenti"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazzo",
+        "ragazza"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "ragazzo",
+        "libri"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "studenti",
+        "ragazzo"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "libri",
+        "case"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "case",
+        "studenti"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "case",
+        "libri"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "case",
+        "studenti"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "studenti",
+        "libri"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "ragazzo",
+        "case"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "studenti",
+        "libri"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "ragazza",
+        "libri"
+      ],
+      "answer": "ragazza",
+      "explanation": "Risposta corretta: ragazza"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "libri",
+        "ragazzo"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazzo",
+        "studenti",
+        "libri"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "ragazzo",
+        "libri"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Risposta corretta: ragazzo"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "case",
+        "ragazzo"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "libri",
+        "case"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ragazza",
+        "libri",
+        "studenti"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "studenti",
+        "libri"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "studenti",
+        "libri",
+        "case"
+      ],
+      "answer": "studenti",
+      "explanation": "Risposta corretta: studenti"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "ragazza",
+        "ragazzo"
+      ],
+      "answer": "case",
+      "explanation": "Risposta corretta: case"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "case",
+        "libri",
+        "studenti"
+      ],
+      "answer": "libri",
+      "explanation": "Risposta corretta: libri"
+    }
+  ]
+}

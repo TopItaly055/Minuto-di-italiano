@@ -1,0 +1,1107 @@
+{
+  "level": "A1",
+  "topic_key": "verbo_essere",
+  "topic_name": "Verbo essere",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "sei",
+        "siamo"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sono",
+        "siete"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "è",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "siete",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siete",
+        "sono"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "sei",
+        "siamo"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "è",
+        "siete"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sono",
+        "sei"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "è",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "è",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "sono",
+        "sei"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "siamo",
+        "sono"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sono",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "siete",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "siamo",
+        "è"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "siamo",
+        "sono"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "sono",
+        "siete"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sono",
+        "sei"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "sono",
+        "è"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siete",
+        "siamo"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "sono",
+        "siamo"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "sono",
+        "siamo"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "sono",
+        "è"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "siete",
+        "siamo"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "sono",
+        "siamo"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "sono",
+        "siamo"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "sono",
+        "sei"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "sono",
+        "sono"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "siete",
+        "sono"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "è",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "sono",
+        "siamo"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "siete",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siete",
+        "sei"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "siete",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siamo",
+        "è"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siete",
+        "è"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siamo",
+        "sei"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "siete",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "sono",
+        "siete"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siamo",
+        "sei"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "siete",
+        "sono"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "è",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "è",
+        "sei"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "siete",
+        "siamo"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sei",
+        "siete"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "sono",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "sei",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siamo",
+        "siete"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sei",
+        "sono"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sono",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siamo",
+        "siete"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "siamo",
+        "sei"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "è",
+        "siete"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "sono",
+        "siamo"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "è",
+        "sono"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "è",
+        "siamo"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "siete",
+        "è"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "è",
+        "siamo"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siamo",
+        "sei"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siamo",
+        "sei"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "sei",
+        "è"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siete",
+        "sei"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "è",
+        "siamo"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "sono",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siete",
+        "siamo"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siete",
+        "sei"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "sono",
+        "siamo"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "siete",
+        "sono"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "siete",
+        "sei"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "sei",
+        "siete"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "sono",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "sono",
+        "è"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "sei",
+        "siete"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "sono",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sei",
+        "siete"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "è",
+        "siete"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siamo",
+        "sei"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sei",
+        "sono"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sei",
+        "siete"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "siete",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "è",
+        "siamo"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "sei",
+        "siete"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "sei",
+        "sono"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "siete",
+        "sono"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "sono",
+        "è"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "siete",
+        "è"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "sei",
+        "sono"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "è",
+        "sono"
+      ],
+      "answer": "siete",
+      "explanation": "Risposta corretta: siete"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siamo",
+        "sei"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sei",
+        "sono",
+        "siamo"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "è",
+        "sono"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "è",
+        "siamo"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siamo",
+        "sei"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "siete",
+        "sei"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siete",
+        "è",
+        "siamo"
+      ],
+      "answer": "è",
+      "explanation": "Risposta corretta: è"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "sei",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "è",
+        "siamo",
+        "sono"
+      ],
+      "answer": "siamo",
+      "explanation": "Risposta corretta: siamo"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sono",
+        "siete"
+      ],
+      "answer": "sono",
+      "explanation": "Risposta corretta: sono"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sono",
+        "sei",
+        "siete"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "siamo",
+        "sei",
+        "sono"
+      ],
+      "answer": "sei",
+      "explanation": "Risposta corretta: sei"
+    }
+  ]
+}
