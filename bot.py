@@ -1,7 +1,12 @@
 import os
 import json
 import logging
-from telegram import Update, ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
+from telegram import (
+    Update,
+    ReplyKeyboardMarkup,
+    InlineKeyboardMarkup,
+    InlineKeyboardButton,
+)
 from telegram.ext import (
     ApplicationBuilder,
     ContextTypes,
@@ -20,7 +25,7 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-# Token бота из переменных окружения
+# Токен бота из переменных окружения
 TOKEN = os.getenv("BOT_TOKEN")
 
 # Состояния ConversationHandler
@@ -42,18 +47,15 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Запуск выбора уровня."""
-    keyboard = [
-        [InlineKeyboardButton(level, callback_data=f"level|{level}")]
-        for level in LEVELS
-    ]
+    buttons = [[InlineKeyboardButton(lvl, callback_data=f"level|{lvl}")] for lvl in LEVELS]
     await update.message.reply_text(
-        "Выберите ваш уровень:",
-        reply_markup=InlineKeyboardMarkup(keyboard),
+        "Выберите уровень:",
+        reply_markup=InlineKeyboardMarkup(buttons),
     )
     return STATE_LEVEL
 
 async def on_level_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Обработчик выбора уровня; показывает доступные темы."""
+    """Показываем темы выбранного уровня."""
     query = update.callback_query
     await query.answer()
     _, level = query.data.split("|", 1)
@@ -61,108 +63,111 @@ async def on_level_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     folder = os.path.join("content", level)
     if not os.path.isdir(folder):
-        await query.edit_message_text(f"❌ Для уровня {level} не найдено упражнений.")
-        return ConversationHandler.END
+        await query.edit_message_text(f"❌ Нет папки content/{level} с упражнениями.")
+        return STATE_LEVEL
 
-    files = sorted(f for f in os.listdir(folder) if f.endswith(".json"))
+    files = [f for f in sorted(os.listdir(folder)) if f.endswith(".json")]
     if not files:
-        await query.edit_message_text(f"❌ Для уровня {level} нет тем.")
-        return ConversationHandler.END
+        await query.edit_message_text(f"❌ В папке content/{level} нет JSON-файлов.")
+        return STATE_LEVEL
 
-    keyboard = []
+    buttons = []
     for fname in files:
-        key = fname[:-5]  # убрать .json
+        path = os.path.join(folder, fname)
         try:
-            data = json.load(open(os.path.join(folder, fname), encoding="utf-8"))
-            name = data.get("topic_name", key)
+            data = json.load(open(path, encoding="utf-8"))
+            name = data.get("topic_name", fname[:-5])
         except Exception as e:
-            logging.error(f"Ошибка загрузки {fname}: {e}")
+            logging.error(f"Не смог загрузить {path}: {e}")
             continue
-        keyboard.append([InlineKeyboardButton(name, callback_data=f"topic|{key}")])
+        buttons.append([InlineKeyboardButton(name, callback_data=f"topic|{fname}")])
+
+    if not buttons:
+        await query.edit_message_text("❌ Не удалось найти ни одной корректной темы.")
+        return STATE_LEVEL
 
     await query.edit_message_text(
-        f"Уровень *{level}* выбран.\nТеперь выберите тему:",
+        f"Уровень *{level}* выбран.\nВыберите тему:",
         parse_mode="Markdown",
-        reply_markup=InlineKeyboardMarkup(keyboard),
+        reply_markup=InlineKeyboardMarkup(buttons),
     )
     return STATE_TOPIC
 
 async def on_topic_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Обработчик выбора темы; загружает упражнения и задаёт первый вопрос."""
+    """Загружаем упражнения и показываем первое."""
     query = update.callback_query
     await query.answer()
-    topic_key = query.data.split("|", 1)[1]
-    level = context.user_data["level"]
-    path = os.path.join("content", level, f"{level}_{topic_key}.json")
+    topic_file = query.data.split("|", 1)[1]
+    level = context.user_data.get("level")
+    folder = os.path.join("content", level)
+    path = os.path.join(folder, topic_file)
 
-    if not os.path.isfile(path):
-        await query.edit_message_text("❌ Файл с упражнениями не найден.")
-        return ConversationHandler.END
-
+    # Попытка загрузить JSON
     try:
         data = json.load(open(path, encoding="utf-8"))
-        exercises = data.get("exercises", [])
-        topic_name = data.get("topic_name", topic_key)
+    except FileNotFoundError:
+        await query.edit_message_text("❌ Файл тем не найден — выберите другую тему.")
+        return STATE_TOPIC
     except Exception as e:
-        logging.error(f"Ошибка загрузки {path}: {e}")
+        logging.error(f"Ошибка при чтении {path}: {e}")
         await query.edit_message_text("❌ Ошибка при загрузке упражнений.")
-        return ConversationHandler.END
+        return STATE_TOPIC
 
-    if not exercises:
-        await query.edit_message_text("❌ Упражнения в этой теме отсутствуют.")
-        return ConversationHandler.END
+    exercises = data.get("exercises")
+    if not isinstance(exercises, list) or not exercises:
+        await query.edit_message_text("❌ В этой теме нет упражнений.")
+        return STATE_TOPIC
 
     context.user_data.update({
+        "topic_key": topic_file[:-5],
+        "topic_name": data.get("topic_name", topic_file[:-5]),
         "exercises": exercises,
-        "topic_name": topic_name,
         "index": 0,
     })
     await query.edit_message_text(
-        f"Тема *{topic_name}* выбрана. Начинаем викторину!",
+        f"Тема *{context.user_data['topic_name']}* выбрана. Поехали!",
         parse_mode="Markdown",
     )
     return await send_question(update, context)
 
 async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Отправляет текущее упражнение."""
-    idx = context.user_data["index"]
-    exercises = context.user_data["exercises"]
+    """Отправляем текущее упражнение."""
+    idx = context.user_data.get("index", 0)
+    exercises = context.user_data.get("exercises", [])
     if idx >= len(exercises):
-        return await _reply(update, "🎉 Все упражнения пройдены! Напиши /quiz для нового уровня.")
+        return await _reply(update, "🎉 Все упражнения пройдены! Напиши /quiz чтобы начать заново.")
 
     ex = exercises[idx]
-    kb = ReplyKeyboardMarkup([[opt] for opt in ex.get("options", [])],
-                             resize_keyboard=True, one_time_keyboard=True)
-    return await _reply(update,
-        f"🔢 Упражнение {idx+1}:\n{ex.get('question','')}",
-        reply_markup=kb
-    )
+    question = ex.get("question", "Вопрос отсутствует.")
+    options = ex.get("options", [])
+    kb = ReplyKeyboardMarkup([[opt] for opt in options], resize_keyboard=True, one_time_keyboard=True)
+
+    return await _reply(update, f"🔢 Упражнение {idx+1}:\n{question}", reply_markup=kb)
 
 async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Проверяет ответ и переходит к следующему упражнению."""
-    idx = context.user_data["index"]
-    exercises = context.user_data["exercises"]
+    """Обрабатываем ответ и идем дальше."""
+    idx = context.user_data.get("index", 0)
+    exercises = context.user_data.get("exercises", [])
+    if idx >= len(exercises):
+        return await _reply(update, "Упражнения закончились. Напиши /quiz чтобы начать снова.")
+
     ex = exercises[idx]
     user_ans = update.message.text.strip()
-    correct = ex.get("answer","")
+    correct = ex.get("answer", "")
 
     if user_ans.lower() == correct.lower():
         await update.message.reply_text(f"✅ Верно!\n{ex.get('explanation','')}")
     else:
-        await update.message.reply_text(
-            f"❌ Неверно.\nПравильно: {correct}\n{ex.get('explanation','')}"
-        )
+        await update.message.reply_text(f"❌ Неверно.\nПравильный ответ: {correct}\n{ex.get('explanation','')}")
 
     context.user_data["index"] = idx + 1
     return await send_question(update, context)
 
 async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Отмена викторины."""
-    await update.message.reply_text("❌ Викторина отменена. Напиши /quiz для перезапуска.")
+    await update.message.reply_text("❌ Викторина отменена. Напиши /quiz чтобы начать заново.")
     return ConversationHandler.END
 
 async def _reply(update: Update, text: str, **kwargs):
-    """Универсальный ответ: из callback_query или из message."""
     if update.callback_query:
         await update.callback_query.message.reply_text(text, **kwargs)
     else:
