@@ -1,4 +1,5 @@
 import os
+import json
 import logging
 from telegram import Update, ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import (
@@ -8,143 +9,152 @@ from telegram.ext import (
     ConversationHandler,
     MessageHandler,
     CallbackQueryHandler,
-    filters
+    filters,
 )
 
-# Логирование
+# ——————————————————————————————————————————————
+#           Конфигурация логирования
+# ——————————————————————————————————————————————
 logging.basicConfig(
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    level=logging.INFO
+    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    level=logging.INFO,
 )
 
+# Токен бота из переменных окружения
 TOKEN = os.getenv("BOT_TOKEN")
 
-# Состояния ConversationHandler
-CHOOSE_TOPIC, QUIZ = range(2)
+# Состояния разговора
+STATE_LEVEL, STATE_TOPIC, STATE_QUIZ = range(3)
 
-# Темы и упражнения
-TOPICS = {
-    "Артикли": [
-        {
-            "question": "___ zaino è pesante.",
-            "options": ["Il", "Lo", "La"],
-            "answer": "Lo",
-            "explanation": "‘Zaino’ начинается с ‘z’ — используется артикль ‘Lo’."
-        },
-        {
-            "question": "___ penna è blu.",
-            "options": ["Il", "La", "Lo"],
-            "answer": "La",
-            "explanation": "‘Penna’ — ж.р., ед.ч. → La."
-        },
-        {
-            "question": "___ libro è interessante.",
-            "options": ["Lo", "La", "Il"],
-            "answer": "Il",
-            "explanation": "‘Libro’ — м.р., обычное слово → Il."
-        }
-    ],
-    "Множественное число": [
-        {
-            "question": "Каково множественное число слова 'ragazzo'?",
-            "options": ["ragazzi", "ragazze", "ragazza"],
-            "answer": "ragazzi",
-            "explanation": "‘Ragazzo’ → ‘ragazzi’ (мужской род, окончание -o меняется на -i)."
-        },
-        {
-            "question": "Каково множественное число слова 'amica'?",
-            "options": ["amici", "amiche", "amicas"],
-            "answer": "amiche",
-            "explanation": "‘Amica’ → ‘amiche’ (женский род, окончание -a меняется на -e, c → ch перед e)."
-        }
-    ]
-}
+# Поддерживаемые уровни
+LEVELS = ["A1", "A2", "B1", "B2"]
+
+# ——————————————————————————————————————————————
+#           Хэндлеры
+# ——————————————————————————————————————————————
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Приветствие и инструкция."""
     await update.message.reply_text(
-        "Привет! Это тренажёр по итальянскому языку.\nНапиши /quiz, чтобы выбрать тему."
+        "👋 Привет! Я — тренажёр по итальянскому.\n"
+        "Напиши /quiz, чтобы начать и выбрать уровень."
     )
 
 async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Запуск выбора уровня."""
     keyboard = [
-        [InlineKeyboardButton(topic, callback_data=f"topic|{topic}")]
-        for topic in TOPICS
+        [InlineKeyboardButton(level, callback_data=f"level|{level}")]
+        for level in LEVELS
     ]
     await update.message.reply_text(
-        "Выберите тему:",
-        reply_markup=InlineKeyboardMarkup(keyboard)
+        "Выберите ваш уровень:",
+        reply_markup=InlineKeyboardMarkup(keyboard),
     )
-    return CHOOSE_TOPIC
+    return STATE_LEVEL
 
-async def on_topic_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
+async def on_level_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Обработчик выбора уровня; показывает темы этого уровня."""
     query = update.callback_query
     await query.answer()
-    topic = query.data.split('|')[1]
-    context.user_data["topic"] = topic
-    context.user_data["index"] = 0
-    await query.edit_message_text(f"Тема выбрана: {topic}\nНачнем викторину!")
-    return await send_question(update, context, query_message=True)
+    _, level = query.data.split("|", 1)
+    context.user_data["level"] = level
+    # Считываем JSON-файлы из папки content/<level>/
+    folder = os.path.join("content", level)
+    files = sorted(f for f in os.listdir(folder) if f.endswith(".json"))
+    keyboard = []
+    for fname in files:
+        key = fname[:-5]  # убрать .json
+        data = json.load(open(os.path.join(folder, fname), encoding="utf-8"))
+        name = data.get("topic_name", key)
+        keyboard.append([InlineKeyboardButton(name, callback_data=f"topic|{key}")])
+    await query.edit_message_text(
+        f"Уровень *{level}* выбран.\nТеперь выберите тему:",
+        parse_mode="Markdown",
+        reply_markup=InlineKeyboardMarkup(keyboard),
+    )
+    return STATE_TOPIC
 
-async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE, query_message=False):
-    topic = context.user_data.get("topic")
-    index = context.user_data.get("index", 0)
-    exercises = TOPICS[topic]
-    if index >= len(exercises):
-        if query_message:
-            await update.callback_query.message.reply_text("Все упражнения завершены. Напиши /quiz, чтобы выбрать новую тему.")
-        else:
-            await update.message.reply_text("Все упражнения завершены. Напиши /quiz, чтобы выбрать новую тему.")
+async def on_topic_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Обработчик выбора темы; загружает упражнения и задаёт первый вопрос."""
+    query = update.callback_query
+    await query.answer()
+    topic_key = query.data.split("|", 1)[1]
+    level = context.user_data["level"]
+    # Загрузить все упражнения в память
+    path = os.path.join("content", level, f"{level}_{topic_key}.json")
+    data = json.load(open(path, encoding="utf-8"))
+    context.user_data["exercises"] = data["exercises"]
+    context.user_data["topic_name"] = data["topic_name"]
+    context.user_data["index"] = 0
+    await query.edit_message_text(f"Тема *{data['topic_name']}* выбрана. Начинаем викторину!", parse_mode="Markdown")
+    return await send_question(update, context)
+
+async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Отправляет очередное упражнение."""
+    idx = context.user_data["index"]
+    ex_list = context.user_data["exercises"]
+    if idx >= len(ex_list):
+        # конец викторины
+        await _reply(update, context, "🎉 Все упражнения пройдены! Напиши /quiz, чтобы выбрать новый уровень.")
         return ConversationHandler.END
 
-    ex = exercises[index]
-    keyboard = ReplyKeyboardMarkup([[opt] for opt in ex["options"]], resize_keyboard=True, one_time_keyboard=True)
-    if query_message:
-        await update.callback_query.message.reply_text(f"Заполни пропуск:\n{ex['question']}", reply_markup=keyboard)
-    else:
-        await update.message.reply_text(f"Заполни пропуск:\n{ex['question']}", reply_markup=keyboard)
-    return QUIZ
+    ex = ex_list[idx]
+    kb = ReplyKeyboardMarkup([[opt] for opt in ex["options"]], resize_keyboard=True, one_time_keyboard=True)
+    await _reply(update, context, f"🔢 Упражнение {idx+1}:\n{ex['question']}", reply_markup=kb)
+    return STATE_QUIZ
 
 async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    topic = context.user_data.get("topic")
-    index = context.user_data.get("index", 0)
-    exercises = TOPICS[topic]
-    ex = exercises[index]
-    user_answer = update.message.text.strip()
-
-    if user_answer == ex["answer"]:
+    """Проверяет ответ и переходит к следующему вопросу."""
+    idx = context.user_data["index"]
+    ex = context.user_data["exercises"][idx]
+    user_ans = update.message.text.strip()
+    if user_ans == ex["answer"]:
         await update.message.reply_text(f"✅ Верно!\n{ex['explanation']}")
     else:
-        await update.message.reply_text(f"❌ Неверно. Правильный ответ: {ex['answer']}\n{ex['explanation']}")
-
-    context.user_data["index"] = index + 1
+        await update.message.reply_text(f"❌ Неверно.\nПравильно: {ex['answer']}\n{ex['explanation']}")
+    context.user_data["index"] += 1
     return await send_question(update, context)
 
 async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("Выход из режима викторины. Напиши /quiz, чтобы начать снова.")
+    """Прерывает викторину."""
+    await update.message.reply_text("❌ Викторина отменена. Напиши /quiz, чтобы начать заново.")
     return ConversationHandler.END
 
+# Утилита: ответ в зависимости от update типа
+async def _reply(update: Update, context: ContextTypes.DEFAULT_TYPE, text: str, **kwargs):
+    if update.callback_query:
+        await update.callback_query.message.reply_text(text, **kwargs)
+    else:
+        await update.message.reply_text(text, **kwargs)
+
+# ——————————————————————————————————————————————
+#           Точка входа
+# ——————————————————————————————————————————————
+
 def main():
-    import telegram
-    print("PTB version:", telegram.__version__)
     if not TOKEN:
-        print("❌ BOT_TOKEN не найден.")
+        logging.error("❌ BOT_TOKEN не найден в окружении.")
         return
 
     app = ApplicationBuilder().token(TOKEN).build()
 
-    conv_handler = ConversationHandler(
+    # ConversationHandler для /quiz → выбор уровня → выбор темы → ответы
+    conv = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
         states={
-            CHOOSE_TOPIC: [CallbackQueryHandler(on_topic_select, pattern=r"^topic\|")],
-            QUIZ: [MessageHandler(filters.TEXT & ~filters.COMMAND, handle_answer)]
+            STATE_LEVEL: [CallbackQueryHandler(on_level_select, pattern=r"^level\|")],
+            STATE_TOPIC: [CallbackQueryHandler(on_topic_select, pattern=r"^topic\|")],
+            STATE_QUIZ: [MessageHandler(filters.TEXT & ~filters.COMMAND, handle_answer)],
         },
-        fallbacks=[CommandHandler("cancel", cancel)]
+        fallbacks=[CommandHandler("cancel", cancel)],
+        allow_reentry=True,
     )
+
     app.add_handler(CommandHandler("start", start))
-    app.add_handler(conv_handler)
-    print("✅ Бот запущен. Ожидаем команды в Telegram...")
+    app.add_handler(conv)
+
+    logging.info("✅ Бот запущен, ожидает команд.")
     app.run_polling()
 
 if __name__ == "__main__":
     main()
-    
