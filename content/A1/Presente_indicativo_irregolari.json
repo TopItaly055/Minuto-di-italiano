@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Presente indicativo irregolari",
+  "exercises": [
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "hanno",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'loro' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "avete",
+        "siete",
+        "siete"
+      ],
+      "answer": "avete",
+      "explanation": "La forma corretta del verbo 'avere' per 'voi' è 'avete'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "sono",
+        "hanno",
+        "hanno"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'loro' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "sono",
+        "sono",
+        "ho"
+      ],
+      "answer": "ho",
+      "explanation": "La forma corretta del verbo 'avere' per 'io' è 'ho'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "avete",
+        "siete",
+        "avete"
+      ],
+      "answer": "siete",
+      "explanation": "La forma corretta del verbo 'essere' per 'voi' è 'siete'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "hanno",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'loro' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "ha",
+        "è",
+        "ha"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lei' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "sono",
+        "hanno",
+        "sono"
+      ],
+      "answer": "hanno",
+      "explanation": "La forma corretta del verbo 'avere' per 'loro' è 'hanno'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "sei",
+        "sei",
+        "hai"
+      ],
+      "answer": "hai",
+      "explanation": "La forma corretta del verbo 'avere' per 'tu' è 'hai'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "hai",
+        "sei",
+        "sei"
+      ],
+      "answer": "hai",
+      "explanation": "La forma corretta del verbo 'avere' per 'tu' è 'hai'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "ha",
+        "è",
+        "ha"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lei' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "ha",
+        "ha",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lei' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "è",
+        "è",
+        "ha"
+      ],
+      "answer": "ha",
+      "explanation": "La forma corretta del verbo 'avere' per 'lei' è 'ha'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "sono",
+        "sono"
+      ],
+      "answer": "hanno",
+      "explanation": "La forma corretta del verbo 'avere' per 'loro' è 'hanno'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "sono",
+        "hanno"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'loro' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "siamo",
+        "abbiamo",
+        "siamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "sono",
+        "hanno",
+        "sono"
+      ],
+      "answer": "hanno",
+      "explanation": "La forma corretta del verbo 'avere' per 'loro' è 'hanno'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "è",
+        "ha",
+        "ha"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lei' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "siamo",
+        "abbiamo",
+        "siamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "è",
+        "è",
+        "ha"
+      ],
+      "answer": "ha",
+      "explanation": "La forma corretta del verbo 'avere' per 'lui' è 'ha'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "sono",
+        "sono"
+      ],
+      "answer": "hanno",
+      "explanation": "La forma corretta del verbo 'avere' per 'loro' è 'hanno'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "è",
+        "ha",
+        "è"
+      ],
+      "answer": "ha",
+      "explanation": "La forma corretta del verbo 'avere' per 'lei' è 'ha'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "sei",
+        "hai",
+        "sei"
+      ],
+      "answer": "hai",
+      "explanation": "La forma corretta del verbo 'avere' per 'tu' è 'hai'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "sei",
+        "hai",
+        "hai"
+      ],
+      "answer": "sei",
+      "explanation": "La forma corretta del verbo 'essere' per 'tu' è 'sei'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "ho",
+        "ho",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'io' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "sei",
+        "sei",
+        "hai"
+      ],
+      "answer": "hai",
+      "explanation": "La forma corretta del verbo 'avere' per 'tu' è 'hai'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "siete",
+        "avete",
+        "avete"
+      ],
+      "answer": "siete",
+      "explanation": "La forma corretta del verbo 'essere' per 'voi' è 'siete'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "è",
+        "ha",
+        "è"
+      ],
+      "answer": "ha",
+      "explanation": "La forma corretta del verbo 'avere' per 'lei' è 'ha'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "è",
+        "ha",
+        "ha"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lei' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "siete",
+        "avete",
+        "avete"
+      ],
+      "answer": "siete",
+      "explanation": "La forma corretta del verbo 'essere' per 'voi' è 'siete'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "ha",
+        "è",
+        "è"
+      ],
+      "answer": "ha",
+      "explanation": "La forma corretta del verbo 'avere' per 'lei' è 'ha'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "è",
+        "è",
+        "ha"
+      ],
+      "answer": "ha",
+      "explanation": "La forma corretta del verbo 'avere' per 'lui' è 'ha'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "sono",
+        "hanno"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'loro' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "abbiamo",
+        "abbiamo",
+        "siamo"
+      ],
+      "answer": "siamo",
+      "explanation": "La forma corretta del verbo 'essere' per 'noi' è 'siamo'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "abbiamo",
+        "siamo",
+        "siamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "siete",
+        "avete",
+        "siete"
+      ],
+      "answer": "avete",
+      "explanation": "La forma corretta del verbo 'avere' per 'voi' è 'avete'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "è",
+        "ha",
+        "è"
+      ],
+      "answer": "ha",
+      "explanation": "La forma corretta del verbo 'avere' per 'lui' è 'ha'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "siamo",
+        "abbiamo",
+        "siamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "abbiamo",
+        "siamo",
+        "siamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "avete",
+        "siete",
+        "avete"
+      ],
+      "answer": "siete",
+      "explanation": "La forma corretta del verbo 'essere' per 'voi' è 'siete'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "abbiamo",
+        "siamo",
+        "abbiamo"
+      ],
+      "answer": "siamo",
+      "explanation": "La forma corretta del verbo 'essere' per 'noi' è 'siamo'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "ha",
+        "è",
+        "è"
+      ],
+      "answer": "ha",
+      "explanation": "La forma corretta del verbo 'avere' per 'lui' è 'ha'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "sono",
+        "sono",
+        "ho"
+      ],
+      "answer": "ho",
+      "explanation": "La forma corretta del verbo 'avere' per 'io' è 'ho'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "ho",
+        "sono",
+        "sono"
+      ],
+      "answer": "ho",
+      "explanation": "La forma corretta del verbo 'avere' per 'io' è 'ho'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "sei",
+        "hai",
+        "sei"
+      ],
+      "answer": "hai",
+      "explanation": "La forma corretta del verbo 'avere' per 'tu' è 'hai'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "abbiamo",
+        "siamo",
+        "siamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "sono",
+        "hanno"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'loro' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "siamo",
+        "abbiamo",
+        "abbiamo"
+      ],
+      "answer": "siamo",
+      "explanation": "La forma corretta del verbo 'essere' per 'noi' è 'siamo'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "sono",
+        "ho",
+        "sono"
+      ],
+      "answer": "ho",
+      "explanation": "La forma corretta del verbo 'avere' per 'io' è 'ho'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "sono",
+        "sono",
+        "hanno"
+      ],
+      "answer": "hanno",
+      "explanation": "La forma corretta del verbo 'avere' per 'loro' è 'hanno'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "ho",
+        "sono",
+        "ho"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'io' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "ha",
+        "è",
+        "è"
+      ],
+      "answer": "ha",
+      "explanation": "La forma corretta del verbo 'avere' per 'lui' è 'ha'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "sei",
+        "hai",
+        "hai"
+      ],
+      "answer": "sei",
+      "explanation": "La forma corretta del verbo 'essere' per 'tu' è 'sei'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "siete",
+        "siete",
+        "avete"
+      ],
+      "answer": "avete",
+      "explanation": "La forma corretta del verbo 'avere' per 'voi' è 'avete'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "siete",
+        "avete",
+        "avete"
+      ],
+      "answer": "siete",
+      "explanation": "La forma corretta del verbo 'essere' per 'voi' è 'siete'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "siete",
+        "avete",
+        "avete"
+      ],
+      "answer": "siete",
+      "explanation": "La forma corretta del verbo 'essere' per 'voi' è 'siete'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "ha",
+        "è",
+        "ha"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lei' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "sono",
+        "sono",
+        "ho"
+      ],
+      "answer": "ho",
+      "explanation": "La forma corretta del verbo 'avere' per 'io' è 'ho'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "ho",
+        "sono",
+        "ho"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'io' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "sono",
+        "hanno"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'loro' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "siamo",
+        "siamo",
+        "abbiamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "abbiamo",
+        "siamo",
+        "siamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "hai",
+        "sei",
+        "sei"
+      ],
+      "answer": "hai",
+      "explanation": "La forma corretta del verbo 'avere' per 'tu' è 'hai'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "avete",
+        "siete",
+        "avete"
+      ],
+      "answer": "siete",
+      "explanation": "La forma corretta del verbo 'essere' per 'voi' è 'siete'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "sono",
+        "ho",
+        "ho"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'io' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "hai",
+        "sei",
+        "hai"
+      ],
+      "answer": "sei",
+      "explanation": "La forma corretta del verbo 'essere' per 'tu' è 'sei'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "sono",
+        "sono",
+        "hanno"
+      ],
+      "answer": "hanno",
+      "explanation": "La forma corretta del verbo 'avere' per 'loro' è 'hanno'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "abbiamo",
+        "abbiamo",
+        "siamo"
+      ],
+      "answer": "siamo",
+      "explanation": "La forma corretta del verbo 'essere' per 'noi' è 'siamo'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "sono",
+        "ho",
+        "sono"
+      ],
+      "answer": "ho",
+      "explanation": "La forma corretta del verbo 'avere' per 'io' è 'ho'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "è",
+        "è",
+        "ha"
+      ],
+      "answer": "ha",
+      "explanation": "La forma corretta del verbo 'avere' per 'lui' è 'ha'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "ha",
+        "ha",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lei' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "avete",
+        "siete",
+        "siete"
+      ],
+      "answer": "avete",
+      "explanation": "La forma corretta del verbo 'avere' per 'voi' è 'avete'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "siete",
+        "avete",
+        "siete"
+      ],
+      "answer": "avete",
+      "explanation": "La forma corretta del verbo 'avere' per 'voi' è 'avete'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "siete",
+        "siete",
+        "avete"
+      ],
+      "answer": "avete",
+      "explanation": "La forma corretta del verbo 'avere' per 'voi' è 'avete'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "sei",
+        "sei",
+        "hai"
+      ],
+      "answer": "hai",
+      "explanation": "La forma corretta del verbo 'avere' per 'tu' è 'hai'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "hai",
+        "hai",
+        "sei"
+      ],
+      "answer": "sei",
+      "explanation": "La forma corretta del verbo 'essere' per 'tu' è 'sei'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "abbiamo",
+        "siamo",
+        "siamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "sono",
+        "hanno"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'loro' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "hai",
+        "sei",
+        "sei"
+      ],
+      "answer": "hai",
+      "explanation": "La forma corretta del verbo 'avere' per 'tu' è 'hai'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "ha",
+        "è",
+        "ha"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lei' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "hanno",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'loro' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "siamo",
+        "siamo",
+        "abbiamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "hanno",
+        "hanno",
+        "sono"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'loro' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "ha",
+        "ha",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lui' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Voi ___ felice.",
+      "options": [
+        "siete",
+        "siete",
+        "avete"
+      ],
+      "answer": "avete",
+      "explanation": "La forma corretta del verbo 'avere' per 'voi' è 'avete'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "è",
+        "ha",
+        "ha"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lui' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "sei",
+        "sei",
+        "hai"
+      ],
+      "answer": "hai",
+      "explanation": "La forma corretta del verbo 'avere' per 'tu' è 'hai'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "siamo",
+        "abbiamo",
+        "abbiamo"
+      ],
+      "answer": "siamo",
+      "explanation": "La forma corretta del verbo 'essere' per 'noi' è 'siamo'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "ha",
+        "è",
+        "ha"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lei' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "ha",
+        "è",
+        "ha"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lui' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "è",
+        "ha",
+        "ha"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lui' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "abbiamo",
+        "siamo",
+        "siamo"
+      ],
+      "answer": "abbiamo",
+      "explanation": "La forma corretta del verbo 'avere' per 'noi' è 'abbiamo'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "ho",
+        "sono",
+        "ho"
+      ],
+      "answer": "sono",
+      "explanation": "La forma corretta del verbo 'essere' per 'io' è 'sono'."
+    },
+    {
+      "question": "Completa la frase: Lei ___ felice.",
+      "options": [
+        "ha",
+        "ha",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lei' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "hai",
+        "hai",
+        "sei"
+      ],
+      "answer": "sei",
+      "explanation": "La forma corretta del verbo 'essere' per 'tu' è 'sei'."
+    },
+    {
+      "question": "Completa la frase: Tu ___ felice.",
+      "options": [
+        "sei",
+        "hai",
+        "hai"
+      ],
+      "answer": "sei",
+      "explanation": "La forma corretta del verbo 'essere' per 'tu' è 'sei'."
+    },
+    {
+      "question": "Completa la frase: Io ___ felice.",
+      "options": [
+        "sono",
+        "ho",
+        "sono"
+      ],
+      "answer": "ho",
+      "explanation": "La forma corretta del verbo 'avere' per 'io' è 'ho'."
+    },
+    {
+      "question": "Completa la frase: Noi ___ felice.",
+      "options": [
+        "abbiamo",
+        "siamo",
+        "abbiamo"
+      ],
+      "answer": "siamo",
+      "explanation": "La forma corretta del verbo 'essere' per 'noi' è 'siamo'."
+    },
+    {
+      "question": "Completa la frase: Lui ___ felice.",
+      "options": [
+        "ha",
+        "ha",
+        "è"
+      ],
+      "answer": "è",
+      "explanation": "La forma corretta del verbo 'essere' per 'lui' è 'è'."
+    },
+    {
+      "question": "Completa la frase: Loro ___ felice.",
+      "options": [
+        "sono",
+        "hanno",
+        "sono"
+      ],
+      "answer": "hanno",
+      "explanation": "La forma corretta del verbo 'avere' per 'loro' è 'hanno'."
+    }
+  ]
+}

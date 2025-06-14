@@ -1,0 +1,905 @@
+{
+  "topic_name": "Genere dei sostantivi",
+  "exercises": [
+    {
+      "question": "Completa la frase: La parola 'penna' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'amica' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'macchina' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'amica' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'telefono' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'città' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studentessa' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'libro' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'cane' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'stazione' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studente' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazza' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'amico' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazzo' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'porta' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'cane' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'professore' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'telefono' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'città' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'stazione' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'macchina' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'insegnante' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'amica' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazzo' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'gatto' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'macchina' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'città' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'macchina' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'macchina' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'stazione' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'amico' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'porta' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'città' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazzo' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazza' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazzo' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazza' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'insegnante' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'amico' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studente' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studente' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'cane' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'libro' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'città' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'cane' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'porta' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'gatto' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'stazione' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'professore' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'telefono' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'stazione' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'cane' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'casa' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'amica' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studente' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazzo' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'libro' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studente' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'albero' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'porta' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'cane' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studente' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'penna' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'porta' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'macchina' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'telefono' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'telefono' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazza' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'città' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazza' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'penna' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'telefono' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazzo' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'macchina' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazza' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'telefono' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'porta' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazza' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studentessa' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'penna' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'città' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'tavolo' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'cane' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'telefono' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'amica' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazza' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studente' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'amico' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studente' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'insegnante' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'albero' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'stazione' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'macchina' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'porta' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'macchina' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazza' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'studentessa' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'telefono' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'ragazza' è ___.",
+      "options": [
+        "maschile",
+        "femminile"
+      ],
+      "answer": "femminile",
+      "explanation": "La risposta corretta è 'femminile'."
+    },
+    {
+      "question": "Completa la frase: La parola 'libro' è ___.",
+      "options": [
+        "femminile",
+        "maschile"
+      ],
+      "answer": "maschile",
+      "explanation": "La risposta corretta è 'maschile'."
+    }
+  ]
+}
