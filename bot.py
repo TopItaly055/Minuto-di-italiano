@@ -20,7 +20,7 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-# Токен бота из переменных окружения
+# Token бота из переменных окружения
 TOKEN = os.getenv("BOT_TOKEN")
 
 # Состояния разговора
@@ -28,10 +28,6 @@ STATE_LEVEL, STATE_TOPIC, STATE_QUIZ = range(3)
 
 # Поддерживаемые уровни
 LEVELS = ["A1", "A2", "B1", "B2"]
-
-# ——————————————————————————————————————————————
-#           Хэндлеры
-# ——————————————————————————————————————————————
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Приветствие и инструкция."""
@@ -58,15 +54,32 @@ async def on_level_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await query.answer()
     _, level = query.data.split("|", 1)
     context.user_data["level"] = level
-    # Считываем JSON-файлы из папки content/<level>/
     folder = os.path.join("content", level)
+    if not os.path.exists(folder):
+        await query.edit_message_text(f"❌ Для уровня {level} не найдено упражнений.")
+        return ConversationHandler.END
+
     files = sorted(f for f in os.listdir(folder) if f.endswith(".json"))
+    if not files:
+        await query.edit_message_text(f"❌ Для уровня {level} нет тем.")
+        return ConversationHandler.END
+
     keyboard = []
     for fname in files:
         key = fname[:-5]  # убрать .json
-        data = json.load(open(os.path.join(folder, fname), encoding="utf-8"))
-        name = data.get("topic_name", key)
-        keyboard.append([InlineKeyboardButton(name, callback_data=f"topic|{key}")])
+        try:
+            with open(os.path.join(folder, fname), encoding="utf-8") as f:
+                data = json.load(f)
+            name = data.get("topic_name", key)
+            keyboard.append([InlineKeyboardButton(name, callback_data=f"topic|{key}")])
+        except Exception as e:
+            logging.error(f"Ошибка при загрузке файла {fname}: {e}")
+            continue
+
+    if not keyboard:
+        await query.edit_message_text(f"❌ Не удалось загрузить темы для уровня {level}.")
+        return ConversationHandler.END
+
     await query.edit_message_text(
         f"Уровень *{level}* выбран.\nТеперь выберите тему:",
         parse_mode="Markdown",
@@ -80,39 +93,61 @@ async def on_topic_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await query.answer()
     topic_key = query.data.split("|", 1)[1]
     level = context.user_data["level"]
-    # Загрузить все упражнения в память
     path = os.path.join("content", level, f"{level}_{topic_key}.json")
-    data = json.load(open(path, encoding="utf-8"))
-    context.user_data["exercises"] = data["exercises"]
-    context.user_data["topic_name"] = data["topic_name"]
-    context.user_data["index"] = 0
-    await query.edit_message_text(f"Тема *{data['topic_name']}* выбрана. Начинаем викторину!", parse_mode="Markdown")
-    return await send_question(update, context)
+    if not os.path.exists(path):
+        await query.edit_message_text("❌ Не удалось найти файл с упражнениями для выбранной темы.")
+        return ConversationHandler.END
 
-async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    try:
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        logging.error(f"Ошибка при загрузке файла {path}: {e}")
+        await query.edit_message_text("❌ Ошибка при загрузке упражнений.")
+        return ConversationHandler.END
+
+    exercises = data.get("exercises", [])
+    if not exercises:
+        await query.edit_message_text("❌ В этой теме пока нет упражнений.")
+        return ConversationHandler.END
+
+    context.user_data["exercises"] = exercises
+    context.user_data["topic_name"] = data.get("topic_name", topic_key)
+    context.user_data["index"] = 0
+    await query.edit_message_text(
+        f"Тема *{context.user_data['topic_name']}* выбрана. Начинаем викторину!",
+        parse_mode="Markdown"
+    )
+    return await send_question(update, context, from_callback=True)
+
+async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE, from_callback=False):
     """Отправляет очередное упражнение."""
-    idx = context.user_data["index"]
-    ex_list = context.user_data["exercises"]
+    idx = context.user_data.get("index", 0)
+    ex_list = context.user_data.get("exercises", [])
     if idx >= len(ex_list):
-        # конец викторины
         await _reply(update, context, "🎉 Все упражнения пройдены! Напиши /quiz, чтобы выбрать новый уровень.")
         return ConversationHandler.END
 
     ex = ex_list[idx]
-    kb = ReplyKeyboardMarkup([[opt] for opt in ex["options"]], resize_keyboard=True, one_time_keyboard=True)
-    await _reply(update, context, f"🔢 Упражнение {idx+1}:\n{ex['question']}", reply_markup=kb)
+    kb = ReplyKeyboardMarkup([[opt] for opt in ex.get("options", [])], resize_keyboard=True, one_time_keyboard=True)
+    await _reply(update, context, f"🔢 Упражнение {idx+1}:\n{ex.get('question', 'Нет вопроса')}", reply_markup=kb)
     return STATE_QUIZ
 
 async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Проверяет ответ и переходит к следующему вопросу."""
-    idx = context.user_data["index"]
-    ex = context.user_data["exercises"][idx]
+    idx = context.user_data.get("index", 0)
+    ex_list = context.user_data.get("exercises", [])
+    if idx >= len(ex_list):
+        await update.message.reply_text("Все упражнения уже завершены. Напиши /quiz, чтобы начать сначала.")
+        return ConversationHandler.END
+    ex = ex_list[idx]
     user_ans = update.message.text.strip()
-    if user_ans == ex["answer"]:
-        await update.message.reply_text(f"✅ Верно!\n{ex['explanation']}")
+    right_ans = ex.get("answer", "")
+    if user_ans.lower() == right_ans.lower():
+        await update.message.reply_text(f"✅ Верно!\n{ex.get('explanation', '')}")
     else:
-        await update.message.reply_text(f"❌ Неверно.\nПравильно: {ex['answer']}\n{ex['explanation']}")
-    context.user_data["index"] += 1
+        await update.message.reply_text(f"❌ Неверно.\nПравильно: {right_ans}\n{ex.get('explanation', '')}")
+    context.user_data["index"] = idx + 1
     return await send_question(update, context)
 
 async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -120,18 +155,17 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("❌ Викторина отменена. Напиши /quiz, чтобы начать заново.")
     return ConversationHandler.END
 
-# Утилита: ответ в зависимости от update типа
+# Утилита: универсальный ответ в зависимости от типа update
 async def _reply(update: Update, context: ContextTypes.DEFAULT_TYPE, text: str, **kwargs):
-    if update.callback_query:
+    if hasattr(update, "callback_query") and update.callback_query:
         await update.callback_query.message.reply_text(text, **kwargs)
-    else:
+    elif hasattr(update, "message") and update.message:
         await update.message.reply_text(text, **kwargs)
 
-# ——————————————————————————————————————————————
-#           Точка входа
-# ——————————————————————————————————————————————
-
 def main():
+    import telegram
+    logging.info(f"PTB version: {telegram.__version__}")
+
     if not TOKEN:
         logging.error("❌ BOT_TOKEN не найден в окружении.")
         return
