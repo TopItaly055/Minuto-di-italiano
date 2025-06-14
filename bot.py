@@ -185,8 +185,9 @@ async def main():
     app.add_handler(conv)
 
     logging.info("✅ Запускаем polling…")
-    
-    def main():
+
+
+def main():
     if not TOKEN:
         logging.error("❌ BOT_TOKEN не задан.")
         return
@@ -212,6 +213,7 @@ async def main():
 
     logging.info("✅ Запускаем polling…")
     app.run_polling(drop_pending_updates=True)
+
 
 if __name__ == "__main__":
     main()
