@@ -1,7 +1,9 @@
 import os
 import json
 import logging
+import asyncio
 from telegram import (
+    Bot,
     Update,
     ReplyKeyboardMarkup,
     InlineKeyboardMarkup,
@@ -29,22 +31,16 @@ TOKEN = os.getenv("BOT_TOKEN")
 STATE_LEVEL, STATE_TOPIC, STATE_QUIZ = range(3)
 LEVELS = ["A1", "A2", "B1", "B2"]
 
-# ——————————————————————————————————————————————
-#           Хэндлеры
-# ——————————————————————————————————————————————
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text(
-        "👋 Привет! Я — итальянский тренажёр.\n"
-        "Напиши /quiz, чтобы выбрать уровень и тему."
+        "👋 Привет! Я — тренажёр по итальянскому.\n"
+        "Напиши /quiz, чтобы начать и выбрать уровень."
     )
 
 async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    kb = [[InlineKeyboardButton(l, callback_data=f"level|{l}")] for l in LEVELS]
-    await update.message.reply_text(
-        "Выберите уровень:",
-        reply_markup=InlineKeyboardMarkup(kb),
-    )
+    kb = [[InlineKeyboardButton(lvl, callback_data=f"level|{lvl}")] for lvl in LEVELS]
+    await update.message.reply_text("Выберите уровень:", reply_markup=InlineKeyboardMarkup(kb))
     return STATE_LEVEL
 
 async def on_level_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -58,20 +54,19 @@ async def on_level_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await query.edit_message_text(f"❌ Нет упражнений для уровня {level}.")
         return STATE_LEVEL
 
-    files = [f for f in sorted(os.listdir(folder)) if f.endswith(".json")]
-    if not files:
-        await query.edit_message_text(f"❌ Нет тем в {folder}.")
-        return STATE_LEVEL
-
+    files = sorted(f for f in os.listdir(folder) if f.endswith(".json"))
     kb = []
     for fn in files:
-        path = os.path.join(folder, fn)
         try:
-            data = json.load(open(path, encoding="utf-8"))
+            data = json.load(open(os.path.join(folder, fn), encoding="utf-8"))
             name = data.get("topic_name", fn[:-5])
         except Exception:
             continue
         kb.append([InlineKeyboardButton(name, callback_data=f"topic|{fn}")])
+
+    if not kb:
+        await query.edit_message_text(f"❌ Для уровня {level} нет корректных тем.")
+        return STATE_LEVEL
 
     await query.edit_message_text(
         f"📂 Уровень *{level}* выбран.\nВыберите тему:",
@@ -84,27 +79,28 @@ async def on_topic_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
     topic_file = query.data.split("|",1)[1]
-    level = context.user_data.get("level")
+    level = context.user_data["level"]
     path = os.path.join("content", level, topic_file)
 
     try:
         data = json.load(open(path, encoding="utf-8"))
         exercises = data.get("exercises", [])
+        topic_name = data.get("topic_name", topic_file[:-5])
     except Exception:
-        await query.edit_message_text("❌ Не удалось загрузить упражнения.")
+        await query.edit_message_text("❌ Ошибка при загрузке упражнений.")
         return STATE_TOPIC
 
     if not exercises:
-        await query.edit_message_text("❌ В этой теме нет упражнений.")
+        await query.edit_message_text("❌ Упражнения пусты.")
         return STATE_TOPIC
 
     context.user_data.update({
-        "topic_name": data.get("topic_name", topic_file[:-5]),
+        "topic_name": topic_name,
         "exercises": exercises,
         "index": 0,
     })
     await query.edit_message_text(
-        f"🚀 Тема *{context.user_data['topic_name']}* выбрана!",
+        f"🚀 Тема *{topic_name}* выбрана!",
         parse_mode="Markdown",
     )
     return await send_question(update, context)
@@ -125,15 +121,17 @@ async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     idx = context.user_data["index"]
-    exercises = context.user_data["exercises"]
-    ex = exercises[idx]
-
+    ex = context.user_data["exercises"][idx]
     user = update.message.text.strip()
     correct = ex.get("answer","")
+
     if user.lower() == correct.lower():
         await update.message.reply_text(f"✅ Верно!\n{ex.get('explanation','')}")
     else:
-        await update.message.reply_text(f"❌ Неверно.\nПравильно: {correct}\n{ex.get('explanation','')}")
+        await update.message.reply_text(
+            f"❌ Неверно.\nПравильный ответ: {correct}\n{ex.get('explanation','')}"
+        )
+
     context.user_data["index"] += 1
     return await send_question(update, context)
 
@@ -147,25 +145,24 @@ async def _reply(update: Update, text: str, **kw):
     else:
         await update.message.reply_text(text, **kw)
 
-# ——————————————————————————————————————————————
-#           Main
-# ——————————————————————————————————————————————
 
-def main():
+async def main():
     if not TOKEN:
         logging.error("❌ BOT_TOKEN не задан.")
         return
 
-    app = ApplicationBuilder().token(TOKEN).build()
-    # удаляем старые webhooks и pending updates
-    app.bot.delete_webhook(drop_pending_updates=True)
+    # 1) удаляем webhook и сбрасываем очередь — обязательно await
+    bot = Bot(token=TOKEN)
+    await bot.delete_webhook(drop_pending_updates=True)
     logging.info("🔄 Webhook удалён, очередь сброшена.")
 
+    # 2) создаём приложение и настраиваем
+    app = ApplicationBuilder().token(TOKEN).build()
     conv = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
         states={
-            STATE_LEVEL: [CallbackQueryHandler(on_level_select, pattern="^level\\|")],
-            STATE_TOPIC: [CallbackQueryHandler(on_topic_select, pattern="^topic\\|")],
+            STATE_LEVEL: [CallbackQueryHandler(on_level_select, pattern=r"^level\|")],
+            STATE_TOPIC: [CallbackQueryHandler(on_topic_select, pattern=r"^topic\|")],
             STATE_QUIZ:  [MessageHandler(filters.TEXT & ~filters.COMMAND, handle_answer)],
         },
         fallbacks=[CommandHandler("cancel", cancel)],
@@ -174,8 +171,9 @@ def main():
     app.add_handler(CommandHandler("start", start))
     app.add_handler(conv)
 
-    logging.info("✅ Бот запущен, ожидаем команд.")
-    app.run_polling(drop_pending_updates=True)
+    logging.info("✅ Запускаем polling…")
+    # 3) запускаем polling
+    await app.run_polling(drop_pending_updates=True)
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
