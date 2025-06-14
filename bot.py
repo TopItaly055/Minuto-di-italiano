@@ -188,7 +188,13 @@ def main():
     app.add_handler(conv)
 
     logging.info("✅ Бот запущен, ожидает команд.")
+    import asyncio
+
+async def async_main():
+    app = ApplicationBuilder().token(TOKEN).build()
+    
+    await app.bot.delete_webhook(drop_pending_updates=True)
     app.run_polling()
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(async_main())
