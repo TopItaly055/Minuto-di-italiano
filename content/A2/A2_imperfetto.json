@@ -1,0 +1,1107 @@
+{
+  "level": "A2",
+  "topic_key": "imperfetto",
+  "topic_name": "Imperfetto",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "mangiavo",
+        "leggevamo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "scrivevano",
+        "mangiavo"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "scrivevano",
+        "mangiavo"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "andava",
+        "leggevamo"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "leggevamo",
+        "scrivevano"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "leggevamo",
+        "mangiavo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "parlavi",
+        "scrivevano"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "andava",
+        "parlavi"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "parlavi",
+        "scrivevano"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "leggevamo",
+        "andava"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "scrivevano",
+        "leggevamo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "andava",
+        "parlavi"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "andava",
+        "leggevamo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "leggevamo",
+        "mangiavo"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "andava",
+        "leggevamo"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "andava",
+        "mangiavo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "parlavi",
+        "scrivevano"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "mangiavo",
+        "scrivevano"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "scrivevano",
+        "parlavi"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "scrivevano",
+        "leggevamo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "scrivevano",
+        "leggevamo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "leggevamo",
+        "andava"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "andava",
+        "parlavi"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "leggevamo",
+        "andava"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "mangiavo",
+        "parlavi"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "parlavi",
+        "scrivevano"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "andava",
+        "mangiavo"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "mangiavo",
+        "leggevamo"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "scrivevano",
+        "mangiavo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "scrivevano",
+        "leggevamo"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "scrivevano",
+        "mangiavo"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "parlavi",
+        "andava"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "leggevamo",
+        "andava"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "leggevamo",
+        "mangiavo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "andava",
+        "scrivevano"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "andava",
+        "scrivevano"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "andava",
+        "parlavi"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "leggevamo",
+        "parlavi"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "scrivevano",
+        "leggevamo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "leggevamo",
+        "scrivevano"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "parlavi",
+        "leggevamo"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "mangiavo",
+        "parlavi"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "scrivevano",
+        "leggevamo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "scrivevano",
+        "parlavi"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "parlavi",
+        "andava"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "mangiavo",
+        "scrivevano"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "parlavi",
+        "scrivevano"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "andava",
+        "parlavi"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "leggevamo",
+        "parlavi"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "andava",
+        "leggevamo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "parlavi",
+        "leggevamo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "parlavi",
+        "mangiavo"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "mangiavo",
+        "leggevamo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "andava",
+        "leggevamo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "leggevamo",
+        "andava"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "andava",
+        "parlavi"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "leggevamo",
+        "parlavi"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "leggevamo",
+        "mangiavo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "mangiavo",
+        "leggevamo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "mangiavo",
+        "parlavi"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "mangiavo",
+        "parlavi"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "mangiavo",
+        "leggevamo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "mangiavo",
+        "scrivevano"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "andava",
+        "scrivevano"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "scrivevano",
+        "mangiavo"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "mangiavo",
+        "andava"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "mangiavo",
+        "leggevamo"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "andava",
+        "leggevamo"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "scrivevano",
+        "mangiavo"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "scrivevano",
+        "leggevamo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "parlavi",
+        "leggevamo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "parlavi",
+        "leggevamo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "scrivevano",
+        "andava"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "mangiavo",
+        "parlavi"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "parlavi",
+        "leggevamo"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "scrivevano",
+        "parlavi"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "mangiavo",
+        "parlavi"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "leggevamo",
+        "scrivevano"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "parlavi",
+        "andava"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "mangiavo",
+        "leggevamo"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "mangiavo",
+        "leggevamo"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "parlavi",
+        "andava"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "leggevamo",
+        "andava"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "mangiavo",
+        "andava"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "parlavi",
+        "scrivevano"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "scrivevano",
+        "parlavi"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "leggevamo",
+        "scrivevano"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "leggevamo",
+        "parlavi"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "parlavi",
+        "andava"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlavi",
+        "mangiavo",
+        "andava"
+      ],
+      "answer": "parlavi",
+      "explanation": "Risposta corretta: parlavi"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "scrivevano",
+        "andava"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "scrivevano",
+        "mangiavo"
+      ],
+      "answer": "leggevamo",
+      "explanation": "Risposta corretta: leggevamo"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "scrivevano",
+        "andava",
+        "mangiavo"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "andava",
+        "parlavi"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "mangiavo",
+        "parlavi"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "parlavi",
+        "mangiavo"
+      ],
+      "answer": "mangiavo",
+      "explanation": "Risposta corretta: mangiavo"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "parlavi",
+        "scrivevano"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "andava",
+        "leggevamo",
+        "parlavi"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mangiavo",
+        "andava",
+        "scrivevano"
+      ],
+      "answer": "andava",
+      "explanation": "Risposta corretta: andava"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "leggevamo",
+        "scrivevano",
+        "parlavi"
+      ],
+      "answer": "scrivevano",
+      "explanation": "Risposta corretta: scrivevano"
+    }
+  ]
+}

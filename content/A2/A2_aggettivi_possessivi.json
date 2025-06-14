@@ -1,0 +1,1107 @@
+{
+  "level": "A2",
+  "topic_key": "aggettivi_possessivi",
+  "topic_name": "Aggettivi possessivi",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "tuo",
+        "mia"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "loro",
+        "mio"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "nostro",
+        "tuo"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "vostro",
+        "suo"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "loro",
+        "mio"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "mia",
+        "loro"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "nostro",
+        "mia"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "mia",
+        "suo"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "mia",
+        "vostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "suo",
+        "mio"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "suo",
+        "mio"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "vostro",
+        "mia"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "mio",
+        "mia"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "mio",
+        "suo"
+      ],
+      "answer": "mio",
+      "explanation": "Risposta corretta: mio"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "mio",
+        "suo"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "mio",
+        "loro"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "mia",
+        "mio"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mio",
+        "suo",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "mio",
+        "nostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "nostro",
+        "mio"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mio",
+        "suo",
+        "mia"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "vostro",
+        "mia"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mio",
+        "mia",
+        "vostro"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "vostro",
+        "suo"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "vostro",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "mio",
+        "mia"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "mio",
+        "nostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "vostro",
+        "nostro"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "mia",
+        "suo"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "mio",
+        "suo"
+      ],
+      "answer": "mio",
+      "explanation": "Risposta corretta: mio"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "vostro",
+        "nostro"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "suo",
+        "vostro"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "mia",
+        "suo"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "suo",
+        "nostro"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "vostro",
+        "tuo"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mio",
+        "tuo",
+        "suo"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "mio",
+        "nostro"
+      ],
+      "answer": "mio",
+      "explanation": "Risposta corretta: mio"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mio",
+        "suo",
+        "mia"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "loro",
+        "nostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "vostro",
+        "suo"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "mio",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "vostro",
+        "suo"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "mio",
+        "mia"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "tuo",
+        "loro"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "loro",
+        "mio"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mio",
+        "nostro",
+        "mia"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "tuo",
+        "mio"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "nostro",
+        "tuo"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "vostro",
+        "nostro"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "mia",
+        "nostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "nostro",
+        "loro"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "vostro",
+        "suo"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "mio",
+        "mia"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "vostro",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "tuo",
+        "vostro"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "nostro",
+        "loro"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "mia",
+        "vostro"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "loro",
+        "vostro"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "mio",
+        "tuo"
+      ],
+      "answer": "mio",
+      "explanation": "Risposta corretta: mio"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "suo",
+        "vostro"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "suo",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "loro",
+        "mio"
+      ],
+      "answer": "mio",
+      "explanation": "Risposta corretta: mio"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "vostro",
+        "suo"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "vostro",
+        "suo"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "nostro",
+        "tuo"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "mio",
+        "mia"
+      ],
+      "answer": "mio",
+      "explanation": "Risposta corretta: mio"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "vostro",
+        "loro"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "mio",
+        "mia"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "mia",
+        "suo"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "tuo",
+        "suo"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "vostro",
+        "suo"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "mio",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "vostro",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "suo",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mio",
+        "mia",
+        "vostro"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "mia",
+        "tuo"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "suo",
+        "mio"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "loro",
+        "mia"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "loro",
+        "mio"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "vostro",
+        "loro"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "vostro",
+        "mia"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "tuo",
+        "nostro"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mio",
+        "loro",
+        "vostro"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "mio",
+        "loro"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "vostro",
+        "nostro"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mio",
+        "loro",
+        "tuo"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "suo",
+        "mio"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "nostro",
+        "suo"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "vostro",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "suo",
+        "tuo"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mia",
+        "mio",
+        "tuo"
+      ],
+      "answer": "mio",
+      "explanation": "Risposta corretta: mio"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "loro",
+        "tuo",
+        "vostro"
+      ],
+      "answer": "tuo",
+      "explanation": "Risposta corretta: tuo"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "tuo",
+        "suo",
+        "nostro"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "suo",
+        "loro"
+      ],
+      "answer": "nostro",
+      "explanation": "Risposta corretta: nostro"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "nostro",
+        "mia"
+      ],
+      "answer": "mia",
+      "explanation": "Risposta corretta: mia"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "nostro",
+        "loro",
+        "vostro"
+      ],
+      "answer": "loro",
+      "explanation": "Risposta corretta: loro"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "suo",
+        "nostro",
+        "vostro"
+      ],
+      "answer": "suo",
+      "explanation": "Risposta corretta: suo"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "suo",
+        "tuo"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mio",
+        "mia",
+        "tuo"
+      ],
+      "answer": "mio",
+      "explanation": "Risposta corretta: mio"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vostro",
+        "mia",
+        "tuo"
+      ],
+      "answer": "vostro",
+      "explanation": "Risposta corretta: vostro"
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "level": "A2",
+  "topic_key": "condizionale_presente",
+  "topic_name": "Condizionale presente",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "potresti",
+        "parlerebbe"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "dovremmo",
+        "farei"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "vorrei",
+        "dovremmo"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "vorrei",
+        "parlerebbe"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "dovremmo",
+        "farei"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "vorrei",
+        "potresti"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "vorrei",
+        "dovremmo"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "potresti",
+        "vorrei"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "parlerebbe",
+        "farei"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "dovremmo",
+        "farei"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "dovremmo",
+        "potresti"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "parlerebbe",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "farei",
+        "dovremmo"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "potresti",
+        "vorrei"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "parlerebbe",
+        "farei"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "parlerebbe",
+        "potresti"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "potresti",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "parlerebbe",
+        "vorrei"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "potresti",
+        "parlerebbe"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "parlerebbe",
+        "vorrei"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "dovremmo",
+        "farei"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "potresti",
+        "farei"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "potresti",
+        "vorrei"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "potresti",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "vorrei",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "farei",
+        "potresti"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "parlerebbe",
+        "potresti"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "farei",
+        "potresti"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "farei",
+        "vorrei"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "dovremmo",
+        "vorrei"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "dovremmo",
+        "potresti"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "vorrei",
+        "potresti"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "farei",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "farei",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "parlerebbe",
+        "potresti"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "dovremmo",
+        "potresti"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "dovremmo",
+        "potresti"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "dovremmo",
+        "vorrei"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "vorrei",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "potresti",
+        "parlerebbe"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "parlerebbe",
+        "vorrei"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "potresti",
+        "vorrei"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "vorrei",
+        "farei"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "farei",
+        "potresti"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "dovremmo",
+        "potresti"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "vorrei",
+        "potresti"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "parlerebbe",
+        "farei"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "potresti",
+        "vorrei"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "potresti",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "farei",
+        "parlerebbe"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "dovremmo",
+        "parlerebbe"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "farei",
+        "potresti"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "potresti",
+        "parlerebbe"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "farei",
+        "parlerebbe"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "vorrei",
+        "parlerebbe"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "potresti",
+        "dovremmo"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "farei",
+        "potresti"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "farei",
+        "vorrei"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "dovremmo",
+        "potresti"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "parlerebbe",
+        "dovremmo"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "potresti",
+        "farei"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "vorrei",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "dovremmo",
+        "vorrei"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "farei",
+        "vorrei"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "potresti",
+        "farei"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "parlerebbe",
+        "farei"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "dovremmo",
+        "potresti"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "farei",
+        "dovremmo"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "farei",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "farei",
+        "dovremmo"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "dovremmo",
+        "potresti"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "potresti",
+        "farei"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "parlerebbe",
+        "potresti"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "parlerebbe",
+        "potresti"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "potresti",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "parlerebbe",
+        "farei"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "farei",
+        "parlerebbe"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "parlerebbe",
+        "potresti"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "potresti",
+        "vorrei"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "dovremmo",
+        "farei"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "farei",
+        "dovremmo"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "vorrei",
+        "farei"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "vorrei",
+        "dovremmo"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "farei",
+        "potresti"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "potresti",
+        "vorrei"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "farei",
+        "potresti"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "parlerebbe",
+        "vorrei"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "vorrei",
+        "parlerebbe"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "parlerebbe",
+        "potresti"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "farei",
+        "vorrei"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "vorrei",
+        "farei"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vorrei",
+        "dovremmo",
+        "parlerebbe"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "parlerebbe",
+        "vorrei"
+      ],
+      "answer": "vorrei",
+      "explanation": "Risposta corretta: vorrei"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "vorrei",
+        "potresti"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "dovremmo",
+        "potresti"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "farei",
+        "vorrei",
+        "potresti"
+      ],
+      "answer": "farei",
+      "explanation": "Risposta corretta: farei"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "potresti",
+        "vorrei"
+      ],
+      "answer": "dovremmo",
+      "explanation": "Risposta corretta: dovremmo"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "parlerebbe",
+        "potresti",
+        "farei"
+      ],
+      "answer": "parlerebbe",
+      "explanation": "Risposta corretta: parlerebbe"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dovremmo",
+        "potresti",
+        "farei"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "potresti",
+        "vorrei",
+        "farei"
+      ],
+      "answer": "potresti",
+      "explanation": "Risposta corretta: potresti"
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "level": "A2",
+  "topic_key": "verbi_modali",
+  "topic_name": "Verbi modali (potere, dovere, volere)",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "posso",
+        "puoi"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "puoi",
+        "deve"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "deve"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "deve",
+        "puoi"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "vogliono",
+        "puoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "deve",
+        "dobbiamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "deve",
+        "puoi"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "deve",
+        "puoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "puoi",
+        "deve"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "dobbiamo",
+        "puoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "dobbiamo",
+        "posso"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "puoi",
+        "vogliono"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "puoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "posso",
+        "vogliono"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "vogliono",
+        "posso"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "posso",
+        "vogliono"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "dobbiamo",
+        "deve"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "vogliono",
+        "posso"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "deve",
+        "posso"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "deve",
+        "posso"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "posso",
+        "vogliono"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "posso",
+        "deve"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "puoi",
+        "vogliono"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "puoi",
+        "posso"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "dobbiamo",
+        "posso"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "dobbiamo",
+        "puoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "puoi"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "deve",
+        "dobbiamo"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "puoi",
+        "dobbiamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "vogliono",
+        "posso"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "puoi"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "puoi",
+        "deve"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "vogliono",
+        "dobbiamo"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "deve"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "puoi",
+        "dobbiamo"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "deve",
+        "vogliono"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "puoi",
+        "posso"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "vogliono",
+        "posso"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "deve",
+        "puoi"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "deve",
+        "vogliono"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "deve",
+        "posso"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "puoi",
+        "vogliono"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "vogliono",
+        "deve"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "deve",
+        "puoi"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "puoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "dobbiamo",
+        "puoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "deve"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "vogliono",
+        "posso"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "deve",
+        "posso"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "deve",
+        "dobbiamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "puoi"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "deve",
+        "dobbiamo"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "vogliono",
+        "deve"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "posso",
+        "deve"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "vogliono",
+        "puoi"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "deve",
+        "vogliono"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "vogliono",
+        "dobbiamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "deve",
+        "posso"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "vogliono",
+        "dobbiamo"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "deve",
+        "dobbiamo"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "deve",
+        "dobbiamo"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "posso",
+        "deve"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "deve",
+        "puoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "deve",
+        "dobbiamo"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "posso",
+        "vogliono"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "puoi",
+        "deve"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "puoi",
+        "vogliono"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "posso",
+        "vogliono"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "deve",
+        "vogliono",
+        "dobbiamo"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "puoi",
+        "deve"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "vogliono",
+        "puoi"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "posso",
+        "puoi"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "posso",
+        "deve"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "puoi",
+        "deve"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "puoi",
+        "deve"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "deve",
+        "posso"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "dobbiamo",
+        "posso"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "puoi",
+        "vogliono"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "posso",
+        "deve"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "dobbiamo",
+        "puoi"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "deve",
+        "vogliono"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "dobbiamo",
+        "vogliono"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "deve",
+        "dobbiamo"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "deve",
+        "puoi"
+      ],
+      "answer": "posso",
+      "explanation": "Risposta corretta: posso"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "dobbiamo",
+        "puoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Risposta corretta: puoi"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vogliono",
+        "posso",
+        "dobbiamo"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "vogliono",
+        "deve"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "posso",
+        "puoi",
+        "deve"
+      ],
+      "answer": "deve",
+      "explanation": "Risposta corretta: deve"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "dobbiamo",
+        "posso",
+        "deve"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Risposta corretta: dobbiamo"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "puoi",
+        "vogliono",
+        "posso"
+      ],
+      "answer": "vogliono",
+      "explanation": "Risposta corretta: vogliono"
+    }
+  ]
+}
