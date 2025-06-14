@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Uso di ci",
+  "exercises": [
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci va",
+        "ci sta"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci va",
+        "ci sta"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci sta",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sono",
+        "c'è"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci va",
+        "ci sono"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sta",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci sono",
+        "ci va"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "c'è",
+        "ci sono"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sono",
+        "ci sta"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "c'è",
+        "ci sta"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sono",
+        "c'è"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci sono"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci sono"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sono",
+        "c'è"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sono",
+        "c'è"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci sono",
+        "c'è"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci sta",
+        "ci va"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci va",
+        "ci sta"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "c'è",
+        "ci sta"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci va",
+        "ci sta"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci va",
+        "c'è"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "c'è",
+        "ci sta"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sono",
+        "ci va"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sono",
+        "c'è"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sono",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci va",
+        "c'è"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sono",
+        "ci sta"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci sta",
+        "ci va"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sono",
+        "ci sta"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci sta",
+        "ci va"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci va",
+        "ci sono"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci va",
+        "ci sta"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci va",
+        "ci sono"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sta",
+        "ci va"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "c'è",
+        "ci sono"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci va",
+        "c'è"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sono",
+        "ci sta"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci va",
+        "ci sono"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci va",
+        "ci sta"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci va",
+        "c'è"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sono",
+        "ci va"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "c'è",
+        "ci sta"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci va",
+        "ci sono"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "c'è",
+        "ci sta"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sono",
+        "ci sta"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "c'è",
+        "ci sta"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci sono",
+        "ci va"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci va",
+        "c'è"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sono",
+        "ci va"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sono",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sono",
+        "ci sta"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci sono"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sono",
+        "ci sta"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "c'è",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sono",
+        "ci sta"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "c'è",
+        "ci sta"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci va",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci sono",
+        "c'è"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sono",
+        "ci va"
+      ],
+      "answer": "ci va",
+      "explanation": "Uso di 'ci': 'ci va'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci va",
+        "ci sta",
+        "c'è"
+      ],
+      "answer": "ci sta",
+      "explanation": "Uso di 'ci': 'ci sta'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sono",
+        "ci va"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "ci sono",
+        "c'è"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "ci sta",
+        "c'è",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci sta",
+        "ci sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "Uso di 'ci': 'ci sono'."
+    },
+    {
+      "question": "Completa la frase: ___ vado spesso.",
+      "options": [
+        "c'è",
+        "ci va",
+        "ci sta"
+      ],
+      "answer": "c'è",
+      "explanation": "Uso di 'ci': 'c'è'."
+    }
+  ]
+}
