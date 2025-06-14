@@ -1,0 +1,1107 @@
+{
+  "level": "B1",
+  "topic_key": "periodo_ipotetico",
+  "topic_name": "Periodo ipotetico (I e II tipo)",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "avresti",
+        "sarei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "sarei",
+        "avrei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "se avessi",
+        "sarei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "avresti",
+        "verrei"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "se avessi",
+        "sarei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "sarei",
+        "se avessi"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "sarei",
+        "verrei"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "se avessi",
+        "sarei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "verrei",
+        "avrei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "se fossi",
+        "se avessi"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "se fossi",
+        "se avessi"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "se fossi",
+        "sarei"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "avrei",
+        "se fossi"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "se fossi",
+        "verrei"
+      ],
+      "answer": "se fossi",
+      "explanation": "Risposta corretta: se fossi"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "se fossi",
+        "avresti"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "se avessi",
+        "avresti"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "sarei",
+        "se avessi"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "se avessi",
+        "sarei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "avresti",
+        "sarei"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "se fossi",
+        "avresti"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "avrei",
+        "verrei"
+      ],
+      "answer": "se fossi",
+      "explanation": "Risposta corretta: se fossi"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "sarei",
+        "se fossi"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "avrei",
+        "verrei"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "verrei",
+        "sarei"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "sarei",
+        "verrei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "se avessi",
+        "avrei"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "avrei",
+        "avresti"
+      ],
+      "answer": "se fossi",
+      "explanation": "Risposta corretta: se fossi"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "verrei",
+        "sarei"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "verrei",
+        "avrei"
+      ],
+      "answer": "se fossi",
+      "explanation": "Risposta corretta: se fossi"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "avrei",
+        "se fossi"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "se avessi",
+        "avresti"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "avresti",
+        "verrei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "se avessi",
+        "avrei"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "avresti",
+        "avrei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "avresti",
+        "avrei"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "avrei",
+        "sarei"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "sarei",
+        "se avessi"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "avrei",
+        "sarei"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "sarei",
+        "se fossi"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "avresti",
+        "se fossi"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "verrei",
+        "se avessi"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "avresti",
+        "sarei"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "verrei",
+        "se fossi"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "sarei",
+        "avrei"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "sarei",
+        "se avessi"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "sarei",
+        "se avessi"
+      ],
+      "answer": "se fossi",
+      "explanation": "Risposta corretta: se fossi"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "avresti",
+        "avrei"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "verrei",
+        "se fossi"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "verrei",
+        "avresti"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "avresti",
+        "verrei"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "avresti",
+        "se avessi"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "avrei",
+        "sarei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "se avessi",
+        "verrei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "avrei",
+        "verrei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "sarei",
+        "se fossi"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "se fossi",
+        "verrei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "se avessi",
+        "se fossi"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "avresti",
+        "se avessi"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "verrei",
+        "avresti"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "avrei",
+        "avresti"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "sarei",
+        "avresti"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "verrei",
+        "se avessi"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "se fossi",
+        "avrei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "avrei",
+        "avresti"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "se avessi",
+        "se fossi"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "avresti",
+        "sarei"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "avresti",
+        "verrei"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "verrei",
+        "se fossi"
+      ],
+      "answer": "se fossi",
+      "explanation": "Risposta corretta: se fossi"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "se avessi",
+        "avrei"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "avresti",
+        "avrei"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "se avessi",
+        "avrei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "verrei",
+        "sarei"
+      ],
+      "answer": "se fossi",
+      "explanation": "Risposta corretta: se fossi"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "se avessi",
+        "avresti"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "se avessi",
+        "sarei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "se fossi",
+        "se avessi"
+      ],
+      "answer": "se fossi",
+      "explanation": "Risposta corretta: se fossi"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "avresti",
+        "sarei"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "se avessi",
+        "sarei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "verrei",
+        "avresti"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "avresti",
+        "avrei"
+      ],
+      "answer": "se fossi",
+      "explanation": "Risposta corretta: se fossi"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "se avessi",
+        "avresti"
+      ],
+      "answer": "se fossi",
+      "explanation": "Risposta corretta: se fossi"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "se avessi",
+        "verrei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "se avessi",
+        "avresti"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "se avessi",
+        "avrei"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "avrei",
+        "avresti"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "se fossi",
+        "se avessi"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "avrei",
+        "se fossi"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "avrei",
+        "avresti"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "verrei",
+        "sarei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "avrei",
+        "sarei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "verrei",
+        "se fossi",
+        "avresti"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "verrei",
+        "avrei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "verrei",
+        "avrei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "verrei",
+        "sarei"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "verrei",
+        "avrei"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "verrei",
+        "se avessi"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi",
+        "avrei",
+        "sarei"
+      ],
+      "answer": "se avessi",
+      "explanation": "Risposta corretta: se avessi"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei",
+        "avresti",
+        "se avessi"
+      ],
+      "answer": "avresti",
+      "explanation": "Risposta corretta: avresti"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei",
+        "verrei",
+        "se fossi"
+      ],
+      "answer": "sarei",
+      "explanation": "Risposta corretta: sarei"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avresti",
+        "verrei",
+        "sarei"
+      ],
+      "answer": "verrei",
+      "explanation": "Risposta corretta: verrei"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se fossi",
+        "avrei",
+        "sarei"
+      ],
+      "answer": "avrei",
+      "explanation": "Risposta corretta: avrei"
+    }
+  ]
+}

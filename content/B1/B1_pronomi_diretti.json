@@ -1,0 +1,1107 @@
+{
+  "level": "B1",
+  "topic_key": "pronomi_diretti",
+  "topic_name": "Pronomi diretti",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "lo",
+        "le"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "le",
+        "lo"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "lo"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "le",
+        "li"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "li",
+        "la"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "li",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "le",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "li",
+        "la"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "lo",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "la",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "li",
+        "le"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "li"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "li"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "li",
+        "lo"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "lo",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "li",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "la",
+        "lo"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "li",
+        "lo"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "la",
+        "lo"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "le",
+        "lo"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "li",
+        "la"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "li",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "li",
+        "lo"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "li",
+        "lo"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "la",
+        "li"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "le",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "li"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "la",
+        "le"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "lo",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "li",
+        "la"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "la",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "la"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "li",
+        "lo"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "la",
+        "le"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "la",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "la",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "la"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "la",
+        "lo"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "li",
+        "le"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "la",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "lo",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "lo",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "li",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "le",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "la",
+        "lo"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "lo",
+        "le"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "lo",
+        "le"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "lo",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "la",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "la",
+        "lo"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "li",
+        "la"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "li",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "le",
+        "li"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "la",
+        "lo"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "le",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "lo"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "lo"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "la",
+        "le"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "le",
+        "lo"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "le",
+        "li"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "li",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "la",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "la",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "li",
+        "le"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "lo"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "li",
+        "lo"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "li",
+        "lo"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "li",
+        "le"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "la",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "le",
+        "li"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "li"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "la",
+        "li"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "lo",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "li",
+        "la"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "la",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "lo"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "li"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "lo",
+        "le"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "li",
+        "le"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "lo",
+        "li"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "le",
+        "la"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "le",
+        "la"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "li"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "li",
+        "lo"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "li",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "le",
+        "la"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "lo",
+        "le",
+        "li"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "li"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "la"
+      ],
+      "answer": "lo",
+      "explanation": "Risposta corretta: lo"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "la",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "lo",
+        "li"
+      ],
+      "answer": "li",
+      "explanation": "Risposta corretta: li"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "li",
+        "la",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "la",
+        "le",
+        "li"
+      ],
+      "answer": "la",
+      "explanation": "Risposta corretta: la"
+    }
+  ]
+}

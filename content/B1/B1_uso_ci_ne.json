@@ -1,0 +1,1107 @@
+{
+  "level": "B1",
+  "topic_key": "uso_ci_ne",
+  "topic_name": "Uso di 'ci' e 'ne'",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ci vado",
+        "ne parliamo"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ne ho bisogno"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ne parliamo",
+        "ci vado"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne ho bisogno",
+        "ne parliamo"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne ho bisogno",
+        "ne parliamo"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ci vado",
+        "ne parliamo"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ne ho bisogno",
+        "ne parliamo"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ne ho bisogno",
+        "ci vado"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ci vado",
+        "ne ho bisogno"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne parliamo",
+        "ne ho bisogno"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne parliamo",
+        "ne ho bisogno"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ci vado",
+        "ce l'ho"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ce l'ho",
+        "ne ho bisogno"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne parliamo",
+        "ce l'ho"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne parliamo",
+        "ne ho bisogno"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ci vado",
+        "ce l'ho"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ne parliamo",
+        "ne ho bisogno"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne ho bisogno",
+        "ce l'ho"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ci vado",
+        "ce l'ho"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ci vado",
+        "ne ho bisogno"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne ho bisogno",
+        "ce l'ho"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ne ho bisogno",
+        "ne parliamo"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ci vado",
+        "ne ho bisogno"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne ho bisogno",
+        "ce l'ho"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ne parliamo",
+        "ce l'ho"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ne ho bisogno"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ci vado",
+        "ne ho bisogno"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ci vado",
+        "ne ho bisogno"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ne ho bisogno"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ci vado",
+        "ne parliamo"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ci vado",
+        "ne ho bisogno"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ci vado",
+        "ne ho bisogno"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ce l'ho",
+        "ne ho bisogno"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ne parliamo",
+        "ci vado"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ne parliamo",
+        "ce l'ho"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ne ho bisogno",
+        "ci vado"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ci vado",
+        "ne parliamo"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ne ho bisogno"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ci vado",
+        "ce l'ho"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ci vado",
+        "ne parliamo"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne ho bisogno",
+        "ne parliamo"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ne ho bisogno",
+        "ce l'ho"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne parliamo",
+        "ce l'ho"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne parliamo",
+        "ne ho bisogno"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ne ho bisogno",
+        "ci vado"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ne ho bisogno"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne parliamo",
+        "ce l'ho"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ne parliamo",
+        "ci vado"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ne ho bisogno",
+        "ci vado"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ne ho bisogno",
+        "ci vado"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ne parliamo",
+        "ci vado"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ne parliamo",
+        "ne ho bisogno"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ci vado",
+        "ne ho bisogno"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne ho bisogno",
+        "ne parliamo"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ne ho bisogno",
+        "ce l'ho"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ne parliamo",
+        "ne ho bisogno"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ne ho bisogno",
+        "ci vado"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ce l'ho",
+        "ne ho bisogno"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ne parliamo",
+        "ne ho bisogno"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ci vado",
+        "ce l'ho"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ne ho bisogno",
+        "ci vado"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ci vado",
+        "ne parliamo"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ne parliamo",
+        "ci vado"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ci vado",
+        "ne parliamo"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ci vado",
+        "ne parliamo"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ci vado",
+        "ce l'ho"
+      ],
+      "answer": "ne parliamo",
+      "explanation": "Risposta corretta: ne parliamo"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ne parliamo",
+        "ce l'ho"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce l'ho",
+        "ci vado",
+        "ne ho bisogno"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ne parliamo",
+        "ci vado"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ci vado",
+        "ne ho bisogno"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ce l'ho",
+        "ne ho bisogno"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ne parliamo",
+        "ne ho bisogno"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ce l'ho",
+        "ci vado"
+      ],
+      "answer": "ce l'ho",
+      "explanation": "Risposta corretta: ce l'ho"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci vado",
+        "ce l'ho",
+        "ne ho bisogno"
+      ],
+      "answer": "ci vado",
+      "explanation": "Risposta corretta: ci vado"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne parliamo",
+        "ne ho bisogno",
+        "ce l'ho"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ne ho bisogno",
+        "ce l'ho",
+        "ne parliamo"
+      ],
+      "answer": "ne ho bisogno",
+      "explanation": "Risposta corretta: ne ho bisogno"
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "level": "B1",
+  "topic_key": "pronomi_combinati",
+  "topic_name": "Pronomi combinati",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ce li",
+        "ve lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "te la",
+        "ve lo"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "te la",
+        "ce li"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "ce li"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "ce li",
+        "gliela"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "gliela",
+        "te la"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "gliela",
+        "ve lo"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "me lo",
+        "ve lo"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "ce li",
+        "me lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "gliela",
+        "me lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "te la",
+        "me lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "me lo",
+        "ve lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "ve lo",
+        "me lo"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "te la",
+        "gliela"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "me lo",
+        "te la"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "ce li",
+        "gliela"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "gliela",
+        "me lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "te la"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "gliela",
+        "ve lo"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "me lo",
+        "ve lo"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "ve lo",
+        "gliela"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "me lo",
+        "ce li"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "te la",
+        "gliela"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "gliela",
+        "ve lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "me lo",
+        "ve lo"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "te la",
+        "me lo"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "ce li",
+        "me lo"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ce li",
+        "te la"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "gliela",
+        "me lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "gliela",
+        "me lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "te la",
+        "me lo"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "ce li",
+        "te la"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "ce li"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "me lo",
+        "gliela"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "me lo",
+        "gliela"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "te la",
+        "ve lo"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "te la",
+        "ce li"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "gliela",
+        "me lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "ce li",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "me lo",
+        "gliela"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "gliela",
+        "me lo"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "gliela",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "gliela",
+        "ce li"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "ve lo",
+        "gliela"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "me lo",
+        "gliela"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "te la",
+        "ce li"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ce li",
+        "gliela"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "me lo",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "me lo",
+        "gliela"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "me lo",
+        "gliela"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "ce li",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "gliela"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "gliela",
+        "ve lo"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "te la",
+        "me lo"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "te la",
+        "ce li"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "te la",
+        "ce li"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "te la",
+        "me lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ce li",
+        "ve lo"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "ce li",
+        "te la"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "ce li"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "te la",
+        "gliela"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "ce li",
+        "gliela"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "ve lo",
+        "te la"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "ce li",
+        "gliela"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "ve lo",
+        "te la"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "gliela",
+        "ce li"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "me lo",
+        "ce li"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "gliela",
+        "ce li"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "gliela",
+        "ve lo"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "me lo",
+        "ve lo"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "gliela",
+        "te la"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "ve lo",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "ce li"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "ve lo",
+        "te la"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "ve lo",
+        "te la"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "ce li"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "gliela",
+        "ce li"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "me lo",
+        "te la"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "te la",
+        "ce li"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "me lo",
+        "gliela"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "gliela"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "me lo",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "ve lo",
+        "me lo"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "me lo",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "ce li",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "ce li"
+      ],
+      "answer": "ve lo",
+      "explanation": "Risposta corretta: ve lo"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "ve lo",
+        "me lo"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "ve lo",
+        "ce li"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "gliela",
+        "te la"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "te la",
+        "ce li"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ve lo",
+        "me lo",
+        "te la"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "ve lo",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "gliela",
+        "me lo"
+      ],
+      "answer": "me lo",
+      "explanation": "Risposta corretta: me lo"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ce li",
+        "ve lo",
+        "te la"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "ce li",
+        "gliela"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ce li",
+        "te la"
+      ],
+      "answer": "ce li",
+      "explanation": "Risposta corretta: ce li"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "me lo",
+        "ve lo",
+        "te la"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gliela",
+        "ce li",
+        "ve lo"
+      ],
+      "answer": "gliela",
+      "explanation": "Risposta corretta: gliela"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "te la",
+        "ve lo",
+        "gliela"
+      ],
+      "answer": "te la",
+      "explanation": "Risposta corretta: te la"
+    }
+  ]
+}

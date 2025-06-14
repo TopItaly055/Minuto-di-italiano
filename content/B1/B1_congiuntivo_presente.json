@@ -1,0 +1,1107 @@
+{
+  "level": "B1",
+  "topic_key": "congiuntivo_presente",
+  "topic_name": "Congiuntivo presente",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che lui abbia"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che lui abbia",
+        "che tu vada"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che io parli",
+        "che noi siamo"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che lui abbia",
+        "che io parli"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che io parli",
+        "che lui abbia"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che tu vada",
+        "che io parli"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che io parli",
+        "che noi siamo"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che tu vada",
+        "che noi siamo"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che lui abbia",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che lui abbia",
+        "che noi siamo"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che tu vada",
+        "che noi siamo"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che noi siamo",
+        "che lui abbia"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che tu vada",
+        "che io parli"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che noi siamo",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che io parli",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che lui abbia",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che lui abbia",
+        "che io parli"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che lui abbia",
+        "che tu vada"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che noi siamo",
+        "che tu vada"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che lui abbia",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che lui abbia",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che lui abbia",
+        "che tu vada"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che io parli",
+        "che noi siamo"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che lui abbia",
+        "che io parli"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che lui abbia",
+        "che noi siamo"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che lui abbia"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che io parli",
+        "che noi siamo"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che tu vada",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che lui abbia"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che io parli",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che tu vada",
+        "che noi siamo"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che lui abbia",
+        "che noi siamo"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che io parli",
+        "che lui abbia"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che lui abbia",
+        "che io parli"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che lui abbia",
+        "che tu vada"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che noi siamo",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che tu vada",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che tu vada",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che noi siamo",
+        "che tu vada"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che tu vada",
+        "che noi siamo"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che io parli",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che io parli",
+        "che lui abbia"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che tu vada",
+        "che io parli"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che io parli",
+        "che lui abbia"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che noi siamo",
+        "che lui abbia"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che io parli",
+        "che noi siamo"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che lui abbia",
+        "che noi siamo"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che tu vada",
+        "che io parli"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che noi siamo",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che noi siamo",
+        "che lui abbia"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che lui abbia",
+        "che tu vada"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che tu vada",
+        "che noi siamo"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che noi siamo",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che tu vada",
+        "che noi siamo"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che lui abbia",
+        "che noi siamo"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che io parli",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che io parli",
+        "che lui abbia",
+        "che tu vada"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che lui abbia",
+        "che noi siamo"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che lui abbia",
+        "che tu vada"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che lui abbia",
+        "che io parli"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che lui abbia",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che io parli"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che tu vada",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che noi siamo",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che io parli",
+      "explanation": "Risposta corretta: che io parli"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che io parli",
+        "che tu vada"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che lui abbia",
+        "che noi siamo"
+      ],
+      "answer": "che lui abbia",
+      "explanation": "Risposta corretta: che lui abbia"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che tu vada",
+        "che noi siamo",
+        "che lui abbia"
+      ],
+      "answer": "che noi siamo",
+      "explanation": "Risposta corretta: che noi siamo"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "che lui abbia",
+        "che tu vada",
+        "che io parli"
+      ],
+      "answer": "che tu vada",
+      "explanation": "Risposta corretta: che tu vada"
+    }
+  ]
+}

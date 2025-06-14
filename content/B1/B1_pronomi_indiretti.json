@@ -1,0 +1,1107 @@
+{
+  "level": "B1",
+  "topic_key": "pronomi_indiretti",
+  "topic_name": "Pronomi indiretti",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "ci",
+        "vi"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "ci",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "ci",
+        "vi"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "le",
+        "ci"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "gli",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "mi",
+        "le"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "mi",
+        "vi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "mi",
+        "vi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "le",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "ci",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "le",
+        "vi"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "ci",
+        "gli"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "mi",
+        "vi"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "gli",
+        "le"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "ci",
+        "gli"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "ci",
+        "le"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "le",
+        "ci"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "le",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "mi",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "ci",
+        "vi"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "vi",
+        "ci"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "vi",
+        "le"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "le",
+        "mi"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "le",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "mi",
+        "le"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "ci",
+        "gli"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "ci",
+        "gli"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "ci",
+        "gli"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "ci",
+        "gli"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "le",
+        "gli"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "ci",
+        "le"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "ci",
+        "mi"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "ci",
+        "le"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "ci",
+        "vi"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "le",
+        "gli"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "vi",
+        "le"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "gli",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "vi",
+        "le"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "le",
+        "ci"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "vi",
+        "ci"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "vi",
+        "ci"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "le",
+        "gli"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "gli",
+        "vi"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "le",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "vi",
+        "le"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "gli",
+        "le"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "ci",
+        "le"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "mi",
+        "vi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "mi",
+        "le"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "le",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "le",
+        "ci"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "vi",
+        "mi"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "mi",
+        "ci"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "le",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "ci",
+        "vi"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "vi",
+        "gli"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "le",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "ci",
+        "vi"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "vi",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "mi",
+        "gli"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "gli",
+        "le"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "ci",
+        "vi"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "ci",
+        "mi"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "ci",
+        "gli"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "ci",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "mi",
+        "gli"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "mi",
+        "ci"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "vi",
+        "ci"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "ci",
+        "gli"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "le",
+        "vi"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "le",
+        "ci"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "le",
+        "ci"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "vi",
+        "le"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "gli",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "ci",
+        "mi"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "ci",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "mi",
+        "vi"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "le",
+        "ci"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "mi",
+        "gli"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "vi",
+        "gli"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "ci",
+        "vi"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "mi",
+        "vi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "le",
+        "mi"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "le",
+        "mi"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "ci",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "gli",
+        "le"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "ci",
+        "vi"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "le",
+        "gli"
+      ],
+      "answer": "vi",
+      "explanation": "Risposta corretta: vi"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "mi",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "vi",
+        "gli"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "le",
+        "vi"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "le",
+        "ci",
+        "vi"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "vi",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "mi",
+        "le"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "mi",
+        "le",
+        "ci"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "gli",
+        "le"
+      ],
+      "answer": "le",
+      "explanation": "Risposta corretta: le"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "ci",
+        "gli",
+        "vi"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "mi",
+        "ci"
+      ],
+      "answer": "ci",
+      "explanation": "Risposta corretta: ci"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "vi",
+        "gli",
+        "mi"
+      ],
+      "answer": "mi",
+      "explanation": "Risposta corretta: mi"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "gli",
+        "mi",
+        "ci"
+      ],
+      "answer": "gli",
+      "explanation": "Risposta corretta: gli"
+    }
+  ]
+}
