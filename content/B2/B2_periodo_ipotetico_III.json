@@ -1,0 +1,1107 @@
+{
+  "level": "B2",
+  "topic_key": "periodo_ipotetico_III",
+  "topic_name": "Periodo ipotetico III tipo",
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 2,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 3,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 4,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 5,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 6,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 7,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 8,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 9,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 10,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 11,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 12,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 13,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 14,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 15,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 16,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 17,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 18,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 19,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 20,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 21,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 22,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 23,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 24,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 25,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 26,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 27,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 28,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 29,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 30,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 31,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 32,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 33,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 34,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 35,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 36,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 37,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 38,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 39,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 40,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 41,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 42,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 43,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 44,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 45,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 46,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 47,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 48,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 49,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 50,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 51,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 52,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 53,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 54,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 55,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 56,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 57,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 58,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 59,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 60,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 61,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 62,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 63,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 64,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 65,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 66,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 67,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 68,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 69,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 70,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 71,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 72,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 73,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 74,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 75,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 76,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 77,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 78,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 79,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 80,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 81,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 82,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 83,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 84,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 85,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 86,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 87,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 88,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 89,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 90,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 91,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "sarei andato",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 92,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 93,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "se avessi saputo",
+        "sarei andato"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 94,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "se avessi saputo",
+        "avrei comprato"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 95,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 96,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "sarei andato",
+      "explanation": "Risposta corretta: sarei andato"
+    },
+    {
+      "id": 97,
+      "question": "Completa la frase: ___",
+      "options": [
+        "sarei andato",
+        "avrei comprato",
+        "se avessi saputo"
+      ],
+      "answer": "avrei comprato",
+      "explanation": "Risposta corretta: avrei comprato"
+    },
+    {
+      "id": 98,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 99,
+      "question": "Completa la frase: ___",
+      "options": [
+        "avrei comprato",
+        "sarei andato",
+        "se avessi saputo"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    },
+    {
+      "id": 100,
+      "question": "Completa la frase: ___",
+      "options": [
+        "se avessi saputo",
+        "avrei comprato",
+        "sarei andato"
+      ],
+      "answer": "se avessi saputo",
+      "explanation": "Risposta corretta: se avessi saputo"
+    }
+  ]
+}
