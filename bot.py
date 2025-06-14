@@ -185,8 +185,33 @@ async def main():
     app.add_handler(conv)
 
     logging.info("✅ Запускаем polling…")
-    await app.run_polling(drop_pending_updates=True)
+    
+    def main():
+    if not TOKEN:
+        logging.error("❌ BOT_TOKEN не задан.")
+        return
 
+    # Сброс webhooks
+    asyncio.run(Bot(token=TOKEN).delete_webhook(drop_pending_updates=True))
+    logging.info("🔄 Webhook удалён, очередь сброшена.")
+
+    # Настройка приложения
+    app = ApplicationBuilder().token(TOKEN).build()
+    conv = ConversationHandler(
+        entry_points=[CommandHandler("quiz", quiz)],
+        states={
+            STATE_LEVEL: [CallbackQueryHandler(on_level_select, pattern=r"^level\|")],
+            STATE_TOPIC: [CallbackQueryHandler(on_topic_select, pattern=r"^topic\|")],
+            STATE_QUIZ:  [MessageHandler(filters.TEXT & ~filters.COMMAND, handle_answer)],
+        },
+        fallbacks=[CommandHandler("cancel", cancel)],
+        allow_reentry=True,
+    )
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(conv)
+
+    logging.info("✅ Запускаем polling…")
+    app.run_polling(drop_pending_updates=True)
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
