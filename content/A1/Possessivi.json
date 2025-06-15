@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Possessivi",
+  "exercises": [
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "loro",
+        "tuo"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "suo",
+        "loro"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "loro",
+        "mio"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "suo",
+        "vostro"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "vostro",
+        "loro"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "mio",
+        "suo"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "mio",
+        "vostro"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "tuo",
+        "vostro"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "loro",
+        "suo"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "mio",
+        "tuo"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "mio",
+        "nostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "tuo",
+        "nostro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "nostro",
+        "suo"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "loro",
+        "mio"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "mio",
+        "tuo"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "tuo",
+        "mio"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "loro",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "nostro",
+        "mio"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "suo",
+        "loro"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "suo",
+        "loro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "suo",
+        "vostro"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "mio",
+        "tuo"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "mio",
+        "vostro"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "nostro",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "vostro",
+        "tuo"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "tuo",
+        "nostro"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "vostro",
+        "nostro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "loro",
+        "tuo"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "loro",
+        "nostro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "tuo",
+        "mio"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "tuo",
+        "mio"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "tuo",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "loro",
+        "vostro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "suo",
+        "mio"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "tuo",
+        "nostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "nostro",
+        "suo"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "vostro",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "suo",
+        "tuo"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "nostro",
+        "loro"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "tuo",
+        "nostro"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "mio",
+        "loro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "vostro",
+        "mio"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "mio",
+        "vostro"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "suo",
+        "tuo"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "suo",
+        "loro"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "nostro",
+        "loro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "suo",
+        "nostro"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "loro",
+        "mio"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "suo",
+        "mio"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "mio",
+        "tuo"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "nostro",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "mio",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "nostro",
+        "mio"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "vostro",
+        "nostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "loro",
+        "mio"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "tuo",
+        "nostro"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "nostro",
+        "suo"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "tuo",
+        "nostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "suo",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "mio",
+        "nostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "tuo",
+        "mio"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "nostro",
+        "tuo"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "tuo",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "loro",
+        "mio"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "nostro",
+        "tuo"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "loro",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "nostro",
+        "loro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "mio",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "suo",
+        "nostro"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "vostro",
+        "mio"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "vostro",
+        "nostro"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "mio",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "vostro",
+        "tuo"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "vostro",
+        "loro"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "nostro",
+        "suo"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "vostro",
+        "nostro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "mio",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "vostro",
+        "mio"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "suo",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "nostro",
+        "mio"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "tuo",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "tuo",
+        "mio"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "tuo",
+        "mio"
+      ],
+      "answer": "mio",
+      "explanation": "Possessivo corretto: 'mio'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "nostro",
+        "vostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "suo",
+        "nostro"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "mio",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "nostro",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "loro",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "vostro",
+        "mio"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "suo",
+        "loro"
+      ],
+      "answer": "vostro",
+      "explanation": "Possessivo corretto: 'vostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "tuo",
+        "nostro"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "tuo",
+        "vostro"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "suo",
+        "loro",
+        "vostro"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "mio",
+        "vostro"
+      ],
+      "answer": "nostro",
+      "explanation": "Possessivo corretto: 'nostro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "nostro",
+        "suo",
+        "mio"
+      ],
+      "answer": "suo",
+      "explanation": "Possessivo corretto: 'suo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "vostro",
+        "tuo"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "mio",
+        "nostro",
+        "tuo"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "tuo",
+        "nostro",
+        "mio"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "loro",
+        "nostro",
+        "mio"
+      ],
+      "answer": "loro",
+      "explanation": "Possessivo corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: Questo è ___ libro.",
+      "options": [
+        "vostro",
+        "tuo",
+        "loro"
+      ],
+      "answer": "tuo",
+      "explanation": "Possessivo corretto: 'tuo'."
+    }
+  ]
+}

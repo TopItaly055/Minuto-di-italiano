@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Dimostrativi",
+  "exercises": [
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "questo",
+        "quella"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "questi"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quella",
+        "questo"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quelle",
+        "quella"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quella",
+        "quelle"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "quelle",
+        "questo"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "quelle",
+        "questo"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "quelle"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "questi"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "quelle"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quelle",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "questi",
+        "quelle"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quelle",
+        "quella"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quelle",
+        "questi"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "quelle",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "questo",
+        "quelle"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questo"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "quelle",
+        "questi"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quelle",
+        "questi"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questi"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "questo",
+        "quella"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "quelle",
+        "questi"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quella",
+        "quelle"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "questi",
+        "quella"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questi",
+        "quella"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quella",
+        "quelle"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questo",
+        "questi"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questi",
+        "quelle"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questi",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quelle",
+        "quella"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questi",
+        "quelle"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "questo",
+        "quella"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "quelle",
+        "questi"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questi",
+        "questo"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questi",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questo",
+        "questi"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "quelle",
+        "questi"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quella",
+        "questi"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "questi"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questo",
+        "quella"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quella",
+        "quelle"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "questi"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quelle",
+        "questi"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "questo",
+        "quella"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questi"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questo",
+        "questi"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quella",
+        "quelle"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questi"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "questi",
+        "quella"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "questi",
+        "quelle"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questi",
+        "quella"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quella",
+        "questi"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "quelle",
+        "questi"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questi",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quella",
+        "quelle"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questo"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quelle",
+        "quella"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questo",
+        "questi"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "quelle",
+        "questi"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "questo",
+        "quella"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quelle",
+        "questo"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quelle",
+        "quella"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "questo",
+        "quella"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questo"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questi"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "quelle",
+        "questi"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questo"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "questo",
+        "quelle"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questo",
+        "quella"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questo"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questi",
+        "questo"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questi",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quelle",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "questi"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "questi"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "questo",
+        "quelle"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questi",
+        "questo"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quelle",
+        "quella"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questi",
+        "questo"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "quelle"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "quelle"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quella",
+        "quelle"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "questi",
+        "quelle"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "quelle",
+        "questo"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questo"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "quelle"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "quelle"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questo"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "questi",
+        "quella"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "questi",
+        "quelle"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "questi",
+        "quella"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quella",
+        "quelle"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questi",
+        "questo",
+        "quelle"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quelle",
+        "quella",
+        "questi"
+      ],
+      "answer": "quelle",
+      "explanation": "Dimostrativo corretto: 'quelle'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "quella",
+        "questo",
+        "quelle"
+      ],
+      "answer": "questo",
+      "explanation": "Dimostrativo corretto: 'questo'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quella",
+        "questi"
+      ],
+      "answer": "quella",
+      "explanation": "Dimostrativo corretto: 'quella'."
+    },
+    {
+      "question": "Completa la frase: ___ libro è interessante.",
+      "options": [
+        "questo",
+        "quella",
+        "questi"
+      ],
+      "answer": "questi",
+      "explanation": "Dimostrativo corretto: 'questi'."
+    }
+  ]
+}

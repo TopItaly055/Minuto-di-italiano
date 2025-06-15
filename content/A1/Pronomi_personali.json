@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Pronomi personali",
+  "exercises": [
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "tu",
+        "noi"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "lui",
+        "voi"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "lui",
+        "lei"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "tu",
+        "noi"
+      ],
+      "answer": "noi",
+      "explanation": "Soggetto corretto: 'noi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "loro",
+        "voi"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "io",
+        "lei"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "noi",
+        "loro"
+      ],
+      "answer": "noi",
+      "explanation": "Soggetto corretto: 'noi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "lei",
+        "noi"
+      ],
+      "answer": "lei",
+      "explanation": "Soggetto corretto: 'lei'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "tu",
+        "loro"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "lui",
+        "voi"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "voi",
+        "lei"
+      ],
+      "answer": "lei",
+      "explanation": "Soggetto corretto: 'lei'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "tu",
+        "noi"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "voi",
+        "io"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "lui",
+        "voi"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "voi",
+        "lei"
+      ],
+      "answer": "lei",
+      "explanation": "Soggetto corretto: 'lei'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "tu",
+        "lui"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "noi",
+        "tu"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "lui",
+        "voi"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "voi",
+        "lei"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "lui",
+        "noi"
+      ],
+      "answer": "noi",
+      "explanation": "Soggetto corretto: 'noi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "lui",
+        "lei"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "lui",
+        "io"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "lei",
+        "voi"
+      ],
+      "answer": "lei",
+      "explanation": "Soggetto corretto: 'lei'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "voi",
+        "io"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "lei",
+        "lui"
+      ],
+      "answer": "noi",
+      "explanation": "Soggetto corretto: 'noi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "noi",
+        "io"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "lui",
+        "noi"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "tu",
+        "voi"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "voi",
+        "lui"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "tu",
+        "noi"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "lei",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "lei",
+        "lui"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "io",
+        "tu"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "lui",
+        "io"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "tu",
+        "lei"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "tu",
+        "voi"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "lui",
+        "lei"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "tu",
+        "loro"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "io",
+        "tu"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "tu",
+        "io"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "loro",
+        "voi"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "noi",
+        "io"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "noi",
+        "voi"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "voi",
+        "tu"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "io",
+        "lui"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "lui",
+        "noi"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "loro",
+        "tu"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "loro",
+        "tu"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "tu",
+        "loro"
+      ],
+      "answer": "noi",
+      "explanation": "Soggetto corretto: 'noi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "loro",
+        "noi"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "noi",
+        "io"
+      ],
+      "answer": "noi",
+      "explanation": "Soggetto corretto: 'noi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "voi",
+        "lei"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "lei",
+        "lui"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "voi",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "loro",
+        "io"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "io",
+        "tu"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "tu",
+        "io"
+      ],
+      "answer": "noi",
+      "explanation": "Soggetto corretto: 'noi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "lei",
+        "voi"
+      ],
+      "answer": "lei",
+      "explanation": "Soggetto corretto: 'lei'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "tu",
+        "io"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "loro",
+        "lui"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "loro",
+        "tu"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "voi",
+        "lui"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "lui",
+        "lei"
+      ],
+      "answer": "lei",
+      "explanation": "Soggetto corretto: 'lei'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "tu",
+        "io"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "lei",
+        "voi"
+      ],
+      "answer": "lei",
+      "explanation": "Soggetto corretto: 'lei'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "lui",
+        "noi"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "voi",
+        "loro"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "io",
+        "noi"
+      ],
+      "answer": "noi",
+      "explanation": "Soggetto corretto: 'noi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "tu",
+        "lui"
+      ],
+      "answer": "lei",
+      "explanation": "Soggetto corretto: 'lei'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "loro",
+        "noi"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "noi",
+        "loro",
+        "lei"
+      ],
+      "answer": "noi",
+      "explanation": "Soggetto corretto: 'noi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lei",
+        "voi",
+        "lui"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "noi",
+        "loro"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "loro",
+        "noi"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "tu",
+        "lui"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "tu",
+        "loro"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "tu",
+        "io"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "tu",
+        "noi"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "io",
+        "lei"
+      ],
+      "answer": "lei",
+      "explanation": "Soggetto corretto: 'lei'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "noi",
+        "loro"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "lui",
+        "noi"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "tu",
+        "lui"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "io",
+        "loro"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "io",
+        "lui"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "io",
+        "voi"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "voi",
+        "tu"
+      ],
+      "answer": "tu",
+      "explanation": "Soggetto corretto: 'tu'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "voi",
+        "noi"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "voi",
+        "noi"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "loro",
+        "noi"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "noi",
+        "tu"
+      ],
+      "answer": "loro",
+      "explanation": "Soggetto corretto: 'loro'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "lui",
+        "loro"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "tu",
+        "lui",
+        "io"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "io",
+        "voi",
+        "noi"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "io",
+        "tu"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "lei",
+        "lui"
+      ],
+      "answer": "lei",
+      "explanation": "Soggetto corretto: 'lei'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "io",
+        "lui"
+      ],
+      "answer": "io",
+      "explanation": "Soggetto corretto: 'io'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "loro",
+        "lui",
+        "noi"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "lui",
+        "noi",
+        "voi"
+      ],
+      "answer": "lui",
+      "explanation": "Soggetto corretto: 'lui'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "io",
+        "tu"
+      ],
+      "answer": "voi",
+      "explanation": "Soggetto corretto: 'voi'."
+    },
+    {
+      "question": "Completa la frase: ___ vado a scuola.",
+      "options": [
+        "voi",
+        "noi",
+        "lui"
+      ],
+      "answer": "noi",
+      "explanation": "Soggetto corretto: 'noi'."
+    }
+  ]
+}

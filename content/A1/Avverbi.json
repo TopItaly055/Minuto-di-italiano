@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Avverbi",
+  "exercises": [
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "domani",
+        "mai"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "presto",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "domani",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "presto",
+        "tardi"
+      ],
+      "answer": "presto",
+      "explanation": "Avverbio: 'presto'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "domani",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "tardi",
+        "presto"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "sempre",
+        "presto"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "sempre",
+        "tardi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "sempre",
+        "domani"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "mai",
+        "oggi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "tardi",
+        "presto"
+      ],
+      "answer": "presto",
+      "explanation": "Avverbio: 'presto'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "oggi",
+        "domani"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "oggi",
+        "sempre"
+      ],
+      "answer": "presto",
+      "explanation": "Avverbio: 'presto'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "domani",
+        "tardi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "tardi",
+        "presto"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "domani",
+        "presto"
+      ],
+      "answer": "presto",
+      "explanation": "Avverbio: 'presto'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "tardi",
+        "oggi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "tardi",
+        "oggi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "presto",
+        "domani"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "sempre",
+        "oggi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "mai",
+        "sempre"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "tardi",
+        "sempre"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "mai",
+        "tardi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "sempre",
+        "mai"
+      ],
+      "answer": "presto",
+      "explanation": "Avverbio: 'presto'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "domani",
+        "sempre"
+      ],
+      "answer": "presto",
+      "explanation": "Avverbio: 'presto'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "sempre",
+        "tardi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "mai",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "sempre",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "oggi",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "presto",
+        "tardi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "sempre",
+        "domani"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "presto",
+        "oggi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "tardi",
+        "presto"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "domani",
+        "sempre"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "oggi",
+        "sempre"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "mai",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "oggi",
+        "presto"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "sempre",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "domani",
+        "mai"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "tardi",
+        "domani"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "sempre",
+        "mai"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "mai",
+        "tardi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "presto",
+        "tardi"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "tardi",
+        "oggi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "tardi",
+        "mai"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "mai",
+        "sempre"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "mai",
+        "domani"
+      ],
+      "answer": "presto",
+      "explanation": "Avverbio: 'presto'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "tardi",
+        "presto"
+      ],
+      "answer": "presto",
+      "explanation": "Avverbio: 'presto'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "domani",
+        "tardi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "domani",
+        "sempre"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "sempre",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "presto",
+        "oggi"
+      ],
+      "answer": "presto",
+      "explanation": "Avverbio: 'presto'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "mai",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "oggi",
+        "tardi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "mai",
+        "tardi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "oggi",
+        "tardi"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "tardi",
+        "oggi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "domani",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "presto",
+        "domani"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "sempre",
+        "oggi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "tardi",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "sempre",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "mai",
+        "tardi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "mai",
+        "domani"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "oggi",
+        "domani"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "sempre",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "domani",
+        "oggi"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "presto",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "sempre",
+        "mai"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "mai",
+        "tardi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "tardi",
+        "sempre"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "sempre",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "sempre",
+        "oggi"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "mai",
+        "oggi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "mai",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "mai",
+        "oggi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "domani",
+        "sempre"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "domani",
+        "mai"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "presto",
+        "domani"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "sempre",
+        "domani"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "tardi",
+        "sempre"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "tardi",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "mai",
+        "sempre"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "mai",
+        "sempre"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "tardi",
+        "oggi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "domani",
+        "mai"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "oggi",
+        "presto"
+      ],
+      "answer": "presto",
+      "explanation": "Avverbio: 'presto'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "oggi",
+        "domani"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "domani",
+        "sempre"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "sempre",
+        "domani",
+        "oggi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "tardi",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "mai",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "mai",
+        "sempre",
+        "tardi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "domani",
+        "presto",
+        "mai"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio: 'domani'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "sempre",
+        "domani"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio: 'oggi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "mai",
+        "sempre"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "oggi",
+        "tardi"
+      ],
+      "answer": "tardi",
+      "explanation": "Avverbio: 'tardi'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "oggi",
+        "mai",
+        "tardi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio: 'mai'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "presto",
+        "mai",
+        "sempre"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    },
+    {
+      "question": "Completa la frase: Vado al lavoro ___.",
+      "options": [
+        "tardi",
+        "domani",
+        "sempre"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio: 'sempre'."
+    }
+  ]
+}
