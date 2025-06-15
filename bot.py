@@ -154,6 +154,10 @@ async def _reply(update: Update, text: str, **kw):
 # Удаление старого webhook перед polling
 # ——————————————————————————————————————————————
 async def delete_webhook_on_startup(app):
+    """
+    Вызывается сразу после инициализации Application.
+    Удаляет предыдущий webhook и сбрасывает очередь обновлений.
+    """
     await app.bot.delete_webhook(drop_pending_updates=True)
     logging.info("🔄 Webhook удалён, очередь сброшена.")
 
@@ -165,6 +169,7 @@ def main():
         logging.error("❌ BOT_TOKEN не задан.")
         return
 
+    # 1) Создаём Application и регистрируем удаление webhook
     app = (
         ApplicationBuilder()
         .token(TOKEN)
@@ -172,14 +177,16 @@ def main():
         .build()
     )
 
-    # Graceful shutdown по сигналам
+    # 2) Graceful shutdown: ловим SIGTERM/SIGINT и корректно останавливаем polling
     def shutdown(signum, frame):
         logging.info("🔴 Остановка polling…")
         app.stop()
+
+    import signal
     signal.signal(signal.SIGTERM, shutdown)
     signal.signal(signal.SIGINT, shutdown)
 
-    # Регистрируем хендлеры
+    # 3) Регистрируем хендлеры
     app.add_handler(CommandHandler("start", start))
     conv = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
@@ -193,7 +200,7 @@ def main():
     )
     app.add_handler(conv)
 
-    # Запускаем единый polling
+    # 4) Запускаем единый polling
     logging.info("✅ Запускаем polling…")
     app.run_polling(drop_pending_updates=True)
 
