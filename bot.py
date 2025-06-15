@@ -196,41 +196,41 @@ from telegram.ext import (
 )
 
 # --------------------------------------------------
-# Асинхронная функция для удаления вебхука перед polling
+# 1) Удаляем старый webhook перед запуском polling
 # --------------------------------------------------
 async def delete_webhook_on_startup(app):
     """
-    Удаляет старый вебхук и сбрасывает очередь обновлений
-    сразу после инициализации приложения.
+    Вызывается сразу после инициализации Application.
+    Удаляет все предыдущие вебхуки и сбрасывает очередь getUpdates.
     """
     await app.bot.delete_webhook(drop_pending_updates=True)
-    logging.info("🔄 Webhook удалён, очередь сброшена.")
+    logging.info("🔄 Предыдущий webhook удалён, ожидание обновлений сброшено.")
 
 # --------------------------------------------------
-# Синхронная точка входа
+# 2) Точка входа
 # --------------------------------------------------
 def main():
     if not TOKEN:
         logging.error("❌ BOT_TOKEN не задан.")
         return
 
-    # 1) Создаём приложение и регистрируем post_init для удаления webhook
+    # — Создаём Application и регистрируем удаление webhook сразу после инициализации
     app = (
         ApplicationBuilder()
         .token(TOKEN)
-        .post_init(delete_webhook_on_startup)
+        .post_init(delete_webhook_on_startup)  # ← главное изменение
         .build()
     )
 
-    # 2) Graceful shutdown: ловим SIGTERM/SIGINT и корректно останавливаем polling
+    # — Graceful shutdown: при SIGTERM/SIGINT корректно останавливаем polling
     def shutdown(signum, frame):
-        logging.info("🔴 Остановка polling…")
+        logging.info("🔴 Получен сигнал завершения, останавливаем polling…")
         app.stop()
 
     signal.signal(signal.SIGTERM, shutdown)
-    signal.signal(signal.SIGINT, shutdown)
+    signal.signal(signal.SIGINT,  shutdown)
 
-    # 3) Регистрируем хендлеры
+    # — Регистрируем все хендлеры
     app.add_handler(CommandHandler("start", start))
     conv = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
@@ -244,7 +244,7 @@ def main():
     )
     app.add_handler(conv)
 
-    # 4) Запускаем polling (единственный getUpdates)
+    # — Запускаем единственный polling
     logging.info("✅ Запускаем polling…")
     app.run_polling(drop_pending_updates=True)
 
