@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Avverbi comuni",
+  "exercises": [
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "domani",
+        "oggi",
+        "raramente"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "domani",
+        "raramente",
+        "mai"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "oggi",
+        "sempre",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "spesso",
+        "sempre",
+        "mai"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "raramente",
+        "domani",
+        "mai"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "raramente",
+        "oggi",
+        "domani"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "oggi",
+        "mai",
+        "sempre"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "oggi",
+        "mai",
+        "spesso"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "oggi",
+        "spesso",
+        "sempre"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "mai",
+        "oggi",
+        "raramente"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "raramente",
+        "sempre",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "spesso",
+        "raramente",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "raramente",
+        "sempre",
+        "oggi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "mai",
+        "spesso",
+        "oggi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "mai",
+        "oggi",
+        "sempre"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "sempre",
+        "spesso",
+        "mai"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "oggi",
+        "sempre",
+        "raramente"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "raramente",
+        "mai",
+        "oggi"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "spesso",
+        "oggi",
+        "mai"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "oggi",
+        "sempre",
+        "domani"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "oggi",
+        "domani",
+        "spesso"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "mai",
+        "oggi",
+        "spesso"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "spesso",
+        "domani",
+        "sempre"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "raramente",
+        "oggi",
+        "domani"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "domani",
+        "raramente",
+        "sempre"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "sempre",
+        "mai",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "raramente",
+        "spesso",
+        "oggi"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "sempre",
+        "oggi",
+        "domani"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "raramente",
+        "sempre",
+        "domani"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "mai",
+        "sempre",
+        "raramente"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "sempre",
+        "spesso",
+        "mai"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "sempre",
+        "spesso",
+        "raramente"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "spesso",
+        "sempre",
+        "raramente"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "oggi",
+        "sempre",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "oggi",
+        "sempre",
+        "mai"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "mai",
+        "raramente",
+        "spesso"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "sempre",
+        "spesso",
+        "domani"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "raramente",
+        "spesso",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "domani",
+        "raramente",
+        "mai"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "sempre",
+        "raramente",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "oggi",
+        "mai",
+        "domani"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "sempre",
+        "spesso",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "oggi",
+        "sempre",
+        "mai"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "spesso",
+        "sempre",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "spesso",
+        "mai",
+        "oggi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "domani",
+        "spesso",
+        "raramente"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "mai",
+        "oggi",
+        "sempre"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "raramente",
+        "oggi",
+        "spesso"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "oggi",
+        "mai",
+        "spesso"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "oggi",
+        "spesso",
+        "mai"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "sempre",
+        "spesso",
+        "raramente"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "domani",
+        "mai",
+        "sempre"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "raramente",
+        "sempre",
+        "spesso"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "oggi",
+        "mai",
+        "raramente"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "raramente",
+        "mai",
+        "sempre"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "mai",
+        "sempre",
+        "spesso"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "spesso",
+        "raramente",
+        "sempre"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "spesso",
+        "mai",
+        "sempre"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "spesso",
+        "sempre",
+        "raramente"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "oggi",
+        "raramente",
+        "mai"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "sempre",
+        "domani",
+        "spesso"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "sempre",
+        "domani",
+        "mai"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "spesso",
+        "oggi",
+        "raramente"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "mai",
+        "domani",
+        "spesso"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "oggi",
+        "raramente",
+        "sempre"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "sempre",
+        "domani",
+        "spesso"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "spesso",
+        "domani",
+        "sempre"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "spesso",
+        "domani",
+        "raramente"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "domani",
+        "raramente",
+        "oggi"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "mai",
+        "raramente",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "sempre",
+        "domani",
+        "spesso"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "sempre",
+        "raramente",
+        "spesso"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "spesso",
+        "domani",
+        "raramente"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "raramente",
+        "mai",
+        "oggi"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "sempre",
+        "raramente",
+        "mai"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "sempre",
+        "mai",
+        "oggi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "oggi",
+        "sempre",
+        "raramente"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "domani",
+        "mai",
+        "raramente"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "mai",
+        "raramente",
+        "spesso"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "mai",
+        "raramente",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "mai",
+        "domani",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "mai",
+        "domani",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "oggi",
+        "mai",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "spesso",
+        "raramente",
+        "oggi"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "mai",
+        "oggi",
+        "raramente"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "spesso",
+        "sempre",
+        "raramente"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola oggi.",
+      "options": [
+        "spesso",
+        "oggi",
+        "raramente"
+      ],
+      "answer": "oggi",
+      "explanation": "Avverbio 'oggi'."
+    },
+    {
+      "question": "Completa: Vado a scuola raramente.",
+      "options": [
+        "spesso",
+        "mai",
+        "raramente"
+      ],
+      "answer": "raramente",
+      "explanation": "Avverbio 'raramente'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "sempre",
+        "raramente",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "oggi",
+        "mai",
+        "sempre"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "domani",
+        "oggi",
+        "raramente"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "sempre",
+        "raramente",
+        "oggi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "mai",
+        "sempre",
+        "oggi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "raramente",
+        "mai",
+        "domani"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "sempre",
+        "spesso",
+        "oggi"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "sempre",
+        "raramente",
+        "spesso"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola spesso.",
+      "options": [
+        "spesso",
+        "oggi",
+        "mai"
+      ],
+      "answer": "spesso",
+      "explanation": "Avverbio 'spesso'."
+    },
+    {
+      "question": "Completa: Vado a scuola domani.",
+      "options": [
+        "spesso",
+        "domani",
+        "sempre"
+      ],
+      "answer": "domani",
+      "explanation": "Avverbio 'domani'."
+    },
+    {
+      "question": "Completa: Vado a scuola mai.",
+      "options": [
+        "mai",
+        "raramente",
+        "oggi"
+      ],
+      "answer": "mai",
+      "explanation": "Avverbio 'mai'."
+    },
+    {
+      "question": "Completa: Vado a scuola sempre.",
+      "options": [
+        "sempre",
+        "oggi",
+        "domani"
+      ],
+      "answer": "sempre",
+      "explanation": "Avverbio 'sempre'."
+    }
+  ]
+}
