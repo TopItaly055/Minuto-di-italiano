@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Periodo ipotetico tipo 1",
+  "exercises": [
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrà",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrà",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avrà",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrà",
+        "avrebbe",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrà",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avresti",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrà",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrebbe",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avresti",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avrà",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrebbe",
+        "avrà",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avrà",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avresti",
+        "avrebbe",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrà",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avessi",
+        "avresti",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avresti",
+        "avrebbe",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avresti",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avrà",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrà",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrà",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avrà",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avresti",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avresti",
+        "avrebbe",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avresti",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrà",
+        "avrebbe",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avresti",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrà",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avrà",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrà",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avresti",
+        "avrebbe",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrà",
+        "avrebbe",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avresti",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrà",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avresti",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avrà",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avresti",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avessi",
+        "avrà",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avresti",
+        "avrebbe",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avresti",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avrà",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avessi",
+        "avrà",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrà",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avrà",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avresti",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrà",
+        "avrebbe",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avrà",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrà",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avresti",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrà",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrebbe",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avresti",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avrà",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avrà",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avrà",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avrebbe",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avresti",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrà",
+        "avrebbe",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avresti",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avresti",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avessi",
+        "avresti",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avrà",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrebbe",
+        "avresti",
+        "avessi"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avresti",
+        "avessi",
+        "avrà"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avresti",
+        "avessi",
+        "avrebbe"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se lui avesse saputo, sarebbe venuto.",
+      "options": [
+        "avrebbe",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se tu ___ studiato, avresti passato l'esame.",
+      "options": [
+        "avrà",
+        "avessi",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    },
+    {
+      "question": "Completa la frase: Se io ___ tempo, ti aiuterei.",
+      "options": [
+        "avessi",
+        "avrà",
+        "avresti"
+      ],
+      "answer": "avessi",
+      "explanation": "La risposta corretta è 'avessi'."
+    }
+  ]
+}
