@@ -2,8 +2,8 @@ import os
 import json
 import logging
 import signal
+
 from telegram import (
-    Bot,
     Update,
     ReplyKeyboardMarkup,
     InlineKeyboardMarkup,
@@ -20,13 +20,16 @@ from telegram.ext import (
 )
 
 # ——————————————————————————————————————————————
-#           Логирование
+#           Настройка логирования
 # ——————————————————————————————————————————————
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
     level=logging.INFO,
 )
 
+# ——————————————————————————————————————————————
+#           Константы
+# ——————————————————————————————————————————————
 TOKEN = os.getenv("BOT_TOKEN")
 STATE_LEVEL, STATE_TOPIC, STATE_QUIZ = range(3)
 LEVELS = ["A1", "A2", "B1", "B2"]
@@ -48,7 +51,7 @@ async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def on_level_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
-    level = query.data.split("|",1)[1]
+    level = query.data.split("|", 1)[1]
     context.user_data["level"] = level
 
     folder = os.path.join("content", level)
@@ -81,7 +84,7 @@ async def on_level_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def on_topic_select(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
-    fn = query.data.split("|",1)[1]
+    fn = query.data.split("|", 1)[1]
     level = context.user_data["level"]
     path = os.path.join("content", level, fn)
 
@@ -162,7 +165,6 @@ def main():
         logging.error("❌ BOT_TOKEN не задан.")
         return
 
-    # Создаём Application и регистрируем post_init
     app = (
         ApplicationBuilder()
         .token(TOKEN)
@@ -170,64 +172,14 @@ def main():
         .build()
     )
 
-    # Graceful shutdown при SIGTERM/SIGINT
+    # Graceful shutdown по сигналам
     def shutdown(signum, frame):
         logging.info("🔴 Остановка polling…")
         app.stop()
-
     signal.signal(signal.SIGTERM, shutdown)
     signal.signal(signal.SIGINT, shutdown)
 
     # Регистрируем хендлеры
-import logging
-import signal
-from telegram.ext import (
-    ApplicationBuilder,
-    CommandHandler,
-    ConversationHandler,
-    CallbackQueryHandler,
-    MessageHandler,
-    filters,
-)
-from telegram import Update
-from telegram.ext import ContextTypes
-
-# ——————————————————————————————————————————————
-# Удаляем старый webhook перед polling
-# ——————————————————————————————————————————————
-async def delete_webhook_on_startup(app):
-    """
-    Вызывается сразу после инициализации Application.
-    Удаляет все предыдущие вебхуки и сбрасывает очередь getUpdates.
-    """
-    await app.bot.delete_webhook(drop_pending_updates=True)
-    logging.info("🔄 Webhook удалён, очередь сброшена.")
-
-# ——————————————————————————————————————————————
-# Синхронная точка входа
-# ——————————————————————————————————————————————
-def main():
-    if not TOKEN:
-        logging.error("❌ BOT_TOKEN не задан.")
-        return
-
-    # 1) Создаём Application и регистрируем удаление webhook
-    app = (
-        ApplicationBuilder()
-        .token(TOKEN)
-        .post_init(delete_webhook_on_startup)
-        .build()
-    )
-
-    # 2) Graceful shutdown: корректно завершаем polling по SIGTERM/SIGINT
-    def shutdown(signum, frame):
-        logging.info("🔴 Получен сигнал %s, останавливаем polling…", signum)
-        app.stop()
-
-    signal.signal(signal.SIGTERM, shutdown)
-    signal.signal(signal.SIGINT, shutdown)
-
-    # 3) Регистрируем хендлеры
     app.add_handler(CommandHandler("start", start))
     conv = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
@@ -241,7 +193,7 @@ def main():
     )
     app.add_handler(conv)
 
-    # 4) Запускаем единый polling
+    # Запускаем единый polling
     logging.info("✅ Запускаем polling…")
     app.run_polling(drop_pending_updates=True)
 
