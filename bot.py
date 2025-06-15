@@ -179,6 +179,55 @@ def main():
     signal.signal(signal.SIGINT, shutdown)
 
     # Регистрируем хендлеры
+import logging
+import signal
+from telegram.ext import (
+    ApplicationBuilder,
+    CommandHandler,
+    ConversationHandler,
+    CallbackQueryHandler,
+    MessageHandler,
+    filters,
+)
+from telegram import Update
+from telegram.ext import ContextTypes
+
+# ——————————————————————————————————————————————
+# Удаляем старый webhook перед polling
+# ——————————————————————————————————————————————
+async def delete_webhook_on_startup(app):
+    """
+    Вызывается сразу после инициализации Application.
+    Удаляет все предыдущие вебхуки и сбрасывает очередь getUpdates.
+    """
+    await app.bot.delete_webhook(drop_pending_updates=True)
+    logging.info("🔄 Webhook удалён, очередь сброшена.")
+
+# ——————————————————————————————————————————————
+# Синхронная точка входа
+# ——————————————————————————————————————————————
+def main():
+    if not TOKEN:
+        logging.error("❌ BOT_TOKEN не задан.")
+        return
+
+    # 1) Создаём Application и регистрируем удаление webhook
+    app = (
+        ApplicationBuilder()
+        .token(TOKEN)
+        .post_init(delete_webhook_on_startup)
+        .build()
+    )
+
+    # 2) Graceful shutdown: корректно завершаем polling по SIGTERM/SIGINT
+    def shutdown(signum, frame):
+        logging.info("🔴 Получен сигнал %s, останавливаем polling…", signum)
+        app.stop()
+
+    signal.signal(signal.SIGTERM, shutdown)
+    signal.signal(signal.SIGINT, shutdown)
+
+    # 3) Регистрируем хендлеры
     app.add_handler(CommandHandler("start", start))
     conv = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
@@ -192,7 +241,7 @@ def main():
     )
     app.add_handler(conv)
 
-    # Запускаем единый polling
+    # 4) Запускаем единый polling
     logging.info("✅ Запускаем polling…")
     app.run_polling(drop_pending_updates=True)
 
