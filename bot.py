@@ -184,35 +184,41 @@ async def main():
     app.add_handler(CommandHandler("start", start))
     app.add_handler(conv)
 
-    logging.info("✅ Запускаем polling…")
+    import logging
+import signal
+from telegram.ext import ApplicationBuilder, CommandHandler, ConversationHandler, CallbackQueryHandler, MessageHandler, filters
 
-
+# Асинхронная функция для удаления вебхука перед polling
 async def delete_webhook_on_startup(app):
     """
-    Удаляет старый вебхук и сбрасывает очередь обновлений 
+    Удаляет старый вебхук и сбрасывает очередь обновлений
     сразу после инициализации приложения.
     """
     await app.bot.delete_webhook(drop_pending_updates=True)
     logging.info("🔄 Webhook удалён, очередь сброшена.")
-
-# --------------------------------------------------
-# Синхронная точка входа
-# --------------------------------------------------
 
 def main():
     if not TOKEN:
         logging.error("❌ BOT_TOKEN не задан.")
         return
 
-    # Создаём приложение и сразу же регистрируем post_init
+    # 1) Создаём приложение и регистрируем post_init для удаления webhook
     app = (
         ApplicationBuilder()
         .token(TOKEN)
-        .post_init(delete_webhook_on_startup)  # ← здесь вызывается наша функция
+        .post_init(delete_webhook_on_startup)
         .build()
     )
 
-    # Регистрируем обработчики
+    # 2) Graceful shutdown: ловим SIGTERM/SIGINT и корректно останавливаем polling
+    def shutdown(signum, frame):
+        logging.info("🔴 Остановка polling…")
+        app.stop()
+
+    signal.signal(signal.SIGTERM, shutdown)
+    signal.signal(signal.SIGINT, shutdown)
+
+    # 3) Регистрируем хендлеры
     app.add_handler(CommandHandler("start", start))
     conv = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
@@ -226,10 +232,9 @@ def main():
     )
     app.add_handler(conv)
 
-    # Запускаем polling (в том же event loop, где delete_webhook_on_startup уже отработал)
+    # 4) Запускаем polling
     logging.info("✅ Запускаем polling…")
     app.run_polling(drop_pending_updates=True)
-
 
 if __name__ == "__main__":
     main()
