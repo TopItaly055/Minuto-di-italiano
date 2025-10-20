@@ -1,9 +1,10 @@
 services:
   - type: worker
-    name: minuto-di-italiano-worker
+    name: minuto-di-italiano-bot
     env: python
     buildCommand: "pip install --upgrade pip && pip install -r requirements.txt"
     startCommand: "python bot.py"
+    autoDeploy: true
     envVars:
       - key: BOT_TOKEN
-        value: 7822911713:AAHMmCkCcO3OPhOMZ86X3mVvy_0uZQxjPwc
+        sync: false
