@@ -67,7 +67,9 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     kb = [[InlineKeyboardButton(lvl, callback_data=f"level|{lvl}")] for lvl in LEVELS]
+
     await _reply(update, "Выберите уровень:", reply_markup=InlineKeyboardMarkup(kb))
+
     return STATE_LEVEL
 
 
