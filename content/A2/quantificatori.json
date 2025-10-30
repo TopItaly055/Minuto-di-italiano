@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Quantificatori e partitivi (A2)",
+  "exercises": [
+    {
+      "question": "Vuoi ___ acqua?",
+      "options": [
+        "un po' di",
+        "qualche",
+        "alcuni"
+      ],
+      "answer": "un po' di",
+      "explanation": "'Un po' di' используется с неисчисляемыми существительными: un po' di acqua."
+    },
+    {
+      "question": "Ho ___ fame.",
+      "options": [
+        "un po' di",
+        "qualche",
+        "alcuni"
+      ],
+      "answer": "un po' di",
+      "explanation": "С неисчисляемыми существительными: un po' di fame."
+    },
+    {
+      "question": "C'è ___ latte nel frigo.",
+      "options": [
+        "un po' di",
+        "qualche",
+        "alcuni"
+      ],
+      "answer": "un po' di",
+      "explanation": "С неисчисляемыми: un po' di latte."
+    },
+    {
+      "question": "Vuoi ___ zucchero nel caffè?",
+      "options": [
+        "un po' di",
+        "qualche",
+        "alcuni"
+      ],
+      "answer": "un po' di",
+      "explanation": "С неисчисляемыми: un po' di zucchero."
+    },
+    {
+      "question": "Ho ___ tempo libero oggi.",
+      "options": [
+        "un po' di",
+        "qualche",
+        "alcuni"
+      ],
+      "answer": "un po' di",
+      "explanation": "С неисчисляемыми: un po' di tempo."
+    },
+    {
+      "question": "Ho ___ amici a Roma.",
+      "options": [
+        "qualche",
+        "un po' di",
+        "alcuni"
+      ],
+      "answer": "qualche",
+      "explanation": "'Qualche' используется с исчисляемыми существительными в единственном числе: qualche amico."
+    },
+    {
+      "question": "Vuoi ___ biscotto?",
+      "options": [
+        "qualche",
+        "un po' di",
+        "alcuni"
+      ],
+      "answer": "qualche",
+      "explanation": "С исчисляемыми в единственном числе: qualche biscotto."
+    },
+    {
+      "question": "Ho letto ___ libro interessante.",
+      "options": [
+        "qualche",
+        "un po' di",
+        "alcuni"
+      ],
+      "answer": "qualche",
+      "explanation": "С исчисляемыми: qualche libro."
+    },
+    {
+      "question": "Ci sono ___ problemi da risolvere.",
+      "options": [
+        "qualche",
+        "un po' di",
+        "alcuni"
+      ],
+      "answer": "qualche",
+      "explanation": "С исчисляемыми: qualche problema."
+    },
+    {
+      "question": "Ho ___ domanda da farti.",
+      "options": [
+        "qualche",
+        "un po' di",
+        "alcuni"
+      ],
+      "answer": "qualche",
+      "explanation": "С исчисляемыми: qualche domanda."
+    },
+    {
+      "question": "___ studenti sono arrivati in ritardo.",
+      "options": [
+        "Alcuni",
+        "Qualche",
+        "Un po' di"
+      ],
+      "answer": "Alcuni",
+      "explanation": "'Alcuni' используется с исчисляемыми существительными во множественном числе: alcuni studenti."
+    },
+    {
+      "question": "___ persone non capiscono l'italiano.",
+      "options": [
+        "Alcune",
+        "Qualche",
+        "Un po' di"
+      ],
+      "answer": "Alcune",
+      "explanation": "С исчисляемыми женского рода: alcune persone."
+    },
+    {
+      "question": "___ libri sono molto interessanti.",
+      "options": [
+        "Alcuni",
+        "Qualche",
+        "Un po' di"
+      ],
+      "answer": "Alcuni",
+      "explanation": "С исчисляемыми мужского рода: alcuni libri."
+    },
+    {
+      "question": "___ case sono molto vecchie.",
+      "options": [
+        "Alcune",
+        "Qualche",
+        "Un po' di"
+      ],
+      "answer": "Alcune",
+      "explanation": "С исчисляемыми женского рода: alcune case."
+    },
+    {
+      "question": "___ bambini giocano nel parco.",
+      "options": [
+        "Alcuni",
+        "Qualche",
+        "Un po' di"
+      ],
+      "answer": "Alcuni",
+      "explanation": "С исчисляемыми: alcuni bambini."
+    },
+    {
+      "question": "Vuoi ___ pane?",
+      "options": [
+        "del",
+        "un po' di",
+        "qualche"
+      ],
+      "answer": "del",
+      "explanation": "Частичный артикль: del pane (di + il)."
+    },
+    {
+      "question": "Ho comprato ___ frutta.",
+      "options": [
+        "della",
+        "un po' di",
+        "qualche"
+      ],
+      "answer": "della",
+      "explanation": "Частичный артикль: della frutta (di + la)."
+    },
+    {
+      "question": "C'è ___ vino nella bottiglia.",
+      "options": [
+        "del",
+        "un po' di",
+        "qualche"
+      ],
+      "answer": "del",
+      "explanation": "Частичный артикль: del vino (di + il)."
+    },
+    {
+      "question": "Vuoi ___ formaggio?",
+      "options": [
+        "del",
+        "un po' di",
+        "qualche"
+      ],
+      "answer": "del",
+      "explanation": "Частичный артикль: del formaggio (di + il)."
+    },
+    {
+      "question": "Ho mangiato ___ pasta.",
+      "options": [
+        "della",
+        "un po' di",
+        "qualche"
+      ],
+      "answer": "della",
+      "explanation": "Частичный артикль: della pasta (di + la)."
+    },
+    {
+      "question": "Ho ___ lavoro da fare.",
+      "options": [
+        "molto",
+        "molta",
+        "molti"
+      ],
+      "answer": "molto",
+      "explanation": "С неисчисляемыми мужского рода: molto lavoro."
+    },
+    {
+      "question": "C'è ___ gente qui.",
+      "options": [
+        "molta",
+        "molto",
+        "molti"
+      ],
+      "answer": "molta",
+      "explanation": "С неисчисляемыми женского рода: molta gente."
+    },
+    {
+      "question": "Ho ___ amici a Milano.",
+      "options": [
+        "molti",
+        "molto",
+        "molta"
+      ],
+      "answer": "molti",
+      "explanation": "С исчисляемыми мужского рода: molti amici."
+    },
+    {
+      "question": "Ci sono ___ donne nella classe.",
+      "options": [
+        "molte",
+        "molto",
+        "molta"
+      ],
+      "answer": "molte",
+      "explanation": "С исчисляемыми женского рода: molte donne."
+    },
+    {
+      "question": "Ho ___ tempo libero.",
+      "options": [
+        "molto",
+        "molta",
+        "molti"
+      ],
+      "answer": "molto",
+      "explanation": "С неисчисляемыми мужского рода: molto tempo."
+    },
+    {
+      "question": "Ho ___ soldi.",
+      "options": [
+        "pochi",
+        "poco",
+        "poca"
+      ],
+      "answer": "pochi",
+      "explanation": "С исчисляемыми мужского рода: pochi soldi."
+    },
+    {
+      "question": "C'è ___ acqua nel bicchiere.",
+      "options": [
+        "poca",
+        "poco",
+        "pochi"
+      ],
+      "answer": "poca",
+      "explanation": "С неисчисляемыми женского рода: poca acqua."
+    },
+    {
+      "question": "Ho ___ amici qui.",
+      "options": [
+        "pochi",
+        "poco",
+        "poca"
+      ],
+      "answer": "pochi",
+      "explanation": "С исчисляемыми мужского рода: pochi amici."
+    },
+    {
+      "question": "Ci sono ___ donne nella riunione.",
+      "options": [
+        "poche",
+        "poco",
+        "poca"
+      ],
+      "answer": "poche",
+      "explanation": "С исчисляемыми женского рода: poche donne."
+    },
+    {
+      "question": "Ho ___ tempo per studiare.",
+      "options": [
+        "poco",
+        "poca",
+        "pochi"
+      ],
+      "answer": "poco",
+      "explanation": "С неисчисляемыми мужского рода: poco tempo."
+    },
+    {
+      "question": "Ho ___ fame!",
+      "options": [
+        "tanta",
+        "tanto",
+        "tanti"
+      ],
+      "answer": "tanta",
+      "explanation": "С неисчисляемыми женского рода: tanta fame."
+    },
+    {
+      "question": "C'è ___ gente al concerto.",
+      "options": [
+        "tanta",
+        "tanto",
+        "tanti"
+      ],
+      "answer": "tanta",
+      "explanation": "С неисчисляемыми женского рода: tanta gente."
+    },
+    {
+      "question": "Ho ___ libri da leggere.",
+      "options": [
+        "tanti",
+        "tanto",
+        "tanta"
+      ],
+      "answer": "tanti",
+      "explanation": "С исчисляемыми мужского рода: tanti libri."
+    },
+    {
+      "question": "Ci sono ___ ragazze nella classe.",
+      "options": [
+        "tante",
+        "tanto",
+        "tanta"
+      ],
+      "answer": "tante",
+      "explanation": "С исчисляемыми женского рода: tante ragazze."
+    },
+    {
+      "question": "Ho ___ sete.",
+      "options": [
+        "tanta",
+        "tanto",
+        "tanti"
+      ],
+      "answer": "tanta",
+      "explanation": "С неисчисляемыми женского рода: tanta sete."
+    },
+    {
+      "question": "Ho mangiato ___ la pizza.",
+      "options": [
+        "tutta",
+        "tutto",
+        "tutti"
+      ],
+      "answer": "tutta",
+      "explanation": "С исчисляемыми женского рода: tutta la pizza."
+    },
+    {
+      "question": "___ gli studenti sono qui.",
+      "options": [
+        "Tutti",
+        "Tutto",
+        "Tutta"
+      ],
+      "answer": "Tutti",
+      "explanation": "С исчисляемыми мужского рода: tutti gli studenti."
+    },
+    {
+      "question": "Ho letto ___ il libro.",
+      "options": [
+        "tutto",
+        "tutta",
+        "tutti"
+      ],
+      "answer": "tutto",
+      "explanation": "С исчисляемыми мужского рода: tutto il libro."
+    },
+    {
+      "question": "___ le ragazze sono arrivate.",
+      "options": [
+        "Tutte",
+        "Tutto",
+        "Tutti"
+      ],
+      "answer": "Tutte",
+      "explanation": "С исчисляемыми женского рода: tutte le ragazze."
+    },
+    {
+      "question": "Ho bevuto ___ l'acqua.",
+      "options": [
+        "tutta",
+        "tutto",
+        "tutti"
+      ],
+      "answer": "tutta",
+      "explanation": "С неисчисляемыми женского рода: tutta l'acqua."
+    },
+    {
+      "question": "___ studente ha capito la lezione.",
+      "options": [
+        "Nessuno",
+        "Nessuna",
+        "Qualche"
+      ],
+      "answer": "Nessuno",
+      "explanation": "С исчисляемыми мужского рода: nessuno studente."
+    },
+    {
+      "question": "___ ragazza è venuta alla festa.",
+      "options": [
+        "Nessuna",
+        "Nessuno",
+        "Qualche"
+      ],
+      "answer": "Nessuna",
+      "explanation": "С исчисляемыми женского рода: nessuna ragazza."
+    },
+    {
+      "question": "Ho ___ amico qui.",
+      "options": [
+        "nessun",
+        "nessuna",
+        "qualche"
+      ],
+      "answer": "nessun",
+      "explanation": "С исчисляемыми мужского рода: nessun amico."
+    },
+    {
+      "question": "C'è ___ problema.",
+      "options": [
+        "nessun",
+        "nessuna",
+        "qualche"
+      ],
+      "answer": "nessun",
+      "explanation": "С исчисляемыми мужского рода: nessun problema."
+    },
+    {
+      "question": "___ donna ha telefonato.",
+      "options": [
+        "Nessuna",
+        "Nessuno",
+        "Qualche"
+      ],
+      "answer": "Nessuna",
+      "explanation": "С исчисляемыми женского рода: nessuna donna."
+    },
+    {
+      "question": "Vado in palestra ___ giorno.",
+      "options": [
+        "ogni",
+        "qualche",
+        "alcuni"
+      ],
+      "answer": "ogni",
+      "explanation": "'Ogni' используется с исчисляемыми в единственном числе: ogni giorno."
+    },
+    {
+      "question": "___ studente deve studiare.",
+      "options": [
+        "Ogni",
+        "Qualche",
+        "Alcuni"
+      ],
+      "answer": "Ogni",
+      "explanation": "С исчисляемыми: ogni studente."
+    },
+    {
+      "question": "___ settimana vado al cinema.",
+      "options": [
+        "ogni",
+        "qualche",
+        "alcuni"
+      ],
+      "answer": "ogni",
+      "explanation": "С исчисляемыми: ogni settimana."
+    },
+    {
+      "question": "___ persona ha i suoi problemi.",
+      "options": [
+        "Ogni",
+        "Qualche",
+        "Alcuni"
+      ],
+      "answer": "Ogni",
+      "explanation": "С исчисляемыми: ogni persona."
+    },
+    {
+      "question": "___ anno vado in vacanza.",
+      "options": [
+        "ogni",
+        "qualche",
+        "alcuni"
+      ],
+      "answer": "ogni",
+      "explanation": "С исчисляемыми: ogni anno."
+    },
+    {
+      "question": "Ho mangiato ___ dolci.",
+      "options": [
+        "troppi",
+        "troppo",
+        "troppa"
+      ],
+      "answer": "troppi",
+      "explanation": "С исчисляемыми мужского рода: troppi dolci."
+    },
+    {
+      "question": "C'è ___ gente qui.",
+      "options": [
+        "troppa",
+        "troppo",
+        "troppi"
+      ],
+      "answer": "troppa",
+      "explanation": "С неисчисляемыми женского рода: troppa gente."
+    },
+    {
+      "question": "Ho bevuto ___ caffè.",
+      "options": [
+        "troppo",
+        "troppa",
+        "troppi"
+      ],
+      "answer": "troppo",
+      "explanation": "С неисчисляемыми мужского рода: troppo caffè."
+    },
+    {
+      "question": "Ci sono ___ macchine in strada.",
+      "options": [
+        "troppe",
+        "troppo",
+        "troppa"
+      ],
+      "answer": "troppe",
+      "explanation": "С исчисляемыми женского рода: troppe macchine."
+    },
+    {
+      "question": "Ho ___ lavoro da fare.",
+      "options": [
+        "troppo",
+        "troppa",
+        "troppi"
+      ],
+      "answer": "troppo",
+      "explanation": "С неисчисляемыми мужского рода: troppo lavoro."
+    },
+    {
+      "question": "Ho ___ soldi per comprare la macchina.",
+      "options": [
+        "abbastanza",
+        "molto",
+        "poco"
+      ],
+      "answer": "abbastanza",
+      "explanation": "'Abbastanza' не изменяется: abbastanza soldi."
+    },
+    {
+      "question": "C'è ___ tempo per finire il lavoro.",
+      "options": [
+        "abbastanza",
+        "molto",
+        "poco"
+      ],
+      "answer": "abbastanza",
+      "explanation": "Не изменяется: abbastanza tempo."
+    },
+    {
+      "question": "Ho ___ amici qui.",
+      "options": [
+        "abbastanza",
+        "molti",
+        "pochi"
+      ],
+      "answer": "abbastanza",
+      "explanation": "Не изменяется: abbastanza amici."
+    },
+    {
+      "question": "Ci sono ___ posti liberi.",
+      "options": [
+        "abbastanza",
+        "molti",
+        "pochi"
+      ],
+      "answer": "abbastanza",
+      "explanation": "Не изменяется: abbastanza posti."
+    },
+    {
+      "question": "Ho ___ fame.",
+      "options": [
+        "abbastanza",
+        "molta",
+        "poca"
+      ],
+      "answer": "abbastanza",
+      "explanation": "Не изменяется: abbastanza fame."
+    },
+    {
+      "question": "Ho ___ soldi per la vacanza.",
+      "options": [
+        "sufficienti",
+        "sufficiente",
+        "abbastanza"
+      ],
+      "answer": "sufficienti",
+      "explanation": "С исчисляемыми мужского рода: sufficienti soldi."
+    },
+    {
+      "question": "C'è ___ acqua per tutti.",
+      "options": [
+        "sufficiente",
+        "sufficienti",
+        "abbastanza"
+      ],
+      "answer": "sufficiente",
+      "explanation": "С неисчисляемыми: sufficiente acqua."
+    },
+    {
+      "question": "Ho ___ tempo per studiare.",
+      "options": [
+        "sufficiente",
+        "sufficienti",
+        "abbastanza"
+      ],
+      "answer": "sufficiente",
+      "explanation": "С неисчисляемыми: sufficiente tempo."
+    },
+    {
+      "question": "Ci sono ___ posti per tutti.",
+      "options": [
+        "sufficienti",
+        "sufficiente",
+        "abbastanza"
+      ],
+      "answer": "sufficienti",
+      "explanation": "С исчисляемыми: sufficienti posti."
+    },
+    {
+      "question": "Ho ___ energia per correre.",
+      "options": [
+        "sufficiente",
+        "sufficienti",
+        "abbastanza"
+      ],
+      "answer": "sufficiente",
+      "explanation": "С неисчисляемыми: sufficiente energia."
+    },
+    {
+      "question": "Vuoi ___ caffè?",
+      "options": [
+        "un po' di",
+        "qualche",
+        "alcuni"
+      ],
+      "answer": "un po' di",
+      "explanation": "С неисчисляемыми: un po' di caffè."
+    },
+    {
+      "question": "Ho ___ domande da farti.",
+      "options": [
+        "qualche",
+        "un po' di",
+        "alcuni"
+      ],
+      "answer": "qualche",
+      "explanation": "С исчисляемыми в единственном числе: qualche domanda."
+    },
+    {
+      "question": "___ persone non sono arrivate.",
+      "options": [
+        "Alcune",
+        "Qualche",
+        "Un po' di"
+      ],
+      "answer": "Alcune",
+      "explanation": "С исчисляемыми женского рода: alcune persone."
+    },
+    {
+      "question": "Vuoi ___ pane con il formaggio?",
+      "options": [
+        "del",
+        "un po' di",
+        "qualche"
+      ],
+      "answer": "del",
+      "explanation": "Частичный артикль: del pane."
+    },
+    {
+      "question": "Ho ___ amici che vivono a Roma.",
+      "options": [
+        "alcuni",
+        "qualche",
+        "un po' di"
+      ],
+      "answer": "alcuni",
+      "explanation": "С исчисляемыми мужского рода: alcuni amici."
+    },
+    {
+      "question": "___ studenti hanno studiato ___ ore.",
+      "options": [
+        "Alcuni... molte",
+        "Qualche... molte",
+        "Un po' di... molte"
+      ],
+      "answer": "Alcuni... molte",
+      "explanation": "Alcuni studenti (исчисляемые), molte ore (исчисляемые женского рода)."
+    },
+    {
+      "question": "Ho ___ tempo e ___ soldi.",
+      "options": [
+        "poco... pochi",
+        "poca... pochi",
+        "pochi... poco"
+      ],
+      "answer": "poco... pochi",
+      "explanation": "Poco tempo (неисчисляемые), pochi soldi (исчисляемые)."
+    },
+    {
+      "question": "___ persone hanno ___ fame.",
+      "options": [
+        "Molte... molta",
+        "Molti... molta",
+        "Molte... molto"
+      ],
+      "answer": "Molte... molta",
+      "explanation": "Molte persone (исчисляемые женского рода), molta fame (неисчисляемые женского рода)."
+    },
+    {
+      "question": "Vuoi ___ acqua o ___ caffè?",
+      "options": [
+        "dell'... del",
+        "un po' di... un po' di",
+        "qualche... qualche"
+      ],
+      "answer": "dell'... del",
+      "explanation": "Частичные артикли: dell'acqua (di + l'), del caffè (di + il)."
+    },
+    {
+      "question": "___ studente deve portare ___ libro.",
+      "options": [
+        "Ogni... un",
+        "Qualche... un",
+        "Alcuni... un"
+      ],
+      "answer": "Ogni... un",
+      "explanation": "Ogni studente (каждый), un libro (неопределенный артикль)."
+    },
+    {
+      "question": "Ho ___ voglia di uscire.",
+      "options": [
+        "poca",
+        "poco",
+        "pochi"
+      ],
+      "answer": "poca",
+      "explanation": "С неисчисляемыми женского рода: poca voglia."
+    },
+    {
+      "question": "___ ragazza ha ___ problemi.",
+      "options": [
+        "Ogni... alcuni",
+        "Qualche... alcuni",
+        "Alcune... alcuni"
+      ],
+      "answer": "Ogni... alcuni",
+      "explanation": "Ogni ragazza (каждая), alcuni problemi (некоторые)."
+    },
+    {
+      "question": "C'è ___ silenzio qui.",
+      "options": [
+        "troppo",
+        "troppa",
+        "troppi"
+      ],
+      "answer": "troppo",
+      "explanation": "С неисчисляемыми мужского рода: troppo silenzio."
+    },
+    {
+      "question": "Ho ___ pazienza con i bambini.",
+      "options": [
+        "poca",
+        "poco",
+        "pochi"
+      ],
+      "answer": "poca",
+      "explanation": "С неисчисляемыми женского рода: poca pazienza."
+    },
+    {
+      "question": "___ libro è interessante.",
+      "options": [
+        "Qualche",
+        "Un po' di",
+        "Alcuni"
+      ],
+      "answer": "Qualche",
+      "explanation": "С исчисляемыми в единственном числе: qualche libro."
+    },
+    {
+      "question": "Ho ___ amici e ___ tempo libero.",
+      "options": [
+        "pochi... poco",
+        "poca... poco",
+        "pochi... poca"
+      ],
+      "answer": "pochi... poco",
+      "explanation": "Pochi amici (исчисляемые), poco tempo (неисчисляемые)."
+    },
+    {
+      "question": "___ persona ha ___ opinioni diverse.",
+      "options": [
+        "Ogni... alcune",
+        "Qualche... alcune",
+        "Alcune... alcune"
+      ],
+      "answer": "Ogni... alcune",
+      "explanation": "Ogni persona (каждая), alcune opinioni (некоторые)."
+    },
+    {
+      "question": "Vuoi ___ tè o ___ caffè?",
+      "options": [
+        "del... del",
+        "un po' di... un po' di",
+        "qualche... qualche"
+      ],
+      "answer": "del... del",
+      "explanation": "Частичные артикли: del tè, del caffè."
+    },
+    {
+      "question": "Ho ___ lavoro ma ___ soldi.",
+      "options": [
+        "molto... pochi",
+        "molta... pochi",
+        "molti... poco"
+      ],
+      "answer": "molto... pochi",
+      "explanation": "Molto lavoro (неисчисляемые), pochi soldi (исчисляемые)."
+    },
+    {
+      "question": "___ studenti hanno ___ domande.",
+      "options": [
+        "Alcuni... alcune",
+        "Qualche... alcune",
+        "Un po' di... alcune"
+      ],
+      "answer": "Alcuni... alcune",
+      "explanation": "Alcuni studenti (некоторые), alcune domande (некоторые)."
+    },
+    {
+      "question": "Ho ___ energia per correre.",
+      "options": [
+        "poca",
+        "poco",
+        "pochi"
+      ],
+      "answer": "poca",
+      "explanation": "С неисчисляемыми женского рода: poca energia."
+    },
+    {
+      "question": "___ studente ha ___ libri.",
+      "options": [
+        "Ogni... molti",
+        "Qualche... molti",
+        "Alcuni... molti"
+      ],
+      "answer": "Ogni... molti",
+      "explanation": "Ogni studente (каждый), molti libri (много книг)."
+    },
+    {
+      "question": "C'è ___ rumore qui.",
+      "options": [
+        "troppo",
+        "troppa",
+        "troppi"
+      ],
+      "answer": "troppo",
+      "explanation": "С неисчисляемыми мужского рода: troppo rumore."
+    },
+    {
+      "question": "Ho ___ fiducia in te.",
+      "options": [
+        "poca",
+        "poco",
+        "pochi"
+      ],
+      "answer": "poca",
+      "explanation": "С неисчисляемыми женского рода: poca fiducia."
+    },
+    {
+      "question": "___ libro è ___ interessante.",
+      "options": [
+        "Qualche... molto",
+        "Un po' di... molto",
+        "Alcuni... molto"
+      ],
+      "answer": "Qualche... molto",
+      "explanation": "Qualche libro (некоторые книги), molto interessante (очень интересный)."
+    },
+    {
+      "question": "Vuoi ___ latte nel caffè?",
+      "options": [
+        "un po' di",
+        "qualche",
+        "alcuni"
+      ],
+      "answer": "un po' di",
+      "explanation": "С неисчисляемыми: un po' di latte."
+    },
+    {
+      "question": "Ho ___ soldi per comprare la casa.",
+      "options": [
+        "abbastanza",
+        "molto",
+        "poco"
+      ],
+      "answer": "abbastanza",
+      "explanation": "Не изменяется: abbastanza soldi."
+    },
+    {
+      "question": "___ persone hanno ___ tempo.",
+      "options": [
+        "Molte... poco",
+        "Molti... poco",
+        "Molte... poca"
+      ],
+      "answer": "Molte... poco",
+      "explanation": "Molte persone (много людей), poco tempo (мало времени)."
+    },
+    {
+      "question": "C'è ___ spazio nella macchina.",
+      "options": [
+        "poco",
+        "poca",
+        "pochi"
+      ],
+      "answer": "poco",
+      "explanation": "С неисчисляемыми мужского рода: poco spazio."
+    },
+    {
+      "question": "Ho ___ amici ma ___ tempo per vederli.",
+      "options": [
+        "molti... poco",
+        "molto... poco",
+        "molti... poca"
+      ],
+      "answer": "molti... poco",
+      "explanation": "Molti amici (много друзей), poco tempo (мало времени)."
+    },
+    {
+      "question": "___ studente deve leggere ___ libri.",
+      "options": [
+        "Ogni... alcuni",
+        "Qualche... alcuni",
+        "Alcuni... alcuni"
+      ],
+      "answer": "Ogni... alcuni",
+      "explanation": "Ogni studente (каждый студент), alcuni libri (некоторые книги)."
+    },
+    {
+      "question": "Ho ___ pazienza ma ___ energia.",
+      "options": [
+        "poca... molta",
+        "poco... molta",
+        "poca... molto"
+      ],
+      "answer": "poca... molta",
+      "explanation": "Poca pazienza (мало терпения), molta energia (много энергии)."
+    },
+    {
+      "question": "___ persona ha ___ opinioni.",
+      "options": [
+        "Ogni... alcune",
+        "Qualche... alcune",
+        "Alcune... alcune"
+      ],
+      "answer": "Ogni... alcune",
+      "explanation": "Ogni persona (каждый человек), alcune opinioni (некоторые мнения)."
+    },
+    {
+      "question": "C'è ___ gente ma ___ spazio.",
+      "options": [
+        "troppa... poco",
+        "troppo... poco",
+        "troppa... poca"
+      ],
+      "answer": "troppa... poco",
+      "explanation": "Troppa gente (слишком много людей), poco spazio (мало места)."
+    },
+    {
+      "question": "Ho ___ lavoro ma ___ soldi.",
+      "options": [
+        "molto... pochi",
+        "molta... pochi",
+        "molti... poco"
+      ],
+      "answer": "molto... pochi",
+      "explanation": "Molto lavoro (много работы), pochi soldi (мало денег)."
+    }
+  ]
+}
