@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Pronomi clitici diretti e indiretti (A2)",
+  "exercises": [
+    {
+      "question": "Vedo Marco. ___ vedo ogni giorno.",
+      "options": [
+        "Lo",
+        "La",
+        "Li"
+      ],
+      "answer": "Lo",
+      "explanation": "'Lo' заменяет существительное мужского рода единственного числа (Marco)."
+    },
+    {
+      "question": "Compro il libro. ___ compro in libreria.",
+      "options": [
+        "Lo",
+        "La",
+        "Li"
+      ],
+      "answer": "Lo",
+      "explanation": "'Lo' заменяет 'il libro' (мужской род, единственное число)."
+    },
+    {
+      "question": "Prendo il treno. ___ prendo alle otto.",
+      "options": [
+        "Lo",
+        "La",
+        "Le"
+      ],
+      "answer": "Lo",
+      "explanation": "'Lo' заменяет 'il treno' (мужской род, единственное число)."
+    },
+    {
+      "question": "Conosco Paolo. ___ conosco da anni.",
+      "options": [
+        "Lo",
+        "La",
+        "Gli"
+      ],
+      "answer": "Lo",
+      "explanation": "'Lo' заменяет имя мужского рода (Paolo)."
+    },
+    {
+      "question": "Chiudo il libro. ___ chiudo adesso.",
+      "options": [
+        "Lo",
+        "La",
+        "Li"
+      ],
+      "answer": "Lo",
+      "explanation": "'Lo' заменяет 'il libro' (мужской род, единственное число)."
+    },
+    {
+      "question": "Vedo Anna. ___ vedo spesso.",
+      "options": [
+        "La",
+        "Lo",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "'La' заменяет существительное женского рода единственного числа (Anna)."
+    },
+    {
+      "question": "Compro la casa. ___ compro domani.",
+      "options": [
+        "La",
+        "Lo",
+        "Li"
+      ],
+      "answer": "La",
+      "explanation": "'La' заменяет 'la casa' (женский род, единственное число)."
+    },
+    {
+      "question": "Prendo la borsa. ___ prendo sempre.",
+      "options": [
+        "La",
+        "Lo",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "'La' заменяет 'la borsa' (женский род, единственное число)."
+    },
+    {
+      "question": "Leggo la lettera. ___ leggo ora.",
+      "options": [
+        "La",
+        "Lo",
+        "Li"
+      ],
+      "answer": "La",
+      "explanation": "'La' заменяет 'la lettera' (женский род, единственное число)."
+    },
+    {
+      "question": "Apro la finestra. ___ apro ogni mattina.",
+      "options": [
+        "La",
+        "Lo",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "'La' заменяет 'la finestra' (женский род, единственное число)."
+    },
+    {
+      "question": "Vedo i miei amici. ___ vedo domani.",
+      "options": [
+        "Li",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Li",
+      "explanation": "'Li' заменяет существительные мужского рода множественного числа (i miei amici)."
+    },
+    {
+      "question": "Compro i libri. ___ compro online.",
+      "options": [
+        "Li",
+        "Le",
+        "La"
+      ],
+      "answer": "Li",
+      "explanation": "'Li' заменяет 'i libri' (мужской род, множественное число)."
+    },
+    {
+      "question": "Prendo i biglietti. ___ prendo alla stazione.",
+      "options": [
+        "Li",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Li",
+      "explanation": "'Li' заменяет 'i biglietti' (мужской род, множественное число)."
+    },
+    {
+      "question": "Invito gli studenti. ___ invito alla festa.",
+      "options": [
+        "Li",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Li",
+      "explanation": "'Li' заменяет 'gli studenti' (мужской род, множественное число)."
+    },
+    {
+      "question": "Conosco i tuoi fratelli. ___ conosco bene.",
+      "options": [
+        "Li",
+        "Le",
+        "La"
+      ],
+      "answer": "Li",
+      "explanation": "'Li' заменяет 'i tuoi fratelli' (мужской род, множественное число)."
+    },
+    {
+      "question": "Vedo le mie amiche. ___ vedo spesso.",
+      "options": [
+        "Le",
+        "Li",
+        "La"
+      ],
+      "answer": "Le",
+      "explanation": "'Le' заменяет существительные женского рода множественного числа (le mie amiche)."
+    },
+    {
+      "question": "Compro le scarpe. ___ compro in centro.",
+      "options": [
+        "Le",
+        "Li",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "'Le' заменяет 'le scarpe' (женский род, множественное число)."
+    },
+    {
+      "question": "Prendo le chiavi. ___ prendo sempre.",
+      "options": [
+        "Le",
+        "Li",
+        "La"
+      ],
+      "answer": "Le",
+      "explanation": "'Le' заменяет 'le chiavi' (женский род, множественное число)."
+    },
+    {
+      "question": "Leggo le email. ___ leggo ogni mattina.",
+      "options": [
+        "Le",
+        "Li",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "'Le' заменяет 'le email' (женский род, множественное число)."
+    },
+    {
+      "question": "Invito le ragazze. ___ invito a cena.",
+      "options": [
+        "Le",
+        "Li",
+        "La"
+      ],
+      "answer": "Le",
+      "explanation": "'Le' заменяет 'le ragazze' (женский род, множественное число)."
+    },
+    {
+      "question": "Marco ___ telefona ogni giorno.",
+      "options": [
+        "mi",
+        "ti",
+        "gli"
+      ],
+      "answer": "mi",
+      "explanation": "'Mi' означает 'мне' (косвенное дополнение)."
+    },
+    {
+      "question": "Anna ___ scrive spesso.",
+      "options": [
+        "mi",
+        "ti",
+        "le"
+      ],
+      "answer": "mi",
+      "explanation": "'Mi' означает 'мне' в конструкции 'scrivere a qualcuno'."
+    },
+    {
+      "question": "Paolo ___ dà il libro.",
+      "options": [
+        "mi",
+        "ti",
+        "gli"
+      ],
+      "answer": "mi",
+      "explanation": "'Mi' означает 'мне' в конструкции 'dare a qualcuno'."
+    },
+    {
+      "question": "Mia madre ___ prepara la cena.",
+      "options": [
+        "mi",
+        "ti",
+        "ci"
+      ],
+      "answer": "mi",
+      "explanation": "'Mi' означает 'мне' в конструкции 'preparare a qualcuno'."
+    },
+    {
+      "question": "Il professore ___ spiega la lezione.",
+      "options": [
+        "mi",
+        "ti",
+        "gli"
+      ],
+      "answer": "mi",
+      "explanation": "'Mi' означает 'мне' в конструкции 'spiegare a qualcuno'."
+    },
+    {
+      "question": "Io ___ telefono domani.",
+      "options": [
+        "ti",
+        "mi",
+        "gli"
+      ],
+      "answer": "ti",
+      "explanation": "'Ti' означает 'тебе' (косвенное дополнение)."
+    },
+    {
+      "question": "Maria ___ scrive una lettera.",
+      "options": [
+        "ti",
+        "mi",
+        "le"
+      ],
+      "answer": "ti",
+      "explanation": "'Ti' означает 'тебе' в конструкции 'scrivere a qualcuno'."
+    },
+    {
+      "question": "Luca ___ dà un regalo.",
+      "options": [
+        "ti",
+        "mi",
+        "gli"
+      ],
+      "answer": "ti",
+      "explanation": "'Ti' означает 'тебе' в конструкции 'dare a qualcuno'."
+    },
+    {
+      "question": "Io ___ parlo spesso.",
+      "options": [
+        "ti",
+        "mi",
+        "ci"
+      ],
+      "answer": "ti",
+      "explanation": "'Ti' означает 'тебе/с тобой' в конструкции 'parlare a qualcuno'."
+    },
+    {
+      "question": "Io ___ presto il libro.",
+      "options": [
+        "ti",
+        "mi",
+        "gli"
+      ],
+      "answer": "ti",
+      "explanation": "'Ti' означает 'тебе' в конструкции 'prestare a qualcuno'."
+    },
+    {
+      "question": "Io ___ telefono stasera. (a lui)",
+      "options": [
+        "gli",
+        "le",
+        "mi"
+      ],
+      "answer": "gli",
+      "explanation": "'Gli' означает 'ему' (косвенное дополнение мужского рода)."
+    },
+    {
+      "question": "Maria ___ scrive. (a Marco)",
+      "options": [
+        "gli",
+        "le",
+        "ti"
+      ],
+      "answer": "gli",
+      "explanation": "'Gli' означает 'ему' в конструкции 'scrivere a qualcuno'."
+    },
+    {
+      "question": "Io ___ do il libro. (a Paolo)",
+      "options": [
+        "gli",
+        "le",
+        "mi"
+      ],
+      "answer": "gli",
+      "explanation": "'Gli' означает 'ему' в конструкции 'dare a qualcuno'."
+    },
+    {
+      "question": "Noi ___ parliamo. (a lui)",
+      "options": [
+        "gli",
+        "le",
+        "ci"
+      ],
+      "answer": "gli",
+      "explanation": "'Gli' означает 'ему/с ним' в конструкции 'parlare a qualcuno'."
+    },
+    {
+      "question": "Tu ___ dici la verità. (a tuo padre)",
+      "options": [
+        "gli",
+        "le",
+        "mi"
+      ],
+      "answer": "gli",
+      "explanation": "'Gli' означает 'ему' в конструкции 'dire a qualcuno'."
+    },
+    {
+      "question": "Io ___ telefono domani. (a lei)",
+      "options": [
+        "le",
+        "gli",
+        "ti"
+      ],
+      "answer": "le",
+      "explanation": "'Le' означает 'ей' (косвенное дополнение женского рода)."
+    },
+    {
+      "question": "Marco ___ scrive. (a Anna)",
+      "options": [
+        "le",
+        "gli",
+        "mi"
+      ],
+      "answer": "le",
+      "explanation": "'Le' означает 'ей' в конструкции 'scrivere a qualcuno'."
+    },
+    {
+      "question": "Io ___ do un fiore. (a Maria)",
+      "options": [
+        "le",
+        "gli",
+        "ti"
+      ],
+      "answer": "le",
+      "explanation": "'Le' означает 'ей' в конструкции 'dare a qualcuno'."
+    },
+    {
+      "question": "Noi ___ parliamo. (a lei)",
+      "options": [
+        "le",
+        "gli",
+        "ci"
+      ],
+      "answer": "le",
+      "explanation": "'Le' означает 'ей/с ней' в конструкции 'parlare a qualcuno'."
+    },
+    {
+      "question": "Tu ___ dici ciao. (a Sara)",
+      "options": [
+        "le",
+        "gli",
+        "mi"
+      ],
+      "answer": "le",
+      "explanation": "'Le' означает 'ей' в конструкции 'dire a qualcuno'."
+    },
+    {
+      "question": "Il professore ___ spiega la lezione.",
+      "options": [
+        "ci",
+        "vi",
+        "gli"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' означает 'нам' (косвенное дополнение)."
+    },
+    {
+      "question": "Maria ___ telefona stasera.",
+      "options": [
+        "ci",
+        "vi",
+        "le"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' означает 'нам' в конструкции 'telefonare a qualcuno'."
+    },
+    {
+      "question": "Paolo ___ scrive spesso.",
+      "options": [
+        "ci",
+        "vi",
+        "gli"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' означает 'нам' в конструкции 'scrivere a qualcuno'."
+    },
+    {
+      "question": "I genitori ___ danno i soldi.",
+      "options": [
+        "ci",
+        "vi",
+        "mi"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' означает 'нам' в конструкции 'dare a qualcuno'."
+    },
+    {
+      "question": "Io ___ telefono domani.",
+      "options": [
+        "vi",
+        "ci",
+        "gli"
+      ],
+      "answer": "vi",
+      "explanation": "'Vi' означает 'вам' (косвенное дополнение)."
+    },
+    {
+      "question": "Marco ___ scrive.",
+      "options": [
+        "vi",
+        "ci",
+        "le"
+      ],
+      "answer": "vi",
+      "explanation": "'Vi' означает 'вам' в конструкции 'scrivere a qualcuno'."
+    },
+    {
+      "question": "Noi ___ diamo un consiglio.",
+      "options": [
+        "vi",
+        "ci",
+        "ti"
+      ],
+      "answer": "vi",
+      "explanation": "'Vi' означает 'вам' в конструкции 'dare a qualcuno'."
+    },
+    {
+      "question": "Maria ___ parla.",
+      "options": [
+        "vi",
+        "ci",
+        "gli"
+      ],
+      "answer": "vi",
+      "explanation": "'Vi' означает 'вам/с вами' в конструкции 'parlare a qualcuno'."
+    },
+    {
+      "question": "Io ___ telefono. (a loro)",
+      "options": [
+        "gli",
+        "le",
+        "li"
+      ],
+      "answer": "gli",
+      "explanation": "'Gli' означает 'им' (косвенное дополнение множественного числа)."
+    },
+    {
+      "question": "Maria ___ scrive. (ai ragazzi)",
+      "options": [
+        "gli",
+        "le",
+        "li"
+      ],
+      "answer": "gli",
+      "explanation": "'Gli' означает 'им' в конструкции 'scrivere a qualcuno'."
+    },
+    {
+      "question": "Noi ___ diamo i libri. (agli studenti)",
+      "options": [
+        "gli",
+        "le",
+        "li"
+      ],
+      "answer": "gli",
+      "explanation": "'Gli' означает 'им' в конструкции 'dare a qualcuno'."
+    },
+    {
+      "question": "Tu ___ parli. (a loro)",
+      "options": [
+        "gli",
+        "le",
+        "ci"
+      ],
+      "answer": "gli",
+      "explanation": "'Gli' означает 'им/с ними' в конструкции 'parlare a qualcuno'."
+    },
+    {
+      "question": "___ vedo domani. (Marco)",
+      "options": [
+        "Lo",
+        "Gli",
+        "Li"
+      ],
+      "answer": "Lo",
+      "explanation": "Клитика прямого дополнения 'lo' стоит ПЕРЕД спрягаемым глаголом."
+    },
+    {
+      "question": "___ compro in centro. (la borsa)",
+      "options": [
+        "La",
+        "Lo",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "Клитика прямого дополнения 'la' стоит ПЕРЕД спрягаемым глаголом."
+    },
+    {
+      "question": "___ telefono stasera. (a lui)",
+      "options": [
+        "Gli",
+        "Lo",
+        "Le"
+      ],
+      "answer": "Gli",
+      "explanation": "Клитика косвенного дополнения 'gli' стоит ПЕРЕД спрягаемым глаголом."
+    },
+    {
+      "question": "___ scrivo una email. (a lei)",
+      "options": [
+        "Le",
+        "La",
+        "Gli"
+      ],
+      "answer": "Le",
+      "explanation": "Клитика косвенного дополнения 'le' стоит ПЕРЕД спрягаемым глаголом."
+    },
+    {
+      "question": "Voglio veder___. (Marco)",
+      "options": [
+        "lo",
+        "gli",
+        "li"
+      ],
+      "answer": "lo",
+      "explanation": "С инфинитивом клитика ПРИСОЕДИНЯЕТСЯ к глаголу: vederlo."
+    },
+    {
+      "question": "Devo chiamar___. (Anna)",
+      "options": [
+        "la",
+        "lo",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "С инфинитивом клитика ПРИСОЕДИНЯЕТСЯ к глаголу: chiamarla."
+    },
+    {
+      "question": "Posso telefonar___? (a lui)",
+      "options": [
+        "gli",
+        "lo",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "С инфинитивом клитика ПРИСОЕДИНЯЕТСЯ к глаголу: telefonargli."
+    },
+    {
+      "question": "Voglio scriver___. (a lei)",
+      "options": [
+        "le",
+        "la",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "С инфинитивом клитика ПРИСОЕДИНЯЕТСЯ к глаголу: scriverle."
+    },
+    {
+      "question": "Devo aiutar___. (te)",
+      "options": [
+        "ti",
+        "mi",
+        "ci"
+      ],
+      "answer": "ti",
+      "explanation": "С инфинитивом клитика ПРИСОЕДИНЯЕТСЯ к глаголу: aiutarti."
+    },
+    {
+      "question": "___ posso vedere. (il libro)",
+      "options": [
+        "Lo",
+        "La",
+        "Li"
+      ],
+      "answer": "Lo",
+      "explanation": "С модальным глаголом клитика может стоять ПЕРЕД: lo posso vedere."
+    },
+    {
+      "question": "Posso veder___. (il libro)",
+      "options": [
+        "lo",
+        "la",
+        "li"
+      ],
+      "answer": "lo",
+      "explanation": "С модальным глаголом клитика может ПРИСОЕДИНЯТЬСЯ к инфинитиву: posso vederlo."
+    },
+    {
+      "question": "___ devo chiamare. (Anna)",
+      "options": [
+        "La",
+        "Lo",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "С модальным глаголом клитика может стоять ПЕРЕД: la devo chiamare."
+    },
+    {
+      "question": "Devo chiamar___. (Anna)",
+      "options": [
+        "la",
+        "lo",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "С модальным глаголом клитика может ПРИСОЕДИНЯТЬСЯ к инфинитиву: devo chiamarla."
+    },
+    {
+      "question": "Vedi Maria? - Sì, ___ vedo.",
+      "options": [
+        "la",
+        "lo",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "В ответе используется клитика 'la' для замены 'Maria'."
+    },
+    {
+      "question": "Compri il giornale? - Sì, ___ compro.",
+      "options": [
+        "lo",
+        "la",
+        "li"
+      ],
+      "answer": "lo",
+      "explanation": "В ответе используется клитика 'lo' для замены 'il giornale'."
+    },
+    {
+      "question": "Prendi i libri? - Sì, ___ prendo.",
+      "options": [
+        "li",
+        "le",
+        "lo"
+      ],
+      "answer": "li",
+      "explanation": "В ответе используется клитика 'li' для замены 'i libri'."
+    },
+    {
+      "question": "Leggi le riviste? - Sì, ___ leggo.",
+      "options": [
+        "le",
+        "li",
+        "la"
+      ],
+      "answer": "le",
+      "explanation": "В ответе используется клитика 'le' для замены 'le riviste'."
+    },
+    {
+      "question": "Non ___ vedo. (Marco)",
+      "options": [
+        "lo",
+        "la",
+        "li"
+      ],
+      "answer": "lo",
+      "explanation": "В отрицательных предложениях клитика стоит между 'non' и глаголом."
+    },
+    {
+      "question": "Non ___ compro. (la casa)",
+      "options": [
+        "la",
+        "lo",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "В отрицательных предложениях клитика стоит между 'non' и глаголом."
+    },
+    {
+      "question": "Non ___ telefono. (a lui)",
+      "options": [
+        "gli",
+        "lo",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "В отрицательных предложениях клитика стоит между 'non' и глаголом."
+    },
+    {
+      "question": "Non ___ scrivo. (a lei)",
+      "options": [
+        "le",
+        "la",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "В отрицательных предложениях клитика стоит между 'non' и глаголом."
+    },
+    {
+      "question": "Vedo Maria. ___ vedo. (прямое дополнение)",
+      "options": [
+        "La",
+        "Le",
+        "Gli"
+      ],
+      "answer": "La",
+      "explanation": "'La' - клитика прямого дополнения (vedo chi? Maria)."
+    },
+    {
+      "question": "Telefono a Maria. ___ telefono. (косвенное дополнение)",
+      "options": [
+        "Le",
+        "La",
+        "Gli"
+      ],
+      "answer": "Le",
+      "explanation": "'Le' - клитика косвенного дополнения (telefono a chi? a Maria)."
+    },
+    {
+      "question": "Vedo Marco. ___ vedo. (прямое дополнение)",
+      "options": [
+        "Lo",
+        "Gli",
+        "Li"
+      ],
+      "answer": "Lo",
+      "explanation": "'Lo' - клитика прямого дополнения (vedo chi? Marco)."
+    },
+    {
+      "question": "Parlo a Marco. ___ parlo. (косвенное дополнение)",
+      "options": [
+        "Gli",
+        "Lo",
+        "Le"
+      ],
+      "answer": "Gli",
+      "explanation": "'Gli' - клитика косвенного дополнения (parlo a chi? a Marco)."
+    },
+    {
+      "question": "Compro il pane. ___ compro ogni giorno.",
+      "options": [
+        "Lo",
+        "La",
+        "Li"
+      ],
+      "answer": "Lo",
+      "explanation": "'Lo' заменяет 'il pane' (мужской род, единственное число)."
+    },
+    {
+      "question": "Mangio la pizza. ___ mangio spesso.",
+      "options": [
+        "La",
+        "Lo",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "'La' заменяет 'la pizza' (женский род, единственное число)."
+    },
+    {
+      "question": "Bevo il caffè. ___ bevo ogni mattina.",
+      "options": [
+        "Lo",
+        "La",
+        "Li"
+      ],
+      "answer": "Lo",
+      "explanation": "'Lo' заменяет 'il caffè' (мужской род, единственное число)."
+    },
+    {
+      "question": "Preparo la cena. ___ preparo adesso.",
+      "options": [
+        "La",
+        "Lo",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "'La' заменяет 'la cena' (женский род, единственное число)."
+    },
+    {
+      "question": "Faccio i compiti. ___ faccio ora.",
+      "options": [
+        "Li",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Li",
+      "explanation": "'Li' заменяет 'i compiti' (мужской род, множественное число)."
+    },
+    {
+      "question": "Chiama Marco! → ___!",
+      "options": [
+        "Chiamalo",
+        "Chiamagli",
+        "Chiamali"
+      ],
+      "answer": "Chiamalo",
+      "explanation": "С императивом (tu) клитика ПРИСОЕДИНЯЕТСЯ: chiamalo."
+    },
+    {
+      "question": "Prendi la borsa! → ___!",
+      "options": [
+        "Prendila",
+        "Prendilo",
+        "Prendile"
+      ],
+      "answer": "Prendila",
+      "explanation": "С императивом (tu) клитика ПРИСОЕДИНЯЕТСЯ: prendila."
+    },
+    {
+      "question": "Telefona a lui! → ___!",
+      "options": [
+        "Telefonagli",
+        "Telefonalo",
+        "Telefonale"
+      ],
+      "answer": "Telefonagli",
+      "explanation": "С императивом (tu) клитика ПРИСОЕДИНЯЕТСЯ: telefonagli."
+    },
+    {
+      "question": "Scrivi a lei! → ___!",
+      "options": [
+        "Scrivile",
+        "Scrivila",
+        "Scrivigli"
+      ],
+      "answer": "Scrivile",
+      "explanation": "С императивом (tu) клитика ПРИСОЕДИНЯЕТСЯ: scrivile."
+    },
+    {
+      "question": "Aiuta me! → ___!",
+      "options": [
+        "Aiutami",
+        "Aiutati",
+        "Aiutalo"
+      ],
+      "answer": "Aiutami",
+      "explanation": "С императивом (tu) клитика ПРИСОЕДИНЯЕТСЯ: aiutami."
+    },
+    {
+      "question": "Non chiamare Marco! → Non ___!",
+      "options": [
+        "chiamarlo",
+        "chiamagli",
+        "chiamali"
+      ],
+      "answer": "chiamarlo",
+      "explanation": "С отрицательным императивом (tu): non + инфинитив + клитика."
+    },
+    {
+      "question": "Non prendere la borsa! → Non ___!",
+      "options": [
+        "prenderla",
+        "prenderlo",
+        "prenderle"
+      ],
+      "answer": "prenderla",
+      "explanation": "С отрицательным императивом (tu): non + инфинитив + клитика."
+    },
+    {
+      "question": "Non telefonare a lui! → Non ___!",
+      "options": [
+        "telefonargli",
+        "telefonarlo",
+        "telefonarle"
+      ],
+      "answer": "telefonargli",
+      "explanation": "С отрицательным императивом (tu): non + инфинитив + клитика."
+    },
+    {
+      "question": "Conosci Paolo? - Sì, ___ conosco.",
+      "options": [
+        "lo",
+        "gli",
+        "la"
+      ],
+      "answer": "lo",
+      "explanation": "Conoscere требует прямого дополнения: lo conosco."
+    },
+    {
+      "question": "Telefoni a Maria? - Sì, ___ telefono.",
+      "options": [
+        "le",
+        "la",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Telefonare требует косвенного дополнения: le telefono."
+    },
+    {
+      "question": "Vedi i tuoi amici? - Sì, ___ vedo.",
+      "options": [
+        "li",
+        "gli",
+        "le"
+      ],
+      "answer": "li",
+      "explanation": "Vedere требует прямого дополнения множественного числа: li vedo."
+    },
+    {
+      "question": "Scrivi alle tue amiche? - Sì, ___ scrivo.",
+      "options": [
+        "gli",
+        "le",
+        "li"
+      ],
+      "answer": "gli",
+      "explanation": "Scrivere a loro требует 'gli' (им): gli scrivo."
+    },
+    {
+      "question": "Aspetto Anna. ___ aspetto qui.",
+      "options": [
+        "La",
+        "Le",
+        "Lo"
+      ],
+      "answer": "La",
+      "explanation": "'La' заменяет 'Anna' (прямое дополнение)."
+    },
+    {
+      "question": "Invito gli amici. ___ invito a cena.",
+      "options": [
+        "Li",
+        "Gli",
+        "Le"
+      ],
+      "answer": "Li",
+      "explanation": "'Li' заменяет 'gli amici' (прямое дополнение, мужской род мн.ч.)."
+    },
+    {
+      "question": "Parlo a mia madre. ___ parlo ogni giorno.",
+      "options": [
+        "Le",
+        "La",
+        "Gli"
+      ],
+      "answer": "Le",
+      "explanation": "'Le' заменяет 'a mia madre' (косвенное дополнение)."
+    },
+    {
+      "question": "Dico a Marco la verità. ___ dico la verità.",
+      "options": [
+        "Gli",
+        "Lo",
+        "Le"
+      ],
+      "answer": "Gli",
+      "explanation": "'Gli' заменяет 'a Marco' (косвенное дополнение)."
+    },
+    {
+      "question": "Guardo il film. ___ guardo stasera.",
+      "options": [
+        "Lo",
+        "La",
+        "Gli"
+      ],
+      "answer": "Lo",
+      "explanation": "'Lo' заменяет 'il film' (прямое дополнение)."
+    },
+    {
+      "question": "Ascolto la musica. ___ ascolto sempre.",
+      "options": [
+        "La",
+        "Lo",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "'La' заменяет 'la musica' (прямое дополнение)."
+    }
+  ]
+}
