@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Passato prossimo con avere/essere (A2)",
+  "exercises": [
+    {
+      "question": "Io ___ la pizza ieri sera.",
+      "options": [
+        "ho mangiato",
+        "sono mangiato",
+        "hai mangiato"
+      ],
+      "answer": "ho mangiato",
+      "explanation": "Mangiare требует вспомогательного глагола 'avere': io ho mangiato."
+    },
+    {
+      "question": "Tu ___ con Maria?",
+      "options": [
+        "hai parlato",
+        "ho parlato",
+        "sei parlato"
+      ],
+      "answer": "hai parlato",
+      "explanation": "Parlare требует 'avere': tu hai parlato."
+    },
+    {
+      "question": "Lui ___ molto ieri.",
+      "options": [
+        "ha lavorato",
+        "ho lavorato",
+        "è lavorato"
+      ],
+      "answer": "ha lavorato",
+      "explanation": "Lavorare требует 'avere': lui ha lavorato."
+    },
+    {
+      "question": "Lei ___ italiano per tre anni.",
+      "options": [
+        "ha studiato",
+        "hai studiato",
+        "è studiata"
+      ],
+      "answer": "ha studiato",
+      "explanation": "Studiare требует 'avere': lei ha studiato."
+    },
+    {
+      "question": "Noi ___ il film.",
+      "options": [
+        "abbiamo guardato",
+        "hanno guardato",
+        "siamo guardati"
+      ],
+      "answer": "abbiamo guardato",
+      "explanation": "Guardare требует 'avere': noi abbiamo guardato."
+    },
+    {
+      "question": "Voi ___ la casa?",
+      "options": [
+        "avete comprato",
+        "abbiamo comprato",
+        "siete comprati"
+      ],
+      "answer": "avete comprato",
+      "explanation": "Comprare требует 'avere': voi avete comprato."
+    },
+    {
+      "question": "Loro ___ la cena.",
+      "options": [
+        "hanno preparato",
+        "abbiamo preparato",
+        "sono preparati"
+      ],
+      "answer": "hanno preparato",
+      "explanation": "Preparare требует 'avere': loro hanno preparato."
+    },
+    {
+      "question": "Io ___ il libro.",
+      "options": [
+        "ho letto",
+        "sono letto",
+        "hai letto"
+      ],
+      "answer": "ho letto",
+      "explanation": "Leggere требует 'avere': io ho letto (неправильное причастие)."
+    },
+    {
+      "question": "Tu ___ una lettera?",
+      "options": [
+        "hai scritto",
+        "ho scritto",
+        "sei scritto"
+      ],
+      "answer": "hai scritto",
+      "explanation": "Scrivere требует 'avere': tu hai scritto (неправильное причастие)."
+    },
+    {
+      "question": "Lui ___ il caffè.",
+      "options": [
+        "ha preso",
+        "ho preso",
+        "è preso"
+      ],
+      "answer": "ha preso",
+      "explanation": "Prendere требует 'avere': lui ha preso."
+    },
+    {
+      "question": "Lei ___ l'esame.",
+      "options": [
+        "ha perso",
+        "hai perso",
+        "è persa"
+      ],
+      "answer": "ha perso",
+      "explanation": "Perdere требует 'avere': lei ha perso."
+    },
+    {
+      "question": "Noi ___ la finestra.",
+      "options": [
+        "abbiamo chiuso",
+        "hanno chiuso",
+        "siamo chiusi"
+      ],
+      "answer": "abbiamo chiuso",
+      "explanation": "Chiudere требует 'avere': noi abbiamo chiuso."
+    },
+    {
+      "question": "Voi ___ al telefono?",
+      "options": [
+        "avete risposto",
+        "abbiamo risposto",
+        "siete risposti"
+      ],
+      "answer": "avete risposto",
+      "explanation": "Rispondere требует 'avere': voi avete risposto."
+    },
+    {
+      "question": "Loro ___ la lezione.",
+      "options": [
+        "hanno capito",
+        "abbiamo capito",
+        "sono capiti"
+      ],
+      "answer": "hanno capito",
+      "explanation": "Capire требует 'avere': loro hanno capito."
+    },
+    {
+      "question": "Io ___ a Roma ieri.",
+      "options": [
+        "sono andato",
+        "ho andato",
+        "hai andato"
+      ],
+      "answer": "sono andato",
+      "explanation": "Andare требует 'essere': io sono andato (согласование с подлежащим)."
+    },
+    {
+      "question": "Tu ___ in Italia?",
+      "options": [
+        "sei stato",
+        "sono stato",
+        "hai stato"
+      ],
+      "answer": "sei stato",
+      "explanation": "Essere требует 'essere': tu sei stato (неправильное причастие)."
+    },
+    {
+      "question": "Lui ___ a casa.",
+      "options": [
+        "è tornato",
+        "ho tornato",
+        "ha tornato"
+      ],
+      "answer": "è tornato",
+      "explanation": "Tornare требует 'essere': lui è tornato."
+    },
+    {
+      "question": "Lei ___ in macchina.",
+      "options": [
+        "è venuta",
+        "ha venuta",
+        "sei venuta"
+      ],
+      "answer": "è venuta",
+      "explanation": "Venire требует 'essere': lei è venuta (согласование -a)."
+    },
+    {
+      "question": "Noi ___ al cinema.",
+      "options": [
+        "siamo andati",
+        "abbiamo andato",
+        "sono andati"
+      ],
+      "answer": "siamo andati",
+      "explanation": "Andare требует 'essere': noi siamo andati (согласование -i)."
+    },
+    {
+      "question": "Voi ___ in vacanza?",
+      "options": [
+        "siete partiti",
+        "avete partito",
+        "siamo partiti"
+      ],
+      "answer": "siete partiti",
+      "explanation": "Partire требует 'essere': voi siete partiti."
+    },
+    {
+      "question": "Loro ___ presto.",
+      "options": [
+        "sono arrivati",
+        "hanno arrivato",
+        "siete arrivati"
+      ],
+      "answer": "sono arrivati",
+      "explanation": "Arrivare требует 'essere': loro sono arrivati."
+    },
+    {
+      "question": "Maria ___ al mare.",
+      "options": [
+        "è andata",
+        "è andato",
+        "ha andata"
+      ],
+      "answer": "è andata",
+      "explanation": "С 'essere' причастие согласуется с подлежащим женского рода: andata."
+    },
+    {
+      "question": "Anna ___ a casa.",
+      "options": [
+        "è tornata",
+        "è tornato",
+        "ha tornata"
+      ],
+      "answer": "è tornata",
+      "explanation": "С 'essere' причастие согласуется с подлежащим женского рода: tornata."
+    },
+    {
+      "question": "Mia sorella ___ in Italia.",
+      "options": [
+        "è stata",
+        "è stato",
+        "ha stata"
+      ],
+      "answer": "è stata",
+      "explanation": "С 'essere' причастие согласуется с подлежащим женского рода: stata."
+    },
+    {
+      "question": "La ragazza ___ presto.",
+      "options": [
+        "è partita",
+        "è partito",
+        "ha partita"
+      ],
+      "answer": "è partita",
+      "explanation": "С 'essere' причастие согласуется с подлежащим женского рода: partita."
+    },
+    {
+      "question": "Mia madre ___ ieri.",
+      "options": [
+        "è arrivata",
+        "è arrivato",
+        "ha arrivata"
+      ],
+      "answer": "è arrivata",
+      "explanation": "С 'essere' причастие согласуется с подлежащим женского рода: arrivata."
+    },
+    {
+      "question": "Le ragazze ___ al cinema.",
+      "options": [
+        "sono andate",
+        "sono andati",
+        "hanno andate"
+      ],
+      "answer": "sono andate",
+      "explanation": "С 'essere' причастие согласуется с подлежащим женского рода мн.ч.: andate."
+    },
+    {
+      "question": "I ragazzi ___ a casa.",
+      "options": [
+        "sono tornati",
+        "sono tornate",
+        "hanno tornati"
+      ],
+      "answer": "sono tornati",
+      "explanation": "С 'essere' причастие согласуется с подлежащим мужского рода мн.ч.: tornati."
+    },
+    {
+      "question": "Le studentesse ___ in classe.",
+      "options": [
+        "sono entrate",
+        "sono entrati",
+        "hanno entrate"
+      ],
+      "answer": "sono entrate",
+      "explanation": "Entrare требует 'essere', согласование женского рода мн.ч.: entrate."
+    },
+    {
+      "question": "Gli studenti ___ dall'università.",
+      "options": [
+        "sono usciti",
+        "sono uscite",
+        "hanno usciti"
+      ],
+      "answer": "sono usciti",
+      "explanation": "Uscire требует 'essere', согласование мужского рода мн.ч.: usciti."
+    },
+    {
+      "question": "Io ___ alle sette.",
+      "options": [
+        "mi sono svegliato",
+        "mi ho svegliato",
+        "ti sei svegliato"
+      ],
+      "answer": "mi sono svegliato",
+      "explanation": "Возвратные глаголы требуют 'essere': mi sono svegliato."
+    },
+    {
+      "question": "Tu ___ presto?",
+      "options": [
+        "ti sei alzato",
+        "ti ho alzato",
+        "mi sono alzato"
+      ],
+      "answer": "ti sei alzato",
+      "explanation": "Возвратные глаголы требуют 'essere': ti sei alzato."
+    },
+    {
+      "question": "Lei ___ bene.",
+      "options": [
+        "si è riposata",
+        "si ha riposata",
+        "ti sei riposata"
+      ],
+      "answer": "si è riposata",
+      "explanation": "Возвратные глаголы требуют 'essere', согласование -a: si è riposata."
+    },
+    {
+      "question": "Noi ___ tardi.",
+      "options": [
+        "ci siamo alzati",
+        "ci abbiamo alzati",
+        "vi siete alzati"
+      ],
+      "answer": "ci siamo alzati",
+      "explanation": "Возвратные глаголы требуют 'essere': ci siamo alzati."
+    },
+    {
+      "question": "Voi ___ ?",
+      "options": [
+        "vi siete divertiti",
+        "vi avete divertiti",
+        "ci siamo divertiti"
+      ],
+      "answer": "vi siete divertiti",
+      "explanation": "Возвратные глаголы требуют 'essere': vi siete divertiti."
+    },
+    {
+      "question": "Loro ___ in fretta.",
+      "options": [
+        "si sono vestiti",
+        "si hanno vestiti",
+        "vi siete vestiti"
+      ],
+      "answer": "si sono vestiti",
+      "explanation": "Возвратные глаголы требуют 'essere': si sono vestiti."
+    },
+    {
+      "question": "Io ___ il vino.",
+      "options": [
+        "ho bevuto",
+        "sono bevuto",
+        "hai bevuto"
+      ],
+      "answer": "ho bevuto",
+      "explanation": "Bere требует 'avere', неправильное причастие: ho bevuto."
+    },
+    {
+      "question": "Tu ___ la porta?",
+      "options": [
+        "hai aperto",
+        "ho aperto",
+        "sei aperto"
+      ],
+      "answer": "hai aperto",
+      "explanation": "Aprire требует 'avere', неправильное причастие: hai aperto."
+    },
+    {
+      "question": "Lui ___ tutto.",
+      "options": [
+        "ha detto",
+        "ho detto",
+        "è detto"
+      ],
+      "answer": "ha detto",
+      "explanation": "Dire требует 'avere', неправильное причастие: ha detto."
+    },
+    {
+      "question": "Lei ___ il lavoro.",
+      "options": [
+        "ha fatto",
+        "hai fatto",
+        "è fatta"
+      ],
+      "answer": "ha fatto",
+      "explanation": "Fare требует 'avere', неправильное причастие: ha fatto."
+    },
+    {
+      "question": "Noi ___ i documenti.",
+      "options": [
+        "abbiamo messo",
+        "hanno messo",
+        "siamo messi"
+      ],
+      "answer": "abbiamo messo",
+      "explanation": "Mettere требует 'avere', неправильное причастие: abbiamo messo."
+    },
+    {
+      "question": "Voi ___ la verità?",
+      "options": [
+        "avete detto",
+        "abbiamo detto",
+        "siete detti"
+      ],
+      "answer": "avete detto",
+      "explanation": "Dire требует 'avere', неправильное причастие: avete detto."
+    },
+    {
+      "question": "Loro ___ il libro.",
+      "options": [
+        "hanno letto",
+        "abbiamo letto",
+        "sono letti"
+      ],
+      "answer": "hanno letto",
+      "explanation": "Leggere требует 'avere', неправильное причастие: hanno letto."
+    },
+    {
+      "question": "Io ___ a casa.",
+      "options": [
+        "sono rimasto",
+        "ho rimasto",
+        "hai rimasto"
+      ],
+      "answer": "sono rimasto",
+      "explanation": "Rimanere требует 'essere', неправильное причастие: sono rimasto."
+    },
+    {
+      "question": "Lei ___ in Italia.",
+      "options": [
+        "è nata",
+        "è nato",
+        "ha nata"
+      ],
+      "answer": "è nata",
+      "explanation": "Nascere требует 'essere', согласование женского рода: è nata."
+    },
+    {
+      "question": "Loro ___ insieme.",
+      "options": [
+        "sono stati",
+        "hanno stati",
+        "sono state"
+      ],
+      "answer": "sono stati",
+      "explanation": "Essere требует 'essere', неправильное причастие: sono stati."
+    },
+    {
+      "question": "Marco ___ ieri.",
+      "options": [
+        "è morto",
+        "ha morto",
+        "è morta"
+      ],
+      "answer": "è morto",
+      "explanation": "Morire требует 'essere', неправильное причастие: è morto."
+    },
+    {
+      "question": "Io ___ una lettera.",
+      "options": [
+        "ho scritto",
+        "sono scritto",
+        "hai scritto"
+      ],
+      "answer": "ho scritto",
+      "explanation": "Scrivere (переходный глагол) требует 'avere'."
+    },
+    {
+      "question": "Io ___ in treno.",
+      "options": [
+        "sono venuto",
+        "ho venuto",
+        "sei venuto"
+      ],
+      "answer": "sono venuto",
+      "explanation": "Venire (движение) требует 'essere'."
+    },
+    {
+      "question": "Tu ___ bene?",
+      "options": [
+        "hai dormito",
+        "sei dormito",
+        "ho dormito"
+      ],
+      "answer": "hai dormito",
+      "explanation": "Dormire требует 'avere': hai dormito."
+    },
+    {
+      "question": "Tu ___ a scuola?",
+      "options": [
+        "sei andato",
+        "hai andato",
+        "sono andato"
+      ],
+      "answer": "sei andato",
+      "explanation": "Andare (движение) требует 'essere'."
+    },
+    {
+      "question": "Lui ___ il giornale.",
+      "options": [
+        "ha letto",
+        "è letto",
+        "hai letto"
+      ],
+      "answer": "ha letto",
+      "explanation": "Leggere (переходный глагол) требует 'avere'."
+    },
+    {
+      "question": "Lui ___ dal dottore.",
+      "options": [
+        "è stato",
+        "ha stato",
+        "sei stato"
+      ],
+      "answer": "è stato",
+      "explanation": "Essere требует 'essere' как вспомогательный глагол."
+    },
+    {
+      "question": "Hai visto Maria? - Sì, ___ vista.",
+      "options": [
+        "l'ho",
+        "lo ho",
+        "la ho"
+      ],
+      "answer": "l'ho",
+      "explanation": "С прямым дополнением (la) причастие согласуется: l'ho vista."
+    },
+    {
+      "question": "Hai comprato il libro? - Sì, ___ comprato.",
+      "options": [
+        "l'ho",
+        "la ho",
+        "lo ho"
+      ],
+      "answer": "l'ho",
+      "explanation": "С прямым дополнением (lo) причастие согласуется: l'ho comprato."
+    },
+    {
+      "question": "Hai visto i ragazzi? - Sì, ___ visti.",
+      "options": [
+        "li ho",
+        "le ho",
+        "lo ho"
+      ],
+      "answer": "li ho",
+      "explanation": "С прямым дополнением (li) причастие согласуется: li ho visti."
+    },
+    {
+      "question": "Hai letto le email? - Sì, ___ lette.",
+      "options": [
+        "le ho",
+        "li ho",
+        "la ho"
+      ],
+      "answer": "le ho",
+      "explanation": "С прямым дополнением (le) причастие согласуется: le ho lette."
+    },
+    {
+      "question": "Hai chiamato Anna? - Sì, ___ chiamata.",
+      "options": [
+        "l'ho",
+        "lo ho",
+        "la ho"
+      ],
+      "answer": "l'ho",
+      "explanation": "С прямым дополнением (la) причастие согласуется: l'ho chiamata."
+    },
+    {
+      "question": "Non ___ niente.",
+      "options": [
+        "ho mangiato",
+        "sono mangiato",
+        "hai mangiato"
+      ],
+      "answer": "ho mangiato",
+      "explanation": "В отрицательных предложениях структура та же: non ho mangiato."
+    },
+    {
+      "question": "Non ___ in Italia.",
+      "options": [
+        "sono mai stato",
+        "ho mai stato",
+        "sei mai stato"
+      ],
+      "answer": "sono mai stato",
+      "explanation": "Essere требует 'essere': non sono mai stato."
+    },
+    {
+      "question": "Non ___ il film.",
+      "options": [
+        "ho visto",
+        "sono visto",
+        "hai visto"
+      ],
+      "answer": "ho visto",
+      "explanation": "Vedere требует 'avere': non ho visto."
+    },
+    {
+      "question": "Non ___ a casa.",
+      "options": [
+        "sei andato",
+        "hai andato",
+        "sono andato"
+      ],
+      "answer": "sei andato",
+      "explanation": "Andare требует 'essere': non sei andato."
+    },
+    {
+      "question": "___ la pasta?",
+      "options": [
+        "Hai mangiato",
+        "Sei mangiato",
+        "Ho mangiato"
+      ],
+      "answer": "Hai mangiato",
+      "explanation": "Mangiare требует 'avere' в вопросе: hai mangiato?"
+    },
+    {
+      "question": "___ al cinema?",
+      "options": [
+        "Sei andato",
+        "Hai andato",
+        "Sono andato"
+      ],
+      "answer": "Sei andato",
+      "explanation": "Andare требует 'essere' в вопросе: sei andato?"
+    },
+    {
+      "question": "Dove ___ ?",
+      "options": [
+        "sei stato",
+        "hai stato",
+        "sono stato"
+      ],
+      "answer": "sei stato",
+      "explanation": "Essere требует 'essere': dove sei stato?"
+    },
+    {
+      "question": "Cosa ___ ?",
+      "options": [
+        "hai fatto",
+        "sei fatto",
+        "ho fatto"
+      ],
+      "answer": "hai fatto",
+      "explanation": "Fare требует 'avere': cosa hai fatto?"
+    },
+    {
+      "question": "Ieri ___ al ristorante.",
+      "options": [
+        "sono andato",
+        "ho andato",
+        "sei andato"
+      ],
+      "answer": "sono andato",
+      "explanation": "Andare (движение) требует 'essere'."
+    },
+    {
+      "question": "Ieri ___ la pizza.",
+      "options": [
+        "ho mangiato",
+        "sono mangiato",
+        "hai mangiato"
+      ],
+      "answer": "ho mangiato",
+      "explanation": "Mangiare (переходный глагол) требует 'avere'."
+    },
+    {
+      "question": "Stamattina ___ presto.",
+      "options": [
+        "mi sono svegliato",
+        "mi ho svegliato",
+        "ti sei svegliato"
+      ],
+      "answer": "mi sono svegliato",
+      "explanation": "Возвратные глаголы требуют 'essere'."
+    },
+    {
+      "question": "Stamattina ___ il caffè.",
+      "options": [
+        "ho bevuto",
+        "sono bevuto",
+        "hai bevuto"
+      ],
+      "answer": "ho bevuto",
+      "explanation": "Bere требует 'avere'."
+    },
+    {
+      "question": "La lezione ___ alle nove.",
+      "options": [
+        "è cominciata",
+        "è cominciato",
+        "ha cominciata"
+      ],
+      "answer": "è cominciata",
+      "explanation": "Cominciare (без прямого дополнения) требует 'essere', согласование -a."
+    },
+    {
+      "question": "Il film ___ alle dieci.",
+      "options": [
+        "è finito",
+        "è finita",
+        "ha finito"
+      ],
+      "answer": "è finito",
+      "explanation": "Finire (без прямого дополнения) требует 'essere', согласование -o."
+    },
+    {
+      "question": "Maria ___ a casa.",
+      "options": [
+        "è restata",
+        "è restato",
+        "ha restata"
+      ],
+      "answer": "è restata",
+      "explanation": "Restare требует 'essere', согласование женского рода: restata."
+    },
+    {
+      "question": "Il treno ___ in ritardo.",
+      "options": [
+        "è arrivato",
+        "è arrivata",
+        "ha arrivato"
+      ],
+      "answer": "è arrivato",
+      "explanation": "Arrivare требует 'essere', согласование мужского рода: arrivato."
+    },
+    {
+      "question": "Io ___ la verità.",
+      "options": [
+        "ho detto",
+        "sono detto",
+        "hai detto"
+      ],
+      "answer": "ho detto",
+      "explanation": "Dire требует 'avere', неправильное причастие: detto."
+    },
+    {
+      "question": "Tu ___ i compiti?",
+      "options": [
+        "hai fatto",
+        "sei fatto",
+        "ho fatto"
+      ],
+      "answer": "hai fatto",
+      "explanation": "Fare требует 'avere', неправильное причастие: fatto."
+    },
+    {
+      "question": "Lui ___ un regalo.",
+      "options": [
+        "ha ricevuto",
+        "è ricevuto",
+        "hai ricevuto"
+      ],
+      "answer": "ha ricevuto",
+      "explanation": "Ricevere требует 'avere': ha ricevuto."
+    },
+    {
+      "question": "Lei ___ il libro.",
+      "options": [
+        "ha chiuso",
+        "è chiusa",
+        "hai chiuso"
+      ],
+      "answer": "ha chiuso",
+      "explanation": "Chiudere требует 'avere': ha chiuso."
+    },
+    {
+      "question": "Il film ___ alle dieci. (закончился)",
+      "options": [
+        "è finito",
+        "ha finito",
+        "è finita"
+      ],
+      "answer": "è finito",
+      "explanation": "Finire без дополнения (закончиться) требует 'essere'."
+    },
+    {
+      "question": "Io ___ il lavoro. (закончил что-то)",
+      "options": [
+        "ho finito",
+        "sono finito",
+        "hai finito"
+      ],
+      "answer": "ho finito",
+      "explanation": "Finire с дополнением (закончить что-то) требует 'avere'."
+    },
+    {
+      "question": "La lezione ___ alle nove. (началась)",
+      "options": [
+        "è cominciata",
+        "ha cominciata",
+        "è cominciato"
+      ],
+      "answer": "è cominciata",
+      "explanation": "Cominciare без дополнения требует 'essere', согласование -a."
+    },
+    {
+      "question": "Io ___ il corso. (начал что-то)",
+      "options": [
+        "ho cominciato",
+        "sono cominciato",
+        "hai cominciato"
+      ],
+      "answer": "ho cominciato",
+      "explanation": "Cominciare с дополнением требует 'avere'."
+    },
+    {
+      "question": "Le amiche di Maria ___ .",
+      "options": [
+        "sono arrivate",
+        "sono arrivati",
+        "hanno arrivate"
+      ],
+      "answer": "sono arrivate",
+      "explanation": "Arrivare требует 'essere', согласование женского рода мн.ч."
+    },
+    {
+      "question": "I fratelli di Luca ___ .",
+      "options": [
+        "sono partiti",
+        "sono partite",
+        "hanno partiti"
+      ],
+      "answer": "sono partiti",
+      "explanation": "Partire требует 'essere', согласование мужского рода мн.ч."
+    },
+    {
+      "question": "Mia nonna ___ nel 1950.",
+      "options": [
+        "è nata",
+        "è nato",
+        "ha nata"
+      ],
+      "answer": "è nata",
+      "explanation": "Nascere требует 'essere', согласование женского рода."
+    },
+    {
+      "question": "Mio nonno ___ nel 1945.",
+      "options": [
+        "è nato",
+        "è nata",
+        "ha nato"
+      ],
+      "answer": "è nato",
+      "explanation": "Nascere требует 'essere', согласование мужского рода."
+    },
+    {
+      "question": "Hai fatto colazione? - Sì, ___ fatta.",
+      "options": [
+        "l'ho",
+        "la ho",
+        "lo ho"
+      ],
+      "answer": "l'ho",
+      "explanation": "С прямым дополнением (la colazione) причастие согласуется: l'ho fatta."
+    },
+    {
+      "question": "Hai visto il museo? - Sì, ___ visto.",
+      "options": [
+        "l'ho",
+        "la ho",
+        "lo ho"
+      ],
+      "answer": "l'ho",
+      "explanation": "С прямым дополнением (il museo) причастие согласуется: l'ho visto."
+    },
+    {
+      "question": "Sei andato in centro? - Sì, ___ andato.",
+      "options": [
+        "ci sono",
+        "ne sono",
+        "lo sono"
+      ],
+      "answer": "ci sono",
+      "explanation": "'Ci' заменяет место, essere требует согласования: ci sono andato."
+    },
+    {
+      "question": "Noi ___ molti esercizi.",
+      "options": [
+        "abbiamo fatto",
+        "siamo fatti",
+        "hanno fatto"
+      ],
+      "answer": "abbiamo fatto",
+      "explanation": "Fare требует 'avere': abbiamo fatto."
+    },
+    {
+      "question": "Voi ___ in vacanza.",
+      "options": [
+        "siete stati",
+        "avete stati",
+        "siamo stati"
+      ],
+      "answer": "siete stati",
+      "explanation": "Essere требует 'essere': siete stati."
+    },
+    {
+      "question": "Loro ___ il museo.",
+      "options": [
+        "hanno visitato",
+        "sono visitati",
+        "abbiamo visitato"
+      ],
+      "answer": "hanno visitato",
+      "explanation": "Visitare требует 'avere': hanno visitato."
+    },
+    {
+      "question": "Le ragazze ___ al mare.",
+      "options": [
+        "sono andate",
+        "hanno andate",
+        "sono andati"
+      ],
+      "answer": "sono andate",
+      "explanation": "Andare требует 'essere', согласование женского рода мн.ч.: andate."
+    },
+    {
+      "question": "Io ___ in Italia.",
+      "options": [
+        "sono cresciuto",
+        "ho cresciuto",
+        "sei cresciuto"
+      ],
+      "answer": "sono cresciuto",
+      "explanation": "Crescere требует 'essere': sono cresciuto."
+    },
+    {
+      "question": "Tu ___ la macchina?",
+      "options": [
+        "hai venduto",
+        "sei venduto",
+        "ho venduto"
+      ],
+      "answer": "hai venduto",
+      "explanation": "Vendere требует 'avere': hai venduto."
+    },
+    {
+      "question": "Lei ___ molto.",
+      "options": [
+        "è cambiata",
+        "è cambiato",
+        "ha cambiata"
+      ],
+      "answer": "è cambiata",
+      "explanation": "Cambiare (без дополнения) требует 'essere', согласование -a."
+    },
+    {
+      "question": "Noi ___ il problema.",
+      "options": [
+        "abbiamo risolto",
+        "siamo risolti",
+        "hanno risolto"
+      ],
+      "answer": "abbiamo risolto",
+      "explanation": "Risolvere требует 'avere': abbiamo risolto."
+    },
+    {
+      "question": "Voi ___ tardi.",
+      "options": [
+        "siete arrivati",
+        "avete arrivati",
+        "siamo arrivati"
+      ],
+      "answer": "siete arrivati",
+      "explanation": "Arrivare требует 'essere': siete arrivati."
+    },
+    {
+      "question": "Loro ___ la risposta.",
+      "options": [
+        "hanno dato",
+        "sono dati",
+        "abbiamo dato"
+      ],
+      "answer": "hanno dato",
+      "explanation": "Dare требует 'avere', неправильное причастие: dato."
+    },
+    {
+      "question": "Maria e Anna ___ insieme.",
+      "options": [
+        "sono uscite",
+        "hanno uscite",
+        "sono usciti"
+      ],
+      "answer": "sono uscite",
+      "explanation": "Uscire требует 'essere', согласование женского рода мн.ч.: uscite."
+    }
+  ]
+}
