@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Particelle CI e NE (A2)",
+  "exercises": [
+    {
+      "question": "Vai a Roma? - Sì, ___ vado domani.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет место 'a Roma' (туда)."
+    },
+    {
+      "question": "Vieni al cinema? - Sì, ___ vengo.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет место 'al cinema' (туда)."
+    },
+    {
+      "question": "Vai in biblioteca? - Sì, ___ vado spesso.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет место 'in biblioteca' (туда)."
+    },
+    {
+      "question": "Resti a casa? - Sì, ___ resto.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет место 'a casa' (там)."
+    },
+    {
+      "question": "Abiti in Italia? - Sì, ___ abito.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет место 'in Italia' (там)."
+    },
+    {
+      "question": "Quando vai a scuola? - ___ vado ogni giorno.",
+      "options": [
+        "Ci",
+        "Ne",
+        "Lo"
+      ],
+      "answer": "Ci",
+      "explanation": "'Ci' заменяет место 'a scuola' (туда)."
+    },
+    {
+      "question": "Torni in ufficio? - Sì, ___ torno subito.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет место 'in ufficio' (туда)."
+    },
+    {
+      "question": "Passi dal supermercato? - Sì, ___ passo.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет место 'dal supermercato' (туда)."
+    },
+    {
+      "question": "Entri in classe? - Sì, ___ entro.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет место 'in classe' (туда)."
+    },
+    {
+      "question": "Arrivi alla stazione? - Sì, ___ arrivo presto.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет место 'alla stazione' (туда)."
+    },
+    {
+      "question": "Vuoi del caffè? - Sì, ___ voglio.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет партитивный артикль + существительное (немного кофе)."
+    },
+    {
+      "question": "Compri del pane? - Sì, ___ compro.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет партитив 'del pane' (немного хлеба)."
+    },
+    {
+      "question": "Hai dei libri? - Sì, ___ ho tre.",
+      "options": [
+        "ne",
+        "ci",
+        "li"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'dei libri' в партитивном значении (некоторые книги)."
+    },
+    {
+      "question": "Vuoi della pasta? - Sì, ___ voglio un po'.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'della pasta' (немного пасты)."
+    },
+    {
+      "question": "Prendi dello zucchero? - Sì, ___ prendo.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'dello zucchero' (немного сахара)."
+    },
+    {
+      "question": "Quanti fratelli hai? - ___ ho due.",
+      "options": [
+        "Ne",
+        "Ci",
+        "Li"
+      ],
+      "answer": "Ne",
+      "explanation": "'Ne' используется с числительными: ne ho due (у меня их двое)."
+    },
+    {
+      "question": "Quante sorelle hai? - ___ ho una.",
+      "options": [
+        "Ne",
+        "Ci",
+        "Le"
+      ],
+      "answer": "Ne",
+      "explanation": "'Ne' используется с числительными: ne ho una (у меня одна)."
+    },
+    {
+      "question": "Quanti libri leggi? - ___ leggo molti.",
+      "options": [
+        "Ne",
+        "Ci",
+        "Li"
+      ],
+      "answer": "Ne",
+      "explanation": "'Ne' используется для выражения количества: ne leggo molti."
+    },
+    {
+      "question": "Quante email ricevi? - ___ ricevo tante.",
+      "options": [
+        "Ne",
+        "Ci",
+        "Le"
+      ],
+      "answer": "Ne",
+      "explanation": "'Ne' используется для выражения количества: ne ricevo tante."
+    },
+    {
+      "question": "Quanti caffè bevi? - ___ bevo tre al giorno.",
+      "options": [
+        "Ne",
+        "Ci",
+        "Li"
+      ],
+      "answer": "Ne",
+      "explanation": "'Ne' используется с числительными: ne bevo tre."
+    },
+    {
+      "question": "Parli di politica? - No, non ___ parlo.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di politica' (об этом)."
+    },
+    {
+      "question": "Parli del problema? - Sì, ___ parlo.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'del problema' (об этом)."
+    },
+    {
+      "question": "Parli di questo libro? - Sì, ___ parlo.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di questo libro' (о нём)."
+    },
+    {
+      "question": "Hai bisogno di aiuto? - Sì, ___ ho bisogno.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di aiuto' с выражением 'avere bisogno di'."
+    },
+    {
+      "question": "Hai paura del buio? - Sì, ___ ho paura.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'del buio' с выражением 'avere paura di'."
+    },
+    {
+      "question": "C'è il pane? - Sì, ___ è.",
+      "options": [
+        "ce n'",
+        "ci",
+        "ne"
+      ],
+      "answer": "ce n'",
+      "explanation": "'Ce n'è' = ci + ne + è (его там есть)."
+    },
+    {
+      "question": "Ci sono studenti in classe? - Sì, ___ sono.",
+      "options": [
+        "ci",
+        "ne",
+        "li"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci sono' означает 'там есть/находятся'."
+    },
+    {
+      "question": "Ci sono problemi? - No, non ___ sono.",
+      "options": [
+        "ce ne",
+        "ci",
+        "ne"
+      ],
+      "answer": "ce ne",
+      "explanation": "'Non ce ne sono' = non ci + ne + sono (их там нет)."
+    },
+    {
+      "question": "Pensi a Maria? - Sì, ___ penso.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'a Maria' после глагола 'pensare a'."
+    },
+    {
+      "question": "Credi al destino? - Sì, ___ credo.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'al destino' после глагола 'credere a'."
+    },
+    {
+      "question": "Pensi alle vacanze? - Sì, ___ penso.",
+      "options": [
+        "ci",
+        "ne",
+        "le"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'alle vacanze' после глагола 'pensare a'."
+    },
+    {
+      "question": "Credi a questa storia? - No, non ___ credo.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'a questa storia' после глагола 'credere a'."
+    },
+    {
+      "question": "Vieni da Roma? - Sì, ___ vengo.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет место происхождения 'da Roma' (оттуда)."
+    },
+    {
+      "question": "Esci di casa? - Sì, ___ esco.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di casa' (оттуда)."
+    },
+    {
+      "question": "Torni dall'ufficio? - Sì, ___ torno.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'dall'ufficio' (оттуда)."
+    },
+    {
+      "question": "Parti da Milano? - Sì, ___ parto.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'da Milano' (оттуда)."
+    },
+    {
+      "question": "Vai al mare? - Sì, ___ vado.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "Движение К месту требует 'ci' (туда)."
+    },
+    {
+      "question": "Vieni dal mare? - Sì, ___ vengo.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "Движение ОТ места требует 'ne' (оттуда)."
+    },
+    {
+      "question": "Resti in città? - Sì, ___ resto.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "Нахождение В месте требует 'ci' (там)."
+    },
+    {
+      "question": "Esci dalla città? - Sì, ___ esco.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "Выход ИЗ места требует 'ne' (оттуда)."
+    },
+    {
+      "question": "Pensi al futuro? - Sì, ___ penso.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'al futuro' после глагола 'pensare a'."
+    },
+    {
+      "question": "Credi nell'amore? - Sì, ___ credo.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'nell'amore' после глагола 'credere a'."
+    },
+    {
+      "question": "Pensi al problema? - No, non ___ penso.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'al problema' после глагола 'pensare a'."
+    },
+    {
+      "question": "Hai molti amici? - Sì, ___ ho molti.",
+      "options": [
+        "ne",
+        "ci",
+        "li"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' используется для выражения количества: ne ho molti."
+    },
+    {
+      "question": "Vuoi ancora pasta? - Sì, ___ voglio ancora.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'pasta' в партитивном значении: ne voglio ancora."
+    },
+    {
+      "question": "Hai abbastanza soldi? - No, non ___ ho abbastanza.",
+      "options": [
+        "ne",
+        "ci",
+        "li"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' используется для выражения количества: non ne ho abbastanza."
+    },
+    {
+      "question": "Compri tanti libri? - Sì, ___ compro tanti.",
+      "options": [
+        "ne",
+        "ci",
+        "li"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' используется для выражения количества: ne compro tanti."
+    },
+    {
+      "question": "___ vogliono due ore per arrivare.",
+      "options": [
+        "Ci",
+        "Ne",
+        "Li"
+      ],
+      "answer": "Ci",
+      "explanation": "'Ci vogliono' - устойчивое выражение (нужно/требуется)."
+    },
+    {
+      "question": "Non ___ credo!",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Non ci credo' - устойчивое выражение (не верю этому)."
+    },
+    {
+      "question": "___ vediamo domani!",
+      "options": [
+        "Ci",
+        "Ne",
+        "Li"
+      ],
+      "answer": "Ci",
+      "explanation": "'Ci vediamo' - устойчивое выражение (увидимся)."
+    },
+    {
+      "question": "Come ___ vai?",
+      "options": [
+        "ci",
+        "ne",
+        "ti"
+      ],
+      "answer": "ci",
+      "explanation": "'Come ci vai?' - как ты туда добираешься?"
+    },
+    {
+      "question": "Come va? - Non ___ posso più!",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Non ne posso più' - устойчивое выражение (больше не могу)."
+    },
+    {
+      "question": "Che ___ dici?",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Che ne dici?' - что ты об этом думаешь?"
+    },
+    {
+      "question": "Che ___ pensi?",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Che ne pensi?' - что ты об этом думаешь?"
+    },
+    {
+      "question": "Non ___ vale la pena.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Non ne vale la pena' - это не стоит того."
+    },
+    {
+      "question": "Vai in palestra? - Sì, ___ vado tre volte a settimana.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' для места (туда, в спортзал)."
+    },
+    {
+      "question": "Quante volte vai in palestra? - ___ vado tre volte.",
+      "options": [
+        "Ci",
+        "Ne",
+        "La"
+      ],
+      "answer": "Ci",
+      "explanation": "'Ci vado' = vado là (туда хожу)."
+    },
+    {
+      "question": "Parli di questo? - Sì, ___ parlo.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di questo' (об этом)."
+    },
+    {
+      "question": "Hai bisogno di soldi? - Sì, ___ ho bisogno.",
+      "options": [
+        "ne",
+        "ci",
+        "li"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di soldi' с выражением 'avere bisogno di'."
+    },
+    {
+      "question": "Partecipi alla riunione? - Sì, ___ partecipo.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'alla riunione' после 'partecipare a'."
+    },
+    {
+      "question": "Tieni alla famiglia? - Sì, ___ tengo molto.",
+      "options": [
+        "ci",
+        "ne",
+        "le"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'alla famiglia' после 'tenere a'."
+    },
+    {
+      "question": "Rinunci al viaggio? - No, non ___ rinuncio.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'al viaggio' после 'rinunciare a'."
+    },
+    {
+      "question": "Parli spesso di lavoro? - Sì, ___ parlo.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di lavoro' (об этом)."
+    },
+    {
+      "question": "Ti occupi di cucina? - Sì, me ___ occupo.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di cucina' после 'occuparsi di'."
+    },
+    {
+      "question": "Ti ricordi di me? - Sì, me ___ ricordo.",
+      "options": [
+        "ne",
+        "ci",
+        "ti"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di me' после 'ricordarsi di'."
+    },
+    {
+      "question": "Ti accorgi del problema? - Sì, me ___ accorgo.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'del problema' после 'accorgersi di'."
+    },
+    {
+      "question": "Vai spesso al mare? - Sì, ___ vado ogni estate.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "Клитика 'ci' стоит ПЕРЕД спрягаемым глаголом."
+    },
+    {
+      "question": "Vuoi del vino? - Sì, ___ voglio un bicchiere.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "Клитика 'ne' стоит ПЕРЕД спрягаемым глаголом."
+    },
+    {
+      "question": "Resti a casa? - Sì, ___ resto tutto il giorno.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "Клитика 'ci' стоит ПЕРЕД спрягаемым глаголом."
+    },
+    {
+      "question": "Voglio andar___ domani. (a Roma)",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "С инфинитивом клитика ПРИСОЕДИНЯЕТСЯ: andarci."
+    },
+    {
+      "question": "Devo comprar___ . (del pane)",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "С инфинитивом клитика ПРИСОЕДИНЯЕТСЯ: comprarne."
+    },
+    {
+      "question": "Posso restar___ ? (a casa)",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "С инфинитивом клитика ПРИСОЕДИНЯЕТСЯ: restarci."
+    },
+    {
+      "question": "Voglio parlar___ . (di questo)",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "С инфинитивом клитика ПРИСОЕДИНЯЕТСЯ: parlarne."
+    },
+    {
+      "question": "___ posso andare. (a Roma)",
+      "options": [
+        "Ci",
+        "Ne",
+        "La"
+      ],
+      "answer": "Ci",
+      "explanation": "С модальным глаголом клитика может стоять ПЕРЕД: ci posso andare."
+    },
+    {
+      "question": "Posso andar___ . (a Roma)",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "С модальным глаголом клитика может ПРИСОЕДИНЯТЬСЯ: posso andarci."
+    },
+    {
+      "question": "___ devo parlare. (di questo)",
+      "options": [
+        "Ne",
+        "Ci",
+        "Lo"
+      ],
+      "answer": "Ne",
+      "explanation": "С модальным глаголом клитика может стоять ПЕРЕД: ne devo parlare."
+    },
+    {
+      "question": "Devo parlar___ . (di questo)",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "С модальным глаголом клитика может ПРИСОЕДИНЯТЬСЯ: devo parlarne."
+    },
+    {
+      "question": "Vai spesso in palestra? - No, non ___ vado mai.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'in palestra' (туда)."
+    },
+    {
+      "question": "Sei mai stato a Venezia? - Sì, ___ sono stato.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'a Venezia' (там)."
+    },
+    {
+      "question": "Rimani a pranzo? - Sì, ___ rimango.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' в значении 'там' (a pranzo)."
+    },
+    {
+      "question": "Passi dal centro? - Sì, ___ passo.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'dal centro' (туда/там)."
+    },
+    {
+      "question": "Hai dei fratelli? - Sì, ___ ho uno.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' с числительным: у меня один (брат)."
+    },
+    {
+      "question": "Vuoi ancora pasta? - Sì, ___ voglio ancora.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' в партитивном значении: хочу еще (немного)."
+    },
+    {
+      "question": "Compri molte riviste? - Sì, ___ compro molte.",
+      "options": [
+        "ne",
+        "ci",
+        "le"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' для выражения количества: покупаю много (журналов)."
+    },
+    {
+      "question": "Bevi del vino? - Sì, ___ bevo un po'.",
+      "options": [
+        "ne",
+        "ci",
+        "lo"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' в партитивном значении: пью немного (вина)."
+    },
+    {
+      "question": "Sei mai stato in Francia? - No, non ___ sono mai stato.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'in Francia' (там)."
+    },
+    {
+      "question": "Hai voglia di pizza? - Sì, ___ ho voglia.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di pizza' с выражением 'avere voglia di'."
+    },
+    {
+      "question": "Abiti ancora a Milano? - Sì, ___ abito ancora.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'a Milano' (там)."
+    },
+    {
+      "question": "Parli mai di politica? - No, non ___ parlo mai.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di politica' (об этом)."
+    },
+    {
+      "question": "Vado a scuola. ___ vado ogni giorno.",
+      "options": [
+        "Ci",
+        "Ne",
+        "La"
+      ],
+      "answer": "Ci",
+      "explanation": "'Ci' заменяет направление 'a scuola'."
+    },
+    {
+      "question": "Vengo da scuola. ___ vengo adesso.",
+      "options": [
+        "Ne",
+        "Ci",
+        "La"
+      ],
+      "answer": "Ne",
+      "explanation": "'Ne' заменяет место происхождения 'da scuola'."
+    },
+    {
+      "question": "Ho tre libri. ___ ho tre.",
+      "options": [
+        "Ne",
+        "Ci",
+        "Li"
+      ],
+      "answer": "Ne",
+      "explanation": "'Ne' используется с числительными."
+    },
+    {
+      "question": "Penso a te. ___ penso sempre.",
+      "options": [
+        "Ci",
+        "Ne",
+        "Ti"
+      ],
+      "answer": "Ci",
+      "explanation": "'Ci' заменяет 'a te' после глагола 'pensare a'."
+    },
+    {
+      "question": "Parlo di te. ___ parlo spesso.",
+      "options": [
+        "Ne",
+        "Ci",
+        "Ti"
+      ],
+      "answer": "Ne",
+      "explanation": "'Ne' заменяет 'di te' (о тебе)."
+    },
+    {
+      "question": "Esci di casa? - Sì, ___ esco alle otto.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'di casa' (оттуда)."
+    },
+    {
+      "question": "Hai delle domande? - Sì, ___ ho molte.",
+      "options": [
+        "ne",
+        "ci",
+        "le"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' используется для выражения количества."
+    },
+    {
+      "question": "Credi a questa storia? - No, non ___ credo.",
+      "options": [
+        "ci",
+        "ne",
+        "la"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет 'a questa storia' после 'credere a'."
+    },
+    {
+      "question": "Torni dall'Italia? - Sì, ___ torno.",
+      "options": [
+        "ne",
+        "ci",
+        "la"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет место происхождения 'dall'Italia' (оттуда)."
+    },
+    {
+      "question": "Vai al supermercato? - Sì, ___ vado adesso.",
+      "options": [
+        "ci",
+        "ne",
+        "lo"
+      ],
+      "answer": "ci",
+      "explanation": "'Ci' заменяет направление 'al supermercato' (туда)."
+    },
+    {
+      "question": "Hai paura degli esami? - Sì, ___ ho paura.",
+      "options": [
+        "ne",
+        "ci",
+        "li"
+      ],
+      "answer": "ne",
+      "explanation": "'Ne' заменяет 'degli esami' с выражением 'avere paura di'."
+    }
+  ]
+}
