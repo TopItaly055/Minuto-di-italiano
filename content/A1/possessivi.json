@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Притяжательные местоимения и прилагательные (A1)",
+  "exercises": [
+    {
+      "question": "Questo è ___ libro.",
+      "options": [
+        "il mio",
+        "la mia",
+        "i miei"
+      ],
+      "answer": "il mio",
+      "explanation": "Libro - мужской род, единственное число. Используется 'il mio'."
+    },
+    {
+      "question": "Questa è ___ casa.",
+      "options": [
+        "la mia",
+        "il mio",
+        "le mie"
+      ],
+      "answer": "la mia",
+      "explanation": "Casa - женский род, единственное число. Используется 'la mia'."
+    },
+    {
+      "question": "Questi sono ___ libri.",
+      "options": [
+        "i miei",
+        "il mio",
+        "le mie"
+      ],
+      "answer": "i miei",
+      "explanation": "Libri - мужской род, множественное число. Используется 'i miei'."
+    },
+    {
+      "question": "Queste sono ___ amiche.",
+      "options": [
+        "le mie",
+        "i miei",
+        "la mia"
+      ],
+      "answer": "le mie",
+      "explanation": "Amiche - женский род, множественное число. Используется 'le mie'."
+    },
+    {
+      "question": "___ padre lavora in banca.",
+      "options": [
+        "Mio",
+        "Mia",
+        "Miei"
+      ],
+      "answer": "Mio",
+      "explanation": "С членами семьи в единственном числе артикль не используется: 'mio padre'."
+    },
+    {
+      "question": "È ___ zaino?",
+      "options": [
+        "il tuo",
+        "la tua",
+        "i tuoi"
+      ],
+      "answer": "il tuo",
+      "explanation": "Zaino - мужской род, единственное число. Используется 'il tuo'."
+    },
+    {
+      "question": "È ___ penna?",
+      "options": [
+        "la tua",
+        "il tuo",
+        "le tue"
+      ],
+      "answer": "la tua",
+      "explanation": "Penna - женский род, единственное число. Используется 'la tua'."
+    },
+    {
+      "question": "Sono ___ quaderni?",
+      "options": [
+        "i tuoi",
+        "il tuo",
+        "le tue"
+      ],
+      "answer": "i tuoi",
+      "explanation": "Quaderni - мужской род, множественное число. Используется 'i tuoi'."
+    },
+    {
+      "question": "Sono ___ sorelle?",
+      "options": [
+        "le tue",
+        "i tuoi",
+        "la tua"
+      ],
+      "answer": "le tue",
+      "explanation": "Sorelle - женский род, множественное число. Используется 'le tue'."
+    },
+    {
+      "question": "___ madre è italiana?",
+      "options": [
+        "Tua",
+        "Tuo",
+        "Tue"
+      ],
+      "answer": "Tua",
+      "explanation": "С членами семьи в единственном числе артикль не используется: 'tua madre'."
+    },
+    {
+      "question": "Questo è ___ telefono.",
+      "options": [
+        "il suo",
+        "la sua",
+        "i suoi"
+      ],
+      "answer": "il suo",
+      "explanation": "Telefono - мужской род, единственное число. Используется 'il suo'."
+    },
+    {
+      "question": "Questa è ___ macchina.",
+      "options": [
+        "la sua",
+        "il suo",
+        "le sue"
+      ],
+      "answer": "la sua",
+      "explanation": "Macchina - женский род, единственное число. Используется 'la sua'."
+    },
+    {
+      "question": "Questi sono ___ amici.",
+      "options": [
+        "i suoi",
+        "il suo",
+        "le sue"
+      ],
+      "answer": "i suoi",
+      "explanation": "Amici - мужской род, множественное число. Используется 'i suoi'."
+    },
+    {
+      "question": "Queste sono ___ chiavi.",
+      "options": [
+        "le sue",
+        "i suoi",
+        "la sua"
+      ],
+      "answer": "le sue",
+      "explanation": "Chiavi - женский род, множественное число. Используется 'le sue'."
+    },
+    {
+      "question": "___ fratello abita a Roma.",
+      "options": [
+        "Suo",
+        "Sua",
+        "Suoi"
+      ],
+      "answer": "Suo",
+      "explanation": "С членами семьи в единственном числе артикль не используется: 'suo fratello'."
+    },
+    {
+      "question": "Questo è ___ cane.",
+      "options": [
+        "il nostro",
+        "la nostra",
+        "i nostri"
+      ],
+      "answer": "il nostro",
+      "explanation": "Cane - мужской род, единственное число. Используется 'il nostro'."
+    },
+    {
+      "question": "Questa è ___ scuola.",
+      "options": [
+        "la nostra",
+        "il nostro",
+        "le nostre"
+      ],
+      "answer": "la nostra",
+      "explanation": "Scuola - женский род, единственное число. Используется 'la nostra'."
+    },
+    {
+      "question": "Questi sono ___ compagni.",
+      "options": [
+        "i nostri",
+        "il nostro",
+        "le nostre"
+      ],
+      "answer": "i nostri",
+      "explanation": "Compagni - мужской род, множественное число. Используется 'i nostri'."
+    },
+    {
+      "question": "Queste sono ___ biciclette.",
+      "options": [
+        "le nostre",
+        "i nostri",
+        "la nostra"
+      ],
+      "answer": "le nostre",
+      "explanation": "Biciclette - женский род, множественное число. Используется 'le nostre'."
+    },
+    {
+      "question": "___ padre è dottore.",
+      "options": [
+        "Nostro",
+        "Nostra",
+        "Nostri"
+      ],
+      "answer": "Nostro",
+      "explanation": "С членами семьи в единственном числе артикль не используется: 'nostro padre'."
+    },
+    {
+      "question": "È ___ giardino?",
+      "options": [
+        "il vostro",
+        "la vostra",
+        "i vostri"
+      ],
+      "answer": "il vostro",
+      "explanation": "Giardino - мужской род, единственное число. Используется 'il vostro'."
+    },
+    {
+      "question": "È ___ camera?",
+      "options": [
+        "la vostra",
+        "il vostro",
+        "le vostre"
+      ],
+      "answer": "la vostra",
+      "explanation": "Camera - женский род, единственное число. Используется 'la vostra'."
+    },
+    {
+      "question": "Sono ___ bagagli?",
+      "options": [
+        "i vostri",
+        "il vostro",
+        "le vostre"
+      ],
+      "answer": "i vostri",
+      "explanation": "Bagagli - мужской род, множественное число. Используется 'i vostri'."
+    },
+    {
+      "question": "Sono ___ valigie?",
+      "options": [
+        "le vostre",
+        "i vostri",
+        "la vostra"
+      ],
+      "answer": "le vostre",
+      "explanation": "Valigie - женский род, множественное число. Используется 'le vostre'."
+    },
+    {
+      "question": "___ madre è gentile.",
+      "options": [
+        "Vostra",
+        "Vostro",
+        "Vostre"
+      ],
+      "answer": "Vostra",
+      "explanation": "С членами семьи в единственном числе артикль не используется: 'vostra madre'."
+    },
+    {
+      "question": "Questo è ___ appartamento.",
+      "options": [
+        "il loro",
+        "la loro",
+        "i loro"
+      ],
+      "answer": "il loro",
+      "explanation": "Appartamento - мужской род, единственное число. Используется 'il loro'."
+    },
+    {
+      "question": "Questa è ___ casa.",
+      "options": [
+        "la loro",
+        "il loro",
+        "le loro"
+      ],
+      "answer": "la loro",
+      "explanation": "Casa - женский род, единственное число. Используется 'la loro'."
+    },
+    {
+      "question": "Questi sono ___ figli.",
+      "options": [
+        "i loro",
+        "il loro",
+        "le loro"
+      ],
+      "answer": "i loro",
+      "explanation": "Figli - мужской род, множественное число. Используется 'i loro'."
+    },
+    {
+      "question": "Queste sono ___ figlie.",
+      "options": [
+        "le loro",
+        "i loro",
+        "la loro"
+      ],
+      "answer": "le loro",
+      "explanation": "Figlie - женский род, множественное число. Используется 'le loro'."
+    },
+    {
+      "question": "___ padre è avvocato.",
+      "options": [
+        "Il loro",
+        "La loro",
+        "I loro"
+      ],
+      "answer": "Il loro",
+      "explanation": "С 'loro' артикль ВСЕГДА используется: 'il loro padre'."
+    },
+    {
+      "question": "___ sorella studia medicina.",
+      "options": [
+        "Mia",
+        "La mia",
+        "Le mie"
+      ],
+      "answer": "Mia",
+      "explanation": "С членами семьи в единственном числе артикль не используется."
+    },
+    {
+      "question": "___ fratello lavora in ufficio.",
+      "options": [
+        "Tuo",
+        "Il tuo",
+        "I tuoi"
+      ],
+      "answer": "Tuo",
+      "explanation": "С членами семьи в единственном числе артикль не используется."
+    },
+    {
+      "question": "___ madre è insegnante.",
+      "options": [
+        "Sua",
+        "La sua",
+        "Le sue"
+      ],
+      "answer": "Sua",
+      "explanation": "С членами семьи в единственном числе артикль не используется."
+    },
+    {
+      "question": "___ padre lavora molto.",
+      "options": [
+        "Nostro",
+        "Il nostro",
+        "I nostri"
+      ],
+      "answer": "Nostro",
+      "explanation": "С членами семьи в единственном числе артикль не используется."
+    },
+    {
+      "question": "___ nonna è anziana.",
+      "options": [
+        "Vostra",
+        "La vostra",
+        "Le vostre"
+      ],
+      "answer": "Vostra",
+      "explanation": "С членами семьи в единственном числе артикль не используется."
+    },
+    {
+      "question": "___ fratelli sono simpatici.",
+      "options": [
+        "I miei",
+        "Miei",
+        "Il mio"
+      ],
+      "answer": "I miei",
+      "explanation": "Во множественном числе артикль ВСЕГДА используется: 'i miei fratelli'."
+    },
+    {
+      "question": "___ sorelle abitano a Roma.",
+      "options": [
+        "Le tue",
+        "Tue",
+        "La tua"
+      ],
+      "answer": "Le tue",
+      "explanation": "Во множественном числе артикль ВСЕГДА используется: 'le tue sorelle'."
+    },
+    {
+      "question": "___ genitori sono gentili.",
+      "options": [
+        "I suoi",
+        "Suoi",
+        "Il suo"
+      ],
+      "answer": "I suoi",
+      "explanation": "Во множественном числе артикль ВСЕГДА используется: 'i suoi genitori'."
+    },
+    {
+      "question": "___ figli sono piccoli.",
+      "options": [
+        "I nostri",
+        "Nostri",
+        "Il nostro"
+      ],
+      "answer": "I nostri",
+      "explanation": "Во множественном числе артикль ВСЕГДА используется: 'i nostri figli'."
+    },
+    {
+      "question": "___ cugini vivono in Italia.",
+      "options": [
+        "I vostri",
+        "Vostri",
+        "Il vostro"
+      ],
+      "answer": "I vostri",
+      "explanation": "Во множественном числе артикль ВСЕГДА используется: 'i vostri cugini'."
+    },
+    {
+      "question": "___ sorellina è carina.",
+      "options": [
+        "La mia",
+        "Mia",
+        "Le mie"
+      ],
+      "answer": "La mia",
+      "explanation": "С уменьшительными формами артикль ВСЕГДА используется: 'la mia sorellina'."
+    },
+    {
+      "question": "___ fratellino gioca.",
+      "options": [
+        "Il tuo",
+        "Tuo",
+        "I tuoi"
+      ],
+      "answer": "Il tuo",
+      "explanation": "С уменьшительными формами артикль ВСЕГДА используется: 'il tuo fratellino'."
+    },
+    {
+      "question": "___ mammina è dolce.",
+      "options": [
+        "La sua",
+        "Sua",
+        "Le sue"
+      ],
+      "answer": "La sua",
+      "explanation": "С уменьшительными формами артикль ВСЕГДА используется: 'la sua mammina'."
+    },
+    {
+      "question": "___ papà è buono.",
+      "options": [
+        "Il nostro",
+        "Nostro",
+        "I nostri"
+      ],
+      "answer": "Il nostro",
+      "explanation": "С 'papà' артикль ВСЕГДА используется: 'il nostro papà'."
+    },
+    {
+      "question": "___ mamma cucina bene.",
+      "options": [
+        "La vostra",
+        "Vostra",
+        "Le vostre"
+      ],
+      "answer": "La vostra",
+      "explanation": "С 'mamma' артикль ВСЕГДА используется: 'la vostra mamma'."
+    },
+    {
+      "question": "Dov'è ___ borsa?",
+      "options": [
+        "la tua",
+        "il tuo",
+        "i tuoi"
+      ],
+      "answer": "la tua",
+      "explanation": "Borsa - женский род, единственное число. Используется 'la tua'."
+    },
+    {
+      "question": "___ amico si chiama Marco.",
+      "options": [
+        "Il mio",
+        "La mia",
+        "I miei"
+      ],
+      "answer": "Il mio",
+      "explanation": "Amico - мужской род, единственное число. Используется 'il mio'."
+    },
+    {
+      "question": "___ amica si chiama Anna.",
+      "options": [
+        "La sua",
+        "Il suo",
+        "Le sue"
+      ],
+      "answer": "La sua",
+      "explanation": "Amica - женский род, единственное число. Используется 'la sua'."
+    },
+    {
+      "question": "Questi sono ___ occhiali.",
+      "options": [
+        "i miei",
+        "il mio",
+        "le mie"
+      ],
+      "answer": "i miei",
+      "explanation": "Occhiali - мужской род, множественное число. Используется 'i miei'."
+    },
+    {
+      "question": "Queste sono ___ scarpe.",
+      "options": [
+        "le tue",
+        "i tuoi",
+        "la tua"
+      ],
+      "answer": "le tue",
+      "explanation": "Scarpe - женский род, множественное число. Используется 'le tue'."
+    },
+    {
+      "question": "Vado a casa con ___ amici.",
+      "options": [
+        "i miei",
+        "il mio",
+        "le mie"
+      ],
+      "answer": "i miei",
+      "explanation": "Amici - мужской род, множественное число. Используется 'i miei'."
+    },
+    {
+      "question": "Parlo con ___ madre.",
+      "options": [
+        "mia",
+        "la mia",
+        "i miei"
+      ],
+      "answer": "mia",
+      "explanation": "С членами семьи в единственном числе артикль не используется."
+    },
+    {
+      "question": "Studio con ___ compagni.",
+      "options": [
+        "i miei",
+        "il mio",
+        "le mie"
+      ],
+      "answer": "i miei",
+      "explanation": "Compagni - мужской род, множественное число. Используется 'i miei'."
+    },
+    {
+      "question": "Abito con ___ genitori.",
+      "options": [
+        "i miei",
+        "miei",
+        "il mio"
+      ],
+      "answer": "i miei",
+      "explanation": "Genitori - множественное число, артикль ВСЕГДА используется."
+    },
+    {
+      "question": "Lavoro con ___ fratello.",
+      "options": [
+        "mio",
+        "il mio",
+        "i miei"
+      ],
+      "answer": "mio",
+      "explanation": "С членами семьи в единственном числе артикль не используется."
+    },
+    {
+      "question": "Dov'è ___ libro?",
+      "options": [
+        "il tuo",
+        "la tua",
+        "i tuoi"
+      ],
+      "answer": "il tuo",
+      "explanation": "Libro - мужской род, единственное число. Используется 'il tuo'."
+    },
+    {
+      "question": "Come sta ___ padre?",
+      "options": [
+        "tuo",
+        "il tuo",
+        "i tuoi"
+      ],
+      "answer": "tuo",
+      "explanation": "С членами семьи в единственном числе артикль не используется."
+    },
+    {
+      "question": "Dove sono ___ chiavi?",
+      "options": [
+        "le tue",
+        "la tua",
+        "i tuoi"
+      ],
+      "answer": "le tue",
+      "explanation": "Chiavi - женский род, множественное число. Используется 'le tue'."
+    },
+    {
+      "question": "Chi è ___ professore?",
+      "options": [
+        "il vostro",
+        "la vostra",
+        "i vostri"
+      ],
+      "answer": "il vostro",
+      "explanation": "Professore - мужской род, единственное число. Используется 'il vostro'."
+    },
+    {
+      "question": "Quanto costa ___ macchina?",
+      "options": [
+        "la vostra",
+        "il vostro",
+        "i vostri"
+      ],
+      "answer": "la vostra",
+      "explanation": "Macchina - женский род, единственное число. Используется 'la vostra'."
+    },
+    {
+      "question": "___ casa è molto bella.",
+      "options": [
+        "La mia",
+        "Il mio",
+        "I miei"
+      ],
+      "answer": "La mia",
+      "explanation": "Casa - женский род, единственное число. Используется 'la mia'."
+    },
+    {
+      "question": "___ libro è interessante.",
+      "options": [
+        "Il tuo",
+        "La tua",
+        "I tuoi"
+      ],
+      "answer": "Il tuo",
+      "explanation": "Libro - мужской род, единственное число. Используется 'il tuo'."
+    },
+    {
+      "question": "___ amici sono simpatici.",
+      "options": [
+        "I suoi",
+        "Il suo",
+        "Le sue"
+      ],
+      "answer": "I suoi",
+      "explanation": "Amici - мужской род, множественное число. Используется 'i suoi'."
+    },
+    {
+      "question": "___ bambini sono piccoli.",
+      "options": [
+        "I nostri",
+        "Nostri",
+        "Il nostro"
+      ],
+      "answer": "I nostri",
+      "explanation": "Bambini - множественное число, артикль ВСЕГДА используется."
+    },
+    {
+      "question": "___ gatti sono neri.",
+      "options": [
+        "I vostri",
+        "Il vostro",
+        "Le vostre"
+      ],
+      "answer": "I vostri",
+      "explanation": "Gatti - мужской род, множественное число. Используется 'i vostri'."
+    },
+    {
+      "question": "Questo è ___ numero di telefono.",
+      "options": [
+        "il mio",
+        "la mia",
+        "i miei"
+      ],
+      "answer": "il mio",
+      "explanation": "Numero - мужской род, единственное число. Используется 'il mio'."
+    },
+    {
+      "question": "Questa è ___ email.",
+      "options": [
+        "la mia",
+        "il mio",
+        "le mie"
+      ],
+      "answer": "la mia",
+      "explanation": "Email - женский род, единственное число. Используется 'la mia'."
+    },
+    {
+      "question": "___ indirizzo è Via Roma, 10.",
+      "options": [
+        "Il mio",
+        "La mia",
+        "I miei"
+      ],
+      "answer": "Il mio",
+      "explanation": "Indirizzo - мужской род, единственное число. Используется 'il mio'."
+    },
+    {
+      "question": "Qual è ___ cognome?",
+      "options": [
+        "il tuo",
+        "la tua",
+        "i tuoi"
+      ],
+      "answer": "il tuo",
+      "explanation": "Cognome - мужской род, единственное число. Используется 'il tuo'."
+    },
+    {
+      "question": "Qual è ___ età?",
+      "options": [
+        "la tua",
+        "il tuo",
+        "le tue"
+      ],
+      "answer": "la tua",
+      "explanation": "Età - женский род, единственное число. Используется 'la tua'."
+    },
+    {
+      "question": "___ mano è piccola.",
+      "options": [
+        "La mia",
+        "Mia",
+        "Le mie"
+      ],
+      "answer": "La mia",
+      "explanation": "С частями тела артикль ВСЕГДА используется: 'la mia mano'."
+    },
+    {
+      "question": "___ occhi sono azzurri.",
+      "options": [
+        "I miei",
+        "Miei",
+        "Il mio"
+      ],
+      "answer": "I miei",
+      "explanation": "С частями тела артикль ВСЕГДА используется: 'i miei occhi'."
+    },
+    {
+      "question": "___ piede fa male.",
+      "options": [
+        "Il mio",
+        "Mio",
+        "I miei"
+      ],
+      "answer": "Il mio",
+      "explanation": "С частями тела артикль ВСЕГДА используется: 'il mio piede'."
+    },
+    {
+      "question": "___ testa è grande.",
+      "options": [
+        "La tua",
+        "Tua",
+        "Le tue"
+      ],
+      "answer": "La tua",
+      "explanation": "С частями тела артикль ВСЕГДА используется: 'la tua testa'."
+    },
+    {
+      "question": "___ capelli sono lunghi.",
+      "options": [
+        "I tuoi",
+        "Tuoi",
+        "Il tuo"
+      ],
+      "answer": "I tuoi",
+      "explanation": "С частями тела артикль ВСЕГДА используется: 'i tuoi capelli'."
+    },
+    {
+      "question": "___ città è grande.",
+      "options": [
+        "La nostra",
+        "Il nostro",
+        "I nostri"
+      ],
+      "answer": "La nostra",
+      "explanation": "Città - женский род, единственное число. Используется 'la nostra'."
+    },
+    {
+      "question": "___ paese è piccolo.",
+      "options": [
+        "Il vostro",
+        "La vostra",
+        "I vostri"
+      ],
+      "answer": "Il vostro",
+      "explanation": "Paese - мужской род, единственное число. Используется 'il vostro'."
+    },
+    {
+      "question": "___ università è famosa.",
+      "options": [
+        "La loro",
+        "Il loro",
+        "I loro"
+      ],
+      "answer": "La loro",
+      "explanation": "Università - женский род, единственное число. С 'loro' артикль ВСЕГДА используется."
+    },
+    {
+      "question": "___ professore è bravo.",
+      "options": [
+        "Il loro",
+        "La loro",
+        "I loro"
+      ],
+      "answer": "Il loro",
+      "explanation": "Professore - мужской род, единственное число. С 'loro' артикль ВСЕГДА используется."
+    },
+    {
+      "question": "___ insegnante è simpatico.",
+      "options": [
+        "Il mio",
+        "La mia",
+        "I miei"
+      ],
+      "answer": "Il mio",
+      "explanation": "Insegnante - может быть мужского рода. Используется 'il mio'."
+    },
+    {
+      "question": "___ dottore è molto bravo.",
+      "options": [
+        "Il mio",
+        "Mio",
+        "I miei"
+      ],
+      "answer": "Il mio",
+      "explanation": "С профессиями артикль ВСЕГДА используется: 'il mio dottore'."
+    },
+    {
+      "question": "___ avvocato è famoso.",
+      "options": [
+        "Il tuo",
+        "Tuo",
+        "I tuoi"
+      ],
+      "answer": "Il tuo",
+      "explanation": "С профессиями артикль ВСЕГДА используется: 'il tuo avvocato'."
+    },
+    {
+      "question": "___ dentista è gentile.",
+      "options": [
+        "Il suo",
+        "Suo",
+        "I suoi"
+      ],
+      "answer": "Il suo",
+      "explanation": "С профессиями артикль ВСЕГДА используется: 'il suo dentista'."
+    },
+    {
+      "question": "___ ingegnere lavora molto.",
+      "options": [
+        "Il nostro",
+        "Nostro",
+        "I nostri"
+      ],
+      "answer": "Il nostro",
+      "explanation": "С профессиями артикль ВСЕГДА используется: 'il nostro ingegnere'."
+    },
+    {
+      "question": "___ architetto è creativo.",
+      "options": [
+        "Il vostro",
+        "Vostro",
+        "I vostri"
+      ],
+      "answer": "Il vostro",
+      "explanation": "С профессиями артикль ВСЕГДА используется: 'il vostro architetto'."
+    },
+    {
+      "question": "___ cane è fedele.",
+      "options": [
+        "Il mio",
+        "La mia",
+        "I miei"
+      ],
+      "answer": "Il mio",
+      "explanation": "Cane - мужской род, единственное число. Используется 'il mio'."
+    },
+    {
+      "question": "___ gatta è bella.",
+      "options": [
+        "La tua",
+        "Il tuo",
+        "Le tue"
+      ],
+      "answer": "La tua",
+      "explanation": "Gatta - женский род, единственное число. Используется 'la tua'."
+    },
+    {
+      "question": "___ gatto dorme.",
+      "options": [
+        "Il suo",
+        "La sua",
+        "I suoi"
+      ],
+      "answer": "Il suo",
+      "explanation": "Gatto - мужской род, единственное число. Используется 'il suo'."
+    },
+    {
+      "question": "___ cani giocano.",
+      "options": [
+        "I nostri",
+        "Il nostro",
+        "Le nostre"
+      ],
+      "answer": "I nostri",
+      "explanation": "Cani - мужской род, множественное число. Используется 'i nostri'."
+    },
+    {
+      "question": "___ gatti sono piccoli.",
+      "options": [
+        "I vostri",
+        "Il vostro",
+        "Le vostre"
+      ],
+      "answer": "I vostri",
+      "explanation": "Gatti - мужской род, множественное число. Используется 'i vostri'."
+    },
+    {
+      "question": "___ giorno preferito è sabato.",
+      "options": [
+        "Il mio",
+        "La mia",
+        "I miei"
+      ],
+      "answer": "Il mio",
+      "explanation": "Giorno - мужской род, единственное число. Используется 'il mio'."
+    },
+    {
+      "question": "___ stagione preferita è l'estate.",
+      "options": [
+        "La mia",
+        "Il mio",
+        "Le mie"
+      ],
+      "answer": "La mia",
+      "explanation": "Stagione - женский род, единственное число. Используется 'la mia'."
+    },
+    {
+      "question": "___ colore preferito è il blu.",
+      "options": [
+        "Il tuo",
+        "La tua",
+        "I tuoi"
+      ],
+      "answer": "Il tuo",
+      "explanation": "Colore - мужской род, единственное число. Используется 'il tuo'."
+    },
+    {
+      "question": "___ sport preferito è il calcio.",
+      "options": [
+        "Il suo",
+        "La sua",
+        "I suoi"
+      ],
+      "answer": "Il suo",
+      "explanation": "Sport - мужской род, единственное число. Используется 'il suo'."
+    },
+    {
+      "question": "___ hobby è leggere.",
+      "options": [
+        "Il nostro",
+        "La nostra",
+        "I nostri"
+      ],
+      "answer": "Il nostro",
+      "explanation": "Hobby - мужской род, единственное число. Используется 'il nostro'."
+    },
+    {
+      "question": "___ passione è la musica.",
+      "options": [
+        "La vostra",
+        "Il vostro",
+        "Le vostre"
+      ],
+      "answer": "La vostra",
+      "explanation": "Passione - женский род, единственное число. Используется 'la vostra'."
+    },
+    {
+      "question": "___ sogno è viaggiare.",
+      "options": [
+        "Il loro",
+        "La loro",
+        "I loro"
+      ],
+      "answer": "Il loro",
+      "explanation": "Sogno - мужской род, единственное число. С 'loro' артикль ВСЕГДА используется."
+    },
+    {
+      "question": "___ vacanza è stata bella.",
+      "options": [
+        "La mia",
+        "Il mio",
+        "I miei"
+      ],
+      "answer": "La mia",
+      "explanation": "Vacanza - женский род, единственное число. Используется 'la mia'."
+    },
+    {
+      "question": "___ viaggio è lungo.",
+      "options": [
+        "Il tuo",
+        "La tua",
+        "I tuoi"
+      ],
+      "answer": "Il tuo",
+      "explanation": "Viaggio - мужской род, единственное число. Используется 'il tuo'."
+    },
+    {
+      "question": "___ esperienza è positiva.",
+      "options": [
+        "La sua",
+        "Il suo",
+        "Le sue"
+      ],
+      "answer": "La sua",
+      "explanation": "Esperienza - женский род, единственное число. Используется 'la sua'."
+    }
+  ]
+}
