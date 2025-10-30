@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Parole negative di base (A2)",
+  "exercises": [
+    {
+      "question": "Non vado ___ al cinema.",
+      "options": [
+        "mai",
+        "nessuno",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "'Mai' означает 'никогда' и используется с 'non': non vado mai."
+    },
+    {
+      "question": "Non ho ___ visto un film così bello.",
+      "options": [
+        "mai",
+        "nessuno",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "С 'non' для усиления отрицания: non ho mai visto."
+    },
+    {
+      "question": "Non mangio ___ la carne.",
+      "options": [
+        "mai",
+        "nessuno",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "Отрицание с 'mai': non mangio mai la carne."
+    },
+    {
+      "question": "Non bevo ___ il caffè.",
+      "options": [
+        "mai",
+        "nessuno",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "Отрицание с 'mai': non bevo mai il caffè."
+    },
+    {
+      "question": "Non vado ___ in vacanza d'estate.",
+      "options": [
+        "mai",
+        "nessuno",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "Отрицание с 'mai': non vado mai in vacanza."
+    },
+    {
+      "question": "Non c'è ___ in casa.",
+      "options": [
+        "nessuno",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuno",
+      "explanation": "'Nessuno' означает 'никто' с 'non': non c'è nessuno."
+    },
+    {
+      "question": "Non ho ___ amico qui.",
+      "options": [
+        "nessun",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "С существительными мужского рода: nessun amico."
+    },
+    {
+      "question": "Non c'è ___ problema.",
+      "options": [
+        "nessun",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "С существительными мужского рода: nessun problema."
+    },
+    {
+      "question": "Non ho ___ sorella.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna sorella."
+    },
+    {
+      "question": "Non c'è ___ ragazza alla festa.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna ragazza."
+    },
+    {
+      "question": "Non ho ___ da fare.",
+      "options": [
+        "niente",
+        "mai",
+        "nessuno"
+      ],
+      "answer": "niente",
+      "explanation": "'Niente' означает 'ничего' с 'non': non ho niente da fare."
+    },
+    {
+      "question": "Non capisco ___ .",
+      "options": [
+        "niente",
+        "mai",
+        "nessuno"
+      ],
+      "answer": "niente",
+      "explanation": "Отрицание с 'niente': non capisco niente."
+    },
+    {
+      "question": "Non mangio ___ oggi.",
+      "options": [
+        "niente",
+        "mai",
+        "nessuno"
+      ],
+      "answer": "niente",
+      "explanation": "Отрицание с 'niente': non mangio niente."
+    },
+    {
+      "question": "Non vedo ___ .",
+      "options": [
+        "niente",
+        "mai",
+        "nessuno"
+      ],
+      "answer": "niente",
+      "explanation": "Отрицание с 'niente': non vedo niente."
+    },
+    {
+      "question": "Non sento ___ .",
+      "options": [
+        "niente",
+        "mai",
+        "nessuno"
+      ],
+      "answer": "niente",
+      "explanation": "Отрицание с 'niente': non sento niente."
+    },
+    {
+      "question": "___ vado ___ al mare.",
+      "options": [
+        "Non... mai",
+        "Mai... non",
+        "Niente... mai"
+      ],
+      "answer": "Non... mai",
+      "explanation": "Правильный порядок: non vado mai (никогда не хожу)."
+    },
+    {
+      "question": "___ ho ___ mangiato la pizza.",
+      "options": [
+        "Non... mai",
+        "Mai... non",
+        "Niente... mai"
+      ],
+      "answer": "Non... mai",
+      "explanation": "Правильный порядок: non ho mai mangiato (никогда не ел)."
+    },
+    {
+      "question": "___ bevo ___ il vino.",
+      "options": [
+        "Non... mai",
+        "Mai... non",
+        "Niente... mai"
+      ],
+      "answer": "Non... mai",
+      "explanation": "Правильный порядок: non bevo mai (никогда не пью)."
+    },
+    {
+      "question": "___ vado ___ in palestra.",
+      "options": [
+        "Non... mai",
+        "Mai... non",
+        "Niente... mai"
+      ],
+      "answer": "Non... mai",
+      "explanation": "Правильный порядок: non vado mai (никогда не хожу)."
+    },
+    {
+      "question": "___ ho ___ studiato l'italiano.",
+      "options": [
+        "Non... mai",
+        "Mai... non",
+        "Niente... mai"
+      ],
+      "answer": "Non... mai",
+      "explanation": "Правильный порядок: non ho mai studiato (никогда не изучал)."
+    },
+    {
+      "question": "___ ha ___ telefonato.",
+      "options": [
+        "Non... nessuno",
+        "Nessuno... non",
+        "Niente... nessuno"
+      ],
+      "answer": "Non... nessuno",
+      "explanation": "Правильный порядок: non ha nessuno telefonato (никто не звонил)."
+    },
+    {
+      "question": "___ c'è ___ in ufficio.",
+      "options": [
+        "Non... nessuno",
+        "Nessuno... non",
+        "Niente... nessuno"
+      ],
+      "answer": "Non... nessuno",
+      "explanation": "Правильный порядок: non c'è nessuno (никого нет)."
+    },
+    {
+      "question": "___ ho ___ amico qui.",
+      "options": [
+        "Non... nessun",
+        "Nessun... non",
+        "Niente... nessun"
+      ],
+      "answer": "Non... nessun",
+      "explanation": "Правильный порядок: non ho nessun amico (нет ни одного друга)."
+    },
+    {
+      "question": "___ c'è ___ problema.",
+      "options": [
+        "Non... nessun",
+        "Nessun... non",
+        "Niente... nessun"
+      ],
+      "answer": "Non... nessun",
+      "explanation": "Правильный порядок: non c'è nessun problema (нет никаких проблем)."
+    },
+    {
+      "question": "___ ho ___ sorella.",
+      "options": [
+        "Non... nessuna",
+        "Nessuna... non",
+        "Niente... nessuna"
+      ],
+      "answer": "Non... nessuna",
+      "explanation": "Правильный порядок: non ho nessuna sorella (нет ни одной сестры)."
+    },
+    {
+      "question": "___ ho ___ da dire.",
+      "options": [
+        "Non... niente",
+        "Niente... non",
+        "Mai... niente"
+      ],
+      "answer": "Non... niente",
+      "explanation": "Правильный порядок: non ho niente da dire (нечего сказать)."
+    },
+    {
+      "question": "___ capisco ___ .",
+      "options": [
+        "Non... niente",
+        "Niente... non",
+        "Mai... niente"
+      ],
+      "answer": "Non... niente",
+      "explanation": "Правильный порядок: non capisco niente (ничего не понимаю)."
+    },
+    {
+      "question": "___ mangio ___ oggi.",
+      "options": [
+        "Non... niente",
+        "Niente... non",
+        "Mai... niente"
+      ],
+      "answer": "Non... niente",
+      "explanation": "Правильный порядок: non mangio niente (ничего не ем)."
+    },
+    {
+      "question": "___ vedo ___ .",
+      "options": [
+        "Non... niente",
+        "Niente... non",
+        "Mai... niente"
+      ],
+      "answer": "Non... niente",
+      "explanation": "Правильный порядок: non vedo niente (ничего не вижу)."
+    },
+    {
+      "question": "___ sento ___ .",
+      "options": [
+        "Non... niente",
+        "Niente... non",
+        "Mai... niente"
+      ],
+      "answer": "Non... niente",
+      "explanation": "Правильный порядок: non sento niente (ничего не слышу)."
+    },
+    {
+      "question": "Vado ___ al cinema.",
+      "options": [
+        "mai",
+        "sempre",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "Без 'non' 'mai' означает 'когда-либо': vado mai (хожу ли когда-либо)."
+    },
+    {
+      "question": "Hai ___ visto questo film?",
+      "options": [
+        "mai",
+        "sempre",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "В вопросе без 'non': hai mai visto (видел ли когда-либо)."
+    },
+    {
+      "question": "Mangi ___ la carne?",
+      "options": [
+        "mai",
+        "sempre",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "В вопросе без 'non': mangi mai (ешь ли когда-либо)."
+    },
+    {
+      "question": "Bevi ___ il caffè?",
+      "options": [
+        "mai",
+        "sempre",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "В вопросе без 'non': bevi mai (пьешь ли когда-либо)."
+    },
+    {
+      "question": "Vai ___ in vacanza?",
+      "options": [
+        "mai",
+        "sempre",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "В вопросе без 'non': vai mai (ездишь ли когда-либо)."
+    },
+    {
+      "question": "C'è ___ in casa?",
+      "options": [
+        "nessuno",
+        "qualcuno",
+        "niente"
+      ],
+      "answer": "nessuno",
+      "explanation": "Без 'non' в вопросе: c'è nessuno (есть ли кто-нибудь)."
+    },
+    {
+      "question": "Hai ___ amico qui?",
+      "options": [
+        "nessun",
+        "qualche",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "Без 'non' в вопросе: hai nessun amico (есть ли какой-нибудь друг)."
+    },
+    {
+      "question": "C'è ___ problema?",
+      "options": [
+        "nessun",
+        "qualche",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "Без 'non' в вопросе: c'è nessun problema (есть ли какая-нибудь проблема)."
+    },
+    {
+      "question": "Hai ___ sorella?",
+      "options": [
+        "nessuna",
+        "qualche",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "Без 'non' в вопросе: hai nessuna sorella (есть ли какая-нибудь сестра)."
+    },
+    {
+      "question": "C'è ___ ragazza alla festa?",
+      "options": [
+        "nessuna",
+        "qualche",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "Без 'non' в вопросе: c'è nessuna ragazza (есть ли какая-нибудь девушка)."
+    },
+    {
+      "question": "Hai ___ da fare?",
+      "options": [
+        "niente",
+        "qualcosa",
+        "mai"
+      ],
+      "answer": "niente",
+      "explanation": "Без 'non' в вопросе: hai niente da fare (есть ли что-нибудь делать)."
+    },
+    {
+      "question": "Capisci ___ ?",
+      "options": [
+        "niente",
+        "qualcosa",
+        "mai"
+      ],
+      "answer": "niente",
+      "explanation": "Без 'non' в вопросе: capisci niente (понимаешь ли что-нибудь)."
+    },
+    {
+      "question": "Mangi ___ oggi?",
+      "options": [
+        "niente",
+        "qualcosa",
+        "mai"
+      ],
+      "answer": "niente",
+      "explanation": "Без 'non' в вопросе: mangi niente (ешь ли что-нибудь)."
+    },
+    {
+      "question": "Vedi ___ ?",
+      "options": [
+        "niente",
+        "qualcosa",
+        "mai"
+      ],
+      "answer": "niente",
+      "explanation": "Без 'non' в вопросе: vedi niente (видишь ли что-нибудь)."
+    },
+    {
+      "question": "Senti ___ ?",
+      "options": [
+        "niente",
+        "qualcosa",
+        "mai"
+      ],
+      "answer": "niente",
+      "explanation": "Без 'non' в вопросе: senti niente (слышишь ли что-нибудь)."
+    },
+    {
+      "question": "Non vado ___ al cinema perché non ho tempo.",
+      "options": [
+        "mai",
+        "nessuno",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "Отрицание с 'mai': non vado mai (никогда не хожу)."
+    },
+    {
+      "question": "Non c'è ___ in casa oggi.",
+      "options": [
+        "nessuno",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuno",
+      "explanation": "Отрицание с 'nessuno': non c'è nessuno (никого нет)."
+    },
+    {
+      "question": "Non ho ___ da dire su questo argomento.",
+      "options": [
+        "niente",
+        "mai",
+        "nessuno"
+      ],
+      "answer": "niente",
+      "explanation": "Отрицание с 'niente': non ho niente (нечего сказать)."
+    },
+    {
+      "question": "Non mangio ___ la carne perché sono vegetariano.",
+      "options": [
+        "mai",
+        "nessuno",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "Отрицание с 'mai': non mangio mai (никогда не ем)."
+    },
+    {
+      "question": "Non ho ___ amico che parli italiano.",
+      "options": [
+        "nessun",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "Отрицание с 'nessun': non ho nessun amico (нет ни одного друга)."
+    },
+    {
+      "question": "___ vado ___ al mare e ___ bevo ___ il vino.",
+      "options": [
+        "Non... mai... non... mai",
+        "Mai... non... mai... non",
+        "Niente... mai... niente... mai"
+      ],
+      "answer": "Non... mai... non... mai",
+      "explanation": "Двойное отрицание: non vado mai (никогда не хожу), non bevo mai (никогда не пью)."
+    },
+    {
+      "question": "___ c'è ___ in ufficio e ___ ho ___ da fare.",
+      "options": [
+        "Non... nessuno... non... niente",
+        "Nessuno... non... niente... non",
+        "Niente... nessuno... niente... non"
+      ],
+      "answer": "Non... nessuno... non... niente",
+      "explanation": "Двойное отрицание: non c'è nessuno (никого нет), non ho niente (нечего делать)."
+    },
+    {
+      "question": "___ ho ___ visto un film così bello e ___ capisco ___ .",
+      "options": [
+        "Non... mai... non... niente",
+        "Mai... non... niente... non",
+        "Niente... mai... niente... non"
+      ],
+      "answer": "Non... mai... non... niente",
+      "explanation": "Двойное отрицание: non ho mai visto (никогда не видел), non capisco niente (ничего не понимаю)."
+    },
+    {
+      "question": "___ mangio ___ la pizza e ___ bevo ___ il caffè.",
+      "options": [
+        "Non... mai... non... mai",
+        "Mai... non... mai... non",
+        "Niente... mai... niente... mai"
+      ],
+      "answer": "Non... mai... non... mai",
+      "explanation": "Двойное отрицание: non mangio mai (никогда не ем), non bevo mai (никогда не пью)."
+    },
+    {
+      "question": "___ c'è ___ problema e ___ ho ___ sorella.",
+      "options": [
+        "Non... nessun... non... nessuna",
+        "Nessun... non... nessuna... non",
+        "Niente... nessun... niente... nessuna"
+      ],
+      "answer": "Non... nessun... non... nessuna",
+      "explanation": "Двойное отрицание: non c'è nessun problema (нет проблем), non ho nessuna sorella (нет сестры)."
+    },
+    {
+      "question": "Non ho ___ voglia di uscire oggi.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna voglia (никакого желания)."
+    },
+    {
+      "question": "Non c'è ___ ragione per preoccuparsi.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna ragione (никакой причины)."
+    },
+    {
+      "question": "Non ho ___ tempo per studiare.",
+      "options": [
+        "nessun",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "С существительными мужского рода: nessun tempo (никакого времени)."
+    },
+    {
+      "question": "Non vedo ___ differenza tra questi due libri.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna differenza (никакой разницы)."
+    },
+    {
+      "question": "Non ho ___ idea di cosa fare.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna idea (никакой идеи)."
+    },
+    {
+      "question": "___ ho ___ visto un film così brutto e ___ capisco ___ della trama.",
+      "options": [
+        "Non... mai... non... niente",
+        "Mai... non... niente... non",
+        "Niente... mai... niente... non"
+      ],
+      "answer": "Non... mai... non... niente",
+      "explanation": "Тройное отрицание: non ho mai visto (никогда не видел), non capisco niente (ничего не понимаю)."
+    },
+    {
+      "question": "___ c'è ___ in casa e ___ ho ___ da mangiare.",
+      "options": [
+        "Non... nessuno... non... niente",
+        "Nessuno... non... niente... non",
+        "Niente... nessuno... niente... non"
+      ],
+      "answer": "Non... nessuno... non... niente",
+      "explanation": "Тройное отрицание: non c'è nessuno (никого нет), non ho niente (нечего есть)."
+    },
+    {
+      "question": "___ vado ___ al cinema e ___ bevo ___ alcolici.",
+      "options": [
+        "Non... mai... non... mai",
+        "Mai... non... mai... non",
+        "Niente... mai... niente... mai"
+      ],
+      "answer": "Non... mai... non... mai",
+      "explanation": "Тройное отрицание: non vado mai (никогда не хожу), non bevo mai (никогда не пью)."
+    },
+    {
+      "question": "___ ho ___ amico che parli francese e ___ capisco ___ di quella lingua.",
+      "options": [
+        "Non... nessun... non... niente",
+        "Nessun... non... niente... non",
+        "Niente... nessun... niente... non"
+      ],
+      "answer": "Non... nessun... non... niente",
+      "explanation": "Тройное отрицание: non ho nessun amico (нет ни одного друга), non capisco niente (ничего не понимаю)."
+    },
+    {
+      "question": "___ mangio ___ la carne e ___ bevo ___ il latte.",
+      "options": [
+        "Non... mai... non... mai",
+        "Mai... non... mai... non",
+        "Niente... mai... niente... mai"
+      ],
+      "answer": "Non... mai... non... mai",
+      "explanation": "Тройное отрицание: non mangio mai (никогда не ем), non bevo mai (никогда не пью)."
+    },
+    {
+      "question": "Non ho ___ voglia di studiare oggi.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna voglia (никакого желания)."
+    },
+    {
+      "question": "Non c'è ___ motivo per arrabbiarsi.",
+      "options": [
+        "nessun",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "С существительными мужского рода: nessun motivo (никакого повода)."
+    },
+    {
+      "question": "Non vedo ___ soluzione a questo problema.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna soluzione (никакого решения)."
+    },
+    {
+      "question": "Non ho ___ fiducia in lui.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna fiducia (никакого доверия)."
+    },
+    {
+      "question": "Non c'è ___ speranza per il futuro.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna speranza (никакой надежды)."
+    },
+    {
+      "question": "Non vado ___ in palestra perché sono pigro.",
+      "options": [
+        "mai",
+        "nessuno",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "Отрицание с 'mai': non vado mai (никогда не хожу)."
+    },
+    {
+      "question": "Non c'è ___ in ufficio oggi.",
+      "options": [
+        "nessuno",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuno",
+      "explanation": "Отрицание с 'nessuno': non c'è nessuno (никого нет)."
+    },
+    {
+      "question": "Non ho ___ da leggere.",
+      "options": [
+        "niente",
+        "mai",
+        "nessuno"
+      ],
+      "answer": "niente",
+      "explanation": "Отрицание с 'niente': non ho niente (нечего читать)."
+    },
+    {
+      "question": "Non mangio ___ la pizza perché sono a dieta.",
+      "options": [
+        "mai",
+        "nessuno",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "Отрицание с 'mai': non mangio mai (никогда не ем)."
+    },
+    {
+      "question": "Non bevo ___ alcolici.",
+      "options": [
+        "mai",
+        "nessuno",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "Отрицание с 'mai': non bevo mai (никогда не пью)."
+    },
+    {
+      "question": "Non ho ___ amico che parli italiano.",
+      "options": [
+        "nessun",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "С существительными мужского рода: nessun amico (никакого друга)."
+    },
+    {
+      "question": "Non c'è ___ ragazza alla festa.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna ragazza (никакой девушки)."
+    },
+    {
+      "question": "Non vedo ___ differenza tra questi due libri.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna differenza (никакой разницы)."
+    },
+    {
+      "question": "Non ho ___ idea di cosa fare.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna idea (никакой идеи)."
+    },
+    {
+      "question": "Non c'è ___ problema con questo piano.",
+      "options": [
+        "nessun",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "С существительными мужского рода: nessun problema (никаких проблем)."
+    },
+    {
+      "question": "Hai ___ visto questo film?",
+      "options": [
+        "mai",
+        "sempre",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "В вопросе без 'non': hai mai visto (видел ли когда-либо)."
+    },
+    {
+      "question": "C'è ___ in casa?",
+      "options": [
+        "nessuno",
+        "qualcuno",
+        "niente"
+      ],
+      "answer": "nessuno",
+      "explanation": "В вопросе без 'non': c'è nessuno (есть ли кто-нибудь)."
+    },
+    {
+      "question": "Hai ___ da fare oggi?",
+      "options": [
+        "niente",
+        "qualcosa",
+        "mai"
+      ],
+      "answer": "niente",
+      "explanation": "В вопросе без 'non': hai niente (есть ли что-нибудь)."
+    },
+    {
+      "question": "Mangi ___ la carne?",
+      "options": [
+        "mai",
+        "sempre",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "В вопросе без 'non': mangi mai (ешь ли когда-либо)."
+    },
+    {
+      "question": "Bevi ___ il caffè?",
+      "options": [
+        "mai",
+        "sempre",
+        "niente"
+      ],
+      "answer": "mai",
+      "explanation": "В вопросе без 'non': bevi mai (пьешь ли когда-либо)."
+    },
+    {
+      "question": "Non ho ___ tempo per questo progetto.",
+      "options": [
+        "nessun",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "С существительными мужского рода: nessun tempo (никакого времени)."
+    },
+    {
+      "question": "Non c'è ___ possibilità di successo.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna possibilità (никакой возможности)."
+    },
+    {
+      "question": "Non vedo ___ via d'uscita.",
+      "options": [
+        "nessuna",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessuna",
+      "explanation": "С существительными женского рода: nessuna via d'uscita (никакого выхода)."
+    },
+    {
+      "question": "Non ho ___ interesse per la politica.",
+      "options": [
+        "nessun",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "С существительными мужского рода: nessun interesse (никакого интереса)."
+    },
+    {
+      "question": "Non c'è ___ dubbio sulla sua onestà.",
+      "options": [
+        "nessun",
+        "mai",
+        "niente"
+      ],
+      "answer": "nessun",
+      "explanation": "С существительными мужского рода: nessun dubbio (никаких сомнений)."
+    },
+    {
+      "question": "Non ho ___ voglia di uscire e ___ c'è ___ da fare in casa.",
+      "options": [
+        "nessuna... non... niente",
+        "mai... non... niente",
+        "niente... non... nessuna"
+      ],
+      "answer": "nessuna... non... niente",
+      "explanation": "Двойное отрицание: nessuna voglia (никакого желания), non c'è niente (нечего делать)."
+    },
+    {
+      "question": "___ vado ___ al cinema e ___ bevo ___ alcolici.",
+      "options": [
+        "Non... mai... non... mai",
+        "Mai... non... mai... non",
+        "Niente... mai... niente... mai"
+      ],
+      "answer": "Non... mai... non... mai",
+      "explanation": "Двойное отрицание: non vado mai (никогда не хожу), non bevo mai (никогда не пью)."
+    },
+    {
+      "question": "___ c'è ___ in ufficio e ___ ho ___ da mangiare.",
+      "options": [
+        "Non... nessuno... non... niente",
+        "Nessuno... non... niente... non",
+        "Niente... nessuno... niente... non"
+      ],
+      "answer": "Non... nessuno... non... niente",
+      "explanation": "Двойное отрицание: non c'è nessuno (никого нет), non ho niente (нечего есть)."
+    },
+    {
+      "question": "___ ho ___ visto un film così brutto e ___ capisco ___ della trama.",
+      "options": [
+        "Non... mai... non... niente",
+        "Mai... non... niente... non",
+        "Niente... mai... niente... non"
+      ],
+      "answer": "Non... mai... non... niente",
+      "explanation": "Двойное отрицание: non ho mai visto (никогда не видел), non capisco niente (ничего не понимаю)."
+    },
+    {
+      "question": "___ mangio ___ la carne e ___ bevo ___ il latte.",
+      "options": [
+        "Non... mai... non... mai",
+        "Mai... non... mai... non",
+        "Niente... mai... niente... mai"
+      ],
+      "answer": "Non... mai... non... mai",
+      "explanation": "Двойное отрицание: non mangio mai (никогда не ем), non bevo mai (никогда не пью)."
+    },
+    {
+      "question": "Non ho ___ amico che parli francese e ___ capisco ___ di quella lingua.",
+      "options": [
+        "nessun... non... niente",
+        "mai... non... niente",
+        "niente... non... nessun"
+      ],
+      "answer": "nessun... non... niente",
+      "explanation": "Двойное отрицание: nessun amico (никакого друга), non capisco niente (ничего не понимаю)."
+    },
+    {
+      "question": "___ c'è ___ problema e ___ ho ___ sorella.",
+      "options": [
+        "Non... nessun... non... nessuna",
+        "Nessun... non... nessuna... non",
+        "Niente... nessun... niente... nessuna"
+      ],
+      "answer": "Non... nessun... non... nessuna",
+      "explanation": "Двойное отрицание: non c'è nessun problema (нет проблем), non ho nessuna sorella (нет сестры)."
+    },
+    {
+      "question": "___ vado ___ al mare e ___ bevo ___ il vino.",
+      "options": [
+        "Non... mai... non... mai",
+        "Mai... non... mai... non",
+        "Niente... mai... niente... mai"
+      ],
+      "answer": "Non... mai... non... mai",
+      "explanation": "Двойное отрицание: non vado mai (никогда не хожу), non bevo mai (никогда не пью)."
+    },
+    {
+      "question": "___ ho ___ visto un film così bello e ___ capisco ___ .",
+      "options": [
+        "Non... mai... non... niente",
+        "Mai... non... niente... non",
+        "Niente... mai... niente... non"
+      ],
+      "answer": "Non... mai... non... niente",
+      "explanation": "Двойное отрицание: non ho mai visto (никогда не видел), non capisco niente (ничего не понимаю)."
+    },
+    {
+      "question": "___ c'è ___ in casa e ___ ho ___ da fare.",
+      "options": [
+        "Non... nessuno... non... niente",
+        "Nessuno... non... niente... non",
+        "Niente... nessuno... niente... non"
+      ],
+      "answer": "Non... nessuno... non... niente",
+      "explanation": "Двойное отрицание: non c'è nessuno (никого нет), non ho niente (нечего делать)."
+    }
+  ]
+}
