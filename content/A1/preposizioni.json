@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Наиболее употребительные предлоги (A1)",
+  "exercises": [
+    {
+      "question": "Vado ___ scuola ogni giorno.",
+      "options": [
+        "a",
+        "in",
+        "di"
+      ],
+      "answer": "a",
+      "explanation": "Предлог 'a' используется перед названиями городов и мест с артиклем."
+    },
+    {
+      "question": "Andiamo ___ Roma domani.",
+      "options": [
+        "a",
+        "in",
+        "di"
+      ],
+      "answer": "a",
+      "explanation": "Предлог 'a' используется перед названиями городов."
+    },
+    {
+      "question": "Sono ___ casa.",
+      "options": [
+        "a",
+        "in",
+        "di"
+      ],
+      "answer": "a",
+      "explanation": "Выражение 'a casa' - устойчивое сочетание (дома)."
+    },
+    {
+      "question": "Arrivo ___ stazione alle otto.",
+      "options": [
+        "a",
+        "in",
+        "di"
+      ],
+      "answer": "a",
+      "explanation": "Предлог 'a' используется для обозначения места прибытия."
+    },
+    {
+      "question": "Vado ___ letto presto.",
+      "options": [
+        "a",
+        "in",
+        "di"
+      ],
+      "answer": "a",
+      "explanation": "Выражение 'a letto' - устойчивое сочетание (в кровать)."
+    },
+    {
+      "question": "Abito ___ Italia.",
+      "options": [
+        "in",
+        "a",
+        "di"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' используется перед названиями стран."
+    },
+    {
+      "question": "Lavoro ___ ufficio.",
+      "options": [
+        "in",
+        "a",
+        "di"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' используется для обозначения места нахождения."
+    },
+    {
+      "question": "Studio ___ biblioteca.",
+      "options": [
+        "in",
+        "a",
+        "di"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' используется для обозначения места."
+    },
+    {
+      "question": "I bambini giocano ___ giardino.",
+      "options": [
+        "in",
+        "a",
+        "di"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' используется для обозначения места нахождения."
+    },
+    {
+      "question": "Viviamo ___ centro.",
+      "options": [
+        "in",
+        "a",
+        "di"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' используется для обозначения района города."
+    },
+    {
+      "question": "La casa ___ Maria è grande.",
+      "options": [
+        "di",
+        "a",
+        "in"
+      ],
+      "answer": "di",
+      "explanation": "Предлог 'di' выражает принадлежность."
+    },
+    {
+      "question": "Il libro ___ italiano è interessante.",
+      "options": [
+        "di",
+        "a",
+        "in"
+      ],
+      "answer": "di",
+      "explanation": "Предлог 'di' указывает на предмет изучения."
+    },
+    {
+      "question": "La borsa ___ pelle è cara.",
+      "options": [
+        "di",
+        "a",
+        "in"
+      ],
+      "answer": "di",
+      "explanation": "Предлог 'di' указывает на материал."
+    },
+    {
+      "question": "Il gatto ___ Anna è nero.",
+      "options": [
+        "di",
+        "a",
+        "in"
+      ],
+      "answer": "di",
+      "explanation": "Предлог 'di' выражает принадлежность."
+    },
+    {
+      "question": "Un bicchiere ___ acqua, per favore.",
+      "options": [
+        "di",
+        "a",
+        "in"
+      ],
+      "answer": "di",
+      "explanation": "Предлог 'di' используется в партитивных конструкциях."
+    },
+    {
+      "question": "Vengo ___ Roma.",
+      "options": [
+        "da",
+        "a",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "Предлог 'da' указывает на место отправления."
+    },
+    {
+      "question": "Vado ___ dottore domani.",
+      "options": [
+        "da",
+        "a",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "Предлог 'da' используется перед названиями профессий (к кому)."
+    },
+    {
+      "question": "Sono ___ Maria stasera.",
+      "options": [
+        "da",
+        "a",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "Предлог 'da' означает 'у кого-то'."
+    },
+    {
+      "question": "Il treno parte ___ Milano.",
+      "options": [
+        "da",
+        "a",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "Предлог 'da' указывает на место отправления."
+    },
+    {
+      "question": "Compro il pane ___ panetteria.",
+      "options": [
+        "da",
+        "a",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "Предлог 'da' используется перед названиями магазинов."
+    },
+    {
+      "question": "Vado al cinema ___ Maria.",
+      "options": [
+        "con",
+        "per",
+        "su"
+      ],
+      "answer": "con",
+      "explanation": "Предлог 'con' означает 'вместе с кем-то'."
+    },
+    {
+      "question": "Bevo il caffè ___ zucchero.",
+      "options": [
+        "con",
+        "per",
+        "su"
+      ],
+      "answer": "con",
+      "explanation": "Предлог 'con' означает 'с чем-то'."
+    },
+    {
+      "question": "Parlo ___ mio amico.",
+      "options": [
+        "con",
+        "per",
+        "su"
+      ],
+      "answer": "con",
+      "explanation": "Предлог 'con' используется после глагола 'parlare'."
+    },
+    {
+      "question": "Vivo ___ mia madre.",
+      "options": [
+        "con",
+        "per",
+        "su"
+      ],
+      "answer": "con",
+      "explanation": "Предлог 'con' означает 'вместе с кем-то'."
+    },
+    {
+      "question": "Mangio la pasta ___ pomodoro.",
+      "options": [
+        "con",
+        "per",
+        "su"
+      ],
+      "answer": "con",
+      "explanation": "Предлог 'con' указывает на ингредиент."
+    },
+    {
+      "question": "Il libro è ___ tavolo.",
+      "options": [
+        "su",
+        "in",
+        "a"
+      ],
+      "answer": "su",
+      "explanation": "Предлог 'su' означает 'на поверхности'."
+    },
+    {
+      "question": "Il gatto dorme ___ divano.",
+      "options": [
+        "su",
+        "in",
+        "a"
+      ],
+      "answer": "su",
+      "explanation": "Предлог 'su' указывает на положение на поверхности."
+    },
+    {
+      "question": "Le chiavi sono ___ sedia.",
+      "options": [
+        "su",
+        "in",
+        "a"
+      ],
+      "answer": "su",
+      "explanation": "Предлог 'su' означает 'на чем-то'."
+    },
+    {
+      "question": "La foto è ___ parete.",
+      "options": [
+        "su",
+        "in",
+        "a"
+      ],
+      "answer": "su",
+      "explanation": "Предлог 'su' используется для вертикальных поверхностей."
+    },
+    {
+      "question": "Il quaderno è ___ banco.",
+      "options": [
+        "su",
+        "in",
+        "a"
+      ],
+      "answer": "su",
+      "explanation": "Предлог 'su' означает 'на поверхности'."
+    },
+    {
+      "question": "Questo regalo è ___ te.",
+      "options": [
+        "per",
+        "a",
+        "di"
+      ],
+      "answer": "per",
+      "explanation": "Предлог 'per' означает 'для кого-то'."
+    },
+    {
+      "question": "Studio ___ l'esame.",
+      "options": [
+        "per",
+        "a",
+        "di"
+      ],
+      "answer": "per",
+      "explanation": "Предлог 'per' указывает на цель."
+    },
+    {
+      "question": "Parto ___ Roma domani.",
+      "options": [
+        "per",
+        "a",
+        "in"
+      ],
+      "answer": "per",
+      "explanation": "Предлог 'per' используется с глаголом 'partire'."
+    },
+    {
+      "question": "Lavoro ___ vivere.",
+      "options": [
+        "per",
+        "a",
+        "di"
+      ],
+      "answer": "per",
+      "explanation": "Предлог 'per' указывает на цель."
+    },
+    {
+      "question": "Grazie ___ tutto.",
+      "options": [
+        "per",
+        "a",
+        "di"
+      ],
+      "answer": "per",
+      "explanation": "Предлог 'per' используется после 'grazie'."
+    },
+    {
+      "question": "La banca è ___ la scuola e la chiesa.",
+      "options": [
+        "tra",
+        "in",
+        "su"
+      ],
+      "answer": "tra",
+      "explanation": "Предлог 'tra' означает 'между'."
+    },
+    {
+      "question": "Arrivo ___ dieci minuti.",
+      "options": [
+        "tra",
+        "in",
+        "per"
+      ],
+      "answer": "tra",
+      "explanation": "Предлог 'tra' указывает на время (через)."
+    },
+    {
+      "question": "___ me e te, è un segreto.",
+      "options": [
+        "Tra",
+        "In",
+        "Per"
+      ],
+      "answer": "Tra",
+      "explanation": "Предлог 'tra' означает 'между нами'."
+    },
+    {
+      "question": "Il treno parte ___ un'ora.",
+      "options": [
+        "tra",
+        "in",
+        "per"
+      ],
+      "answer": "tra",
+      "explanation": "Предлог 'tra' указывает на время в будущем."
+    },
+    {
+      "question": "Ci vediamo ___ poco.",
+      "options": [
+        "tra",
+        "in",
+        "per"
+      ],
+      "answer": "tra",
+      "explanation": "Предлог 'tra' в выражении 'tra poco' означает 'скоро'."
+    },
+    {
+      "question": "Vado ___ scuola ___ piedi.",
+      "options": [
+        "a",
+        "in",
+        "di"
+      ],
+      "answer": "a",
+      "explanation": "Предлог 'a' используется перед 'scuola'."
+    },
+    {
+      "question": "Studio italiano ___ tre anni.",
+      "options": [
+        "da",
+        "per",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "Предлог 'da' указывает на продолжительность с начала."
+    },
+    {
+      "question": "Abito ___ Via Roma.",
+      "options": [
+        "in",
+        "a",
+        "su"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' используется перед названием улицы."
+    },
+    {
+      "question": "Il telefono è ___ borsa.",
+      "options": [
+        "in",
+        "su",
+        "a"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' означает 'внутри'."
+    },
+    {
+      "question": "Lavoro ___ lunedì ___ venerdì.",
+      "options": [
+        "da",
+        "di",
+        "a"
+      ],
+      "answer": "da",
+      "explanation": "Предлог 'da' в конструкции 'da... a' означает 'с... до'."
+    },
+    {
+      "question": "La lezione comincia ___ nove.",
+      "options": [
+        "a",
+        "in",
+        "di"
+      ],
+      "answer": "a",
+      "explanation": "Предлог 'a' используется для указания времени (в час)."
+    },
+    {
+      "question": "Sono nato ___ 1990.",
+      "options": [
+        "in",
+        "a",
+        "di"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' используется перед годом."
+    },
+    {
+      "question": "Sono nato ___ marzo.",
+      "options": [
+        "in",
+        "a",
+        "di"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' используется перед месяцем."
+    },
+    {
+      "question": "Vado ___ mare ___ estate.",
+      "options": [
+        "a",
+        "in",
+        "su"
+      ],
+      "answer": "a",
+      "explanation": "Предлог 'a' используется с 'mare' (к морю)."
+    },
+    {
+      "question": "Studio ___ mattina.",
+      "options": [
+        "di",
+        "in",
+        "a"
+      ],
+      "answer": "di",
+      "explanation": "Предлог 'di' используется в выражении 'di mattina'."
+    },
+    {
+      "question": "Il gatto è ___ tavolo. (su + il)",
+      "options": [
+        "sul",
+        "nel",
+        "del"
+      ],
+      "answer": "sul",
+      "explanation": "Su + il = sul (на столе)."
+    },
+    {
+      "question": "Vado ___ cinema. (a + il)",
+      "options": [
+        "al",
+        "nel",
+        "dal"
+      ],
+      "answer": "al",
+      "explanation": "A + il = al (в кино)."
+    },
+    {
+      "question": "Vengo ___ stazione. (da + la)",
+      "options": [
+        "dalla",
+        "alla",
+        "nella"
+      ],
+      "answer": "dalla",
+      "explanation": "Da + la = dalla (со станции)."
+    },
+    {
+      "question": "La chiave è ___ cassetto. (in + il)",
+      "options": [
+        "nel",
+        "sul",
+        "del"
+      ],
+      "answer": "nel",
+      "explanation": "In + il = nel (в ящике)."
+    },
+    {
+      "question": "Il libro ___ studente è nuovo. (di + lo)",
+      "options": [
+        "dello",
+        "allo",
+        "nello"
+      ],
+      "answer": "dello",
+      "explanation": "Di + lo = dello (студента)."
+    },
+    {
+      "question": "Parlo ___ telefono con mia madre.",
+      "options": [
+        "al",
+        "nel",
+        "sul"
+      ],
+      "answer": "al",
+      "explanation": "A + il = al в выражении 'al telefono'."
+    },
+    {
+      "question": "Vado ___ supermercato.",
+      "options": [
+        "al",
+        "nel",
+        "dal"
+      ],
+      "answer": "al",
+      "explanation": "A + il = al (в супермаркет)."
+    },
+    {
+      "question": "Il cane è ___ giardino. (in + il)",
+      "options": [
+        "nel",
+        "sul",
+        "del"
+      ],
+      "answer": "nel",
+      "explanation": "In + il = nel (в саду)."
+    },
+    {
+      "question": "La penna ___ ragazzo è rossa. (di + il)",
+      "options": [
+        "del",
+        "nel",
+        "sul"
+      ],
+      "answer": "del",
+      "explanation": "Di + il = del (мальчика)."
+    },
+    {
+      "question": "Abito ___ terzo piano.",
+      "options": [
+        "al",
+        "nel",
+        "sul"
+      ],
+      "answer": "al",
+      "explanation": "A + il = al для обозначения этажа."
+    },
+    {
+      "question": "Il quadro è ___ parete. (su + la)",
+      "options": [
+        "sulla",
+        "nella",
+        "dalla"
+      ],
+      "answer": "sulla",
+      "explanation": "Su + la = sulla (на стене)."
+    },
+    {
+      "question": "Vado ___ piscina. (in + la)",
+      "options": [
+        "in",
+        "a",
+        "nella"
+      ],
+      "answer": "in",
+      "explanation": "С 'piscina' можно использовать 'in' без артикля."
+    },
+    {
+      "question": "Studio ___ università. (a + l')",
+      "options": [
+        "all'",
+        "nell'",
+        "dell'"
+      ],
+      "answer": "all'",
+      "explanation": "A + l' = all' (в университете)."
+    },
+    {
+      "question": "La borsa ___ amica è bella. (di + l')",
+      "options": [
+        "dell'",
+        "all'",
+        "nell'"
+      ],
+      "answer": "dell'",
+      "explanation": "Di + l' = dell' (подруги)."
+    },
+    {
+      "question": "Il libro è ___ zaino. (in + lo)",
+      "options": [
+        "nello",
+        "sullo",
+        "dello"
+      ],
+      "answer": "nello",
+      "explanation": "In + lo = nello (в рюкзаке)."
+    },
+    {
+      "question": "Penso ___ te sempre.",
+      "options": [
+        "a",
+        "di",
+        "per"
+      ],
+      "answer": "a",
+      "explanation": "Глагол 'pensare' требует предлога 'a' (думать о ком-то)."
+    },
+    {
+      "question": "Cerco ___ capire l'italiano.",
+      "options": [
+        "di",
+        "a",
+        "per"
+      ],
+      "answer": "di",
+      "explanation": "Глагол 'cercare' требует предлога 'di' перед инфинитивом."
+    },
+    {
+      "question": "Comincio ___ studiare.",
+      "options": [
+        "a",
+        "di",
+        "per"
+      ],
+      "answer": "a",
+      "explanation": "Глагол 'cominciare' требует предлога 'a' перед инфинитивом."
+    },
+    {
+      "question": "Finisco ___ lavorare alle sei.",
+      "options": [
+        "di",
+        "a",
+        "per"
+      ],
+      "answer": "di",
+      "explanation": "Глагол 'finire' требует предлога 'di' перед инфинитивом."
+    },
+    {
+      "question": "Devo ___ andare a casa.",
+      "options": [
+        "ø",
+        "di",
+        "a"
+      ],
+      "answer": "ø",
+      "explanation": "Модальные глаголы (dovere) не требуют предлога перед инфинитивом."
+    },
+    {
+      "question": "Studio italiano ___ due anni.",
+      "options": [
+        "da",
+        "per",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "Предлог 'da' указывает на продолжительность с начала до сейчас."
+    },
+    {
+      "question": "Studio ___ due ore ogni giorno.",
+      "options": [
+        "per",
+        "da",
+        "in"
+      ],
+      "answer": "per",
+      "explanation": "Предлог 'per' указывает на продолжительность действия."
+    },
+    {
+      "question": "Sono ___ Italia ___ tre mesi.",
+      "options": [
+        "in",
+        "a",
+        "di"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' используется с названиями стран."
+    },
+    {
+      "question": "Arrivo ___ cinque minuti.",
+      "options": [
+        "tra",
+        "in",
+        "per"
+      ],
+      "answer": "tra",
+      "explanation": "Предлог 'tra' указывает на время в будущем."
+    },
+    {
+      "question": "Lavoro ___ otto ore al giorno.",
+      "options": [
+        "per",
+        "da",
+        "in"
+      ],
+      "answer": "per",
+      "explanation": "Предлог 'per' указывает на продолжительность."
+    },
+    {
+      "question": "Vado ___ casa ___ piedi.",
+      "options": [
+        "a",
+        "in",
+        "per"
+      ],
+      "answer": "a",
+      "explanation": "'A casa' - устойчивое выражение (домой)."
+    },
+    {
+      "question": "Viaggio ___ treno.",
+      "options": [
+        "in",
+        "con",
+        "per"
+      ],
+      "answer": "in",
+      "explanation": "Предлог 'in' используется с видами транспорта."
+    },
+    {
+      "question": "Vado ___ bicicletta.",
+      "options": [
+        "in",
+        "con",
+        "per"
+      ],
+      "answer": "in",
+      "explanation": "'In bicicletta' - устойчивое выражение (на велосипеде)."
+    },
+    {
+      "question": "Vado ___ macchina.",
+      "options": [
+        "in",
+        "con",
+        "a"
+      ],
+      "answer": "in",
+      "explanation": "'In macchina' - устойчивое выражение (на машине)."
+    },
+    {
+      "question": "Scrivo ___ penna.",
+      "options": [
+        "con",
+        "in",
+        "di"
+      ],
+      "answer": "con",
+      "explanation": "Предлог 'con' указывает на инструмент."
+    },
+    {
+      "question": "___ inverno fa freddo.",
+      "options": [
+        "In",
+        "A",
+        "Di"
+      ],
+      "answer": "In",
+      "explanation": "Предлог 'in' используется с временами года."
+    },
+    {
+      "question": "Vado ___ letto tardi.",
+      "options": [
+        "a",
+        "in",
+        "nel"
+      ],
+      "answer": "a",
+      "explanation": "'A letto' - устойчивое выражение."
+    },
+    {
+      "question": "Studio ___ sera.",
+      "options": [
+        "di",
+        "in",
+        "a"
+      ],
+      "answer": "di",
+      "explanation": "'Di sera' - устойчивое выражение (вечером)."
+    },
+    {
+      "question": "Lavoro ___ notte.",
+      "options": [
+        "di",
+        "in",
+        "a"
+      ],
+      "answer": "di",
+      "explanation": "'Di notte' - устойчивое выражение (ночью)."
+    },
+    {
+      "question": "Vado ___ scuola ___ autobus.",
+      "options": [
+        "a",
+        "in",
+        "per"
+      ],
+      "answer": "a",
+      "explanation": "Предлог 'a' используется с 'scuola'."
+    },
+    {
+      "question": "Il libro è ___ me.",
+      "options": [
+        "con",
+        "da",
+        "a"
+      ],
+      "answer": "con",
+      "explanation": "Предлог 'con' означает 'у меня с собой'."
+    },
+    {
+      "question": "Abito vicino ___ stazione.",
+      "options": [
+        "alla",
+        "nella",
+        "dalla"
+      ],
+      "answer": "alla",
+      "explanation": "'Vicino a' требует предлога 'a' (рядом с)."
+    },
+    {
+      "question": "La banca è davanti ___ chiesa.",
+      "options": [
+        "alla",
+        "nella",
+        "dalla"
+      ],
+      "answer": "alla",
+      "explanation": "'Davanti a' требует предлога 'a' (напротив)."
+    },
+    {
+      "question": "Il gatto è sotto ___ tavolo.",
+      "options": [
+        "il",
+        "al",
+        "nel"
+      ],
+      "answer": "il",
+      "explanation": "'Sotto' используется с артиклем без слияния."
+    },
+    {
+      "question": "La scuola è lontano ___ casa mia.",
+      "options": [
+        "da",
+        "a",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "'Lontano da' означает 'далеко от'."
+    },
+    {
+      "question": "Esco ___ casa alle otto.",
+      "options": [
+        "di",
+        "da",
+        "a"
+      ],
+      "answer": "di",
+      "explanation": "'Uscire di casa' - устойчивое выражение (выходить из дома)."
+    },
+    {
+      "question": "Entro ___ classe in ritardo.",
+      "options": [
+        "in",
+        "a",
+        "nella"
+      ],
+      "answer": "in",
+      "explanation": "'Entrare in' означает 'входить в'."
+    },
+    {
+      "question": "Vengo ___ te domani.",
+      "options": [
+        "da",
+        "a",
+        "con"
+      ],
+      "answer": "da",
+      "explanation": "'Venire da' означает 'приходить к кому-то'."
+    },
+    {
+      "question": "Resto ___ casa oggi.",
+      "options": [
+        "a",
+        "in",
+        "di"
+      ],
+      "answer": "a",
+      "explanation": "'Restare a casa' - устойчивое выражение (оставаться дома)."
+    },
+    {
+      "question": "Torno ___ ufficio presto.",
+      "options": [
+        "in",
+        "a",
+        "all'"
+      ],
+      "answer": "in",
+      "explanation": "'Tornare in ufficio' означает 'возвращаться в офис'."
+    },
+    {
+      "question": "Passo ___ casa tua stasera.",
+      "options": [
+        "da",
+        "a",
+        "in"
+      ],
+      "answer": "da",
+      "explanation": "'Passare da' означает 'заходить к кому-то'."
+    },
+    {
+      "question": "Guardo ___ finestra.",
+      "options": [
+        "dalla",
+        "alla",
+        "nella"
+      ],
+      "answer": "dalla",
+      "explanation": "'Guardare dalla finestra' - смотреть из окна."
+    },
+    {
+      "question": "Aspetto ___ fermata dell'autobus.",
+      "options": [
+        "alla",
+        "nella",
+        "dalla"
+      ],
+      "answer": "alla",
+      "explanation": "'Alla fermata' означает 'на остановке'."
+    },
+    {
+      "question": "Salgo ___ treno.",
+      "options": [
+        "sul",
+        "nel",
+        "al"
+      ],
+      "answer": "sul",
+      "explanation": "'Salire sul treno' - садиться на поезд."
+    },
+    {
+      "question": "Scendo ___ autobus alla prossima fermata.",
+      "options": [
+        "dall'",
+        "sull'",
+        "nell'"
+      ],
+      "answer": "dall'",
+      "explanation": "'Scendere dall'autobus' - выходить из автобуса."
+    }
+  ]
+}
