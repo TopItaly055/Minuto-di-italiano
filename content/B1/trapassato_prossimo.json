@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Trapassato Prossimo (B1)",
+  "exercises": [
+    {
+      "question": "Quando sono arrivato, ___ già partito.",
+      "options": [
+        "era",
+        "è stato",
+        "fu"
+      ],
+      "answer": "era",
+      "explanation": "Trapassato prossimo (era partito) выражает действие, завершившееся до другого действия в прошлом."
+    },
+    {
+      "question": "Dopo che ___ la cena, siamo usciti.",
+      "options": [
+        "avevamo mangiato",
+        "mangiammo",
+        "mangiavamo"
+      ],
+      "answer": "avevamo mangiato",
+      "explanation": "Trapassato prossimo показывает предшествование: avevamo mangiato (мы уже поели)."
+    },
+    {
+      "question": "Non ___ mai visto un film così bello prima di ieri.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает опыт до определенного момента в прошлом."
+    },
+    {
+      "question": "Quando l'ho incontrato, ___ già finito il lavoro.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что работа была завершена до встречи."
+    },
+    {
+      "question": "Prima che ___ a casa, avevo già preparato tutto.",
+      "options": [
+        "tornassi",
+        "tornai",
+        "tornavo"
+      ],
+      "answer": "tornassi",
+      "explanation": "Trapassato prossimo (avevo preparato) показывает предшествование."
+    },
+    {
+      "question": "Quando sono arrivato, ___ già andati via.",
+      "options": [
+        "erano",
+        "sono stati",
+        "furono"
+      ],
+      "answer": "erano",
+      "explanation": "Trapassato prossimo с essere: erano andati (они уже ушли)."
+    },
+    {
+      "question": "Dopo che ___ in Italia, ho capito la cultura.",
+      "options": [
+        "ero stato",
+        "sono stato",
+        "fui"
+      ],
+      "answer": "ero stato",
+      "explanation": "Trapassato prossimo с essere: ero stato (я уже был)."
+    },
+    {
+      "question": "Non ___ mai stato in quel ristorante prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с essere: avevo mai stato (я никогда не был)."
+    },
+    {
+      "question": "Quando l'ho visto, ___ già tornato dal viaggio.",
+      "options": [
+        "era",
+        "è stato",
+        "fu"
+      ],
+      "answer": "era",
+      "explanation": "Trapassato prossimo с essere: era tornato (он уже вернулся)."
+    },
+    {
+      "question": "Prima che ___ a Roma, avevo già visitato Firenze.",
+      "options": [
+        "andassi",
+        "andai",
+        "andavo"
+      ],
+      "answer": "andassi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo visitato (я уже посетил)."
+    },
+    {
+      "question": "Quando sono arrivato, ___ già mangiato.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo с avere: avevano mangiato (они уже поели)."
+    },
+    {
+      "question": "Dopo che ___ finito il libro, ho iniziato un altro.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с avere: avevo finito (я уже закончил)."
+    },
+    {
+      "question": "Non ___ mai letto quel romanzo prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с avere: avevo mai letto (я никогда не читал)."
+    },
+    {
+      "question": "Quando l'ho chiamato, ___ già preparato la cena.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo с avere: aveva preparato (он уже приготовил)."
+    },
+    {
+      "question": "Prima che ___ la notizia, avevo già sospettato qualcosa.",
+      "options": [
+        "sapessi",
+        "seppi",
+        "sapevo"
+      ],
+      "answer": "sapessi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo sospettato (я уже подозревал)."
+    },
+    {
+      "question": "Quando sono arrivato alla stazione, il treno ___ già partito.",
+      "options": [
+        "era",
+        "è stato",
+        "fu"
+      ],
+      "answer": "era",
+      "explanation": "Trapassato prossimo показывает, что поезд ушел до прибытия."
+    },
+    {
+      "question": "Dopo che ___ tutto il giorno, eravamo molto stanchi.",
+      "options": [
+        "avevamo lavorato",
+        "lavorammo",
+        "lavoravamo"
+      ],
+      "answer": "avevamo lavorato",
+      "explanation": "Trapassato prossimo показывает предшествование: avevamo lavorato (мы уже поработали)."
+    },
+    {
+      "question": "Non ___ mai visto un tramonto così bello prima di quella sera.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает опыт до определенного момента."
+    },
+    {
+      "question": "Quando l'ho incontrato, ___ già risolto il problema.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что проблема была решена до встречи."
+    },
+    {
+      "question": "Prima che ___ la decisione, avevo già pensato a tutto.",
+      "options": [
+        "prendessi",
+        "presi",
+        "prendevo"
+      ],
+      "answer": "prendessi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo pensato (я уже подумал)."
+    },
+    {
+      "question": "Quando sono entrato in ufficio, ___ già iniziato la riunione.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что встреча уже началась до входа."
+    },
+    {
+      "question": "Dopo che ___ la lezione, ho capito tutto.",
+      "options": [
+        "avevo studiato",
+        "studiai",
+        "studiavo"
+      ],
+      "answer": "avevo studiato",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo studiato (я уже изучил)."
+    },
+    {
+      "question": "Non ___ mai sentito parlare di quel posto prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho visto, ___ già cambiato idea.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что решение было изменено до встречи."
+    },
+    {
+      "question": "Prima che ___ la risposta, avevo già capito la domanda.",
+      "options": [
+        "dassi",
+        "diedi",
+        "davo"
+      ],
+      "answer": "dassi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo capito (я уже понял)."
+    },
+    {
+      "question": "Quando sono arrivato a casa, ___ già cenato.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что ужин уже состоялся до прибытия."
+    },
+    {
+      "question": "Dopo che ___ il film, ho letto il libro.",
+      "options": [
+        "avevo visto",
+        "vidi",
+        "vedevo"
+      ],
+      "answer": "avevo visto",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo visto (я уже посмотрел)."
+    },
+    {
+      "question": "Non ___ mai provato quel piatto prima di ieri.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho chiamato, ___ già finito il lavoro.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что работа была завершена до звонка."
+    },
+    {
+      "question": "Prima che ___ la notizia, avevo già immaginato tutto.",
+      "options": [
+        "sapessi",
+        "seppi",
+        "sapevo"
+      ],
+      "answer": "sapessi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo immaginato (я уже представил)."
+    },
+    {
+      "question": "Quando sono entrato in classe, ___ già iniziato l'esame.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что экзамен уже начался до входа."
+    },
+    {
+      "question": "Dopo che ___ la notizia, ho chiamato i miei genitori.",
+      "options": [
+        "avevo sentito",
+        "sentii",
+        "sentivo"
+      ],
+      "answer": "avevo sentito",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo sentito (я уже услышал)."
+    },
+    {
+      "question": "Non ___ mai visto un panorama così bello prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho incontrato, ___ già deciso tutto.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что решение было принято до встречи."
+    },
+    {
+      "question": "Prima che ___ la risposta, avevo già capito tutto.",
+      "options": [
+        "dassi",
+        "diedi",
+        "davo"
+      ],
+      "answer": "dassi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo capito (я уже понял)."
+    },
+    {
+      "question": "Quando sono arrivato al ristorante, ___ già ordinato.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что заказ уже был сделан до прибытия."
+    },
+    {
+      "question": "Dopo che ___ il libro, ho visto il film.",
+      "options": [
+        "avevo letto",
+        "lessi",
+        "leggevo"
+      ],
+      "answer": "avevo letto",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo letto (я уже прочитал)."
+    },
+    {
+      "question": "Non ___ mai sentito una musica così bella prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho visto, ___ già cambiato casa.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что переезд уже произошел до встречи."
+    },
+    {
+      "question": "Prima che ___ la decisione, avevo già pensato a tutto.",
+      "options": [
+        "prendessi",
+        "presi",
+        "prendevo"
+      ],
+      "answer": "prendessi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo pensato (я уже подумал)."
+    },
+    {
+      "question": "Quando sono entrato in ufficio, ___ già finito la riunione.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что встреча уже закончилась до входа."
+    },
+    {
+      "question": "Dopo che ___ la lezione, ho capito tutto.",
+      "options": [
+        "avevo studiato",
+        "studiai",
+        "studiavo"
+      ],
+      "answer": "avevo studiato",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo studiato (я уже изучил)."
+    },
+    {
+      "question": "Non ___ mai visto un tramonto così bello prima di quella sera.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho incontrato, ___ già risolto il problema.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что проблема была решена до встречи."
+    },
+    {
+      "question": "Prima che ___ la risposta, avevo già capito la domanda.",
+      "options": [
+        "dassi",
+        "diedi",
+        "davo"
+      ],
+      "answer": "dassi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo capito (я уже понял)."
+    },
+    {
+      "question": "Quando sono arrivato alla stazione, il treno ___ già partito.",
+      "options": [
+        "era",
+        "è stato",
+        "fu"
+      ],
+      "answer": "era",
+      "explanation": "Trapassato prossimo показывает, что поезд ушел до прибытия."
+    },
+    {
+      "question": "Dopo che ___ tutto il giorno, eravamo molto stanchi.",
+      "options": [
+        "avevamo lavorato",
+        "lavorammo",
+        "lavoravamo"
+      ],
+      "answer": "avevamo lavorato",
+      "explanation": "Trapassato prossimo показывает предшествование: avevamo lavorato (мы уже поработали)."
+    },
+    {
+      "question": "Non ___ mai visto un tramonto così bello prima di quella sera.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho incontrato, ___ già risolto il problema.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что проблема была решена до встречи."
+    },
+    {
+      "question": "Prima che ___ la decisione, avevo già pensato a tutto.",
+      "options": [
+        "prendessi",
+        "presi",
+        "prendevo"
+      ],
+      "answer": "prendessi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo pensato (я уже подумал)."
+    },
+    {
+      "question": "Quando sono entrato in ufficio, ___ già iniziato la riunione.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что встреча уже началась до входа."
+    },
+    {
+      "question": "Dopo che ___ la lezione, ho capito tutto.",
+      "options": [
+        "avevo studiato",
+        "studiai",
+        "studiavo"
+      ],
+      "answer": "avevo studiato",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo studiato (я уже изучил)."
+    },
+    {
+      "question": "Non ___ mai sentito parlare di quel posto prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho visto, ___ già cambiato idea.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что решение было изменено до встречи."
+    },
+    {
+      "question": "Prima che ___ la risposta, avevo già capito la domanda.",
+      "options": [
+        "dassi",
+        "diedi",
+        "davo"
+      ],
+      "answer": "dassi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo capito (я уже понял)."
+    },
+    {
+      "question": "Quando sono arrivato a casa, ___ già cenato.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что ужин уже состоялся до прибытия."
+    },
+    {
+      "question": "Dopo che ___ il film, ho letto il libro.",
+      "options": [
+        "avevo visto",
+        "vidi",
+        "vedevo"
+      ],
+      "answer": "avevo visto",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo visto (я уже посмотрел)."
+    },
+    {
+      "question": "Non ___ mai provato quel piatto prima di ieri.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho chiamato, ___ già finito il lavoro.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что работа была завершена до звонка."
+    },
+    {
+      "question": "Prima che ___ la notizia, avevo già immaginato tutto.",
+      "options": [
+        "sapessi",
+        "seppi",
+        "sapevo"
+      ],
+      "answer": "sapessi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo immaginato (я уже представил)."
+    },
+    {
+      "question": "Quando sono entrato in classe, ___ già iniziato l'esame.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что экзамен уже начался до входа."
+    },
+    {
+      "question": "Dopo che ___ la notizia, ho chiamato i miei genitori.",
+      "options": [
+        "avevo sentito",
+        "sentii",
+        "sentivo"
+      ],
+      "answer": "avevo sentito",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo sentito (я уже услышал)."
+    },
+    {
+      "question": "Non ___ mai visto un panorama così bello prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho incontrato, ___ già deciso tutto.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что решение было принято до встречи."
+    },
+    {
+      "question": "Prima che ___ la risposta, avevo già capito tutto.",
+      "options": [
+        "dassi",
+        "diedi",
+        "davo"
+      ],
+      "answer": "dassi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo capito (я уже понял)."
+    },
+    {
+      "question": "Quando sono arrivato al ristorante, ___ già ordinato.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что заказ уже был сделан до прибытия."
+    },
+    {
+      "question": "Dopo che ___ il libro, ho visto il film.",
+      "options": [
+        "avevo letto",
+        "lessi",
+        "leggevo"
+      ],
+      "answer": "avevo letto",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo letto (я уже прочитал)."
+    },
+    {
+      "question": "Non ___ mai sentito una musica così bella prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho visto, ___ già cambiato casa.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что переезд уже произошел до встречи."
+    },
+    {
+      "question": "Prima che ___ la decisione, avevo già pensato a tutto.",
+      "options": [
+        "prendessi",
+        "presi",
+        "prendevo"
+      ],
+      "answer": "prendessi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo pensato (я уже подумал)."
+    },
+    {
+      "question": "Quando sono entrato in ufficio, ___ già finito la riunione.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что встреча уже закончилась до входа."
+    },
+    {
+      "question": "Dopo che ___ la lezione, ho capito tutto.",
+      "options": [
+        "avevo studiato",
+        "studiai",
+        "studiavo"
+      ],
+      "answer": "avevo studiato",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo studiato (я уже изучил)."
+    },
+    {
+      "question": "Non ___ mai visto un tramonto così bello prima di quella sera.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho incontrato, ___ già risolto il problema.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что проблема была решена до встречи."
+    },
+    {
+      "question": "Prima che ___ la risposta, avevo già capito la domanda.",
+      "options": [
+        "dassi",
+        "diedi",
+        "davo"
+      ],
+      "answer": "dassi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo capito (я уже понял)."
+    },
+    {
+      "question": "Quando sono arrivato alla stazione, il treno ___ già partito.",
+      "options": [
+        "era",
+        "è stato",
+        "fu"
+      ],
+      "answer": "era",
+      "explanation": "Trapassato prossimo показывает, что поезд ушел до прибытия."
+    },
+    {
+      "question": "Dopo che ___ tutto il giorno, eravamo molto stanchi.",
+      "options": [
+        "avevamo lavorato",
+        "lavorammo",
+        "lavoravamo"
+      ],
+      "answer": "avevamo lavorato",
+      "explanation": "Trapassato prossimo показывает предшествование: avevamo lavorato (мы уже поработали)."
+    },
+    {
+      "question": "Non ___ mai visto un tramonto così bello prima di quella sera.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho incontrato, ___ già risolto il problema.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что проблема была решена до встречи."
+    },
+    {
+      "question": "Prima che ___ la decisione, avevo già pensato a tutto.",
+      "options": [
+        "prendessi",
+        "presi",
+        "prendevo"
+      ],
+      "answer": "prendessi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo pensato (я уже подумал)."
+    },
+    {
+      "question": "Quando sono entrato in ufficio, ___ già iniziato la riunione.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что встреча уже началась до входа."
+    },
+    {
+      "question": "Dopo che ___ la lezione, ho capito tutto.",
+      "options": [
+        "avevo studiato",
+        "studiai",
+        "studiavo"
+      ],
+      "answer": "avevo studiato",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo studiato (я уже изучил)."
+    },
+    {
+      "question": "Non ___ mai sentito parlare di quel posto prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho visto, ___ già cambiato idea.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что решение было изменено до встречи."
+    },
+    {
+      "question": "Prima che ___ la risposta, avevo già capito la domanda.",
+      "options": [
+        "dassi",
+        "diedi",
+        "davo"
+      ],
+      "answer": "dassi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo capito (я уже понял)."
+    },
+    {
+      "question": "Quando sono arrivato a casa, ___ già cenato.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что ужин уже состоялся до прибытия."
+    },
+    {
+      "question": "Dopo che ___ il film, ho letto il libro.",
+      "options": [
+        "avevo visto",
+        "vidi",
+        "vedevo"
+      ],
+      "answer": "avevo visto",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo visto (я уже посмотрел)."
+    },
+    {
+      "question": "Non ___ mai provato quel piatto prima di ieri.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho chiamato, ___ già finito il lavoro.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что работа была завершена до звонка."
+    },
+    {
+      "question": "Prima che ___ la notizia, avevo già immaginato tutto.",
+      "options": [
+        "sapessi",
+        "seppi",
+        "sapevo"
+      ],
+      "answer": "sapessi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo immaginato (я уже представил)."
+    },
+    {
+      "question": "Quando sono entrato in classe, ___ già iniziato l'esame.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что экзамен уже начался до входа."
+    },
+    {
+      "question": "Dopo che ___ la notizia, ho chiamato i miei genitori.",
+      "options": [
+        "avevo sentito",
+        "sentii",
+        "sentivo"
+      ],
+      "answer": "avevo sentito",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo sentito (я уже услышал)."
+    },
+    {
+      "question": "Non ___ mai visto un panorama così bello prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho incontrato, ___ già deciso tutto.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что решение было принято до встречи."
+    },
+    {
+      "question": "Prima che ___ la risposta, avevo già capito tutto.",
+      "options": [
+        "dassi",
+        "diedi",
+        "davo"
+      ],
+      "answer": "dassi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo capito (я уже понял)."
+    },
+    {
+      "question": "Quando sono arrivato al ristorante, ___ già ordinato.",
+      "options": [
+        "avevano",
+        "hanno",
+        "ebbero"
+      ],
+      "answer": "avevano",
+      "explanation": "Trapassato prossimo показывает, что заказ уже был сделан до прибытия."
+    },
+    {
+      "question": "Dopo che ___ il libro, ho visto il film.",
+      "options": [
+        "avevo letto",
+        "lessi",
+        "leggevo"
+      ],
+      "answer": "avevo letto",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo letto (я уже прочитал)."
+    },
+    {
+      "question": "Non ___ mai sentito una musica così bella prima.",
+      "options": [
+        "avevo",
+        "ho",
+        "ebbi"
+      ],
+      "answer": "avevo",
+      "explanation": "Trapassato prossimo с 'mai' выражает отсутствие опыта до определенного момента."
+    },
+    {
+      "question": "Quando l'ho visto, ___ già cambiato casa.",
+      "options": [
+        "aveva",
+        "ha",
+        "ebbe"
+      ],
+      "answer": "aveva",
+      "explanation": "Trapassato prossimo показывает, что переезд уже произошел до встречи."
+    },
+    {
+      "question": "Prima che ___ la decisione, avevo già pensato a tutto.",
+      "options": [
+        "prendessi",
+        "presi",
+        "prendevo"
+      ],
+      "answer": "prendessi",
+      "explanation": "Trapassato prossimo показывает предшествование: avevo pensato (я уже подумал)."
+    }
+  ]
+}
