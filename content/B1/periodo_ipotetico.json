@@ -3,7 +3,7 @@
   "exercises": [
     {
       "question": "Se piove, ___ a casa.",
-      "options": [
+    "options": [
         "rimango",
         "rimarrei",
         "rimarrò"
@@ -13,7 +13,7 @@
     },
     {
       "question": "Se fa caldo, ___ la finestra.",
-      "options": [
+    "options": [
         "apro",
         "aprirei",
         "aprirò"
@@ -23,7 +23,7 @@
     },
     {
       "question": "Se hai fame, ___ qualcosa.",
-      "options": [
+    "options": [
         "mangia",
         "mangeresti",
         "mangerai"
@@ -33,7 +33,7 @@
     },
     {
       "question": "Se sei stanco, ___ a riposare.",
-      "options": [
+    "options": [
         "vai",
         "andresti",
         "andrai"
@@ -43,7 +43,7 @@
     },
     {
       "question": "Se non capisci, ___ di nuovo.",
-      "options": [
+    "options": [
         "chiedi",
         "chiederesti",
         "chiederai"
@@ -53,7 +53,7 @@
     },
     {
       "question": "Se piove forte, ___ l'ombrello.",
-      "options": [
+    "options": [
         "prendo",
         "prenderei",
         "prenderò"
@@ -63,7 +63,7 @@
     },
     {
       "question": "Se fa freddo, ___ la giacca.",
-      "options": [
+    "options": [
         "indosso",
         "indosserei",
         "indosserò"
@@ -73,7 +73,7 @@
     },
     {
       "question": "Se hai tempo, ___ con me.",
-      "options": [
+    "options": [
         "vieni",
         "verresti",
         "verrai"
@@ -83,7 +83,7 @@
     },
     {
       "question": "Se non capisci, ___ di nuovo.",
-      "options": [
+    "options": [
         "ripeti",
         "ripeteresti",
         "ripeterai"
@@ -93,7 +93,7 @@
     },
     {
       "question": "Se sei in ritardo, ___ più veloce.",
-      "options": [
+    "options": [
         "cammina",
         "cammineresti",
         "camminerai"
@@ -103,7 +103,7 @@
     },
     {
       "question": "Se fa buio, ___ la luce.",
-      "options": [
+    "options": [
         "accendo",
         "accenderei",
         "accenderò"
@@ -124,16 +124,16 @@
     {
       "question": "Se sei malato, ___ il medico.",
       "options": [
-        "chiama",
+      "chiama",
         "chiameresti",
         "chiamerai"
-      ],
+    ],
       "answer": "chiama",
       "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
-    },
-    {
+  },
+  {
       "question": "Se non funziona, ___ di nuovo.",
-      "options": [
+    "options": [
         "prova",
         "proveresti",
         "proverai"
@@ -143,7 +143,7 @@
     },
     {
       "question": "Se hai problemi, ___ aiuto.",
-      "options": [
+    "options": [
         "chiedi",
         "chiederesti",
         "chiederai"
@@ -153,7 +153,7 @@
     },
     {
       "question": "Se fa rumore, ___ la porta.",
-      "options": [
+    "options": [
         "chiudo",
         "chiuderei",
         "chiuderò"
@@ -163,7 +163,7 @@
     },
     {
       "question": "Se hai domande, ___ pure.",
-      "options": [
+    "options": [
         "chiedi",
         "chiederesti",
         "chiederai"
@@ -173,7 +173,7 @@
     },
     {
       "question": "Se non capisci, ___ spiegazioni.",
-      "options": [
+    "options": [
         "chiedi",
         "chiederesti",
         "chiederai"
@@ -183,7 +183,7 @@
     },
     {
       "question": "Se hai bisogno, ___ me.",
-      "options": [
+    "options": [
         "chiama",
         "chiameresti",
         "chiamerai"
@@ -193,7 +193,7 @@
     },
     {
       "question": "Se sei in difficoltà, ___ aiuto.",
-      "options": [
+    "options": [
         "chiedi",
         "chiederesti",
         "chiederai"
@@ -203,7 +203,7 @@
     },
     {
       "question": "Se avessi tempo, ___ al cinema.",
-      "options": [
+    "options": [
         "andrei",
         "vado",
         "andrò"
@@ -213,7 +213,7 @@
     },
     {
       "question": "Se fossi ricco, ___ una villa.",
-      "options": [
+    "options": [
         "comprerei",
         "compro",
         "comprerò"
@@ -223,7 +223,7 @@
     },
     {
       "question": "Se avessi studiato, ___ l'esame.",
-      "options": [
+    "options": [
         "passerei",
         "passo",
         "passerò"
@@ -233,7 +233,7 @@
     },
     {
       "question": "Se fossi in te, ___ più attento.",
-      "options": [
+    "options": [
         "sarei",
         "sono",
         "sarò"
@@ -243,7 +243,7 @@
     },
     {
       "question": "Se avessi i soldi, ___ questa macchina.",
-      "options": [
+    "options": [
         "comprerei",
         "compro",
         "comprerò"
@@ -253,7 +253,7 @@
     },
     {
       "question": "Se fossi più giovane, ___ viaggiare.",
-      "options": [
+    "options": [
         "vorrei",
         "voglio",
         "vorrò"
@@ -263,7 +263,7 @@
     },
     {
       "question": "Se avessi tempo, ___ più spesso.",
-      "options": [
+    "options": [
         "telefonerei",
         "telefono",
         "telefonerò"
@@ -273,7 +273,7 @@
     },
     {
       "question": "Se fossi più alto, ___ giocare a basket.",
-      "options": [
+    "options": [
         "potrei",
         "posso",
         "potrò"
@@ -283,7 +283,7 @@
     },
     {
       "question": "Se avessi una macchina, ___ in vacanza.",
-      "options": [
+    "options": [
         "andrei",
         "vado",
         "andrò"
@@ -293,7 +293,7 @@
     },
     {
       "question": "Se fossi più bravo, ___ questo lavoro.",
-      "options": [
+    "options": [
         "farei",
         "faccio",
         "farò"
@@ -303,7 +303,7 @@
     },
     {
       "question": "Se avessi più tempo, ___ meglio.",
-      "options": [
+    "options": [
         "studierei",
         "studio",
         "studierò"
@@ -313,7 +313,7 @@
     },
     {
       "question": "Se fossi più coraggioso, ___ questo.",
-      "options": [
+    "options": [
         "farei",
         "faccio",
         "farò"
@@ -323,7 +323,7 @@
     },
     {
       "question": "Se avessi l'occasione, ___ questo viaggio.",
-      "options": [
+    "options": [
         "farei",
         "faccio",
         "farò"
@@ -333,7 +333,7 @@
     },
     {
       "question": "Se fossi più intelligente, ___ questo problema.",
-      "options": [
+    "options": [
         "risolverei",
         "risolvo",
         "risolverò"
@@ -343,7 +343,7 @@
     },
     {
       "question": "Se avessi la possibilità, ___ all'estero.",
-      "options": [
+    "options": [
         "andrei",
         "vado",
         "andrò"
@@ -353,7 +353,7 @@
     },
     {
       "question": "Se fossi più forte, ___ questo peso.",
-      "options": [
+    "options": [
         "solleverei",
         "sollevo",
         "solleverò"
@@ -363,7 +363,7 @@
     },
     {
       "question": "Se avessi più soldi, ___ questa casa.",
-      "options": [
+    "options": [
         "comprerei",
         "compro",
         "comprerò"
@@ -373,7 +373,7 @@
     },
     {
       "question": "Se fossi più veloce, ___ vincere.",
-      "options": [
+    "options": [
         "potrei",
         "posso",
         "potrò"
@@ -383,7 +383,7 @@
     },
     {
       "question": "Se avessi più tempo, ___ questo libro.",
-      "options": [
+    "options": [
         "leggerei",
         "leggo",
         "leggerò"
@@ -393,7 +393,7 @@
     },
     {
       "question": "Se fossi più paziente, ___ aspettare.",
-      "options": [
+    "options": [
         "potrei",
         "posso",
         "potrò"
@@ -403,7 +403,7 @@
     },
     {
       "question": "Se avessi studiato, ___ l'esame.",
-      "options": [
+    "options": [
         "avrei passato",
         "passo",
         "passerò"
@@ -413,7 +413,7 @@
     },
     {
       "question": "Se fossi venuto, ___ divertito.",
-      "options": [
+    "options": [
         "mi sarei",
         "sono",
         "sarò"
@@ -423,7 +423,7 @@
     },
     {
       "question": "Se avessi saputo, ___ diversamente.",
-      "options": [
+    "options": [
         "avrei fatto",
         "faccio",
         "farò"
@@ -433,7 +433,7 @@
     },
     {
       "question": "Se fossi partito prima, ___ in tempo.",
-      "options": [
+    "options": [
         "sarei arrivato",
         "arrivo",
         "arriverò"
@@ -443,7 +443,7 @@
     },
     {
       "question": "Se avessi chiamato, ___ risposto.",
-      "options": [
+    "options": [
         "avrei",
         "ho",
         "avrò"
@@ -453,7 +453,7 @@
     },
     {
       "question": "Se fossi rimasto, ___ tutto.",
-      "options": [
+    "options": [
         "avrei visto",
         "vedo",
         "vedrò"
@@ -463,7 +463,7 @@
     },
     {
       "question": "Se avessi capito, ___ spiegato.",
-      "options": [
+    "options": [
         "avrei",
         "ho",
         "avrò"
@@ -473,7 +473,7 @@
     },
     {
       "question": "Se fossi andato, ___ cambiato.",
-      "options": [
+    "options": [
         "sarebbe",
         "è",
         "sarà"
@@ -483,7 +483,7 @@
     },
     {
       "question": "Se avessi fatto, ___ successo.",
-      "options": [
+    "options": [
         "sarebbe",
         "è",
         "sarà"
@@ -514,16 +514,16 @@
     {
       "question": "Se hai tempo stasera, ___ al cinema.",
       "options": [
-        "andremo",
+      "andremo",
         "andremmo",
-        "andiamo"
-      ],
+      "andiamo"
+    ],
       "answer": "andremo",
       "explanation": "Primo tipo: Se + presente indicativo, futuro semplice. Esprime una condizione reale futura."
-    },
-    {
+  },
+  {
       "question": "Se non capisci, ___ di nuovo.",
-      "options": [
+    "options": [
         "ripeti",
         "ripeteresti",
         "ripeterai"
@@ -533,7 +533,7 @@
     },
     {
       "question": "Se sei stanco, ___ a riposare.",
-      "options": [
+    "options": [
         "vai",
         "andresti",
         "andrai"
@@ -543,7 +543,7 @@
     },
     {
       "question": "Se fa freddo, ___ la giacca.",
-      "options": [
+    "options": [
         "indosso",
         "indosserei",
         "indosserò"
@@ -553,7 +553,7 @@
     },
     {
       "question": "Se hai fame, ___ qualcosa.",
-      "options": [
+    "options": [
         "mangia",
         "mangeresti",
         "mangerai"
@@ -563,7 +563,7 @@
     },
     {
       "question": "Se piove forte, ___ l'ombrello.",
-      "options": [
+    "options": [
         "prendo",
         "prenderei",
         "prenderò"
@@ -573,7 +573,7 @@
     },
     {
       "question": "Se hai sete, ___ dell'acqua.",
-      "options": [
+    "options": [
         "bevi",
         "berresti",
         "berrai"
@@ -583,7 +583,7 @@
     },
     {
       "question": "Se sei malato, ___ il medico.",
-      "options": [
+    "options": [
         "chiama",
         "chiameresti",
         "chiamerai"
@@ -593,7 +593,7 @@
     },
     {
       "question": "Se non funziona, ___ di nuovo.",
-      "options": [
+    "options": [
         "prova",
         "proveresti",
         "proverai"
@@ -603,7 +603,7 @@
     },
     {
       "question": "Se hai problemi, ___ aiuto.",
-      "options": [
+    "options": [
         "chiedi",
         "chiederesti",
         "chiederai"
@@ -613,7 +613,7 @@
     },
     {
       "question": "Se fa rumore, ___ la porta.",
-      "options": [
+    "options": [
         "chiudo",
         "chiuderei",
         "chiuderò"
@@ -623,7 +623,7 @@
     },
     {
       "question": "Se hai domande, ___ pure.",
-      "options": [
+    "options": [
         "chiedi",
         "chiederesti",
         "chiederai"
@@ -633,7 +633,7 @@
     },
     {
       "question": "Se non capisci, ___ spiegazioni.",
-      "options": [
+    "options": [
         "chiedi",
         "chiederesti",
         "chiederai"
@@ -643,7 +643,7 @@
     },
     {
       "question": "Se hai bisogno, ___ me.",
-      "options": [
+    "options": [
         "chiama",
         "chiameresti",
         "chiamerai"
@@ -653,7 +653,7 @@
     },
     {
       "question": "Se sei in difficoltà, ___ aiuto.",
-      "options": [
+    "options": [
         "chiedi",
         "chiederesti",
         "chiederai"
@@ -663,7 +663,7 @@
     },
     {
       "question": "Se fa buio, ___ la luce.",
-      "options": [
+    "options": [
         "accendo",
         "accenderei",
         "accenderò"
@@ -704,16 +704,16 @@
     {
       "question": "Se domani fa bel tempo, ___ una passeggiata.",
       "options": [
-        "faremo",
+      "faremo",
         "faremmo",
         "facciamo"
-      ],
+    ],
       "answer": "faremo",
       "explanation": "Primo tipo: Se + presente indicativo, futuro semplice. Esprime una condizione reale futura."
-    },
-    {
+  },
+  {
       "question": "Se hai voglia, ___ insieme.",
-      "options": [
+    "options": [
         "studiamo",
         "studieremmo",
         "studieremo"
@@ -723,7 +723,7 @@
     },
     {
       "question": "Se sei libero, ___ al telefono.",
-      "options": [
+    "options": [
         "parliamo",
         "parleremmo",
         "parleremo"
@@ -733,7 +733,7 @@
     },
     {
       "question": "Se hai fame, ___ qualcosa da mangiare.",
-      "options": [
+    "options": [
         "prepariamo",
         "prepareremmo",
         "prepareremo"
@@ -743,7 +743,7 @@
     },
     {
       "question": "Se fa caldo, ___ la finestra.",
-      "options": [
+    "options": [
         "apriamo",
         "apriremmo",
         "apriremo"
@@ -753,7 +753,7 @@
     },
     {
       "question": "Se hai tempo, ___ un caffè.",
-      "options": [
+    "options": [
         "prendiamo",
         "prenderemmo",
         "prenderemo"
@@ -763,7 +763,7 @@
     },
     {
       "question": "Se sei stanco, ___ a casa.",
-      "options": [
+    "options": [
         "torniamo",
         "tornerebbero",
         "torniamo"
@@ -773,7 +773,7 @@
     },
     {
       "question": "Se piove, ___ dentro.",
-      "options": [
+    "options": [
         "restiamo",
         "resteremmo",
         "resteremo"
@@ -783,7 +783,7 @@
     },
     {
       "question": "Se hai voglia, ___ un film.",
-      "options": [
+    "options": [
         "guardiamo",
         "guarderemmo",
         "guarderemo"
@@ -793,7 +793,7 @@
     },
     {
       "question": "Se sei libero, ___ insieme.",
-      "options": [
+    "options": [
         "ceniamo",
         "ceneremmo",
         "ceneremo"
@@ -803,7 +803,7 @@
     },
     {
       "question": "Se hai tempo, ___ la lezione.",
-      "options": [
+    "options": [
         "ripetiamo",
         "ripeteremmo",
         "ripeteremo"
@@ -813,7 +813,7 @@
     },
     {
       "question": "Se domani fa bel tempo, ___ al mare.",
-      "options": [
+    "options": [
         "andremo",
         "andremmo",
         "andiamo"
@@ -823,7 +823,7 @@
     },
     {
       "question": "Se hai voglia, ___ una pizza.",
-      "options": [
+    "options": [
         "ordiniamo",
         "ordineremmo",
         "ordineremo"
@@ -833,7 +833,7 @@
     },
     {
       "question": "Se sei stanco, ___ presto.",
-      "options": [
+    "options": [
         "dormiamo",
         "dormiremmo",
         "dormiremo"
@@ -843,7 +843,7 @@
     },
     {
       "question": "Se hai tempo, ___ un libro.",
-      "options": [
+    "options": [
         "leggiamo",
         "leggeremmo",
         "leggeremo"
@@ -853,7 +853,7 @@
     },
     {
       "question": "Se fa freddo, ___ il riscaldamento.",
-      "options": [
+    "options": [
         "accendiamo",
         "accenderemmo",
         "accenderemo"
@@ -863,7 +863,7 @@
     },
     {
       "question": "Se hai fame, ___ qualcosa.",
-      "options": [
+    "options": [
         "mangiamo",
         "mangeremmo",
         "mangeremo"
@@ -873,17 +873,17 @@
     },
     {
       "question": "Se sei libero, ___ una passeggiata.",
-      "options": [
-        "facciamo",
+    "options": [
+      "facciamo",
         "faremmo",
         "faremo"
-      ],
+    ],
       "answer": "facciamo",
       "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
-    },
-    {
+  },
+  {
       "question": "Se hai tempo, ___ insieme.",
-      "options": [
+    "options": [
         "lavoriamo",
         "lavoreremmo",
         "lavoreremo"
@@ -893,7 +893,7 @@
     },
     {
       "question": "Se domani piove, ___ a casa.",
-      "options": [
+    "options": [
         "rimaniamo",
         "rimaneremmo",
         "rimaneremo"
@@ -903,7 +903,7 @@
     },
     {
       "question": "Se hai voglia, ___ un gioco.",
-      "options": [
+    "options": [
         "giochiamo",
         "giocheremmo",
         "giocheremo"
@@ -913,7 +913,7 @@
     },
     {
       "question": "Se sei stanco, ___ una pausa.",
-      "options": [
+    "options": [
         "facciamo",
         "faremmo",
         "faremo"
@@ -923,7 +923,7 @@
     },
     {
       "question": "Se hai tempo, ___ la musica.",
-      "options": [
+    "options": [
         "ascoltiamo",
         "ascolteremmo",
         "ascolteremo"
@@ -933,7 +933,7 @@
     },
     {
       "question": "Se fa caldo, ___ il ventilatore.",
-      "options": [
+    "options": [
         "accendiamo",
         "accenderemmo",
         "accenderemo"
@@ -943,7 +943,7 @@
     },
     {
       "question": "Se hai sete, ___ qualcosa.",
-      "options": [
+    "options": [
         "beviamo",
         "berremmo",
         "berremo"
@@ -953,7 +953,7 @@
     },
     {
       "question": "Se sei libero, ___ un caffè.",
-      "options": [
+    "options": [
         "prendiamo",
         "prenderemmo",
         "prenderemo"
@@ -963,7 +963,7 @@
     },
     {
       "question": "Se domani fa bel tempo, ___ in giardino.",
-      "options": [
+    "options": [
         "stiamo",
         "staremmo",
         "staremo"
@@ -973,7 +973,7 @@
     },
     {
       "question": "Se hai voglia, ___ una storia.",
-      "options": [
+    "options": [
         "raccontiamo",
         "racconteremmo",
         "racconteremo"
@@ -983,7 +983,7 @@
     },
     {
       "question": "Se sei stanco, ___ a letto.",
-      "options": [
+    "options": [
         "andiamo",
         "andremmo",
         "andremo"
@@ -993,7 +993,7 @@
     },
     {
       "question": "Se hai tempo, ___ la lezione.",
-      "options": [
+    "options": [
         "ripassiamo",
         "ripasseremmo",
         "ripasseremo"
@@ -1003,7 +1003,7 @@
     },
     {
       "question": "Se fa freddo, ___ la porta.",
-      "options": [
+    "options": [
         "chiudiamo",
         "chiuderemmo",
         "chiuderemo"
@@ -1013,7 +1013,7 @@
     },
     {
       "question": "Se hai fame, ___ qualcosa.",
-      "options": [
+    "options": [
         "cuciniamo",
         "cucineremmo",
         "cucineremo"
@@ -1023,7 +1023,7 @@
     },
     {
       "question": "Se sei libero, ___ un film.",
-      "options": [
+    "options": [
         "vediamo",
         "vedremmo",
         "vedremo"
@@ -1033,7 +1033,7 @@
     },
     {
       "question": "Se domani piove, ___ dentro.",
-      "options": [
+    "options": [
         "restiamo",
         "resteremmo",
         "resteremo"
@@ -1043,7 +1043,7 @@
     },
     {
       "question": "Se hai voglia, ___ una canzone.",
-      "options": [
+    "options": [
         "cantiamo",
         "canteremmo",
         "canteremo"
@@ -1053,7 +1053,7 @@
     },
     {
       "question": "Se sei stanco, ___ una pausa.",
-      "options": [
+    "options": [
         "facciamo",
         "faremmo",
         "faremo"
@@ -1063,17 +1063,17 @@
     },
     {
       "question": "Se hai tempo, ___ la lezione.",
-      "options": [
-        "studiamo",
+    "options": [
+      "studiamo",
         "studieremmo",
-        "studieremo"
-      ],
+      "studieremo"
+    ],
       "answer": "studiamo",
       "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
-    },
-    {
+  },
+  {
       "question": "Se fa caldo, ___ il condizionatore.",
-      "options": [
+    "options": [
         "accendiamo",
         "accenderemmo",
         "accenderemo"
@@ -1083,7 +1083,7 @@
     },
     {
       "question": "Se hai sete, ___ qualcosa.",
-      "options": [
+    "options": [
         "beviamo",
         "berremmo",
         "berremo"
