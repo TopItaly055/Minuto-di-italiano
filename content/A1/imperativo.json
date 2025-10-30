@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Imperativo (A1)",
+  "exercises": [
+    {
+      "question": "___ la porta! (aprire - tu)",
+      "options": [
+        "Apri",
+        "Apra",
+        "Aprite"
+      ],
+      "answer": "Apri",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'aprire': apri."
+    },
+    {
+      "question": "___ il libro! (chiudere - tu)",
+      "options": [
+        "Chiudi",
+        "Chiuda",
+        "Chiudete"
+      ],
+      "answer": "Chiudi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'chiudere': chiudi."
+    },
+    {
+      "question": "___ italiano! (parlare - tu)",
+      "options": [
+        "Parla",
+        "Parli",
+        "Parlate"
+      ],
+      "answer": "Parla",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'parlare': parla."
+    },
+    {
+      "question": "___ qui! (aspettare - tu)",
+      "options": [
+        "Aspetta",
+        "Aspetti",
+        "Aspettate"
+      ],
+      "answer": "Aspetta",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'aspettare': aspetta."
+    },
+    {
+      "question": "___ bene! (ascoltare - tu)",
+      "options": [
+        "Ascolta",
+        "Ascolti",
+        "Ascoltate"
+      ],
+      "answer": "Ascolta",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'ascoltare': ascolta."
+    },
+    {
+      "question": "___ il giornale! (leggere - tu)",
+      "options": [
+        "Leggi",
+        "Legga",
+        "Leggete"
+      ],
+      "answer": "Leggi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'leggere': leggi."
+    },
+    {
+      "question": "___ una lettera! (scrivere - tu)",
+      "options": [
+        "Scrivi",
+        "Scriva",
+        "Scrivete"
+      ],
+      "answer": "Scrivi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'scrivere': scrivi."
+    },
+    {
+      "question": "___ il caffè! (prendere - tu)",
+      "options": [
+        "Prendi",
+        "Prenda",
+        "Prendete"
+      ],
+      "answer": "Prendi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'prendere': prendi."
+    },
+    {
+      "question": "___ la risposta! (rispondere - tu)",
+      "options": [
+        "Rispondi",
+        "Risponda",
+        "Rispondete"
+      ],
+      "answer": "Rispondi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'rispondere': rispondi."
+    },
+    {
+      "question": "___ la finestra! (aprire - tu)",
+      "options": [
+        "Apri",
+        "Apra",
+        "Aprite"
+      ],
+      "answer": "Apri",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'aprire': apri."
+    },
+    {
+      "question": "___ bene! (dormire - tu)",
+      "options": [
+        "Dormi",
+        "Dorma",
+        "Dormite"
+      ],
+      "answer": "Dormi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'dormire': dormi."
+    },
+    {
+      "question": "___ la lezione! (capire - tu)",
+      "options": [
+        "Capisci",
+        "Capisca",
+        "Capite"
+      ],
+      "answer": "Capisci",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'capire' (с -isc-): capisci."
+    },
+    {
+      "question": "___ il lavoro! (finire - tu)",
+      "options": [
+        "Finisci",
+        "Finisca",
+        "Finite"
+      ],
+      "answer": "Finisci",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'finire' (с -isc-): finisci."
+    },
+    {
+      "question": "___ qui, signora! (entrare - Lei)",
+      "options": [
+        "Entri",
+        "Entra",
+        "Entrate"
+      ],
+      "answer": "Entri",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'entrare': entri."
+    },
+    {
+      "question": "___ prego! (accomodarsi - Lei)",
+      "options": [
+        "Si accomodi",
+        "Accomodati",
+        "Accomodatevi"
+      ],
+      "answer": "Si accomodi",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei': si accomodi."
+    },
+    {
+      "question": "___ un momento! (aspettare - Lei)",
+      "options": [
+        "Aspetti",
+        "Aspetta",
+        "Aspettate"
+      ],
+      "answer": "Aspetti",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'aspettare': aspetti."
+    },
+    {
+      "question": "___ pure! (parlare - Lei)",
+      "options": [
+        "Parli",
+        "Parla",
+        "Parlate"
+      ],
+      "answer": "Parli",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'parlare': parli."
+    },
+    {
+      "question": "___ il modulo! (compilare - Lei)",
+      "options": [
+        "Compili",
+        "Compila",
+        "Compilate"
+      ],
+      "answer": "Compili",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'compilare': compili."
+    },
+    {
+      "question": "___ la porta! (aprire - Lei)",
+      "options": [
+        "Apra",
+        "Apri",
+        "Aprite"
+      ],
+      "answer": "Apra",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'aprire': apra."
+    },
+    {
+      "question": "___ qui! (venire - Lei)",
+      "options": [
+        "Venga",
+        "Vieni",
+        "Venite"
+      ],
+      "answer": "Venga",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'venire': venga."
+    },
+    {
+      "question": "___ ragazzi! (entrare - voi)",
+      "options": [
+        "Entrate",
+        "Entra",
+        "Entri"
+      ],
+      "answer": "Entrate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'entrare': entrate."
+    },
+    {
+      "question": "___ bambini! (mangiare - voi)",
+      "options": [
+        "Mangiate",
+        "Mangia",
+        "Mangi"
+      ],
+      "answer": "Mangiate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'mangiare': mangiate."
+    },
+    {
+      "question": "___ qui! (aspettare - voi)",
+      "options": [
+        "Aspettate",
+        "Aspetta",
+        "Aspetti"
+      ],
+      "answer": "Aspettate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'aspettare': aspettate."
+    },
+    {
+      "question": "___ forte! (parlare - voi)",
+      "options": [
+        "Parlate",
+        "Parla",
+        "Parli"
+      ],
+      "answer": "Parlate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'parlare': parlate."
+    },
+    {
+      "question": "___ il libro! (leggere - voi)",
+      "options": [
+        "Leggete",
+        "Leggi",
+        "Legga"
+      ],
+      "answer": "Leggete",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'leggere': leggete."
+    },
+    {
+      "question": "___ bene! (scrivere - voi)",
+      "options": [
+        "Scrivete",
+        "Scrivi",
+        "Scriva"
+      ],
+      "answer": "Scrivete",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'scrivere': scrivete."
+    },
+    {
+      "question": "___ la porta! (aprire - voi)",
+      "options": [
+        "Aprite",
+        "Apri",
+        "Apra"
+      ],
+      "answer": "Aprite",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'aprire': aprite."
+    },
+    {
+      "question": "___ presto! (finire - voi)",
+      "options": [
+        "Finite",
+        "Finisci",
+        "Finisca"
+      ],
+      "answer": "Finite",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'finire': finite."
+    },
+    {
+      "question": "___ gentile! (essere - tu)",
+      "options": [
+        "Sii",
+        "Sia",
+        "Siate"
+      ],
+      "answer": "Sii",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'essere': sii (неправильная форма)."
+    },
+    {
+      "question": "___ paziente, signora! (essere - Lei)",
+      "options": [
+        "Sia",
+        "Sii",
+        "Siate"
+      ],
+      "answer": "Sia",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'essere': sia."
+    },
+    {
+      "question": "___ puntuali! (essere - voi)",
+      "options": [
+        "Siate",
+        "Sii",
+        "Sia"
+      ],
+      "answer": "Siate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'essere': siate."
+    },
+    {
+      "question": "___ pazienza! (avere - tu)",
+      "options": [
+        "Abbi",
+        "Abbia",
+        "Abbiate"
+      ],
+      "answer": "Abbi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'avere': abbi (неправильная форма)."
+    },
+    {
+      "question": "___ fiducia! (avere - Lei)",
+      "options": [
+        "Abbia",
+        "Abbi",
+        "Abbiate"
+      ],
+      "answer": "Abbia",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'avere': abbia."
+    },
+    {
+      "question": "___ coraggio! (avere - voi)",
+      "options": [
+        "Abbiate",
+        "Abbi",
+        "Abbia"
+      ],
+      "answer": "Abbiate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'avere': abbiate."
+    },
+    {
+      "question": "___ a casa! (andare - tu)",
+      "options": [
+        "Va'",
+        "Vada",
+        "Andate"
+      ],
+      "answer": "Va'",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'andare': va' (укороченная форма)."
+    },
+    {
+      "question": "___ avanti, signore! (andare - Lei)",
+      "options": [
+        "Vada",
+        "Va'",
+        "Andate"
+      ],
+      "answer": "Vada",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'andare': vada."
+    },
+    {
+      "question": "___ subito! (andare - voi)",
+      "options": [
+        "Andate",
+        "Va'",
+        "Vada"
+      ],
+      "answer": "Andate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'andare': andate."
+    },
+    {
+      "question": "___ attenzione! (fare - tu)",
+      "options": [
+        "Fa'",
+        "Faccia",
+        "Fate"
+      ],
+      "answer": "Fa'",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'fare': fa' (укороченная форма)."
+    },
+    {
+      "question": "___ piano, signora! (fare - Lei)",
+      "options": [
+        "Faccia",
+        "Fa'",
+        "Fate"
+      ],
+      "answer": "Faccia",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'fare': faccia."
+    },
+    {
+      "question": "___ presto! (fare - voi)",
+      "options": [
+        "Fate",
+        "Fa'",
+        "Faccia"
+      ],
+      "answer": "Fate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'fare': fate."
+    },
+    {
+      "question": "___ il libro! (dare - tu)",
+      "options": [
+        "Da'",
+        "Dia",
+        "Date"
+      ],
+      "answer": "Da'",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'dare': da' (укороченная форма)."
+    },
+    {
+      "question": "___ a me, signore! (dare - Lei)",
+      "options": [
+        "Dia",
+        "Da'",
+        "Date"
+      ],
+      "answer": "Dia",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'dare': dia."
+    },
+    {
+      "question": "___ a lui! (dare - voi)",
+      "options": [
+        "Date",
+        "Da'",
+        "Dia"
+      ],
+      "answer": "Date",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'dare': date."
+    },
+    {
+      "question": "___ la verità! (dire - tu)",
+      "options": [
+        "Di'",
+        "Dica",
+        "Dite"
+      ],
+      "answer": "Di'",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'dire': di' (укороченная форма)."
+    },
+    {
+      "question": "___ pure! (dire - Lei)",
+      "options": [
+        "Dica",
+        "Di'",
+        "Dite"
+      ],
+      "answer": "Dica",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'dire': dica."
+    },
+    {
+      "question": "___ tutto! (dire - voi)",
+      "options": [
+        "Dite",
+        "Di'",
+        "Dica"
+      ],
+      "answer": "Dite",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'dire': dite."
+    },
+    {
+      "question": "___ zitto! (stare - tu)",
+      "options": [
+        "Sta'",
+        "Stia",
+        "State"
+      ],
+      "answer": "Sta'",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'stare': sta' (укороченная форма)."
+    },
+    {
+      "question": "___ tranquillo, signore! (stare - Lei)",
+      "options": [
+        "Stia",
+        "Sta'",
+        "State"
+      ],
+      "answer": "Stia",
+      "explanation": "Вежливая форма повелительного наклонения для 'Lei' от глагола 'stare': stia."
+    },
+    {
+      "question": "___ attenti! (stare - voi)",
+      "options": [
+        "State",
+        "Sta'",
+        "Stia"
+      ],
+      "answer": "State",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'stare': state."
+    },
+    {
+      "question": "___ parlare! (negativo - tu)",
+      "options": [
+        "Non parlare",
+        "Non parla",
+        "Non parli"
+      ],
+      "answer": "Non parlare",
+      "explanation": "Отрицательный императив для 'tu': non + инфинитив."
+    },
+    {
+      "question": "___ entrare! (negativo - tu)",
+      "options": [
+        "Non entrare",
+        "Non entra",
+        "Non entri"
+      ],
+      "answer": "Non entrare",
+      "explanation": "Отрицательный императив для 'tu': non + инфинитив."
+    },
+    {
+      "question": "___ correre! (negativo - tu)",
+      "options": [
+        "Non correre",
+        "Non corre",
+        "Non corri"
+      ],
+      "answer": "Non correre",
+      "explanation": "Отрицательный императив для 'tu': non + инфинитив."
+    },
+    {
+      "question": "___ preoccuparti! (negativo - tu)",
+      "options": [
+        "Non preoccuparti",
+        "Non preoccupare",
+        "Non ti preoccupi"
+      ],
+      "answer": "Non preoccuparti",
+      "explanation": "Отрицательный императив для 'tu' с возвратным глаголом: non + инфинитив."
+    },
+    {
+      "question": "___ entrare, signora! (negativo - Lei)",
+      "options": [
+        "Non entri",
+        "Non entrare",
+        "Non entra"
+      ],
+      "answer": "Non entri",
+      "explanation": "Отрицательный императив для 'Lei': non + конъюнктив."
+    },
+    {
+      "question": "___ preoccuparsi! (negativo - Lei)",
+      "options": [
+        "Non si preoccupi",
+        "Non preoccuparti",
+        "Non preoccupare"
+      ],
+      "answer": "Non si preoccupi",
+      "explanation": "Отрицательный императив для 'Lei' с возвратным глаголом."
+    },
+    {
+      "question": "___ parlare! (negativo - voi)",
+      "options": [
+        "Non parlate",
+        "Non parlare",
+        "Non parla"
+      ],
+      "answer": "Non parlate",
+      "explanation": "Отрицательный императив для 'voi': non + императив."
+    },
+    {
+      "question": "___ correre! (negativo - voi)",
+      "options": [
+        "Non correte",
+        "Non correre",
+        "Non corre"
+      ],
+      "answer": "Non correte",
+      "explanation": "Отрицательный императив для 'voi': non + императив."
+    },
+    {
+      "question": "___ la mano! (lavare - tu)",
+      "options": [
+        "Lavati",
+        "Lava",
+        "Lavate"
+      ],
+      "answer": "Lavati",
+      "explanation": "Возвратный глагол в повелительном наклонении для 'tu': lavati (мой руки)."
+    },
+    {
+      "question": "___ ! (alzarsi - tu)",
+      "options": [
+        "Alzati",
+        "Alzare",
+        "Alza"
+      ],
+      "answer": "Alzati",
+      "explanation": "Возвратный глагол в повелительном наклонении для 'tu': alzati (вставай)."
+    },
+    {
+      "question": "___ ! (sedersi - Lei)",
+      "options": [
+        "Si sieda",
+        "Siedi",
+        "Siediti"
+      ],
+      "answer": "Si sieda",
+      "explanation": "Вежливая форма возвратного глагола: si sieda (садитесь)."
+    },
+    {
+      "question": "___ a destra! (girare - tu)",
+      "options": [
+        "Gira",
+        "Giri",
+        "Girate"
+      ],
+      "answer": "Gira",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'girare': gira (поворачивай)."
+    },
+    {
+      "question": "___ dritto! (andare - tu)",
+      "options": [
+        "Va'",
+        "Vada",
+        "Andate"
+      ],
+      "answer": "Va'",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'andare': va' (иди)."
+    },
+    {
+      "question": "___ ! (chiamare + mi - tu)",
+      "options": [
+        "Chiamami",
+        "Chiamalo",
+        "Chiamala"
+      ],
+      "answer": "Chiamami",
+      "explanation": "Императив с прямым местоимением: chiamami (позвони мне)."
+    },
+    {
+      "question": "___ ! (aiutare + mi - tu)",
+      "options": [
+        "Aiutami",
+        "Aiutalo",
+        "Aiutala"
+      ],
+      "answer": "Aiutami",
+      "explanation": "Императив с прямым местоимением: aiutami (помоги мне)."
+    },
+    {
+      "question": "___ ! (ascoltare + mi - tu)",
+      "options": [
+        "Ascoltami",
+        "Ascoltalo",
+        "Ascoltala"
+      ],
+      "answer": "Ascoltami",
+      "explanation": "Императив с прямым местоимением: ascoltami (послушай меня)."
+    },
+    {
+      "question": "___ ! (guardare + mi - tu)",
+      "options": [
+        "Guardami",
+        "Guardalo",
+        "Guardala"
+      ],
+      "answer": "Guardami",
+      "explanation": "Императив с прямым местоимением: guardami (посмотри на меня)."
+    },
+    {
+      "question": "___ il libro! (dare + mi - tu)",
+      "options": [
+        "Dammi",
+        "Dallo",
+        "Dalla"
+      ],
+      "answer": "Dammi",
+      "explanation": "Императив от 'dare' с местоимением: dammi (дай мне)."
+    },
+    {
+      "question": "___ la verità! (dire + mi - tu)",
+      "options": [
+        "Dimmi",
+        "Digli",
+        "Dille"
+      ],
+      "answer": "Dimmi",
+      "explanation": "Императив от 'dire' с местоимением: dimmi (скажи мне)."
+    },
+    {
+      "question": "___ ! (scusare - tu)",
+      "options": [
+        "Scusa",
+        "Scusi",
+        "Scusate"
+      ],
+      "answer": "Scusa",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'scusare': scusa (извини)."
+    },
+    {
+      "question": "___ ! (scusare - Lei)",
+      "options": [
+        "Scusi",
+        "Scusa",
+        "Scusate"
+      ],
+      "answer": "Scusi",
+      "explanation": "Вежливая форма повелительного наклонения: scusi (извините)."
+    },
+    {
+      "question": "___ ! (sentire - tu)",
+      "options": [
+        "Senti",
+        "Senta",
+        "Sentite"
+      ],
+      "answer": "Senti",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'sentire': senti (послушай)."
+    },
+    {
+      "question": "___ ! (sentire - Lei)",
+      "options": [
+        "Senta",
+        "Senti",
+        "Sentite"
+      ],
+      "answer": "Senta",
+      "explanation": "Вежливая форма повелительного наклонения: senta (послушайте)."
+    },
+    {
+      "question": "___ ! (guardare - tu)",
+      "options": [
+        "Guarda",
+        "Guardi",
+        "Guardate"
+      ],
+      "answer": "Guarda",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'guardare': guarda (смотри)."
+    },
+    {
+      "question": "___ la porta! (chiudere - tu)",
+      "options": [
+        "Chiudi",
+        "Chiuda",
+        "Chiudete"
+      ],
+      "answer": "Chiudi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'chiudere': chiudi."
+    },
+    {
+      "question": "___ le mani! (lavare - voi)",
+      "options": [
+        "Lavatevi",
+        "Lavati",
+        "Si lavi"
+      ],
+      "answer": "Lavatevi",
+      "explanation": "Возвратный глагол в повелительном наклонении для 'voi': lavatevi."
+    },
+    {
+      "question": "___ a casa! (tornare - tu)",
+      "options": [
+        "Torna",
+        "Torni",
+        "Tornate"
+      ],
+      "answer": "Torna",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'tornare': torna."
+    },
+    {
+      "question": "___ un caffè! (prendere - Lei)",
+      "options": [
+        "Prenda",
+        "Prendi",
+        "Prendete"
+      ],
+      "answer": "Prenda",
+      "explanation": "Вежливая форма повелительного наклонения: prenda."
+    },
+    {
+      "question": "___ la macchina! (guidare - tu)",
+      "options": [
+        "Guida",
+        "Guidi",
+        "Guidate"
+      ],
+      "answer": "Guida",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'guidare': guida."
+    },
+    {
+      "question": "___ la televisione! (spegnere - tu)",
+      "options": [
+        "Spegni",
+        "Spenga",
+        "Spegnete"
+      ],
+      "answer": "Spegni",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'spegnere': spegni."
+    },
+    {
+      "question": "___ la luce! (accendere - tu)",
+      "options": [
+        "Accendi",
+        "Accenda",
+        "Accendete"
+      ],
+      "answer": "Accendi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'accendere': accendi."
+    },
+    {
+      "question": "___ piano! (camminare - voi)",
+      "options": [
+        "Camminate",
+        "Cammina",
+        "Cammini"
+      ],
+      "answer": "Camminate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'camminare': camminate."
+    },
+    {
+      "question": "___ velocemente! (correre - tu)",
+      "options": [
+        "Corri",
+        "Corra",
+        "Correte"
+      ],
+      "answer": "Corri",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'correre': corri."
+    },
+    {
+      "question": "___ la musica! (ascoltare - voi)",
+      "options": [
+        "Ascoltate",
+        "Ascolta",
+        "Ascolti"
+      ],
+      "answer": "Ascoltate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'ascoltare': ascoltate."
+    },
+    {
+      "question": "___ i compiti! (fare - tu)",
+      "options": [
+        "Fa'",
+        "Faccia",
+        "Fate"
+      ],
+      "answer": "Fa'",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'fare': fa'."
+    },
+    {
+      "question": "___ qui! (venire - tu)",
+      "options": [
+        "Vieni",
+        "Venga",
+        "Venite"
+      ],
+      "answer": "Vieni",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'venire': vieni."
+    },
+    {
+      "question": "___ con noi! (venire - Lei)",
+      "options": [
+        "Venga",
+        "Vieni",
+        "Venite"
+      ],
+      "answer": "Venga",
+      "explanation": "Вежливая форма повелительного наклонения: venga."
+    },
+    {
+      "question": "___ la domanda! (rispondere - tu)",
+      "options": [
+        "Rispondi",
+        "Risponda",
+        "Rispondete"
+      ],
+      "answer": "Rispondi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'rispondere': rispondi."
+    },
+    {
+      "question": "___ il numero! (chiamare - Lei)",
+      "options": [
+        "Chiami",
+        "Chiama",
+        "Chiamate"
+      ],
+      "answer": "Chiami",
+      "explanation": "Вежливая форма повелительного наклонения: chiami."
+    },
+    {
+      "question": "___ con calma! (parlare - voi)",
+      "options": [
+        "Parlate",
+        "Parla",
+        "Parli"
+      ],
+      "answer": "Parlate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'parlare': parlate."
+    },
+    {
+      "question": "___ alla festa! (venire - voi)",
+      "options": [
+        "Venite",
+        "Vieni",
+        "Venga"
+      ],
+      "answer": "Venite",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'venire': venite."
+    },
+    {
+      "question": "___ il formaggio! (comprare - tu)",
+      "options": [
+        "Compra",
+        "Compri",
+        "Comprate"
+      ],
+      "answer": "Compra",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'comprare': compra."
+    },
+    {
+      "question": "___ la pasta! (cucinare - Lei)",
+      "options": [
+        "Cucini",
+        "Cucina",
+        "Cucinate"
+      ],
+      "answer": "Cucini",
+      "explanation": "Вежливая форма повелительного наклонения: cucini."
+    },
+    {
+      "question": "___ il vino! (bere - tu)",
+      "options": [
+        "Bevi",
+        "Beva",
+        "Bevete"
+      ],
+      "answer": "Bevi",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'bere': bevi."
+    },
+    {
+      "question": "___ la carne! (mangiare - voi)",
+      "options": [
+        "Mangiate",
+        "Mangia",
+        "Mangi"
+      ],
+      "answer": "Mangiate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'mangiare': mangiate."
+    },
+    {
+      "question": "___ le scarpe! (mettere - tu)",
+      "options": [
+        "Metti",
+        "Metta",
+        "Mettete"
+      ],
+      "answer": "Metti",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'mettere': metti."
+    },
+    {
+      "question": "___ il cappotto! (togliere - Lei)",
+      "options": [
+        "Tolga",
+        "Togli",
+        "Togliete"
+      ],
+      "answer": "Tolga",
+      "explanation": "Вежливая форма повелительного наклонения: tolga."
+    },
+    {
+      "question": "___ forte! (cantare - voi)",
+      "options": [
+        "Cantate",
+        "Canta",
+        "Canti"
+      ],
+      "answer": "Cantate",
+      "explanation": "Повелительное наклонение для 'voi' от глагола 'cantare': cantate."
+    },
+    {
+      "question": "___ il film! (guardare - tu)",
+      "options": [
+        "Guarda",
+        "Guardi",
+        "Guardate"
+      ],
+      "answer": "Guarda",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'guardare': guarda."
+    },
+    {
+      "question": "___ tranquillo! (stare - tu)",
+      "options": [
+        "Sta'",
+        "Stia",
+        "State"
+      ],
+      "answer": "Sta'",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'stare': sta'."
+    },
+    {
+      "question": "___ buono! (essere - tu)",
+      "options": [
+        "Sii",
+        "Sia",
+        "Siate"
+      ],
+      "answer": "Sii",
+      "explanation": "Повелительное наклонение для 'tu' от глагола 'essere': sii (будь хорошим)."
+    }
+  ]
+}
