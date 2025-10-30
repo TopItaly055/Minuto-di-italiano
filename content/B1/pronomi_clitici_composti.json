@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Pronomi clitici composti (B1)",
+  "exercises": [
+    {
+      "question": "Ho comprato il libro e ___ ho dato a Maria.",
+      "options": [
+        "glielo",
+        "lo gli",
+        "gli lo"
+      ],
+      "answer": "glielo",
+      "explanation": "Esercizio 1: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glielo'."
+    },
+    {
+      "question": "Marco mi ha chiesto il telefono e ___ ho prestato.",
+      "options": [
+        "glielo",
+        "lo gli",
+        "gli lo"
+      ],
+      "answer": "glielo",
+      "explanation": "Esercizio 2: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glielo'."
+    },
+    {
+      "question": "Ho visto il film e ___ ho raccontato a lui.",
+      "options": [
+        "glielo",
+        "lo gli",
+        "gli lo"
+      ],
+      "answer": "glielo",
+      "explanation": "Esercizio 3: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glielo'."
+    },
+    {
+      "question": "La mamma ha preparato il pranzo e ___ ha servito a papà.",
+      "options": [
+        "glielo",
+        "lo gli",
+        "gli lo"
+      ],
+      "answer": "glielo",
+      "explanation": "Esercizio 4: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glielo'."
+    },
+    {
+      "question": "Ho letto il giornale e ___ ho dato a Marco.",
+      "options": [
+        "glielo",
+        "lo gli",
+        "gli lo"
+      ],
+      "answer": "glielo",
+      "explanation": "Esercizio 5: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glielo'."
+    },
+    {
+      "question": "La mamma ha preparato la torta e ___ ha offerto ai bambini.",
+      "options": [
+        "gliela",
+        "la gli",
+        "gli la"
+      ],
+      "answer": "gliela",
+      "explanation": "Esercizio 6: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliela'."
+    },
+    {
+      "question": "Ho comprato la macchina e ___ ho mostrata a lui.",
+      "options": [
+        "gliela",
+        "la gli",
+        "gli la"
+      ],
+      "answer": "gliela",
+      "explanation": "Esercizio 7: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliela'."
+    },
+    {
+      "question": "Ho visto la foto e ___ ho mostrata a Marco.",
+      "options": [
+        "gliela",
+        "la gli",
+        "gli la"
+      ],
+      "answer": "gliela",
+      "explanation": "Esercizio 8: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliela'."
+    },
+    {
+      "question": "La nonna ha preparato la pasta e ___ ha servita a noi.",
+      "options": [
+        "gliela",
+        "la gli",
+        "gli la"
+      ],
+      "answer": "gliela",
+      "explanation": "Esercizio 9: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliela'."
+    },
+    {
+      "question": "Ho letto la lettera e ___ ho data a lui.",
+      "options": [
+        "gliela",
+        "la gli",
+        "gli la"
+      ],
+      "answer": "gliela",
+      "explanation": "Esercizio 10: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliela'."
+    },
+    {
+      "question": "Ho visto i tuoi amici e ___ ho salutato.",
+      "options": [
+        "glieli",
+        "li gli",
+        "gli li"
+      ],
+      "answer": "glieli",
+      "explanation": "Esercizio 11: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glieli'."
+    },
+    {
+      "question": "Marco ha portato i libri e ___ ha dati a me.",
+      "options": [
+        "glieli",
+        "li gli",
+        "gli li"
+      ],
+      "answer": "glieli",
+      "explanation": "Esercizio 12: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glieli'."
+    },
+    {
+      "question": "Ho comprato i biglietti e ___ ho dati a lui.",
+      "options": [
+        "glieli",
+        "li gli",
+        "gli li"
+      ],
+      "answer": "glieli",
+      "explanation": "Esercizio 13: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glieli'."
+    },
+    {
+      "question": "La mamma ha preparato i dolci e ___ ha offerti ai bambini.",
+      "options": [
+        "glieli",
+        "li gli",
+        "gli li"
+      ],
+      "answer": "glieli",
+      "explanation": "Esercizio 14: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glieli'."
+    },
+    {
+      "question": "Ho visto i film e ___ ho raccontati a Marco.",
+      "options": [
+        "glieli",
+        "li gli",
+        "gli li"
+      ],
+      "answer": "glieli",
+      "explanation": "Esercizio 15: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glieli'."
+    },
+    {
+      "question": "Ho visto le foto e ___ ho mostrate a loro.",
+      "options": [
+        "gliele",
+        "le gli",
+        "gli le"
+      ],
+      "answer": "gliele",
+      "explanation": "Esercizio 16: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliele'."
+    },
+    {
+      "question": "Marco ha portato le chiavi e ___ ha date a me.",
+      "options": [
+        "gliele",
+        "le gli",
+        "gli le"
+      ],
+      "answer": "gliele",
+      "explanation": "Esercizio 17: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliele'."
+    },
+    {
+      "question": "Ho comprato le scarpe e ___ ho mostrate a lui.",
+      "options": [
+        "gliele",
+        "le gli",
+        "gli le"
+      ],
+      "answer": "gliele",
+      "explanation": "Esercizio 18: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliele'."
+    },
+    {
+      "question": "La mamma ha preparato le torte e ___ ha offerte ai bambini.",
+      "options": [
+        "gliele",
+        "le gli",
+        "gli le"
+      ],
+      "answer": "gliele",
+      "explanation": "Esercizio 19: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliele'."
+    },
+    {
+      "question": "Ho visto le lettere e ___ ho date a Marco.",
+      "options": [
+        "gliele",
+        "le gli",
+        "gli le"
+      ],
+      "answer": "gliele",
+      "explanation": "Esercizio 20: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliele'."
+    },
+    {
+      "question": "Marco ha portato il regalo e ___ ha dato a me.",
+      "options": [
+        "me lo",
+        "lo me",
+        "melo"
+      ],
+      "answer": "me lo",
+      "explanation": "Esercizio 21: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'me lo'."
+    },
+    {
+      "question": "Ho comprato la macchina e ___ ho regalata a me.",
+      "options": [
+        "me la",
+        "la me",
+        "mela"
+      ],
+      "answer": "me la",
+      "explanation": "Esercizio 22: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'me la'."
+    },
+    {
+      "question": "Ho visto i libri e ___ ho comprati per me.",
+      "options": [
+        "me li",
+        "li me",
+        "meli"
+      ],
+      "answer": "me li",
+      "explanation": "Esercizio 23: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'me li'."
+    },
+    {
+      "question": "Ho comprato le scarpe e ___ ho messe a me.",
+      "options": [
+        "me le",
+        "le me",
+        "mele"
+      ],
+      "answer": "me le",
+      "explanation": "Esercizio 24: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'me le'."
+    },
+    {
+      "question": "Ho comprato il libro e ___ ho dato a te.",
+      "options": [
+        "te lo",
+        "lo te",
+        "telo"
+      ],
+      "answer": "te lo",
+      "explanation": "Esercizio 25: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'te lo'."
+    },
+    {
+      "question": "Marco ha portato la macchina e ___ ha regalata a te.",
+      "options": [
+        "te la",
+        "la te",
+        "tela"
+      ],
+      "answer": "te la",
+      "explanation": "Esercizio 26: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'te la'."
+    },
+    {
+      "question": "Ho visto i biglietti e ___ ho comprati per te.",
+      "options": [
+        "te li",
+        "li te",
+        "teli"
+      ],
+      "answer": "te li",
+      "explanation": "Esercizio 27: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'te li'."
+    },
+    {
+      "question": "Ho comprato le chiavi e ___ ho date a te.",
+      "options": [
+        "te le",
+        "le te",
+        "tele"
+      ],
+      "answer": "te le",
+      "explanation": "Esercizio 28: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'te le'."
+    },
+    {
+      "question": "Ho comprato il libro e ___ ho dato a noi.",
+      "options": [
+        "ce lo",
+        "lo ce",
+        "celo"
+      ],
+      "answer": "ce lo",
+      "explanation": "Esercizio 29: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'ce lo'."
+    },
+    {
+      "question": "La mamma ha preparato la torta e ___ ha servita a noi.",
+      "options": [
+        "ce la",
+        "la ce",
+        "cela"
+      ],
+      "answer": "ce la",
+      "explanation": "Esercizio 30: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'ce la'."
+    },
+    {
+      "question": "Ho visto i film e ___ ho mostrati a noi.",
+      "options": [
+        "ce li",
+        "li ce",
+        "celi"
+      ],
+      "answer": "ce li",
+      "explanation": "Esercizio 31: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'ce li'."
+    },
+    {
+      "question": "Ho comprato le foto e ___ ho mostrate a noi.",
+      "options": [
+        "ce le",
+        "le ce",
+        "cele"
+      ],
+      "answer": "ce le",
+      "explanation": "Esercizio 32: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'ce le'."
+    },
+    {
+      "question": "Ho comprato i biglietti e ___ ho dati a voi.",
+      "options": [
+        "ve li",
+        "li ve",
+        "veli"
+      ],
+      "answer": "ve li",
+      "explanation": "Esercizio 33: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 've li'."
+    },
+    {
+      "question": "La mamma ha preparato la pasta e ___ ha servita a voi.",
+      "options": [
+        "ve la",
+        "la ve",
+        "vela"
+      ],
+      "answer": "ve la",
+      "explanation": "Esercizio 34: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 've la'."
+    },
+    {
+      "question": "Ho visto i libri e ___ ho prestati a voi.",
+      "options": [
+        "ve li",
+        "li ve",
+        "veli"
+      ],
+      "answer": "ve li",
+      "explanation": "Esercizio 35: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 've li'."
+    },
+    {
+      "question": "Ho comprato le scarpe e ___ ho mostrate a voi.",
+      "options": [
+        "ve le",
+        "le ve",
+        "vele"
+      ],
+      "answer": "ve le",
+      "explanation": "Esercizio 36: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 've le'."
+    },
+    {
+      "question": "Marco ha comprato il libro e ___ ha letto.",
+      "options": [
+        "se lo",
+        "lo se",
+        "selo"
+      ],
+      "answer": "se lo",
+      "explanation": "Esercizio 37: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'se lo'."
+    },
+    {
+      "question": "La mamma ha preparato la torta e ___ ha mangiata.",
+      "options": [
+        "se la",
+        "la se",
+        "sela"
+      ],
+      "answer": "se la",
+      "explanation": "Esercizio 38: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'se la'."
+    },
+    {
+      "question": "Ho visto i film e ___ ho guardati.",
+      "options": [
+        "se li",
+        "li se",
+        "seli"
+      ],
+      "answer": "se li",
+      "explanation": "Esercizio 39: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'se li'."
+    },
+    {
+      "question": "Ho comprato le foto e ___ ho guardate.",
+      "options": [
+        "se le",
+        "le se",
+        "sele"
+      ],
+      "answer": "se le",
+      "explanation": "Esercizio 40: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'se le'."
+    },
+    {
+      "question": "Ho comprato molti libri e ___ ho dati alcuni a Marco.",
+      "options": [
+        "gliene",
+        "ne gli",
+        "gli ne"
+      ],
+      "answer": "gliene",
+      "explanation": "Esercizio 41: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliene'."
+    },
+    {
+      "question": "La mamma ha preparato molta pasta e ___ ha servita un po' a noi.",
+      "options": [
+        "cene",
+        "ne ce",
+        "ce ne"
+      ],
+      "answer": "cene",
+      "explanation": "Esercizio 42: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'cene'."
+    },
+    {
+      "question": "Ho visto molti film e ___ ho raccontati alcuni a te.",
+      "options": [
+        "tene",
+        "ne te",
+        "te ne"
+      ],
+      "answer": "tene",
+      "explanation": "Esercizio 43: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'tene'."
+    },
+    {
+      "question": "Ho comprato molti biglietti e ___ ho dati alcuni a voi.",
+      "options": [
+        "vene",
+        "ne ve",
+        "ve ne"
+      ],
+      "answer": "vene",
+      "explanation": "Esercizio 44: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'vene'."
+    },
+    {
+      "question": "Ho comprato il libro e ___ ho dato a Maria ieri.",
+      "options": [
+        "glielo",
+        "lo gli",
+        "gli lo"
+      ],
+      "answer": "glielo",
+      "explanation": "Esercizio 45: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glielo'."
+    },
+    {
+      "question": "Marco mi ha chiesto il telefono e ___ ho prestato stamattina.",
+      "options": [
+        "glielo",
+        "lo gli",
+        "gli lo"
+      ],
+      "answer": "glielo",
+      "explanation": "Esercizio 46: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glielo'."
+    },
+    {
+      "question": "La mamma ha preparato la torta e ___ ha offerto ai bambini ieri.",
+      "options": [
+        "gliela",
+        "la gli",
+        "gli la"
+      ],
+      "answer": "gliela",
+      "explanation": "Esercizio 47: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliela'."
+    },
+    {
+      "question": "Ho visto i tuoi amici e ___ ho salutato questa mattina.",
+      "options": [
+        "glieli",
+        "li gli",
+        "gli li"
+      ],
+      "answer": "glieli",
+      "explanation": "Esercizio 48: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glieli'."
+    },
+    {
+      "question": "Ho visto le foto e ___ ho mostrate a loro ieri sera.",
+      "options": [
+        "gliele",
+        "le gli",
+        "gli le"
+      ],
+      "answer": "gliele",
+      "explanation": "Esercizio 49: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliele'."
+    },
+    {
+      "question": "Posso ___ prestare il libro?",
+      "options": [
+        "glielo",
+        "lo gli",
+        "gli lo"
+      ],
+      "answer": "glielo",
+      "explanation": "Esercizio 50: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glielo'."
+    },
+    {
+      "question": "Vuoi ___ dare la chiave?",
+      "options": [
+        "gliela",
+        "la gli",
+        "gli la"
+      ],
+      "answer": "gliela",
+      "explanation": "Esercizio 51: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliela'."
+    },
+    {
+      "question": "Devo ___ mostrare le foto?",
+      "options": [
+        "gliele",
+        "le gli",
+        "gli le"
+      ],
+      "answer": "gliele",
+      "explanation": "Esercizio 52: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliele'."
+    },
+    {
+      "question": "Posso ___ dare i biglietti?",
+      "options": [
+        "glieli",
+        "li gli",
+        "gli li"
+      ],
+      "answer": "glieli",
+      "explanation": "Esercizio 53: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glieli'."
+    },
+    {
+      "question": "Voglio ___ dare il libro.",
+      "options": [
+        "glielo",
+        "lo gli",
+        "gli lo"
+      ],
+      "answer": "glielo",
+      "explanation": "Esercizio 54: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glielo'."
+    },
+    {
+      "question": "Preferisco ___ mostrare la foto.",
+      "options": [
+        "gliela",
+        "la gli",
+        "gli la"
+      ],
+      "answer": "gliela",
+      "explanation": "Esercizio 55: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliela'."
+    },
+    {
+      "question": "Devo ___ dare le chiavi.",
+      "options": [
+        "gliele",
+        "le gli",
+        "gli le"
+      ],
+      "answer": "gliele",
+      "explanation": "Esercizio 56: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliele'."
+    },
+    {
+      "question": "Voglio ___ mostrare i libri.",
+      "options": [
+        "glieli",
+        "li gli",
+        "gli li"
+      ],
+      "answer": "glieli",
+      "explanation": "Esercizio 57: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glieli'."
+    },
+    {
+      "question": "___ dando il libro a Marco.",
+      "options": [
+        "Glielo",
+        "Lo gli",
+        "Gli lo"
+      ],
+      "answer": "Glielo",
+      "explanation": "Esercizio 58: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glielo'."
+    },
+    {
+      "question": "___ mostrando la foto a lui.",
+      "options": [
+        "Gliela",
+        "La gli",
+        "Gli la"
+      ],
+      "answer": "Gliela",
+      "explanation": "Esercizio 59: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliela'."
+    },
+    {
+      "question": "___ dando le chiavi a loro.",
+      "options": [
+        "Gliele",
+        "Le gli",
+        "Gli le"
+      ],
+      "answer": "Gliele",
+      "explanation": "Esercizio 60: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliele'."
+    },
+    {
+      "question": "___ mostrando i libri a lui.",
+      "options": [
+        "Glieli",
+        "Li gli",
+        "Gli li"
+      ],
+      "answer": "Glieli",
+      "explanation": "Esercizio 61: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glieli'."
+    },
+    {
+      "question": "Ho ___ dato il libro a Maria.",
+      "options": [
+        "glielo",
+        "lo gli",
+        "gli lo"
+      ],
+      "answer": "glielo",
+      "explanation": "Esercizio 62: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glielo'."
+    },
+    {
+      "question": "Ho ___ mostrata la foto a lui.",
+      "options": [
+        "gliela",
+        "la gli",
+        "gli la"
+      ],
+      "answer": "gliela",
+      "explanation": "Esercizio 63: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliela'."
+    },
+    {
+      "question": "Ho ___ date le chiavi a loro.",
+      "options": [
+        "gliele",
+        "le gli",
+        "gli le"
+      ],
+      "answer": "gliele",
+      "explanation": "Esercizio 64: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliele'."
+    },
+    {
+      "question": "Ho ___ mostrati i libri a lui.",
+      "options": [
+        "glieli",
+        "li gli",
+        "gli li"
+      ],
+      "answer": "glieli",
+      "explanation": "Esercizio 65: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'glieli'."
+    },
+    {
+      "question": "___ ho dato il libro a Maria.",
+      "options": [
+        "Glielo",
+        "Lo gli",
+        "Gli lo"
+      ],
+      "answer": "Glielo",
+      "explanation": "Esercizio 66: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glielo'."
+    },
+    {
+      "question": "___ ho mostrata la foto a lui.",
+      "options": [
+        "Gliela",
+        "La gli",
+        "Gli la"
+      ],
+      "answer": "Gliela",
+      "explanation": "Esercizio 67: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliela'."
+    },
+    {
+      "question": "___ ho date le chiavi a loro.",
+      "options": [
+        "Gliele",
+        "Le gli",
+        "Gli le"
+      ],
+      "answer": "Gliele",
+      "explanation": "Esercizio 68: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliele'."
+    },
+    {
+      "question": "___ ho mostrati i libri a lui.",
+      "options": [
+        "Glieli",
+        "Li gli",
+        "Gli li"
+      ],
+      "answer": "Glieli",
+      "explanation": "Esercizio 69: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glieli'."
+    },
+    {
+      "question": "Marco ___ ha comprato il libro.",
+      "options": [
+        "se lo",
+        "lo se",
+        "selo"
+      ],
+      "answer": "se lo",
+      "explanation": "Esercizio 70: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'se lo'."
+    },
+    {
+      "question": "La mamma ___ ha preparata la torta.",
+      "options": [
+        "se la",
+        "la se",
+        "sela"
+      ],
+      "answer": "se la",
+      "explanation": "Esercizio 71: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'se la'."
+    },
+    {
+      "question": "___ hanno comprati i biglietti.",
+      "options": [
+        "Se li",
+        "Li se",
+        "Seli"
+      ],
+      "answer": "Se li",
+      "explanation": "Esercizio 72: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Se li'."
+    },
+    {
+      "question": "___ hanno guardate le foto.",
+      "options": [
+        "Se le",
+        "Le se",
+        "Sele"
+      ],
+      "answer": "Se le",
+      "explanation": "Esercizio 73: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Se le'."
+    },
+    {
+      "question": "Ho comprato molti libri e ___ ho dati alcuni a Marco.",
+      "options": [
+        "gliene",
+        "ne gli",
+        "gli ne"
+      ],
+      "answer": "gliene",
+      "explanation": "Esercizio 74: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'gliene'."
+    },
+    {
+      "question": "La mamma ha preparato molta pasta e ___ ha servita un po' a noi.",
+      "options": [
+        "cene",
+        "ne ce",
+        "ce ne"
+      ],
+      "answer": "cene",
+      "explanation": "Esercizio 75: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'cene'."
+    },
+    {
+      "question": "Ho visto molti film e ___ ho raccontati alcuni a te.",
+      "options": [
+        "tene",
+        "ne te",
+        "te ne"
+      ],
+      "answer": "tene",
+      "explanation": "Esercizio 76: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'tene'."
+    },
+    {
+      "question": "Ho comprato molti biglietti e ___ ho dati alcuni a voi.",
+      "options": [
+        "vene",
+        "ne ve",
+        "ve ne"
+      ],
+      "answer": "vene",
+      "explanation": "Esercizio 77: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'vene'."
+    },
+    {
+      "question": "___ ho dato il libro a Maria ieri.",
+      "options": [
+        "Glielo",
+        "Lo gli",
+        "Gli lo"
+      ],
+      "answer": "Glielo",
+      "explanation": "Esercizio 78: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glielo'."
+    },
+    {
+      "question": "___ ho mostrata la foto a lui stamattina.",
+      "options": [
+        "Gliela",
+        "La gli",
+        "Gli la"
+      ],
+      "answer": "Gliela",
+      "explanation": "Esercizio 79: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliela'."
+    },
+    {
+      "question": "___ ho date le chiavi a loro ieri sera.",
+      "options": [
+        "Gliele",
+        "Le gli",
+        "Gli le"
+      ],
+      "answer": "Gliele",
+      "explanation": "Esercizio 80: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliele'."
+    },
+    {
+      "question": "___ ho mostrati i libri a lui questa mattina.",
+      "options": [
+        "Glieli",
+        "Li gli",
+        "Gli li"
+      ],
+      "answer": "Glieli",
+      "explanation": "Esercizio 81: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glieli'."
+    },
+    {
+      "question": "___ porto il libro a Maria.",
+      "options": [
+        "Glielo",
+        "Lo gli",
+        "Gli lo"
+      ],
+      "answer": "Glielo",
+      "explanation": "Esercizio 82: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glielo'."
+    },
+    {
+      "question": "___ mostro la foto a lui.",
+      "options": [
+        "Gliela",
+        "La gli",
+        "Gli la"
+      ],
+      "answer": "Gliela",
+      "explanation": "Esercizio 83: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliela'."
+    },
+    {
+      "question": "___ porto le chiavi a loro.",
+      "options": [
+        "Gliele",
+        "Le gli",
+        "Gli le"
+      ],
+      "answer": "Gliele",
+      "explanation": "Esercizio 84: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliele'."
+    },
+    {
+      "question": "___ mostro i libri a lui.",
+      "options": [
+        "Glieli",
+        "Li gli",
+        "Gli li"
+      ],
+      "answer": "Glieli",
+      "explanation": "Esercizio 85: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glieli'."
+    },
+    {
+      "question": "___ racconto la storia a Maria.",
+      "options": [
+        "Gliela",
+        "La gli",
+        "Gli la"
+      ],
+      "answer": "Gliela",
+      "explanation": "Esercizio 86: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliela'."
+    },
+    {
+      "question": "___ spiego il problema a lui.",
+      "options": [
+        "Glielo",
+        "Lo gli",
+        "Gli lo"
+      ],
+      "answer": "Glielo",
+      "explanation": "Esercizio 87: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glielo'."
+    },
+    {
+      "question": "___ racconto le storie a loro.",
+      "options": [
+        "Gliele",
+        "Le gli",
+        "Gli le"
+      ],
+      "answer": "Gliele",
+      "explanation": "Esercizio 88: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliele'."
+    },
+    {
+      "question": "___ spiego i problemi a lui.",
+      "options": [
+        "Glieli",
+        "Li gli",
+        "Gli li"
+      ],
+      "answer": "Glieli",
+      "explanation": "Esercizio 89: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glieli'."
+    },
+    {
+      "question": "___ vedo il libro a Maria.",
+      "options": [
+        "Glielo",
+        "Lo gli",
+        "Gli lo"
+      ],
+      "answer": "Glielo",
+      "explanation": "Esercizio 90: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glielo'."
+    },
+    {
+      "question": "___ sento la musica a lui.",
+      "options": [
+        "Gliela",
+        "La gli",
+        "Gli la"
+      ],
+      "answer": "Gliela",
+      "explanation": "Esercizio 91: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliela'."
+    },
+    {
+      "question": "___ vedo le foto a loro.",
+      "options": [
+        "Gliele",
+        "Le gli",
+        "Gli le"
+      ],
+      "answer": "Gliele",
+      "explanation": "Esercizio 92: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliele'."
+    },
+    {
+      "question": "___ sento le canzoni a lui.",
+      "options": [
+        "Glieli",
+        "Li gli",
+        "Gli li"
+      ],
+      "answer": "Glieli",
+      "explanation": "Esercizio 93: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glieli'."
+    },
+    {
+      "question": "___ presto il libro a Maria.",
+      "options": [
+        "Glielo",
+        "Lo gli",
+        "Gli lo"
+      ],
+      "answer": "Glielo",
+      "explanation": "Esercizio 94: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glielo'."
+    },
+    {
+      "question": "___ do la chiave a lui.",
+      "options": [
+        "Gliela",
+        "La gli",
+        "Gli la"
+      ],
+      "answer": "Gliela",
+      "explanation": "Esercizio 95: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliela'."
+    },
+    {
+      "question": "___ presto le chiavi a loro.",
+      "options": [
+        "Gliele",
+        "Le gli",
+        "Gli le"
+      ],
+      "answer": "Gliele",
+      "explanation": "Esercizio 96: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliele'."
+    },
+    {
+      "question": "___ do i libri a lui.",
+      "options": [
+        "Glieli",
+        "Li gli",
+        "Gli li"
+      ],
+      "answer": "Glieli",
+      "explanation": "Esercizio 97: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glieli'."
+    },
+    {
+      "question": "___ preparo la torta a Maria.",
+      "options": [
+        "Gliela",
+        "La gli",
+        "Gli la"
+      ],
+      "answer": "Gliela",
+      "explanation": "Esercizio 98: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliela'."
+    },
+    {
+      "question": "___ faccio il regalo a lui.",
+      "options": [
+        "Glielo",
+        "Lo gli",
+        "Gli lo"
+      ],
+      "answer": "Glielo",
+      "explanation": "Esercizio 99: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Glielo'."
+    },
+    {
+      "question": "___ preparo le torte a loro.",
+      "options": [
+        "Gliele",
+        "Le gli",
+        "Gli le"
+      ],
+      "answer": "Gliele",
+      "explanation": "Esercizio 100: I pronomi clitici composti si scrivono sempre attaccati. La forma corretta è 'Gliele'."
+    }
+  ]
+}
