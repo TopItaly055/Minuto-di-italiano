@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Costruzioni non finite (B2)",
+  "exercises": [
+    {
+      "question": "___ la lezione, ho capito tutto.",
+      "options": [
+        "Studiando",
+        "Studiato",
+        "Studiare"
+      ],
+      "answer": "Studiando",
+      "explanation": "Esercizio 1: La forma corretta è 'Studiando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il libro, ho imparato molto.",
+      "options": [
+        "Leggendo",
+        "Letto",
+        "Leggere"
+      ],
+      "answer": "Leggendo",
+      "explanation": "Esercizio 2: La forma corretta è 'Leggendo'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la musica, mi rilasso.",
+      "options": [
+        "Ascoltando",
+        "Ascoltato",
+        "Ascoltare"
+      ],
+      "answer": "Ascoltando",
+      "explanation": "Esercizio 3: La forma corretta è 'Ascoltando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il caffè, mi sveglio.",
+      "options": [
+        "Bevendo",
+        "Bevuto",
+        "Bere"
+      ],
+      "answer": "Bevendo",
+      "explanation": "Esercizio 4: La forma corretta è 'Bevendo'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la TV, mi diverto.",
+      "options": [
+        "Guardando",
+        "Guardato",
+        "Guardare"
+      ],
+      "answer": "Guardando",
+      "explanation": "Esercizio 5: La forma corretta è 'Guardando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la macchina, vado al lavoro.",
+      "options": [
+        "Guidando",
+        "Guidato",
+        "Guidare"
+      ],
+      "answer": "Guidando",
+      "explanation": "Esercizio 6: La forma corretta è 'Guidando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la palestra, mi tengo in forma.",
+      "options": [
+        "Andando",
+        "Andato",
+        "Andare"
+      ],
+      "answer": "Andando",
+      "explanation": "Esercizio 7: La forma corretta è 'Andando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il telefono, parlo con gli amici.",
+      "options": [
+        "Usando",
+        "Usato",
+        "Usare"
+      ],
+      "answer": "Usando",
+      "explanation": "Esercizio 8: La forma corretta è 'Usando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la cucina, preparo da mangiare.",
+      "options": [
+        "Frequentando",
+        "Frequentato",
+        "Frequentare"
+      ],
+      "answer": "Frequentando",
+      "explanation": "Esercizio 9: La forma corretta è 'Frequentando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la lingua, miglioro.",
+      "options": [
+        "Studiando",
+        "Studiato",
+        "Studiare"
+      ],
+      "answer": "Studiando",
+      "explanation": "Esercizio 10: La forma corretta è 'Studiando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la lezione, ho capito tutto.",
+      "options": [
+        "Avendo studiato",
+        "Studiato",
+        "Studiare"
+      ],
+      "answer": "Avendo studiato",
+      "explanation": "Esercizio 11: La forma corretta è 'Avendo studiato'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il libro, ho imparato molto.",
+      "options": [
+        "Avendo letto",
+        "Letto",
+        "Leggere"
+      ],
+      "answer": "Avendo letto",
+      "explanation": "Esercizio 12: La forma corretta è 'Avendo letto'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la musica, mi sono rilassato.",
+      "options": [
+        "Avendo ascoltato",
+        "Ascoltato",
+        "Ascoltare"
+      ],
+      "answer": "Avendo ascoltato",
+      "explanation": "Esercizio 13: La forma corretta è 'Avendo ascoltato'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il caffè, mi sono svegliato.",
+      "options": [
+        "Avendo bevuto",
+        "Bevuto",
+        "Bere"
+      ],
+      "answer": "Avendo bevuto",
+      "explanation": "Esercizio 14: La forma corretta è 'Avendo bevuto'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la TV, mi sono divertito.",
+      "options": [
+        "Avendo guardato",
+        "Guardato",
+        "Guardare"
+      ],
+      "answer": "Avendo guardato",
+      "explanation": "Esercizio 15: La forma corretta è 'Avendo guardato'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la macchina, sono andato al lavoro.",
+      "options": [
+        "Avendo guidato",
+        "Guidato",
+        "Guidare"
+      ],
+      "answer": "Avendo guidato",
+      "explanation": "Esercizio 16: La forma corretta è 'Avendo guidato'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la palestra, mi sono tenuto in forma.",
+      "options": [
+        "Essendo andato",
+        "Andato",
+        "Andare"
+      ],
+      "answer": "Essendo andato",
+      "explanation": "Esercizio 17: La forma corretta è 'Essendo andato'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il telefono, ho parlato con gli amici.",
+      "options": [
+        "Avendo usato",
+        "Usato",
+        "Usare"
+      ],
+      "answer": "Avendo usato",
+      "explanation": "Esercizio 18: La forma corretta è 'Avendo usato'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la cucina, ho preparato da mangiare.",
+      "options": [
+        "Avendo frequentato",
+        "Frequentato",
+        "Frequentare"
+      ],
+      "answer": "Avendo frequentato",
+      "explanation": "Esercizio 19: La forma corretta è 'Avendo frequentato'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la lingua, sono migliorato.",
+      "options": [
+        "Avendo studiato",
+        "Studiato",
+        "Studiare"
+      ],
+      "answer": "Avendo studiato",
+      "explanation": "Esercizio 20: La forma corretta è 'Avendo studiato'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il libro ___ è molto interessante.",
+      "options": [
+        "interessante",
+        "interessato",
+        "interessare"
+      ],
+      "answer": "interessante",
+      "explanation": "Esercizio 21: La forma corretta è 'interessante'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La musica ___ mi piace molto.",
+      "options": [
+        "rilassante",
+        "rilassato",
+        "rilassare"
+      ],
+      "answer": "rilassante",
+      "explanation": "Esercizio 22: La forma corretta è 'rilassante'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il film ___ è divertente.",
+      "options": [
+        "divertente",
+        "divertito",
+        "divertire"
+      ],
+      "answer": "divertente",
+      "explanation": "Esercizio 23: La forma corretta è 'divertente'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il caffè ___ mi sveglia.",
+      "options": [
+        "eccitante",
+        "eccitato",
+        "eccitare"
+      ],
+      "answer": "eccitante",
+      "explanation": "Esercizio 24: La forma corretta è 'eccitante'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La TV ___ mi diverte.",
+      "options": [
+        "divertente",
+        "divertito",
+        "divertire"
+      ],
+      "answer": "divertente",
+      "explanation": "Esercizio 25: La forma corretta è 'divertente'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La macchina ___ va veloce.",
+      "options": [
+        "veloce",
+        "velocizzato",
+        "velocizzare"
+      ],
+      "answer": "veloce",
+      "explanation": "Esercizio 26: La forma corretta è 'veloce'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La palestra ___ mi tiene in forma.",
+      "options": [
+        "tonificante",
+        "tonificato",
+        "tonificare"
+      ],
+      "answer": "tonificante",
+      "explanation": "Esercizio 27: La forma corretta è 'tonificante'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il telefono ___ è utile.",
+      "options": [
+        "utile",
+        "utilizzato",
+        "utilizzare"
+      ],
+      "answer": "utile",
+      "explanation": "Esercizio 28: La forma corretta è 'utile'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La cucina ___ è buona.",
+      "options": [
+        "buona",
+        "buonata",
+        "buonare"
+      ],
+      "answer": "buona",
+      "explanation": "Esercizio 29: La forma corretta è 'buona'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La lingua ___ è difficile.",
+      "options": [
+        "difficile",
+        "difficilizzato",
+        "difficilizzare"
+      ],
+      "answer": "difficile",
+      "explanation": "Esercizio 30: La forma corretta è 'difficile'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il libro ___ è molto interessante.",
+      "options": [
+        "letto",
+        "leggendo",
+        "leggere"
+      ],
+      "answer": "letto",
+      "explanation": "Esercizio 31: La forma corretta è 'letto'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La musica ___ mi piace molto.",
+      "options": [
+        "ascoltata",
+        "ascoltando",
+        "ascoltare"
+      ],
+      "answer": "ascoltata",
+      "explanation": "Esercizio 32: La forma corretta è 'ascoltata'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il film ___ è divertente.",
+      "options": [
+        "visto",
+        "vedendo",
+        "vedere"
+      ],
+      "answer": "visto",
+      "explanation": "Esercizio 33: La forma corretta è 'visto'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il caffè ___ mi sveglia.",
+      "options": [
+        "bevuto",
+        "bevendo",
+        "bere"
+      ],
+      "answer": "bevuto",
+      "explanation": "Esercizio 34: La forma corretta è 'bevuto'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La TV ___ mi diverte.",
+      "options": [
+        "guardata",
+        "guardando",
+        "guardare"
+      ],
+      "answer": "guardata",
+      "explanation": "Esercizio 35: La forma corretta è 'guardata'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La macchina ___ va veloce.",
+      "options": [
+        "guidata",
+        "guidando",
+        "guidare"
+      ],
+      "answer": "guidata",
+      "explanation": "Esercizio 36: La forma corretta è 'guidata'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La palestra ___ mi tiene in forma.",
+      "options": [
+        "frequentata",
+        "frequentando",
+        "frequentare"
+      ],
+      "answer": "frequentata",
+      "explanation": "Esercizio 37: La forma corretta è 'frequentata'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il telefono ___ è utile.",
+      "options": [
+        "usato",
+        "usando",
+        "usare"
+      ],
+      "answer": "usato",
+      "explanation": "Esercizio 38: La forma corretta è 'usato'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La cucina ___ è buona.",
+      "options": [
+        "frequentata",
+        "frequentando",
+        "frequentare"
+      ],
+      "answer": "frequentata",
+      "explanation": "Esercizio 39: La forma corretta è 'frequentata'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La lingua ___ è difficile.",
+      "options": [
+        "studiata",
+        "studiando",
+        "studiare"
+      ],
+      "answer": "studiata",
+      "explanation": "Esercizio 40: La forma corretta è 'studiata'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ uscire, chiudo la porta.",
+      "options": [
+        "Prima di",
+        "Dopo di",
+        "Invece di"
+      ],
+      "answer": "Prima di",
+      "explanation": "Esercizio 41: La forma corretta è 'Prima di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ mangiare, mi lavo le mani.",
+      "options": [
+        "Prima di",
+        "Dopo di",
+        "Invece di"
+      ],
+      "answer": "Prima di",
+      "explanation": "Esercizio 42: La forma corretta è 'Prima di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ dormire, leggo un libro.",
+      "options": [
+        "Prima di",
+        "Dopo di",
+        "Invece di"
+      ],
+      "answer": "Prima di",
+      "explanation": "Esercizio 43: La forma corretta è 'Prima di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ partire, controllo tutto.",
+      "options": [
+        "Prima di",
+        "Dopo di",
+        "Invece di"
+      ],
+      "answer": "Prima di",
+      "explanation": "Esercizio 44: La forma corretta è 'Prima di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ arrivare, avviso tutti.",
+      "options": [
+        "Prima di",
+        "Dopo di",
+        "Invece di"
+      ],
+      "answer": "Prima di",
+      "explanation": "Esercizio 45: La forma corretta è 'Prima di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ studiare, organizzo tutto.",
+      "options": [
+        "Prima di",
+        "Dopo di",
+        "Invece di"
+      ],
+      "answer": "Prima di",
+      "explanation": "Esercizio 46: La forma corretta è 'Prima di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ lavorare, faccio colazione.",
+      "options": [
+        "Prima di",
+        "Dopo di",
+        "Invece di"
+      ],
+      "answer": "Prima di",
+      "explanation": "Esercizio 47: La forma corretta è 'Prima di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ guidare, controllo la macchina.",
+      "options": [
+        "Prima di",
+        "Dopo di",
+        "Invece di"
+      ],
+      "answer": "Prima di",
+      "explanation": "Esercizio 48: La forma corretta è 'Prima di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ telefonare, penso cosa dire.",
+      "options": [
+        "Prima di",
+        "Dopo di",
+        "Invece di"
+      ],
+      "answer": "Prima di",
+      "explanation": "Esercizio 49: La forma corretta è 'Prima di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ decidere, valuto le opzioni.",
+      "options": [
+        "Prima di",
+        "Dopo di",
+        "Invece di"
+      ],
+      "answer": "Prima di",
+      "explanation": "Esercizio 50: La forma corretta è 'Prima di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ uscire, resto a casa.",
+      "options": [
+        "Invece di",
+        "Prima di",
+        "Dopo di"
+      ],
+      "answer": "Invece di",
+      "explanation": "Esercizio 51: La forma corretta è 'Invece di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ mangiare, bevo solo acqua.",
+      "options": [
+        "Invece di",
+        "Prima di",
+        "Dopo di"
+      ],
+      "answer": "Invece di",
+      "explanation": "Esercizio 52: La forma corretta è 'Invece di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ dormire, guardo la TV.",
+      "options": [
+        "Invece di",
+        "Prima di",
+        "Dopo di"
+      ],
+      "answer": "Invece di",
+      "explanation": "Esercizio 53: La forma corretta è 'Invece di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ partire, rimango qui.",
+      "options": [
+        "Invece di",
+        "Prima di",
+        "Dopo di"
+      ],
+      "answer": "Invece di",
+      "explanation": "Esercizio 54: La forma corretta è 'Invece di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ arrivare, torno indietro.",
+      "options": [
+        "Invece di",
+        "Prima di",
+        "Dopo di"
+      ],
+      "answer": "Invece di",
+      "explanation": "Esercizio 55: La forma corretta è 'Invece di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ studiare, gioco.",
+      "options": [
+        "Invece di",
+        "Prima di",
+        "Dopo di"
+      ],
+      "answer": "Invece di",
+      "explanation": "Esercizio 56: La forma corretta è 'Invece di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ lavorare, riposo.",
+      "options": [
+        "Invece di",
+        "Prima di",
+        "Dopo di"
+      ],
+      "answer": "Invece di",
+      "explanation": "Esercizio 57: La forma corretta è 'Invece di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ guidare, cammino.",
+      "options": [
+        "Invece di",
+        "Prima di",
+        "Dopo di"
+      ],
+      "answer": "Invece di",
+      "explanation": "Esercizio 58: La forma corretta è 'Invece di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ telefonare, scrivo.",
+      "options": [
+        "Invece di",
+        "Prima di",
+        "Dopo di"
+      ],
+      "answer": "Invece di",
+      "explanation": "Esercizio 59: La forma corretta è 'Invece di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ decidere, aspetto.",
+      "options": [
+        "Invece di",
+        "Prima di",
+        "Dopo di"
+      ],
+      "answer": "Invece di",
+      "explanation": "Esercizio 60: La forma corretta è 'Invece di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ uscire, torno a casa.",
+      "options": [
+        "Dopo di",
+        "Prima di",
+        "Invece di"
+      ],
+      "answer": "Dopo di",
+      "explanation": "Esercizio 61: La forma corretta è 'Dopo di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ mangiare, lavo i piatti.",
+      "options": [
+        "Dopo di",
+        "Prima di",
+        "Invece di"
+      ],
+      "answer": "Dopo di",
+      "explanation": "Esercizio 62: La forma corretta è 'Dopo di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ dormire, mi sveglio presto.",
+      "options": [
+        "Dopo di",
+        "Prima di",
+        "Invece di"
+      ],
+      "answer": "Dopo di",
+      "explanation": "Esercizio 63: La forma corretta è 'Dopo di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ partire, arrivo a destinazione.",
+      "options": [
+        "Dopo di",
+        "Prima di",
+        "Invece di"
+      ],
+      "answer": "Dopo di",
+      "explanation": "Esercizio 64: La forma corretta è 'Dopo di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ arrivare, saluto tutti.",
+      "options": [
+        "Dopo di",
+        "Prima di",
+        "Invece di"
+      ],
+      "answer": "Dopo di",
+      "explanation": "Esercizio 65: La forma corretta è 'Dopo di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ studiare, faccio una pausa.",
+      "options": [
+        "Dopo di",
+        "Prima di",
+        "Invece di"
+      ],
+      "answer": "Dopo di",
+      "explanation": "Esercizio 66: La forma corretta è 'Dopo di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ lavorare, mi riposo.",
+      "options": [
+        "Dopo di",
+        "Prima di",
+        "Invece di"
+      ],
+      "answer": "Dopo di",
+      "explanation": "Esercizio 67: La forma corretta è 'Dopo di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ guidare, parcheggio.",
+      "options": [
+        "Dopo di",
+        "Prima di",
+        "Invece di"
+      ],
+      "answer": "Dopo di",
+      "explanation": "Esercizio 68: La forma corretta è 'Dopo di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ telefonare, aspetto la risposta.",
+      "options": [
+        "Dopo di",
+        "Prima di",
+        "Invece di"
+      ],
+      "answer": "Dopo di",
+      "explanation": "Esercizio 69: La forma corretta è 'Dopo di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ decidere, agisco.",
+      "options": [
+        "Dopo di",
+        "Prima di",
+        "Invece di"
+      ],
+      "answer": "Dopo di",
+      "explanation": "Esercizio 70: La forma corretta è 'Dopo di'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la lezione, mi sono rilassato.",
+      "options": [
+        "Studiando",
+        "Studiato",
+        "Studiare"
+      ],
+      "answer": "Studiando",
+      "explanation": "Esercizio 71: La forma corretta è 'Studiando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il libro, mi sono divertito.",
+      "options": [
+        "Leggendo",
+        "Letto",
+        "Leggere"
+      ],
+      "answer": "Leggendo",
+      "explanation": "Esercizio 72: La forma corretta è 'Leggendo'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la musica, mi sono calmato.",
+      "options": [
+        "Ascoltando",
+        "Ascoltato",
+        "Ascoltare"
+      ],
+      "answer": "Ascoltando",
+      "explanation": "Esercizio 73: La forma corretta è 'Ascoltando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il caffè, mi sono svegliato.",
+      "options": [
+        "Bevendo",
+        "Bevuto",
+        "Bere"
+      ],
+      "answer": "Bevendo",
+      "explanation": "Esercizio 74: La forma corretta è 'Bevendo'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la TV, mi sono rilassato.",
+      "options": [
+        "Guardando",
+        "Guardato",
+        "Guardare"
+      ],
+      "answer": "Guardando",
+      "explanation": "Esercizio 75: La forma corretta è 'Guardando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il libro ___ è molto interessante.",
+      "options": [
+        "letto",
+        "leggendo",
+        "leggere"
+      ],
+      "answer": "letto",
+      "explanation": "Esercizio 76: La forma corretta è 'letto'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La musica ___ mi piace molto.",
+      "options": [
+        "ascoltata",
+        "ascoltando",
+        "ascoltare"
+      ],
+      "answer": "ascoltata",
+      "explanation": "Esercizio 77: La forma corretta è 'ascoltata'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il film ___ è divertente.",
+      "options": [
+        "visto",
+        "vedendo",
+        "vedere"
+      ],
+      "answer": "visto",
+      "explanation": "Esercizio 78: La forma corretta è 'visto'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Il caffè ___ mi sveglia.",
+      "options": [
+        "bevuto",
+        "bevendo",
+        "bere"
+      ],
+      "answer": "bevuto",
+      "explanation": "Esercizio 79: La forma corretta è 'bevuto'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "La TV ___ mi diverte.",
+      "options": [
+        "guardata",
+        "guardando",
+        "guardare"
+      ],
+      "answer": "guardata",
+      "explanation": "Esercizio 80: La forma corretta è 'guardata'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Prima di ___ uscire, chiudo la porta.",
+      "options": [
+        "poter",
+        "dover",
+        "voler"
+      ],
+      "answer": "poter",
+      "explanation": "Esercizio 81: La forma corretta è 'poter'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Invece di ___ mangiare, bevo solo acqua.",
+      "options": [
+        "dover",
+        "voler",
+        "poter"
+      ],
+      "answer": "dover",
+      "explanation": "Esercizio 82: La forma corretta è 'dover'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Dopo di ___ dormire, mi sveglio presto.",
+      "options": [
+        "aver",
+        "essere",
+        "fare"
+      ],
+      "answer": "aver",
+      "explanation": "Esercizio 83: La forma corretta è 'aver'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Prima di ___ partire, controllo tutto.",
+      "options": [
+        "dover",
+        "voler",
+        "poter"
+      ],
+      "answer": "dover",
+      "explanation": "Esercizio 84: La forma corretta è 'dover'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "Invece di ___ arrivare, torno indietro.",
+      "options": [
+        "voler",
+        "dover",
+        "poter"
+      ],
+      "answer": "voler",
+      "explanation": "Esercizio 85: La forma corretta è 'voler'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la lezione, ho capito tutto.",
+      "options": [
+        "Studiando",
+        "Studiato",
+        "Studiare"
+      ],
+      "answer": "Studiando",
+      "explanation": "Esercizio 86: La forma corretta è 'Studiando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il libro, ho imparato molto.",
+      "options": [
+        "Leggendo",
+        "Letto",
+        "Leggere"
+      ],
+      "answer": "Leggendo",
+      "explanation": "Esercizio 87: La forma corretta è 'Leggendo'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la musica, mi sono rilassato.",
+      "options": [
+        "Ascoltando",
+        "Ascoltato",
+        "Ascoltare"
+      ],
+      "answer": "Ascoltando",
+      "explanation": "Esercizio 88: La forma corretta è 'Ascoltando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il caffè, mi sono svegliato.",
+      "options": [
+        "Bevendo",
+        "Bevuto",
+        "Bere"
+      ],
+      "answer": "Bevendo",
+      "explanation": "Esercizio 89: La forma corretta è 'Bevendo'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la TV, mi sono divertito.",
+      "options": [
+        "Guardando",
+        "Guardato",
+        "Guardare"
+      ],
+      "answer": "Guardando",
+      "explanation": "Esercizio 90: La forma corretta è 'Guardando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la lezione, ho capito tutto.",
+      "options": [
+        "Studiando",
+        "Studiato",
+        "Studiare"
+      ],
+      "answer": "Studiando",
+      "explanation": "Esercizio 91: La forma corretta è 'Studiando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il libro, ho imparato molto.",
+      "options": [
+        "Leggendo",
+        "Letto",
+        "Leggere"
+      ],
+      "answer": "Leggendo",
+      "explanation": "Esercizio 92: La forma corretta è 'Leggendo'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la musica, mi sono rilassato.",
+      "options": [
+        "Ascoltando",
+        "Ascoltato",
+        "Ascoltare"
+      ],
+      "answer": "Ascoltando",
+      "explanation": "Esercizio 93: La forma corretta è 'Ascoltando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il caffè, mi sono svegliato.",
+      "options": [
+        "Bevendo",
+        "Bevuto",
+        "Bere"
+      ],
+      "answer": "Bevendo",
+      "explanation": "Esercizio 94: La forma corretta è 'Bevendo'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la TV, mi sono divertito.",
+      "options": [
+        "Guardando",
+        "Guardato",
+        "Guardare"
+      ],
+      "answer": "Guardando",
+      "explanation": "Esercizio 95: La forma corretta è 'Guardando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la lezione, ho capito tutto.",
+      "options": [
+        "Studiando",
+        "Studiato",
+        "Studiare"
+      ],
+      "answer": "Studiando",
+      "explanation": "Esercizio 96: La forma corretta è 'Studiando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il libro, ho imparato molto.",
+      "options": [
+        "Leggendo",
+        "Letto",
+        "Leggere"
+      ],
+      "answer": "Leggendo",
+      "explanation": "Esercizio 97: La forma corretta è 'Leggendo'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la musica, mi sono rilassato.",
+      "options": [
+        "Ascoltando",
+        "Ascoltato",
+        "Ascoltare"
+      ],
+      "answer": "Ascoltando",
+      "explanation": "Esercizio 98: La forma corretta è 'Ascoltando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ il caffè, mi sono svegliato.",
+      "options": [
+        "Bevendo",
+        "Bevuto",
+        "Bere"
+      ],
+      "answer": "Bevendo",
+      "explanation": "Esercizio 99: La forma corretta è 'Bevendo'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    },
+    {
+      "question": "___ la TV, mi sono divertito.",
+      "options": [
+        "Guardando",
+        "Guardato",
+        "Guardare"
+      ],
+      "answer": "Guardando",
+      "explanation": "Esercizio 100: La forma corretta è 'Guardando'. Le costruzioni non finite (gerundio, participio, infinito) sono forme verbali che non hanno persona e numero."
+    }
+  ]
+}
