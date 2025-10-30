@@ -136,7 +136,7 @@
       "options": [
         "importanza",
         "importante",
-        "importante"
+        "altro"
       ],
       "answer": "importanza",
       "explanation": "Esercizio 14: La forma corretta è 'importanza'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -285,8 +285,8 @@
       "question": "Il computer ___ i documenti.",
       "options": [
         "stampa",
-        "stampa",
-        "stampando"
+        "stampando",
+        "altro"
       ],
       "answer": "stampa",
       "explanation": "Esercizio 29: La forma corretta è 'stampa'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -765,8 +765,8 @@
       "question": "Il sistema ___ regolarmente le configurazioni.",
       "options": [
         "verifica",
-        "verifica",
-        "verificando"
+        "verificando",
+        "altro"
       ],
       "answer": "verifica",
       "explanation": "Esercizio 77: La forma corretta è 'verifica'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -905,7 +905,8 @@
       "question": "La ___ del progetto, ___ di fondamentale importanza, è in corso.",
       "options": [
         "realizzazione",
-        "come previsto"
+        "come previsto",
+        "altro"
       ],
       "answer": "realizzazione",
       "explanation": "Esercizio 91: La forma corretta è 'realizzazione'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -914,7 +915,8 @@
       "question": "La ___ delle informazioni, ___ già accennato, è necessaria.",
       "options": [
         "trasmissione",
-        "come si può immaginare"
+        "come si può immaginare",
+        "altro"
       ],
       "answer": "trasmissione",
       "explanation": "Esercizio 92: La forma corretta è 'trasmissione'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -923,7 +925,8 @@
       "question": "La ___ dei dati, ___ si può vedere, avviene automaticamente.",
       "options": [
         "elaborazione",
-        "come è noto"
+        "come è noto",
+        "altro"
       ],
       "answer": "elaborazione",
       "explanation": "Esercizio 93: La forma corretta è 'elaborazione'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -932,7 +935,8 @@
       "question": "La ___ del problema, ___ si può capire, è complessa.",
       "options": [
         "risoluzione",
-        "come si può notare"
+        "come si può notare",
+        "altro"
       ],
       "answer": "risoluzione",
       "explanation": "Esercizio 94: La forma corretta è 'risoluzione'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -941,7 +945,8 @@
       "question": "La ___ della situazione, ___ si può osservare, è urgente.",
       "options": [
         "analisi",
-        "come si può constatare"
+        "come si può constatare",
+        "altro"
       ],
       "answer": "analisi",
       "explanation": "Esercizio 95: La forma corretta è 'analisi'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -950,7 +955,8 @@
       "question": "Il sistema ___ automaticamente i dati, ___ come previsto.",
       "options": [
         "elabora",
-        "come si può immaginare"
+        "come si può immaginare",
+        "Quando"
       ],
       "answer": "elabora",
       "explanation": "Esercizio 96: La forma corretta è 'elabora'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -959,7 +965,8 @@
       "question": "Il software ___ le informazioni, ___ già accennato.",
       "options": [
         "processa",
-        "come è noto"
+        "come è noto",
+        "altro"
       ],
       "answer": "processa",
       "explanation": "Esercizio 97: La forma corretta è 'processa'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -968,7 +975,8 @@
       "question": "Il programma ___ i risultati, ___ si può vedere.",
       "options": [
         "calcola",
-        "come si può capire"
+        "come si può capire",
+        "altro"
       ],
       "answer": "calcola",
       "explanation": "Esercizio 98: La forma corretta è 'calcola'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -977,7 +985,8 @@
       "question": "Il sistema ___ gli errori, ___ si può notare.",
       "options": [
         "rileva",
-        "come si può osservare"
+        "come si può osservare",
+        "altro"
       ],
       "answer": "rileva",
       "explanation": "Esercizio 99: La forma corretta è 'rileva'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
@@ -986,7 +995,8 @@
       "question": "Il computer ___ i file, ___ si può constatare.",
       "options": [
         "archivia",
-        "come si può dedurre"
+        "come si può dedurre",
+        "altro"
       ],
       "answer": "archivia",
       "explanation": "Esercizio 100: La forma corretta è 'archivia'. La compressione/espansione regola la trasformazione tra forme nominali e verbali, nonché l'uso di costruzioni parentetiche per l'efficacia comunicativa in contesti complessi."
