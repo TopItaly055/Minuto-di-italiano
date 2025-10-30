@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Comparativi e superlativi (A2)",
+  "exercises": [
+    {
+      "question": "Marco è ___ alto ___ Luca.",
+      "options": [
+        "più... di",
+        "più... che",
+        "meno... che"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение двух людей: più + прилагательное + di."
+    },
+    {
+      "question": "Anna è ___ giovane ___ Maria.",
+      "options": [
+        "più... di",
+        "più... che",
+        "il più"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение двух людей: più giovane di."
+    },
+    {
+      "question": "Roma è ___ grande ___ Firenze.",
+      "options": [
+        "più... di",
+        "più... che",
+        "meno... che"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение двух городов: più grande di."
+    },
+    {
+      "question": "Il libro è ___ interessante ___ il film.",
+      "options": [
+        "più... di",
+        "più... che",
+        "meno... di"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение двух объектов: più interessante di."
+    },
+    {
+      "question": "Questa casa è ___ bella ___ quella.",
+      "options": [
+        "più... di",
+        "più... che",
+        "il più"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение двух объектов: più bella di."
+    },
+    {
+      "question": "Io sono ___ alto ___ te.",
+      "options": [
+        "meno... di",
+        "meno... che",
+        "più... di"
+      ],
+      "answer": "meno... di",
+      "explanation": "Сравнение: meno alto di te (менее высокий, чем ты)."
+    },
+    {
+      "question": "Questa macchina è ___ veloce ___ quella.",
+      "options": [
+        "meno... di",
+        "meno... che",
+        "più... che"
+      ],
+      "answer": "meno... di",
+      "explanation": "Сравнение двух объектов: meno veloce di."
+    },
+    {
+      "question": "Il gatto è ___ grande ___ il cane.",
+      "options": [
+        "meno... di",
+        "meno... che",
+        "più... di"
+      ],
+      "answer": "meno... di",
+      "explanation": "Сравнение двух животных: meno grande di."
+    },
+    {
+      "question": "È ___ intelligente ___ bello.",
+      "options": [
+        "più... che",
+        "più... di",
+        "il più"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение двух качеств одного человека: più... che."
+    },
+    {
+      "question": "Questo libro è ___ interessante ___ utile.",
+      "options": [
+        "più... che",
+        "più... di",
+        "meno... di"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение двух качеств одного объекта: più... che."
+    },
+    {
+      "question": "Sono ___ felice ___ triste.",
+      "options": [
+        "più... che",
+        "più... di",
+        "il più"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение двух состояний: più felice che triste."
+    },
+    {
+      "question": "È ___ facile ___ difficile.",
+      "options": [
+        "più... che",
+        "più... di",
+        "meno... di"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение двух характеристик: più... che."
+    },
+    {
+      "question": "È ___ facile parlare ___ scrivere.",
+      "options": [
+        "più... che",
+        "più... di",
+        "il più"
+      ],
+      "answer": "più... che",
+      "explanation": "Перед инфинитивами используется CHE: più facile parlare che scrivere."
+    },
+    {
+      "question": "È ___ bello leggere ___ guardare la TV.",
+      "options": [
+        "più... che",
+        "più... di",
+        "meno... di"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение двух действий: più... che + infinito."
+    },
+    {
+      "question": "È ___ importante studiare ___ giocare.",
+      "options": [
+        "più... che",
+        "più... di",
+        "il più"
+      ],
+      "answer": "più... che",
+      "explanation": "Перед инфинитивами: più importante studiare che giocare."
+    },
+    {
+      "question": "Marco è ___ ragazzo ___ classe.",
+      "options": [
+        "il più alto della",
+        "più alto di",
+        "altissimo"
+      ],
+      "answer": "il più alto della",
+      "explanation": "Относительная превосходная степень: il più alto della classe."
+    },
+    {
+      "question": "Anna è ___ ragazza ___ scuola.",
+      "options": [
+        "la più bella della",
+        "più bella di",
+        "bellissima"
+      ],
+      "answer": "la più bella della",
+      "explanation": "Относительная превосходная степень с женским родом: la più bella."
+    },
+    {
+      "question": "Questo è ___ film ___ anno.",
+      "options": [
+        "il più bello dell'",
+        "più bello di",
+        "bellissimo"
+      ],
+      "answer": "il più bello dell'",
+      "explanation": "Относительная превосходная степень: il più bello dell'anno."
+    },
+    {
+      "question": "Roma è ___ città ___ Italia.",
+      "options": [
+        "la più grande d'",
+        "più grande di",
+        "grandissima"
+      ],
+      "answer": "la più grande d'",
+      "explanation": "Относительная превосходная степень: la più grande d'Italia."
+    },
+    {
+      "question": "Questo è ___ libro ___ biblioteca.",
+      "options": [
+        "il meno interessante della",
+        "meno interessante di",
+        "interessantissimo"
+      ],
+      "answer": "il meno interessante della",
+      "explanation": "Относительная превосходная степень: il meno interessante della biblioteca."
+    },
+    {
+      "question": "È ___ studente ___ classe.",
+      "options": [
+        "il meno bravo della",
+        "meno bravo di",
+        "bravissimo"
+      ],
+      "answer": "il meno bravo della",
+      "explanation": "Относительная превосходная степень: il meno bravo."
+    },
+    {
+      "question": "Questo film è ___ .",
+      "options": [
+        "bellissimo",
+        "più bello",
+        "il più bello"
+      ],
+      "answer": "bellissimo",
+      "explanation": "Абсолютная превосходная степень: bellissimo (очень красивый)."
+    },
+    {
+      "question": "La pizza è ___ .",
+      "options": [
+        "buonissima",
+        "più buona",
+        "la più buona"
+      ],
+      "answer": "buonissima",
+      "explanation": "Абсолютная превосходная степень: buonissima (очень вкусная)."
+    },
+    {
+      "question": "Il libro è ___ .",
+      "options": [
+        "interessantissimo",
+        "più interessante",
+        "il più interessante"
+      ],
+      "answer": "interessantissimo",
+      "explanation": "Абсолютная превосходная степень: interessantissimo."
+    },
+    {
+      "question": "Maria è ___ .",
+      "options": [
+        "simpaticissima",
+        "più simpatica",
+        "la più simpatica"
+      ],
+      "answer": "simpaticissima",
+      "explanation": "Абсолютная превосходная степень: simpaticissima."
+    },
+    {
+      "question": "Il problema è ___ .",
+      "options": [
+        "difficilissimo",
+        "più difficile",
+        "il più difficile"
+      ],
+      "answer": "difficilissimo",
+      "explanation": "Абсолютная превосходная степень: difficilissimo."
+    },
+    {
+      "question": "Questo ristorante è ___ dell'altro.",
+      "options": [
+        "migliore",
+        "più buono",
+        "buonissimo"
+      ],
+      "answer": "migliore",
+      "explanation": "Неправильная сравнительная форма от 'buono': migliore (лучше)."
+    },
+    {
+      "question": "Questa pizza è ___ di quella.",
+      "options": [
+        "migliore",
+        "più buona",
+        "buonissima"
+      ],
+      "answer": "migliore",
+      "explanation": "Сравнительная степень: migliore (лучше)."
+    },
+    {
+      "question": "Questo è ___ ristorante della città.",
+      "options": [
+        "il migliore",
+        "il più buono",
+        "buonissimo"
+      ],
+      "answer": "il migliore",
+      "explanation": "Превосходная степень от 'buono': il migliore (самый лучший)."
+    },
+    {
+      "question": "Questo film è ___ dell'altro.",
+      "options": [
+        "peggiore",
+        "più cattivo",
+        "cattivissimo"
+      ],
+      "answer": "peggiore",
+      "explanation": "Неправильная сравнительная форма от 'cattivo': peggiore (хуже)."
+    },
+    {
+      "question": "Questa situazione è ___ di quella.",
+      "options": [
+        "peggiore",
+        "più cattiva",
+        "cattivissima"
+      ],
+      "answer": "peggiore",
+      "explanation": "Сравнительная степень: peggiore (хуже)."
+    },
+    {
+      "question": "Questo è ___ film dell'anno.",
+      "options": [
+        "il peggiore",
+        "il più cattivo",
+        "cattivissimo"
+      ],
+      "answer": "il peggiore",
+      "explanation": "Превосходная степень от 'cattivo': il peggiore (самый худший)."
+    },
+    {
+      "question": "Mio fratello è ___ di me.",
+      "options": [
+        "maggiore",
+        "più grande",
+        "grandissimo"
+      ],
+      "answer": "maggiore",
+      "explanation": "Неправильная форма от 'grande' (для возраста): maggiore (старше)."
+    },
+    {
+      "question": "Lui è il fratello ___ .",
+      "options": [
+        "maggiore",
+        "più grande",
+        "grandissimo"
+      ],
+      "answer": "maggiore",
+      "explanation": "Для указания старшинства в семье: il fratello maggiore."
+    },
+    {
+      "question": "Mia sorella è ___ di me.",
+      "options": [
+        "minore",
+        "più piccola",
+        "piccolissima"
+      ],
+      "answer": "minore",
+      "explanation": "Неправильная форма от 'piccolo' (для возраста): minore (младше)."
+    },
+    {
+      "question": "Lei è la sorella ___ .",
+      "options": [
+        "minore",
+        "più piccola",
+        "piccolissima"
+      ],
+      "answer": "minore",
+      "explanation": "Для указания младшинства в семье: la sorella minore."
+    },
+    {
+      "question": "Ho ___ di venti anni.",
+      "options": [
+        "più",
+        "più di",
+        "meno"
+      ],
+      "answer": "più",
+      "explanation": "Перед числительными: più di venti anni (больше двадцати лет)."
+    },
+    {
+      "question": "Costa ___ cento euro.",
+      "options": [
+        "più di",
+        "più che",
+        "meno che"
+      ],
+      "answer": "più di",
+      "explanation": "Перед числительными: più di cento euro."
+    },
+    {
+      "question": "Ci sono ___ dieci persone.",
+      "options": [
+        "più di",
+        "più che",
+        "meno che"
+      ],
+      "answer": "più di",
+      "explanation": "Перед числительными: più di dieci persone."
+    },
+    {
+      "question": "Milano è ___ cara ___ Roma.",
+      "options": [
+        "più... di",
+        "più... che",
+        "carissima"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение двух городов: più cara di."
+    },
+    {
+      "question": "L'italiano è ___ facile ___ difficile.",
+      "options": [
+        "più... che",
+        "più... di",
+        "facilissimo"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение двух качеств: più facile che difficile."
+    },
+    {
+      "question": "Il cane è ___ fedele ___ gatto.",
+      "options": [
+        "più... del",
+        "più... che",
+        "fedelissimo"
+      ],
+      "answer": "più... del",
+      "explanation": "Сравнение двух животных: più fedele del gatto."
+    },
+    {
+      "question": "Questa strada è ___ lunga ___ stretta.",
+      "options": [
+        "più... che",
+        "più... di",
+        "lunghissima"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение двух характеристик: più lunga che stretta."
+    },
+    {
+      "question": "Maria è ___ simpatica ___ Anna.",
+      "options": [
+        "meno... di",
+        "meno... che",
+        "più... di"
+      ],
+      "answer": "meno... di",
+      "explanation": "Сравнение двух людей: meno simpatica di."
+    },
+    {
+      "question": "Questo libro è ___ lungo ___ interessante.",
+      "options": [
+        "più... che",
+        "più... di",
+        "lunghissimo"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение двух качеств: più lungo che interessante."
+    },
+    {
+      "question": "Il treno è ___ veloce ___ autobus.",
+      "options": [
+        "più... dell'",
+        "più... che",
+        "velocissimo"
+      ],
+      "answer": "più... dell'",
+      "explanation": "Сравнение: più veloce dell'autobus."
+    },
+    {
+      "question": "L'estate è ___ calda ___ inverno.",
+      "options": [
+        "più... dell'",
+        "più... che",
+        "caldissima"
+      ],
+      "answer": "più... dell'",
+      "explanation": "Сравнение времен года: più calda dell'inverno."
+    },
+    {
+      "question": "Questo gelato è ___ !",
+      "options": [
+        "buonissimo",
+        "migliore",
+        "il migliore"
+      ],
+      "answer": "buonissimo",
+      "explanation": "Абсолютная превосходная степень: buonissimo (очень вкусный)."
+    },
+    {
+      "question": "La città è ___ .",
+      "options": [
+        "bellissima",
+        "più bella",
+        "la più bella"
+      ],
+      "answer": "bellissima",
+      "explanation": "Абсолютная превосходная степень: bellissima."
+    },
+    {
+      "question": "Il problema è ___ .",
+      "options": [
+        "difficilissimo",
+        "più difficile",
+        "il più difficile"
+      ],
+      "answer": "difficilissimo",
+      "explanation": "Абсолютная превосходная степень: difficilissimo."
+    },
+    {
+      "question": "Sono ___ contento!",
+      "options": [
+        "contentissimo",
+        "più contento",
+        "il più contento"
+      ],
+      "answer": "contentissimo",
+      "explanation": "Абсолютная превосходная степень: contentissimo."
+    },
+    {
+      "question": "La casa è ___ .",
+      "options": [
+        "grandissima",
+        "più grande",
+        "la più grande"
+      ],
+      "answer": "grandissima",
+      "explanation": "Абсолютная превосходная степень: grandissima."
+    },
+    {
+      "question": "Il film è ___ .",
+      "options": [
+        "noiosissimo",
+        "più noioso",
+        "il più noioso"
+      ],
+      "answer": "noiosissimo",
+      "explanation": "Абсолютная превосходная степень: noiosissimo."
+    },
+    {
+      "question": "Sei ___ !",
+      "options": [
+        "bravissimo",
+        "più bravo",
+        "il più bravo"
+      ],
+      "answer": "bravissimo",
+      "explanation": "Абсолютная превосходная степень: bravissimo."
+    },
+    {
+      "question": "Maria è ___ studentessa della classe.",
+      "options": [
+        "la più brava",
+        "più brava",
+        "bravissima"
+      ],
+      "answer": "la più brava",
+      "explanation": "Относительная превосходная степень: la più brava della classe."
+    },
+    {
+      "question": "Questo è ___ ristorante della città.",
+      "options": [
+        "il più caro",
+        "più caro",
+        "carissimo"
+      ],
+      "answer": "il più caro",
+      "explanation": "Относительная превосходная степень: il più caro."
+    },
+    {
+      "question": "Roma è ___ città d'Italia.",
+      "options": [
+        "la più grande",
+        "più grande",
+        "grandissima"
+      ],
+      "answer": "la più grande",
+      "explanation": "Относительная превосходная степень: la più grande d'Italia."
+    },
+    {
+      "question": "Questo è ___ giorno dell'anno.",
+      "options": [
+        "il più bello",
+        "più bello",
+        "bellissimo"
+      ],
+      "answer": "il più bello",
+      "explanation": "Относительная превосходная степень: il più bello."
+    },
+    {
+      "question": "Lei è ___ persona del mondo.",
+      "options": [
+        "la più gentile",
+        "più gentile",
+        "gentilissima"
+      ],
+      "answer": "la più gentile",
+      "explanation": "Относительная превосходная степень: la più gentile."
+    },
+    {
+      "question": "Maria parla ___ bene ___ Anna.",
+      "options": [
+        "più... di",
+        "più... che",
+        "benissimo"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение наречий с разными субъектами: più bene di (но лучше: meglio di)."
+    },
+    {
+      "question": "Cammino ___ velocemente ___ te.",
+      "options": [
+        "più... di",
+        "più... che",
+        "velocissimo"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение наречий: più velocemente di te."
+    },
+    {
+      "question": "Lui corre ___ lentamente ___ me.",
+      "options": [
+        "meno... di",
+        "meno... che",
+        "lentissimo"
+      ],
+      "answer": "meno... di",
+      "explanation": "Сравнение наречий: meno lentamente di me."
+    },
+    {
+      "question": "Lei cucina ___ di me.",
+      "options": [
+        "meglio",
+        "più bene",
+        "benissimo"
+      ],
+      "answer": "meglio",
+      "explanation": "Неправильная сравнительная форма от 'bene': meglio (лучше)."
+    },
+    {
+      "question": "Tu canti ___ di lui.",
+      "options": [
+        "peggio",
+        "più male",
+        "malissimo"
+      ],
+      "answer": "peggio",
+      "explanation": "Неправильная сравнительная форма от 'male': peggio (хуже)."
+    },
+    {
+      "question": "Questo è il ristorante dove si mangia ___ .",
+      "options": [
+        "meglio",
+        "più bene",
+        "benissimo"
+      ],
+      "answer": "meglio",
+      "explanation": "Сравнительная степень наречия: meglio."
+    },
+    {
+      "question": "Oggi sto ___ di ieri.",
+      "options": [
+        "peggio",
+        "più male",
+        "malissimo"
+      ],
+      "answer": "peggio",
+      "explanation": "Сравнение состояния: sto peggio (мне хуже)."
+    },
+    {
+      "question": "Sono alto ___ te.",
+      "options": [
+        "come",
+        "più di",
+        "meno di"
+      ],
+      "answer": "come",
+      "explanation": "'Come' выражает равенство: alto come te (такой же высокий, как ты)."
+    },
+    {
+      "question": "È bella ___ sua madre.",
+      "options": [
+        "come",
+        "più di",
+        "meno di"
+      ],
+      "answer": "come",
+      "explanation": "Равенство: bella come sua madre."
+    },
+    {
+      "question": "Lavoro molto ___ lui.",
+      "options": [
+        "come",
+        "più di",
+        "meno di"
+      ],
+      "answer": "come",
+      "explanation": "Равенство с наречием: molto come lui."
+    },
+    {
+      "question": "Sono stanco ___ te.",
+      "options": [
+        "quanto",
+        "più di",
+        "come"
+      ],
+      "answer": "quanto",
+      "explanation": "'Quanto' выражает равенство: stanco quanto te."
+    },
+    {
+      "question": "È bravo ___ suo fratello.",
+      "options": [
+        "quanto",
+        "più di",
+        "come"
+      ],
+      "answer": "quanto",
+      "explanation": "Равенство: bravo quanto suo fratello."
+    },
+    {
+      "question": "Milano è ___ popolata ___ Roma.",
+      "options": [
+        "meno... di",
+        "meno... che",
+        "più... che"
+      ],
+      "answer": "meno... di",
+      "explanation": "Сравнение двух городов: meno popolata di Roma."
+    },
+    {
+      "question": "Il mare è ___ rilassante ___ montagna.",
+      "options": [
+        "più... della",
+        "più... che",
+        "rilassantissimo"
+      ],
+      "answer": "più... della",
+      "explanation": "Сравнение: più rilassante della montagna."
+    },
+    {
+      "question": "Questo esercizio è ___ facile ___ quello.",
+      "options": [
+        "più... di",
+        "più... che",
+        "facilissimo"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение двух упражнений: più facile di quello."
+    },
+    {
+      "question": "L'italiano è ___ difficile ___ cinese.",
+      "options": [
+        "meno... del",
+        "meno... che",
+        "difficilissimo"
+      ],
+      "answer": "meno... del",
+      "explanation": "Сравнение языков: meno difficile del cinese."
+    },
+    {
+      "question": "Oggi fa ___ caldo ___ ieri.",
+      "options": [
+        "più... di",
+        "più... che",
+        "caldissimo"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение: più caldo di ieri."
+    },
+    {
+      "question": "Questa strada è ___ quella.",
+      "options": [
+        "più lunga di",
+        "più lunga che",
+        "lunghissima"
+      ],
+      "answer": "più lunga di",
+      "explanation": "Сравнение двух дорог: più lunga di quella."
+    },
+    {
+      "question": "È ___ utile ascoltare ___ parlare.",
+      "options": [
+        "più... che",
+        "più... di",
+        "utilissimo"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение двух действий: più utile ascoltare che parlare."
+    },
+    {
+      "question": "È ___ divertente giocare ___ studiare.",
+      "options": [
+        "più... che",
+        "più... di",
+        "divertentissimo"
+      ],
+      "answer": "più... che",
+      "explanation": "Перед инфинитивами: più... che."
+    },
+    {
+      "question": "È ___ difficile scrivere ___ leggere.",
+      "options": [
+        "più... che",
+        "più... di",
+        "difficilissimo"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение действий: più difficile scrivere che leggere."
+    },
+    {
+      "question": "Tu sei ___ di me.",
+      "options": [
+        "più giovane",
+        "giovane come",
+        "giovanissimo"
+      ],
+      "answer": "più giovane",
+      "explanation": "Сравнительная степень: più giovane di me."
+    },
+    {
+      "question": "Questa casa è ___ .",
+      "options": [
+        "modernissima",
+        "più moderna",
+        "la più moderna"
+      ],
+      "answer": "modernissima",
+      "explanation": "Абсолютная превосходная степень: modernissima."
+    },
+    {
+      "question": "Il treno è ___ comodo ___ aereo.",
+      "options": [
+        "meno... dell'",
+        "meno... che",
+        "comodissimo"
+      ],
+      "answer": "meno... dell'",
+      "explanation": "Сравнение: meno comodo dell'aereo."
+    },
+    {
+      "question": "Sei ___ studente della scuola!",
+      "options": [
+        "il più bravo",
+        "più bravo",
+        "bravissimo"
+      ],
+      "answer": "il più bravo",
+      "explanation": "Относительная превосходная степень: il più bravo."
+    },
+    {
+      "question": "Questo vino è ___ .",
+      "options": [
+        "ottimo",
+        "più buono",
+        "il più buono"
+      ],
+      "answer": "ottimo",
+      "explanation": "Неправильная абсолютная форма от 'buono': ottimo (отличный)."
+    },
+    {
+      "question": "Questa pizza è ___ .",
+      "options": [
+        "pessima",
+        "più cattiva",
+        "il più cattiva"
+      ],
+      "answer": "pessima",
+      "explanation": "Неправильная абсолютная форма от 'cattivo': pessima (ужасная)."
+    },
+    {
+      "question": "L'esame è ___ di quanto pensavo.",
+      "options": [
+        "più difficile",
+        "difficile come",
+        "difficilissimo"
+      ],
+      "answer": "più difficile",
+      "explanation": "Сравнительная степень: più difficile di quanto pensavo."
+    },
+    {
+      "question": "Questo film è ___ noioso dell'altro.",
+      "options": [
+        "più... di",
+        "più... che",
+        "noiosissimo"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение фильмов: più noioso di."
+    },
+    {
+      "question": "Maria corre ___ veloce ___ Anna.",
+      "options": [
+        "più... di",
+        "più... che",
+        "velocissima"
+      ],
+      "answer": "più... di",
+      "explanation": "Сравнение действий разных людей: più veloce di."
+    },
+    {
+      "question": "Questo libro è ___ interessante ___ utile.",
+      "options": [
+        "meno... che",
+        "meno... di",
+        "interessantissimo"
+      ],
+      "answer": "meno... che",
+      "explanation": "Сравнение качеств одного объекта: meno... che."
+    },
+    {
+      "question": "Il Po è ___ fiume d'Italia.",
+      "options": [
+        "il più lungo",
+        "più lungo",
+        "lunghissimo"
+      ],
+      "answer": "il più lungo",
+      "explanation": "Относительная превосходная степень: il più lungo d'Italia."
+    },
+    {
+      "question": "Questo è ___ esercizio del libro.",
+      "options": [
+        "il più facile",
+        "più facile",
+        "facilissimo"
+      ],
+      "answer": "il più facile",
+      "explanation": "Относительная превосходная степень: il più facile."
+    },
+    {
+      "question": "La pasta è ___ buona della pizza.",
+      "options": [
+        "meno... di",
+        "meno... che",
+        "buonissima"
+      ],
+      "answer": "meno... di",
+      "explanation": "Сравнение блюд: meno buona di (хотя лучше использовать 'della')."
+    },
+    {
+      "question": "Sono ___ stanco ___ affamato.",
+      "options": [
+        "più... che",
+        "più... di",
+        "stanchissimo"
+      ],
+      "answer": "più... che",
+      "explanation": "Сравнение двух состояний: più stanco che affamato."
+    },
+    {
+      "question": "Questo vino è ___ .",
+      "options": [
+        "ottimo",
+        "buonissimo",
+        "più buono"
+      ],
+      "answer": "ottimo",
+      "explanation": "Неправильная превосходная форма: ottimo (отличное)."
+    },
+    {
+      "question": "Il tempo oggi è ___ .",
+      "options": [
+        "pessimo",
+        "cattivissimo",
+        "più cattivo"
+      ],
+      "answer": "pessimo",
+      "explanation": "Неправильная превосходная форма: pessimo (ужасная погода)."
+    },
+    {
+      "question": "Tu leggi ___ di me.",
+      "options": [
+        "più",
+        "più di",
+        "molto"
+      ],
+      "answer": "più",
+      "explanation": "Сравнение без дополнения: leggi più (читаешь больше)."
+    },
+    {
+      "question": "Lui studia ___ di tutti.",
+      "options": [
+        "meno",
+        "meno di",
+        "poco"
+      ],
+      "answer": "meno",
+      "explanation": "Сравнение: studia meno di tutti."
+    },
+    {
+      "question": "È la città ___ bella che abbia visto.",
+      "options": [
+        "più",
+        "più di",
+        "bellissima"
+      ],
+      "answer": "più",
+      "explanation": "Относительная превосходная: la città più bella."
+    },
+    {
+      "question": "Questo è l'hotel ___ caro della zona.",
+      "options": [
+        "meno",
+        "meno di",
+        "carissimo"
+      ],
+      "answer": "meno",
+      "explanation": "Относительная превосходная: l'hotel meno caro."
+    }
+  ]
+}
