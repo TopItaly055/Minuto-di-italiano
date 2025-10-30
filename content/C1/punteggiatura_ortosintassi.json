@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Punteggiatura e ortosintassi (C1)",
+  "exercises": [
+    {
+      "question": "Il libro è interessante, ___ non è facile.",
+      "options": [
+        "ma",
+        "e",
+        "o"
+      ],
+      "answer": "ma",
+      "explanation": "Esercizio 1: La forma corretta è 'ma'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro è interessante, ___ è difficile.",
+      "options": [
+        "ma",
+        "e",
+        "o"
+      ],
+      "answer": "ma",
+      "explanation": "Esercizio 2: La forma corretta è 'ma'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro è interessante, ___ è costoso.",
+      "options": [
+        "ma",
+        "e",
+        "o"
+      ],
+      "answer": "ma",
+      "explanation": "Esercizio 3: La forma corretta è 'ma'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro è interessante, ___ è lungo.",
+      "options": [
+        "ma",
+        "e",
+        "o"
+      ],
+      "answer": "ma",
+      "explanation": "Esercizio 4: La forma corretta è 'ma'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro è interessante, ___ è noioso.",
+      "options": [
+        "ma",
+        "e",
+        "o"
+      ],
+      "answer": "ma",
+      "explanation": "Esercizio 5: La forma corretta è 'ma'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro è interessante, ___ è utile.",
+      "options": [
+        "e",
+        "ma",
+        "o"
+      ],
+      "answer": "e",
+      "explanation": "Esercizio 6: La forma corretta è 'e'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro è interessante, ___ è bello.",
+      "options": [
+        "e",
+        "ma",
+        "o"
+      ],
+      "answer": "e",
+      "explanation": "Esercizio 7: La forma corretta è 'e'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro è interessante, ___ è nuovo.",
+      "options": [
+        "e",
+        "ma",
+        "o"
+      ],
+      "answer": "e",
+      "explanation": "Esercizio 8: La forma corretta è 'e'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro è interessante, ___ è antico.",
+      "options": [
+        "e",
+        "ma",
+        "o"
+      ],
+      "answer": "e",
+      "explanation": "Esercizio 9: La forma corretta è 'e'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro è interessante, ___ è raro.",
+      "options": [
+        "e",
+        "ma",
+        "o"
+      ],
+      "answer": "e",
+      "explanation": "Esercizio 10: La forma corretta è 'e'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro, ___ dicono, è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 11: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro, ___ dicono, è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 12: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro, ___ dicono, è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 13: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro, ___ dicono, è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 14: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro, ___ dicono, è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 15: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro, ___ dicono, è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 16: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro, ___ dicono, è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 17: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro, ___ dicono, è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 18: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro, ___ dicono, è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 19: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro, ___ dicono, è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 20: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco, ___ professore, insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 21: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco, ___ professore, insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 22: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco, ___ professore, insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 23: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco, ___ professore, insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 24: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco, ___ professore, insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 25: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco, ___ professore, insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 26: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco, ___ professore, insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 27: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco, ___ professore, insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 28: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco, ___ professore, insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 29: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco, ___ professore, insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 30: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Ho comprato: ___ libro, una penna e un quaderno.",
+      "options": [
+        "un",
+        "il",
+        "lo"
+      ],
+      "answer": "un",
+      "explanation": "Esercizio 31: La forma corretta è 'un'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Ho comprato: ___ libro, una penna e un quaderno.",
+      "options": [
+        "un",
+        "il",
+        "lo"
+      ],
+      "answer": "un",
+      "explanation": "Esercizio 32: La forma corretta è 'un'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Ho comprato: ___ libro, una penna e un quaderno.",
+      "options": [
+        "un",
+        "il",
+        "lo"
+      ],
+      "answer": "un",
+      "explanation": "Esercizio 33: La forma corretta è 'un'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Ho comprato: ___ libro, una penna e un quaderno.",
+      "options": [
+        "un",
+        "il",
+        "lo"
+      ],
+      "answer": "un",
+      "explanation": "Esercizio 34: La forma corretta è 'un'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Ho comprato: ___ libro, una penna e un quaderno.",
+      "options": [
+        "un",
+        "il",
+        "lo"
+      ],
+      "answer": "un",
+      "explanation": "Esercizio 35: La forma corretta è 'un'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Ho comprato: ___ libro, una penna e un quaderno.",
+      "options": [
+        "un",
+        "il",
+        "lo"
+      ],
+      "answer": "un",
+      "explanation": "Esercizio 36: La forma corretta è 'un'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Ho comprato: ___ libro, una penna e un quaderno.",
+      "options": [
+        "un",
+        "il",
+        "lo"
+      ],
+      "answer": "un",
+      "explanation": "Esercizio 37: La forma corretta è 'un'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Ho comprato: ___ libro, una penna e un quaderno.",
+      "options": [
+        "un",
+        "il",
+        "lo"
+      ],
+      "answer": "un",
+      "explanation": "Esercizio 38: La forma corretta è 'un'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Ho comprato: ___ libro, una penna e un quaderno.",
+      "options": [
+        "un",
+        "il",
+        "lo"
+      ],
+      "answer": "un",
+      "explanation": "Esercizio 39: La forma corretta è 'un'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Ho comprato: ___ libro, una penna e un quaderno.",
+      "options": [
+        "un",
+        "il",
+        "lo"
+      ],
+      "answer": "un",
+      "explanation": "Esercizio 40: La forma corretta è 'un'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo: ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 41: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo: ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 42: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo: ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 43: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo: ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 44: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo: ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 45: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo: ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 46: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo: ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 47: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo: ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 48: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo: ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 49: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo: ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 50: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco ha detto: \"___ parlo italiano\".",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Esercizio 51: La forma corretta è 'Io'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco ha detto: \"___ parlo italiano\".",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Esercizio 52: La forma corretta è 'Io'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco ha detto: \"___ parlo italiano\".",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Esercizio 53: La forma corretta è 'Io'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco ha detto: \"___ parlo italiano\".",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Esercizio 54: La forma corretta è 'Io'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco ha detto: \"___ parlo italiano\".",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Esercizio 55: La forma corretta è 'Io'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco ha detto: \"___ parlo italiano\".",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Esercizio 56: La forma corretta è 'Io'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco ha detto: \"___ parlo italiano\".",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Esercizio 57: La forma corretta è 'Io'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco ha detto: \"___ parlo italiano\".",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Esercizio 58: La forma corretta è 'Io'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco ha detto: \"___ parlo italiano\".",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Esercizio 59: La forma corretta è 'Io'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco ha detto: \"___ parlo italiano\".",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Esercizio 60: La forma corretta è 'Io'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro - ___ dicono - è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 61: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro - ___ dicono - è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 62: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro - ___ dicono - è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 63: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro - ___ dicono - è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 64: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro - ___ dicono - è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 65: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro - ___ dicono - è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 66: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro - ___ dicono - è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 67: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro - ___ dicono - è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 68: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro - ___ dicono - è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 69: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro - ___ dicono - è interessante.",
+      "options": [
+        "come",
+        "che",
+        "quando"
+      ],
+      "answer": "come",
+      "explanation": "Esercizio 70: La forma corretta è 'come'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco - ___ professore - insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 71: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco - ___ professore - insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 72: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco - ___ professore - insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 73: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco - ___ professore - insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 74: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco - ___ professore - insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 75: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco - ___ professore - insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 76: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco - ___ professore - insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 77: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco - ___ professore - insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 78: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco - ___ professore - insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 79: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Marco - ___ professore - insegna italiano.",
+      "options": [
+        "il",
+        "un",
+        "lo"
+      ],
+      "answer": "il",
+      "explanation": "Esercizio 80: La forma corretta è 'il'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo - ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 81: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo - ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 82: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo - ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 83: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo - ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 84: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo - ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 85: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo - ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 86: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo - ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 87: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo - ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 88: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo - ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 89: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il problema è questo - ___ non capisco.",
+      "options": [
+        "non",
+        "non",
+        "non"
+      ],
+      "answer": "non",
+      "explanation": "Esercizio 90: La forma corretta è 'non'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro 91 è interessante, ___ non è facile.",
+      "options": [
+        "ma",
+        "e",
+        "o"
+      ],
+      "answer": "ma",
+      "explanation": "Esercizio 91: La forma corretta è 'ma'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro 92 è interessante, ___ è difficile.",
+      "options": [
+        "ma",
+        "e",
+        "o"
+      ],
+      "answer": "ma",
+      "explanation": "Esercizio 92: La forma corretta è 'ma'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro 93 è interessante, ___ è costoso.",
+      "options": [
+        "ma",
+        "e",
+        "o"
+      ],
+      "answer": "ma",
+      "explanation": "Esercizio 93: La forma corretta è 'ma'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro 94 è interessante, ___ è lungo.",
+      "options": [
+        "ma",
+        "e",
+        "o"
+      ],
+      "answer": "ma",
+      "explanation": "Esercizio 94: La forma corretta è 'ma'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro 95 è interessante, ___ è noioso.",
+      "options": [
+        "ma",
+        "e",
+        "o"
+      ],
+      "answer": "ma",
+      "explanation": "Esercizio 95: La forma corretta è 'ma'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro 96 è interessante, ___ è utile.",
+      "options": [
+        "e",
+        "ma",
+        "o"
+      ],
+      "answer": "e",
+      "explanation": "Esercizio 96: La forma corretta è 'e'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro 97 è interessante, ___ è bello.",
+      "options": [
+        "e",
+        "ma",
+        "o"
+      ],
+      "answer": "e",
+      "explanation": "Esercizio 97: La forma corretta è 'e'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro 98 è interessante, ___ è nuovo.",
+      "options": [
+        "e",
+        "ma",
+        "o"
+      ],
+      "answer": "e",
+      "explanation": "Esercizio 98: La forma corretta è 'e'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro 99 è interessante, ___ è antico.",
+      "options": [
+        "e",
+        "ma",
+        "o"
+      ],
+      "answer": "e",
+      "explanation": "Esercizio 99: La forma corretta è 'e'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    },
+    {
+      "question": "Il libro 100 è interessante, ___ è raro.",
+      "options": [
+        "e",
+        "ma",
+        "o"
+      ],
+      "answer": "e",
+      "explanation": "Esercizio 100: La forma corretta è 'e'. La punteggiatura e l'ortosintassi regolano l'uso di virgola, due punti e trattino come mezzi grammaticali in contesti formali."
+    }
+  ]
+}
