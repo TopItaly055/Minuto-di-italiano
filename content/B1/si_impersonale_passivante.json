@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Si impersonale e si passivante (B1)",
+  "exercises": [
+    {
+      "question": "In Italia ___ molto la pasta.",
+      "options": [
+        "si mangia",
+        "si mangiano",
+        "si è mangiato"
+      ],
+      "answer": "si mangia",
+      "explanation": "Esercizio 1: La forma corretta è 'si mangia'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo ristorante ___ bene.",
+      "options": [
+        "si mangia",
+        "si mangiano",
+        "si è mangiato"
+      ],
+      "answer": "si mangia",
+      "explanation": "Esercizio 2: La forma corretta è 'si mangia'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Qui ___ sempre tardi.",
+      "options": [
+        "si cena",
+        "si cenano",
+        "si è cenato"
+      ],
+      "answer": "si cena",
+      "explanation": "Esercizio 3: La forma corretta è 'si cena'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In Italia ___ molto il calcio.",
+      "options": [
+        "si gioca",
+        "si giocano",
+        "si è giocato"
+      ],
+      "answer": "si gioca",
+      "explanation": "Esercizio 4: La forma corretta è 'si gioca'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questa città ___ molto.",
+      "options": [
+        "si cammina",
+        "si camminano",
+        "si è camminato"
+      ],
+      "answer": "si cammina",
+      "explanation": "Esercizio 5: La forma corretta è 'si cammina'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In montagna ___ bene.",
+      "options": [
+        "si respira",
+        "si respirano",
+        "si è respirato"
+      ],
+      "answer": "si respira",
+      "explanation": "Esercizio 6: La forma corretta è 'si respira'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Al mare ___ rilassati.",
+      "options": [
+        "si sta",
+        "si stanno",
+        "si è stati"
+      ],
+      "answer": "si sta",
+      "explanation": "Esercizio 7: La forma corretta è 'si sta'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In vacanza ___ tranquilli.",
+      "options": [
+        "si vive",
+        "si vivono",
+        "si è vissuto"
+      ],
+      "answer": "si vive",
+      "explanation": "Esercizio 8: La forma corretta è 'si vive'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo posto ___ bene.",
+      "options": [
+        "si dorme",
+        "si dormono",
+        "si è dormito"
+      ],
+      "answer": "si dorme",
+      "explanation": "Esercizio 9: La forma corretta è 'si dorme'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In campagna ___ tranquilli.",
+      "options": [
+        "si riposa",
+        "si riposano",
+        "si è riposato"
+      ],
+      "answer": "si riposa",
+      "explanation": "Esercizio 10: La forma corretta è 'si riposa'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "La mattina ___ presto.",
+      "options": [
+        "ci si alza",
+        "si alza",
+        "si è alzati"
+      ],
+      "answer": "ci si alza",
+      "explanation": "Esercizio 11: La forma corretta è 'ci si alza'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "La sera ___ tardi.",
+      "options": [
+        "ci si corica",
+        "si corica",
+        "si è coricati"
+      ],
+      "answer": "ci si corica",
+      "explanation": "Esercizio 12: La forma corretta è 'ci si corica'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo posto ___ bene.",
+      "options": [
+        "ci si sente",
+        "si sente",
+        "si è sentiti"
+      ],
+      "answer": "ci si sente",
+      "explanation": "Esercizio 13: La forma corretta è 'ci si sente'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Qui ___ tranquilli.",
+      "options": [
+        "ci si trova",
+        "si trova",
+        "si è trovati"
+      ],
+      "answer": "ci si trova",
+      "explanation": "Esercizio 14: La forma corretta è 'ci si trova'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In vacanza ___ rilassati.",
+      "options": [
+        "ci si sente",
+        "si sente",
+        "si è sentiti"
+      ],
+      "answer": "ci si sente",
+      "explanation": "Esercizio 15: La forma corretta è 'ci si sente'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In Italia ___ guidare a destra.",
+      "options": [
+        "si deve",
+        "si devono",
+        "si è dovuto"
+      ],
+      "answer": "si deve",
+      "explanation": "Esercizio 16: La forma corretta è 'si deve'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Qui ___ parlare piano.",
+      "options": [
+        "si può",
+        "si possono",
+        "si è potuto"
+      ],
+      "answer": "si può",
+      "explanation": "Esercizio 17: La forma corretta è 'si può'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo posto ___ stare attenti.",
+      "options": [
+        "si deve",
+        "si devono",
+        "si è dovuto"
+      ],
+      "answer": "si deve",
+      "explanation": "Esercizio 18: La forma corretta è 'si deve'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Qui ___ fare silenzio.",
+      "options": [
+        "si deve",
+        "si devono",
+        "si è dovuto"
+      ],
+      "answer": "si deve",
+      "explanation": "Esercizio 19: La forma corretta è 'si deve'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo ristorante ___ prenotare.",
+      "options": [
+        "si deve",
+        "si devono",
+        "si è dovuto"
+      ],
+      "answer": "si deve",
+      "explanation": "Esercizio 20: La forma corretta è 'si deve'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Ieri ___ molto.",
+      "options": [
+        "si è mangiato",
+        "si mangia",
+        "si mangiano"
+      ],
+      "answer": "si è mangiato",
+      "explanation": "Esercizio 21: La forma corretta è 'si è mangiato'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stamattina ___ presto.",
+      "options": [
+        "ci si è alzati",
+        "ci si alza",
+        "ci si alzano"
+      ],
+      "answer": "ci si è alzati",
+      "explanation": "Esercizio 22: La forma corretta è 'ci si è alzati'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Ieri sera ___ tardi.",
+      "options": [
+        "ci si è coricati",
+        "ci si corica",
+        "ci si coricano"
+      ],
+      "answer": "ci si è coricati",
+      "explanation": "Esercizio 23: La forma corretta è 'ci si è coricati'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stamattina ___ bene.",
+      "options": [
+        "si è dormito",
+        "si dorme",
+        "si dormono"
+      ],
+      "answer": "si è dormito",
+      "explanation": "Esercizio 24: La forma corretta è 'si è dormito'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Ieri ___ molto.",
+      "options": [
+        "si è camminato",
+        "si cammina",
+        "si camminano"
+      ],
+      "answer": "si è camminato",
+      "explanation": "Esercizio 25: La forma corretta è 'si è camminato'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Domani ___ presto.",
+      "options": [
+        "ci si alzerà",
+        "ci si alza",
+        "ci si alzano"
+      ],
+      "answer": "ci si alzerà",
+      "explanation": "Esercizio 26: La forma corretta è 'ci si alzerà'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stasera ___ tardi.",
+      "options": [
+        "si cenerà",
+        "si cena",
+        "si cenano"
+      ],
+      "answer": "si cenerà",
+      "explanation": "Esercizio 27: La forma corretta è 'si cenerà'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Domani ___ molto.",
+      "options": [
+        "si camminerà",
+        "si cammina",
+        "si camminano"
+      ],
+      "answer": "si camminerà",
+      "explanation": "Esercizio 28: La forma corretta è 'si camminerà'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stasera ___ bene.",
+      "options": [
+        "si dormirà",
+        "si dorme",
+        "si dormono"
+      ],
+      "answer": "si dormirà",
+      "explanation": "Esercizio 29: La forma corretta è 'si dormirà'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Domani ___ rilassati.",
+      "options": [
+        "ci si sentirà",
+        "ci si sente",
+        "ci si sentono"
+      ],
+      "answer": "ci si sentirà",
+      "explanation": "Esercizio 30: La forma corretta è 'ci si sentirà'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Se ___ tempo, ___ al mare.",
+      "options": [
+        "si ha",
+        "si ha",
+        "si ha"
+      ],
+      "answer": "si ha",
+      "explanation": "Esercizio 31: La forma corretta è 'si ha'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Se ___ soldi, ___ in vacanza.",
+      "options": [
+        "si ha",
+        "si ha",
+        "si ha"
+      ],
+      "answer": "si ha",
+      "explanation": "Esercizio 32: La forma corretta è 'si ha'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Se ___ tempo, ___ un libro.",
+      "options": [
+        "si ha",
+        "si ha",
+        "si ha"
+      ],
+      "answer": "si ha",
+      "explanation": "Esercizio 33: La forma corretta è 'si ha'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Se ___ soldi, ___ un regalo.",
+      "options": [
+        "si ha",
+        "si ha",
+        "si ha"
+      ],
+      "answer": "si ha",
+      "explanation": "Esercizio 34: La forma corretta è 'si ha'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Se ___ tempo, ___ un film.",
+      "options": [
+        "si ha",
+        "si ha",
+        "si ha"
+      ],
+      "answer": "si ha",
+      "explanation": "Esercizio 35: La forma corretta è 'si ha'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "___ al mare, ___ bene.",
+      "options": [
+        "Andando",
+        "Andando",
+        "Andando"
+      ],
+      "answer": "Andando",
+      "explanation": "Esercizio 36: La forma corretta è 'Andando'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "___ in montagna, ___ aria fresca.",
+      "options": [
+        "Andando",
+        "Andando",
+        "Andando"
+      ],
+      "answer": "Andando",
+      "explanation": "Esercizio 37: La forma corretta è 'Andando'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "___ in città, ___ molto.",
+      "options": [
+        "Camminando",
+        "Camminando",
+        "Camminando"
+      ],
+      "answer": "Camminando",
+      "explanation": "Esercizio 38: La forma corretta è 'Camminando'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "___ in campagna, ___ tranquilli.",
+      "options": [
+        "Stando",
+        "Stando",
+        "Stando"
+      ],
+      "answer": "Stando",
+      "explanation": "Esercizio 39: La forma corretta è 'Stando'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "___ in vacanza, ___ rilassati.",
+      "options": [
+        "Andando",
+        "Andando",
+        "Andando"
+      ],
+      "answer": "Andando",
+      "explanation": "Esercizio 40: La forma corretta è 'Andando'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "È bello ___ al mare.",
+      "options": [
+        "andare",
+        "andare",
+        "andare"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 41: La forma corretta è 'andare'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "È piacevole ___ in montagna.",
+      "options": [
+        "stare",
+        "stare",
+        "stare"
+      ],
+      "answer": "stare",
+      "explanation": "Esercizio 42: La forma corretta è 'stare'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "È rilassante ___ in campagna.",
+      "options": [
+        "vivere",
+        "vivere",
+        "vivere"
+      ],
+      "answer": "vivere",
+      "explanation": "Esercizio 43: La forma corretta è 'vivere'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "È bello ___ in vacanza.",
+      "options": [
+        "andare",
+        "andare",
+        "andare"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 44: La forma corretta è 'andare'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "È piacevole ___ al sole.",
+      "options": [
+        "stare",
+        "stare",
+        "stare"
+      ],
+      "answer": "stare",
+      "explanation": "Esercizio 45: La forma corretta è 'stare'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo ristorante ___ buona pasta.",
+      "options": [
+        "si mangia",
+        "si mangiano",
+        "si è mangiato"
+      ],
+      "answer": "si mangia",
+      "explanation": "Esercizio 46: La forma corretta è 'si mangia'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In Italia ___ buon vino.",
+      "options": [
+        "si beve",
+        "si bevono",
+        "si è bevuto"
+      ],
+      "answer": "si beve",
+      "explanation": "Esercizio 47: La forma corretta è 'si beve'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questa città ___ buona musica.",
+      "options": [
+        "si ascolta",
+        "si ascoltano",
+        "si è ascoltato"
+      ],
+      "answer": "si ascolta",
+      "explanation": "Esercizio 48: La forma corretta è 'si ascolta'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo posto ___ buon caffè.",
+      "options": [
+        "si beve",
+        "si bevono",
+        "si è bevuto"
+      ],
+      "answer": "si beve",
+      "explanation": "Esercizio 49: La forma corretta è 'si beve'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In Italia ___ buona pizza.",
+      "options": [
+        "si mangia",
+        "si mangiano",
+        "si è mangiato"
+      ],
+      "answer": "si mangia",
+      "explanation": "Esercizio 50: La forma corretta è 'si mangia'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In Italia ___ molte macchine.",
+      "options": [
+        "si vedono",
+        "si vede",
+        "si è visto"
+      ],
+      "answer": "si vedono",
+      "explanation": "Esercizio 51: La forma corretta è 'si vedono'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questa città ___ molti turisti.",
+      "options": [
+        "si vedono",
+        "si vede",
+        "si è visto"
+      ],
+      "answer": "si vedono",
+      "explanation": "Esercizio 52: La forma corretta è 'si vedono'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo posto ___ molte persone.",
+      "options": [
+        "si vedono",
+        "si vede",
+        "si è visto"
+      ],
+      "answer": "si vedono",
+      "explanation": "Esercizio 53: La forma corretta è 'si vedono'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In Italia ___ molti monumenti.",
+      "options": [
+        "si vedono",
+        "si vede",
+        "si è visto"
+      ],
+      "answer": "si vedono",
+      "explanation": "Esercizio 54: La forma corretta è 'si vedono'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questa città ___ molti negozi.",
+      "options": [
+        "si vedono",
+        "si vede",
+        "si è visto"
+      ],
+      "answer": "si vedono",
+      "explanation": "Esercizio 55: La forma corretta è 'si vedono'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Ieri ___ molte persone.",
+      "options": [
+        "si sono viste",
+        "si vede",
+        "si vedono"
+      ],
+      "answer": "si sono viste",
+      "explanation": "Esercizio 56: La forma corretta è 'si sono viste'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stamattina ___ molti turisti.",
+      "options": [
+        "si sono visti",
+        "si vede",
+        "si vedono"
+      ],
+      "answer": "si sono visti",
+      "explanation": "Esercizio 57: La forma corretta è 'si sono visti'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Ieri sera ___ molte macchine.",
+      "options": [
+        "si sono viste",
+        "si vede",
+        "si vedono"
+      ],
+      "answer": "si sono viste",
+      "explanation": "Esercizio 58: La forma corretta è 'si sono viste'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stamattina ___ molti negozi.",
+      "options": [
+        "si sono visti",
+        "si vede",
+        "si vedono"
+      ],
+      "answer": "si sono visti",
+      "explanation": "Esercizio 59: La forma corretta è 'si sono visti'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Ieri ___ molti monumenti.",
+      "options": [
+        "si sono visti",
+        "si vede",
+        "si vedono"
+      ],
+      "answer": "si sono visti",
+      "explanation": "Esercizio 60: La forma corretta è 'si sono visti'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Domani ___ molte persone.",
+      "options": [
+        "si vedranno",
+        "si vede",
+        "si vedono"
+      ],
+      "answer": "si vedranno",
+      "explanation": "Esercizio 61: La forma corretta è 'si vedranno'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stasera ___ molti turisti.",
+      "options": [
+        "si vedranno",
+        "si vede",
+        "si vedono"
+      ],
+      "answer": "si vedranno",
+      "explanation": "Esercizio 62: La forma corretta è 'si vedranno'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Domani ___ molte macchine.",
+      "options": [
+        "si vedranno",
+        "si vede",
+        "si vedono"
+      ],
+      "answer": "si vedranno",
+      "explanation": "Esercizio 63: La forma corretta è 'si vedranno'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stasera ___ molti negozi.",
+      "options": [
+        "si vedranno",
+        "si vede",
+        "si vedono"
+      ],
+      "answer": "si vedranno",
+      "explanation": "Esercizio 64: La forma corretta è 'si vedranno'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Domani ___ molti monumenti.",
+      "options": [
+        "si vedranno",
+        "si vede",
+        "si vedono"
+      ],
+      "answer": "si vedranno",
+      "explanation": "Esercizio 65: La forma corretta è 'si vedranno'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Se ___ tempo, ___ molte persone.",
+      "options": [
+        "si ha",
+        "si ha",
+        "si ha"
+      ],
+      "answer": "si ha",
+      "explanation": "Esercizio 66: La forma corretta è 'si ha'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Se ___ soldi, ___ molti negozi.",
+      "options": [
+        "si ha",
+        "si ha",
+        "si ha"
+      ],
+      "answer": "si ha",
+      "explanation": "Esercizio 67: La forma corretta è 'si ha'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Se ___ tempo, ___ molti monumenti.",
+      "options": [
+        "si ha",
+        "si ha",
+        "si ha"
+      ],
+      "answer": "si ha",
+      "explanation": "Esercizio 68: La forma corretta è 'si ha'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Se ___ soldi, ___ molte macchine.",
+      "options": [
+        "si ha",
+        "si ha",
+        "si ha"
+      ],
+      "answer": "si ha",
+      "explanation": "Esercizio 69: La forma corretta è 'si ha'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Se ___ tempo, ___ molti turisti.",
+      "options": [
+        "si ha",
+        "si ha",
+        "si ha"
+      ],
+      "answer": "si ha",
+      "explanation": "Esercizio 70: La forma corretta è 'si ha'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "___ in città, ___ molte persone.",
+      "options": [
+        "Camminando",
+        "Camminando",
+        "Camminando"
+      ],
+      "answer": "Camminando",
+      "explanation": "Esercizio 71: La forma corretta è 'Camminando'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "___ in centro, ___ molti negozi.",
+      "options": [
+        "Andando",
+        "Andando",
+        "Andando"
+      ],
+      "answer": "Andando",
+      "explanation": "Esercizio 72: La forma corretta è 'Andando'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "___ in giro, ___ molti monumenti.",
+      "options": [
+        "Girando",
+        "Girando",
+        "Girando"
+      ],
+      "answer": "Girando",
+      "explanation": "Esercizio 73: La forma corretta è 'Girando'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "___ in città, ___ molte macchine.",
+      "options": [
+        "Camminando",
+        "Camminando",
+        "Camminando"
+      ],
+      "answer": "Camminando",
+      "explanation": "Esercizio 74: La forma corretta è 'Camminando'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "___ in centro, ___ molti turisti.",
+      "options": [
+        "Andando",
+        "Andando",
+        "Andando"
+      ],
+      "answer": "Andando",
+      "explanation": "Esercizio 75: La forma corretta è 'Andando'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "È bello ___ molte persone.",
+      "options": [
+        "vedere",
+        "vedere",
+        "vedere"
+      ],
+      "answer": "vedere",
+      "explanation": "Esercizio 76: La forma corretta è 'vedere'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "È piacevole ___ molti negozi.",
+      "options": [
+        "vedere",
+        "vedere",
+        "vedere"
+      ],
+      "answer": "vedere",
+      "explanation": "Esercizio 77: La forma corretta è 'vedere'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "È interessante ___ molti monumenti.",
+      "options": [
+        "vedere",
+        "vedere",
+        "vedere"
+      ],
+      "answer": "vedere",
+      "explanation": "Esercizio 78: La forma corretta è 'vedere'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "È bello ___ molte macchine.",
+      "options": [
+        "vedere",
+        "vedere",
+        "vedere"
+      ],
+      "answer": "vedere",
+      "explanation": "Esercizio 79: La forma corretta è 'vedere'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "È piacevole ___ molti turisti.",
+      "options": [
+        "vedere",
+        "vedere",
+        "vedere"
+      ],
+      "answer": "vedere",
+      "explanation": "Esercizio 80: La forma corretta è 'vedere'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo posto ___ vedere molte persone.",
+      "options": [
+        "si può",
+        "si possono",
+        "si è potuto"
+      ],
+      "answer": "si può",
+      "explanation": "Esercizio 81: La forma corretta è 'si può'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Qui ___ vedere molti negozi.",
+      "options": [
+        "si può",
+        "si possono",
+        "si è potuto"
+      ],
+      "answer": "si può",
+      "explanation": "Esercizio 82: La forma corretta è 'si può'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questa città ___ vedere molti monumenti.",
+      "options": [
+        "si può",
+        "si possono",
+        "si è potuto"
+      ],
+      "answer": "si può",
+      "explanation": "Esercizio 83: La forma corretta è 'si può'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo posto ___ vedere molte macchine.",
+      "options": [
+        "si può",
+        "si possono",
+        "si è potuto"
+      ],
+      "answer": "si può",
+      "explanation": "Esercizio 84: La forma corretta è 'si può'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Qui ___ vedere molti turisti.",
+      "options": [
+        "si può",
+        "si possono",
+        "si è potuto"
+      ],
+      "answer": "si può",
+      "explanation": "Esercizio 85: La forma corretta è 'si può'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo posto ___ molte persone.",
+      "options": [
+        "ci si incontra",
+        "si incontra",
+        "si è incontrati"
+      ],
+      "answer": "ci si incontra",
+      "explanation": "Esercizio 86: La forma corretta è 'ci si incontra'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Qui ___ molti amici.",
+      "options": [
+        "ci si trova",
+        "si trova",
+        "si è trovati"
+      ],
+      "answer": "ci si trova",
+      "explanation": "Esercizio 87: La forma corretta è 'ci si trova'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questa città ___ molti conoscenti.",
+      "options": [
+        "ci si vede",
+        "si vede",
+        "si è visti"
+      ],
+      "answer": "ci si vede",
+      "explanation": "Esercizio 88: La forma corretta è 'ci si vede'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "In questo posto ___ molti colleghi.",
+      "options": [
+        "ci si incontra",
+        "si incontra",
+        "si è incontrati"
+      ],
+      "answer": "ci si incontra",
+      "explanation": "Esercizio 89: La forma corretta è 'ci si incontra'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Qui ___ molti vicini.",
+      "options": [
+        "ci si trova",
+        "si trova",
+        "si è trovati"
+      ],
+      "answer": "ci si trova",
+      "explanation": "Esercizio 90: La forma corretta è 'ci si trova'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Ieri ___ molte persone.",
+      "options": [
+        "ci si è incontrati",
+        "ci si incontra",
+        "ci si incontrano"
+      ],
+      "answer": "ci si è incontrati",
+      "explanation": "Esercizio 91: La forma corretta è 'ci si è incontrati'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stamattina ___ molti amici.",
+      "options": [
+        "ci si è trovati",
+        "ci si trova",
+        "ci si trovano"
+      ],
+      "answer": "ci si è trovati",
+      "explanation": "Esercizio 92: La forma corretta è 'ci si è trovati'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Ieri sera ___ molti conoscenti.",
+      "options": [
+        "ci si è visti",
+        "ci si vede",
+        "ci si vedono"
+      ],
+      "answer": "ci si è visti",
+      "explanation": "Esercizio 93: La forma corretta è 'ci si è visti'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stamattina ___ molti colleghi.",
+      "options": [
+        "ci si è incontrati",
+        "ci si incontra",
+        "ci si incontrano"
+      ],
+      "answer": "ci si è incontrati",
+      "explanation": "Esercizio 94: La forma corretta è 'ci si è incontrati'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Ieri ___ molti vicini.",
+      "options": [
+        "ci si è trovati",
+        "ci si trova",
+        "ci si trovano"
+      ],
+      "answer": "ci si è trovati",
+      "explanation": "Esercizio 95: La forma corretta è 'ci si è trovati'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Domani ___ molte persone.",
+      "options": [
+        "ci si incontrerà",
+        "ci si incontra",
+        "ci si incontrano"
+      ],
+      "answer": "ci si incontrerà",
+      "explanation": "Esercizio 96: La forma corretta è 'ci si incontrerà'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stasera ___ molti amici.",
+      "options": [
+        "ci si troverà",
+        "ci si trova",
+        "ci si trovano"
+      ],
+      "answer": "ci si troverà",
+      "explanation": "Esercizio 97: La forma corretta è 'ci si troverà'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Domani ___ molti conoscenti.",
+      "options": [
+        "ci si vedrà",
+        "ci si vede",
+        "ci si vedono"
+      ],
+      "answer": "ci si vedrà",
+      "explanation": "Esercizio 98: La forma corretta è 'ci si vedrà'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Stasera ___ molti colleghi.",
+      "options": [
+        "ci si incontrerà",
+        "ci si incontra",
+        "ci si incontrano"
+      ],
+      "answer": "ci si incontrerà",
+      "explanation": "Esercizio 99: La forma corretta è 'ci si incontrerà'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    },
+    {
+      "question": "Domani ___ molti vicini.",
+      "options": [
+        "ci si troverà",
+        "ci si trova",
+        "ci si trovano"
+      ],
+      "answer": "ci si troverà",
+      "explanation": "Esercizio 100: La forma corretta è 'ci si troverà'. Si impersonale esprime azioni generali, si passivante esprime azioni passive."
+    }
+  ]
+}
