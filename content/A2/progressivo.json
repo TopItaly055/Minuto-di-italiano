@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Progressivo: stare + gerundio (A2)",
+  "exercises": [
+    {
+      "question": "Io ___ la pizza adesso.",
+      "options": [
+        "sto mangiando",
+        "stai mangiando",
+        "sta mangiando"
+      ],
+      "answer": "sto mangiando",
+      "explanation": "Progressivo per 'io': sto + gerundio -ando (sto mangiando)."
+    },
+    {
+      "question": "Tu ___ qualcosa?",
+      "options": [
+        "stai mangiando",
+        "sto mangiando",
+        "sta mangiando"
+      ],
+      "answer": "stai mangiando",
+      "explanation": "Progressivo per 'tu': stai + gerundio (stai mangiando)."
+    },
+    {
+      "question": "Lui ___ un panino.",
+      "options": [
+        "sta mangiando",
+        "sto mangiando",
+        "stai mangiando"
+      ],
+      "answer": "sta mangiando",
+      "explanation": "Progressivo per 'lui': sta + gerundio (sta mangiando)."
+    },
+    {
+      "question": "Noi ___ insieme.",
+      "options": [
+        "stiamo mangiando",
+        "state mangiando",
+        "stanno mangiando"
+      ],
+      "answer": "stiamo mangiando",
+      "explanation": "Progressivo per 'noi': stiamo + gerundio (stiamo mangiando)."
+    },
+    {
+      "question": "Voi ___ ?",
+      "options": [
+        "state mangiando",
+        "stiamo mangiando",
+        "stanno mangiando"
+      ],
+      "answer": "state mangiando",
+      "explanation": "Progressivo per 'voi': state + gerundio (state mangiando)."
+    },
+    {
+      "question": "Loro ___ al ristorante.",
+      "options": [
+        "stanno mangiando",
+        "sta mangiando",
+        "state mangiando"
+      ],
+      "answer": "stanno mangiando",
+      "explanation": "Progressivo per 'loro': stanno + gerundio (stanno mangiando)."
+    },
+    {
+      "question": "Io ___ al telefono.",
+      "options": [
+        "sto parlando",
+        "stai parlando",
+        "sta parlando"
+      ],
+      "answer": "sto parlando",
+      "explanation": "Progressivo: sto + gerundio -ando (sto parlando)."
+    },
+    {
+      "question": "Tu ___ con Maria?",
+      "options": [
+        "stai parlando",
+        "sto parlando",
+        "sta parlando"
+      ],
+      "answer": "stai parlando",
+      "explanation": "Progressivo per 'tu': stai parlando."
+    },
+    {
+      "question": "Lei ___ italiano.",
+      "options": [
+        "sta parlando",
+        "stai parlando",
+        "stiamo parlando"
+      ],
+      "answer": "sta parlando",
+      "explanation": "Progressivo per 'lei': sta parlando."
+    },
+    {
+      "question": "Noi ___ di te.",
+      "options": [
+        "stiamo parlando",
+        "state parlando",
+        "stanno parlando"
+      ],
+      "answer": "stiamo parlando",
+      "explanation": "Progressivo per 'noi': stiamo parlando."
+    },
+    {
+      "question": "Io ___ un libro.",
+      "options": [
+        "sto leggendo",
+        "stai leggendo",
+        "sta leggendo"
+      ],
+      "answer": "sto leggendo",
+      "explanation": "Progressivo: sto + gerundio -endo (sto leggendo)."
+    },
+    {
+      "question": "Tu ___ il giornale?",
+      "options": [
+        "stai leggendo",
+        "sto leggendo",
+        "sta leggendo"
+      ],
+      "answer": "stai leggendo",
+      "explanation": "Progressivo per 'tu': stai + gerundio -endo (stai leggendo)."
+    },
+    {
+      "question": "Lui ___ una rivista.",
+      "options": [
+        "sta leggendo",
+        "sto leggendo",
+        "stai leggendo"
+      ],
+      "answer": "sta leggendo",
+      "explanation": "Progressivo per 'lui': sta leggendo."
+    },
+    {
+      "question": "Noi ___ insieme.",
+      "options": [
+        "stiamo leggendo",
+        "state leggendo",
+        "stanno leggendo"
+      ],
+      "answer": "stiamo leggendo",
+      "explanation": "Progressivo per 'noi': stiamo leggendo."
+    },
+    {
+      "question": "Voi ___ i compiti?",
+      "options": [
+        "state leggendo",
+        "stiamo leggendo",
+        "stanno leggendo"
+      ],
+      "answer": "state leggendo",
+      "explanation": "Progressivo per 'voi': state leggendo."
+    },
+    {
+      "question": "Io ___ adesso.",
+      "options": [
+        "sto dormendo",
+        "stai dormendo",
+        "sta dormendo"
+      ],
+      "answer": "sto dormendo",
+      "explanation": "Progressivo: sto + gerundio -endo (sto dormendo)."
+    },
+    {
+      "question": "Tu ___ ancora?",
+      "options": [
+        "stai dormendo",
+        "sto dormendo",
+        "sta dormendo"
+      ],
+      "answer": "stai dormendo",
+      "explanation": "Progressivo per 'tu': stai dormendo."
+    },
+    {
+      "question": "Il bambino ___ .",
+      "options": [
+        "sta dormendo",
+        "sto dormendo",
+        "stai dormendo"
+      ],
+      "answer": "sta dormendo",
+      "explanation": "Progressivo per 'il bambino': sta dormendo."
+    },
+    {
+      "question": "I bambini ___ .",
+      "options": [
+        "stanno dormendo",
+        "sta dormendo",
+        "state dormendo"
+      ],
+      "answer": "stanno dormendo",
+      "explanation": "Progressivo per 'i bambini': stanno dormendo."
+    },
+    {
+      "question": "Io ___ la lezione.",
+      "options": [
+        "sto capendo",
+        "stai capendo",
+        "sta capendo"
+      ],
+      "answer": "sto capendo",
+      "explanation": "Gerundio от глаголов с -isc- образуется без -isc-: capendo (не capiscendo)."
+    },
+    {
+      "question": "Tu ___ tutto?",
+      "options": [
+        "stai capendo",
+        "sto capendo",
+        "sta capendo"
+      ],
+      "answer": "stai capendo",
+      "explanation": "Progressivo: stai capendo (без -isc- в gerundio)."
+    },
+    {
+      "question": "Lui ___ piano piano.",
+      "options": [
+        "sta capendo",
+        "sto capendo",
+        "stai capendo"
+      ],
+      "answer": "sta capendo",
+      "explanation": "Progressivo: sta capendo."
+    },
+    {
+      "question": "Io ___ colazione.",
+      "options": [
+        "sto facendo",
+        "stai facendo",
+        "sta facendo"
+      ],
+      "answer": "sto facendo",
+      "explanation": "Gerundio неправильный от 'fare': facendo (не farendo)."
+    },
+    {
+      "question": "Tu ___ sport?",
+      "options": [
+        "stai facendo",
+        "sto facendo",
+        "sta facendo"
+      ],
+      "answer": "stai facendo",
+      "explanation": "Progressivo con gerundio неправильный: stai facendo."
+    },
+    {
+      "question": "Lei ___ la spesa.",
+      "options": [
+        "sta facendo",
+        "stai facendo",
+        "stiamo facendo"
+      ],
+      "answer": "sta facendo",
+      "explanation": "Progressivo: sta facendo."
+    },
+    {
+      "question": "Io ___ la verità.",
+      "options": [
+        "sto dicendo",
+        "stai dicendo",
+        "sta dicendo"
+      ],
+      "answer": "sto dicendo",
+      "explanation": "Gerundio неправильный от 'dire': dicendo (не direndo)."
+    },
+    {
+      "question": "Tu ___ bugie?",
+      "options": [
+        "stai dicendo",
+        "sto dicendo",
+        "sta dicendo"
+      ],
+      "answer": "stai dicendo",
+      "explanation": "Progressivo: stai dicendo."
+    },
+    {
+      "question": "Io ___ il caffè.",
+      "options": [
+        "sto bevendo",
+        "stai bevendo",
+        "sta bevendo"
+      ],
+      "answer": "sto bevendo",
+      "explanation": "Gerundio неправильный от 'bere': bevendo (не berendo)."
+    },
+    {
+      "question": "Tu ___ il vino?",
+      "options": [
+        "stai bevendo",
+        "sto bevendo",
+        "sta bevendo"
+      ],
+      "answer": "stai bevendo",
+      "explanation": "Progressivo: stai bevendo."
+    },
+    {
+      "question": "Adesso ___ . (действие сейчас)",
+      "options": [
+        "sto studiando",
+        "studio",
+        "studierò"
+      ],
+      "answer": "sto studiando",
+      "explanation": "Для действия В ДАННЫЙ МОМЕНТ используется progressivo: sto studiando."
+    },
+    {
+      "question": "Di solito ___ alle otto. (обычное действие)",
+      "options": [
+        "mangio",
+        "sto mangiando",
+        "mangerò"
+      ],
+      "answer": "mangio",
+      "explanation": "Для обычного действия используется presente semplice: mangio."
+    },
+    {
+      "question": "In questo momento ___ . (сейчас)",
+      "options": [
+        "sto lavorando",
+        "lavoro",
+        "lavorerò"
+      ],
+      "answer": "sto lavorando",
+      "explanation": "Per un'azione in corso: sto lavorando."
+    },
+    {
+      "question": "Ogni giorno ___ alle sette. (обычно)",
+      "options": [
+        "mi sveglio",
+        "mi sto svegliando",
+        "mi sveglierò"
+      ],
+      "answer": "mi sveglio",
+      "explanation": "Per un'azione abituale: mi sveglio."
+    },
+    {
+      "question": "Che ___ ? (fare)",
+      "options": [
+        "stai facendo",
+        "fai",
+        "farai"
+      ],
+      "answer": "stai facendo",
+      "explanation": "Вопрос о действии в данный момент: che stai facendo?"
+    },
+    {
+      "question": "Cosa ___ adesso? (leggere)",
+      "options": [
+        "stai leggendo",
+        "leggi",
+        "leggerai"
+      ],
+      "answer": "stai leggendo",
+      "explanation": "Вопрос о действии сейчас: cosa stai leggendo?"
+    },
+    {
+      "question": "Dove ___ ? (andare)",
+      "options": [
+        "stai andando",
+        "vai",
+        "andrai"
+      ],
+      "answer": "stai andando",
+      "explanation": "Вопрос о действии в процессе: dove stai andando?"
+    },
+    {
+      "question": "Con chi ___ ? (parlare)",
+      "options": [
+        "stai parlando",
+        "parli",
+        "parlerai"
+      ],
+      "answer": "stai parlando",
+      "explanation": "Вопрос о действии сейчас: con chi stai parlando?"
+    },
+    {
+      "question": "Non ___ niente adesso.",
+      "options": [
+        "sto facendo",
+        "faccio",
+        "farò"
+      ],
+      "answer": "sto facendo",
+      "explanation": "Отрицание progressivo: non sto facendo."
+    },
+    {
+      "question": "Non ___ in questo momento.",
+      "options": [
+        "sto mangiando",
+        "mangio",
+        "mangerò"
+      ],
+      "answer": "sto mangiando",
+      "explanation": "Отрицание progressivo: non sto mangiando."
+    },
+    {
+      "question": "Non ___ con nessuno.",
+      "options": [
+        "sto parlando",
+        "parlo",
+        "parlerò"
+      ],
+      "answer": "sto parlando",
+      "explanation": "Отрицание progressivo: non sto parlando."
+    },
+    {
+      "question": "Non ___ ora.",
+      "options": [
+        "stiamo lavorando",
+        "lavoriamo",
+        "lavoreremo"
+      ],
+      "answer": "stiamo lavorando",
+      "explanation": "Отрицание progressivo: non stiamo lavorando."
+    },
+    {
+      "question": "Silenzio! Io ___ !",
+      "options": [
+        "sto studiando",
+        "studio",
+        "studierò"
+      ],
+      "answer": "sto studiando",
+      "explanation": "Действие в процессе: sto studiando (я занимаюсь)."
+    },
+    {
+      "question": "Aspetta! ___ al telefono!",
+      "options": [
+        "Sto parlando",
+        "Parlo",
+        "Parlerò"
+      ],
+      "answer": "Sto parlando",
+      "explanation": "Действие происходит СЕЙЧАС: sto parlando."
+    },
+    {
+      "question": "Non disturbare, ___ !",
+      "options": [
+        "sto dormendo",
+        "dormo",
+        "dormirò"
+      ],
+      "answer": "sto dormendo",
+      "explanation": "Действие в процессе: sto dormendo."
+    },
+    {
+      "question": "Piano! Il bambino ___ !",
+      "options": [
+        "sta dormendo",
+        "dorme",
+        "dormirà"
+      ],
+      "answer": "sta dormendo",
+      "explanation": "Действие происходит сейчас: sta dormendo."
+    },
+    {
+      "question": "Io ___ la TV.",
+      "options": [
+        "sto guardando",
+        "stai guardando",
+        "sta guardando"
+      ],
+      "answer": "sto guardando",
+      "explanation": "Progressivo da 'guardare': sto guardando."
+    },
+    {
+      "question": "Tu ___ la musica?",
+      "options": [
+        "stai ascoltando",
+        "sto ascoltando",
+        "sta ascoltando"
+      ],
+      "answer": "stai ascoltando",
+      "explanation": "Progressivo da 'ascoltare': stai ascoltando."
+    },
+    {
+      "question": "Lei ___ una lettera.",
+      "options": [
+        "sta scrivendo",
+        "stai scrivendo",
+        "stiamo scrivendo"
+      ],
+      "answer": "sta scrivendo",
+      "explanation": "Progressivo da 'scrivere': sta scrivendo."
+    },
+    {
+      "question": "Noi ___ a casa.",
+      "options": [
+        "stiamo tornando",
+        "state tornando",
+        "stanno tornando"
+      ],
+      "answer": "stiamo tornando",
+      "explanation": "Progressivo da 'tornare': stiamo tornando."
+    },
+    {
+      "question": "Voi ___ in ritardo?",
+      "options": [
+        "state arrivando",
+        "stiamo arrivando",
+        "stanno arrivando"
+      ],
+      "answer": "state arrivando",
+      "explanation": "Progressivo da 'arrivare': state arrivando."
+    },
+    {
+      "question": "Loro ___ in palestra.",
+      "options": [
+        "stanno andando",
+        "sta andando",
+        "state andando"
+      ],
+      "answer": "stanno andando",
+      "explanation": "Progressivo da 'andare': stanno andando."
+    },
+    {
+      "question": "Adesso ___ . (lavorare)",
+      "options": [
+        "sto lavorando",
+        "lavoro",
+        "lavorerò"
+      ],
+      "answer": "sto lavorando",
+      "explanation": "'Adesso' указывает на действие В ДАННЫЙ МОМЕНТ: sto lavorando."
+    },
+    {
+      "question": "In questo momento ___ . (studiare)",
+      "options": [
+        "sto studiando",
+        "studio",
+        "studierò"
+      ],
+      "answer": "sto studiando",
+      "explanation": "'In questo momento' требует progressivo: sto studiando."
+    },
+    {
+      "question": "Ora ___ il giornale. (leggere)",
+      "options": [
+        "sto leggendo",
+        "leggo",
+        "leggerò"
+      ],
+      "answer": "sto leggendo",
+      "explanation": "'Ora' с действием в процессе: sto leggendo."
+    },
+    {
+      "question": "Proprio adesso ___ . (uscire)",
+      "options": [
+        "sto uscendo",
+        "esco",
+        "uscirò"
+      ],
+      "answer": "sto uscendo",
+      "explanation": "'Proprio adesso' требует progressivo: sto uscendo."
+    },
+    {
+      "question": "Io ___ . (vestirsi)",
+      "options": [
+        "mi sto vestendo",
+        "mi vesto",
+        "mi vestirò"
+      ],
+      "answer": "mi sto vestendo",
+      "explanation": "Progressivo возвратного глагола: mi sto vestendo."
+    },
+    {
+      "question": "Tu ___ ? (prepararsi)",
+      "options": [
+        "ti stai preparando",
+        "ti prepari",
+        "ti preparerai"
+      ],
+      "answer": "ti stai preparando",
+      "explanation": "Progressivo возвратного глагола: ti stai preparando."
+    },
+    {
+      "question": "Lei ___ . (riposarsi)",
+      "options": [
+        "si sta riposando",
+        "si riposa",
+        "si riposerà"
+      ],
+      "answer": "si sta riposando",
+      "explanation": "Progressivo возвратного глагола: si sta riposando."
+    },
+    {
+      "question": "Noi ___ . (divertirsi)",
+      "options": [
+        "ci stiamo divertendo",
+        "ci divertiamo",
+        "ci divertiremo"
+      ],
+      "answer": "ci stiamo divertendo",
+      "explanation": "Progressivo возвратного глагола: ci stiamo divertendo."
+    },
+    {
+      "question": "Voi ___ ? (lavarsi)",
+      "options": [
+        "vi state lavando",
+        "vi lavate",
+        "vi laverete"
+      ],
+      "answer": "vi state lavando",
+      "explanation": "Progressivo возвратного глагола: vi state lavando."
+    },
+    {
+      "question": "Loro ___ . (alzarsi)",
+      "options": [
+        "si stanno alzando",
+        "si alzano",
+        "si alzeranno"
+      ],
+      "answer": "si stanno alzando",
+      "explanation": "Progressivo возвратного глагола: si stanno alzando."
+    },
+    {
+      "question": "Pronto? - Ciao, ___ . (cucinare)",
+      "options": [
+        "sto cucinando",
+        "cucino",
+        "cucinerò"
+      ],
+      "answer": "sto cucinando",
+      "explanation": "Действие происходит во время разговора: sto cucinando."
+    },
+    {
+      "question": "Dove sei? - ___ a casa. (tornare)",
+      "options": [
+        "Sto tornando",
+        "Torno",
+        "Tornerò"
+      ],
+      "answer": "Sto tornando",
+      "explanation": "Действие в процессе: sto tornando (возвращаюсь сейчас)."
+    },
+    {
+      "question": "Che fai? - ___ la cena. (preparare)",
+      "options": [
+        "Sto preparando",
+        "Preparo",
+        "Preparerò"
+      ],
+      "answer": "Sto preparando",
+      "explanation": "Ответ на вопрос о текущем действии: sto preparando."
+    },
+    {
+      "question": "Perché non rispondi? - ___ . (mangiare)",
+      "options": [
+        "Sto mangiando",
+        "Mangio",
+        "Mangerò"
+      ],
+      "answer": "Sto mangiando",
+      "explanation": "Объяснение текущего действия: sto mangiando."
+    },
+    {
+      "question": "Io ___ a scuola.",
+      "options": [
+        "sto andando",
+        "stai andando",
+        "sta andando"
+      ],
+      "answer": "sto andando",
+      "explanation": "Progressivo da 'andare': sto andando."
+    },
+    {
+      "question": "Tu ___ dall'ufficio?",
+      "options": [
+        "stai venendo",
+        "sto venendo",
+        "sta venendo"
+      ],
+      "answer": "stai venendo",
+      "explanation": "Progressivo da 'venire': stai venendo."
+    },
+    {
+      "question": "Lei ___ di casa.",
+      "options": [
+        "sta uscendo",
+        "stai uscendo",
+        "stiamo uscendo"
+      ],
+      "answer": "sta uscendo",
+      "explanation": "Progressivo da 'uscire': sta uscendo."
+    },
+    {
+      "question": "Noi ___ in classe.",
+      "options": [
+        "stiamo entrando",
+        "state entrando",
+        "stanno entrando"
+      ],
+      "answer": "stiamo entrando",
+      "explanation": "Progressivo da 'entrare': stiamo entrando."
+    },
+    {
+      "question": "Voi ___ ?",
+      "options": [
+        "state partendo",
+        "stiamo partendo",
+        "stanno partendo"
+      ],
+      "answer": "state partendo",
+      "explanation": "Progressivo da 'partire': state partendo."
+    },
+    {
+      "question": "Loro ___ alla stazione.",
+      "options": [
+        "stanno arrivando",
+        "sta arrivando",
+        "state arrivando"
+      ],
+      "answer": "stanno arrivando",
+      "explanation": "Progressivo da 'arrivare': stanno arrivando."
+    },
+    {
+      "question": "Maria ___ al telefono.",
+      "options": [
+        "sta parlando",
+        "parla",
+        "parlerà"
+      ],
+      "answer": "sta parlando",
+      "explanation": "Действие в процессе: Maria sta parlando."
+    },
+    {
+      "question": "I ragazzi ___ a calcio.",
+      "options": [
+        "stanno giocando",
+        "giocano",
+        "giocheranno"
+      ],
+      "answer": "stanno giocando",
+      "explanation": "Действие в процессе: stanno giocando."
+    },
+    {
+      "question": "Il professore ___ la lezione.",
+      "options": [
+        "sta spiegando",
+        "spiega",
+        "spiegherà"
+      ],
+      "answer": "sta spiegando",
+      "explanation": "Действие происходит сейчас: sta spiegando."
+    },
+    {
+      "question": "Gli studenti ___ .",
+      "options": [
+        "stanno ascoltando",
+        "ascoltano",
+        "ascolteranno"
+      ],
+      "answer": "stanno ascoltando",
+      "explanation": "Действие в процессе: stanno ascoltando."
+    },
+    {
+      "question": "Io ___ la macchina.",
+      "options": [
+        "sto guidando",
+        "stai guidando",
+        "sta guidando"
+      ],
+      "answer": "sto guidando",
+      "explanation": "Progressivo da 'guidare': sto guidando."
+    },
+    {
+      "question": "Tu ___ troppo velocemente.",
+      "options": [
+        "stai correndo",
+        "sto correndo",
+        "sta correndo"
+      ],
+      "answer": "stai correndo",
+      "explanation": "Progressivo da 'correre': stai correndo."
+    },
+    {
+      "question": "Lei ___ piano.",
+      "options": [
+        "sta camminando",
+        "stai camminando",
+        "stiamo camminando"
+      ],
+      "answer": "sta camminando",
+      "explanation": "Progressivo da 'camminare': sta camminando."
+    },
+    {
+      "question": "Noi ___ al mare.",
+      "options": [
+        "stiamo nuotando",
+        "state nuotando",
+        "stanno nuotando"
+      ],
+      "answer": "stiamo nuotando",
+      "explanation": "Progressivo da 'nuotare': stiamo nuotando."
+    },
+    {
+      "question": "Voi ___ ?",
+      "options": [
+        "state ballando",
+        "stiamo ballando",
+        "stanno ballando"
+      ],
+      "answer": "state ballando",
+      "explanation": "Progressivo da 'ballare': state ballando."
+    },
+    {
+      "question": "Loro ___ una canzone.",
+      "options": [
+        "stanno cantando",
+        "sta cantando",
+        "state cantando"
+      ],
+      "answer": "stanno cantando",
+      "explanation": "Progressivo da 'cantare': stanno cantando."
+    },
+    {
+      "question": "Io ___ il programma.",
+      "options": [
+        "sto conducendo",
+        "stai conducendo",
+        "sta conducendo"
+      ],
+      "answer": "sto conducendo",
+      "explanation": "Gerundio da 'condurre': conducendo."
+    },
+    {
+      "question": "Tu ___ il testo?",
+      "options": [
+        "stai traducendo",
+        "sto traducendo",
+        "sta traducendo"
+      ],
+      "answer": "stai traducendo",
+      "explanation": "Gerundio da 'tradurre': traducendo."
+    },
+    {
+      "question": "Non disturbare! ___ . (lavorare)",
+      "options": [
+        "Sto lavorando",
+        "Lavoro",
+        "Lavorerò"
+      ],
+      "answer": "Sto lavorando",
+      "explanation": "Объяснение почему нельзя беспокоить: sto lavorando (сейчас работаю)."
+    },
+    {
+      "question": "Zitto! Il film ___ ! (cominciare)",
+      "options": [
+        "sta cominciando",
+        "comincia",
+        "comincerà"
+      ],
+      "answer": "sta cominciando",
+      "explanation": "Действие начинается прямо сейчас: sta cominciando."
+    },
+    {
+      "question": "Aspetta! ___ ! (finire)",
+      "options": [
+        "Sto finendo",
+        "Finisco",
+        "Finirò"
+      ],
+      "answer": "Sto finendo",
+      "explanation": "Действие почти завершается: sto finendo."
+    },
+    {
+      "question": "Io ___ un film.",
+      "options": [
+        "sto vedendo",
+        "stai vedendo",
+        "sta vedendo"
+      ],
+      "answer": "sto vedendo",
+      "explanation": "Progressivo da 'vedere': sto vedendo."
+    },
+    {
+      "question": "Tu ___ i piatti?",
+      "options": [
+        "stai lavando",
+        "sto lavando",
+        "sta lavando"
+      ],
+      "answer": "stai lavando",
+      "explanation": "Progressivo da 'lavare': stai lavando."
+    },
+    {
+      "question": "Lui ___ la macchina.",
+      "options": [
+        "sta pulendo",
+        "sto pulendo",
+        "stai pulendo"
+      ],
+      "answer": "sta pulendo",
+      "explanation": "Progressivo da 'pulire': sta pulendo."
+    },
+    {
+      "question": "Lei ___ il caffè.",
+      "options": [
+        "sta prendendo",
+        "stai prendendo",
+        "stiamo prendendo"
+      ],
+      "answer": "sta prendendo",
+      "explanation": "Progressivo da 'prendere': sta prendendo."
+    },
+    {
+      "question": "Noi ___ a tennis.",
+      "options": [
+        "stiamo giocando",
+        "state giocando",
+        "stanno giocando"
+      ],
+      "answer": "stiamo giocando",
+      "explanation": "Progressivo da 'giocare': stiamo giocando."
+    },
+    {
+      "question": "Voi ___ troppo!",
+      "options": [
+        "state parlando",
+        "stiamo parlando",
+        "stanno parlando"
+      ],
+      "answer": "state parlando",
+      "explanation": "Progressivo da 'parlare': state parlando."
+    },
+    {
+      "question": "Loro ___ a voce alta.",
+      "options": [
+        "stanno leggendo",
+        "sta leggendo",
+        "state leggendo"
+      ],
+      "answer": "stanno leggendo",
+      "explanation": "Progressivo da 'leggere': stanno leggendo."
+    },
+    {
+      "question": "Cosa ___ in questo momento? (guardare)",
+      "options": [
+        "stai guardando",
+        "guardi",
+        "guarderai"
+      ],
+      "answer": "stai guardando",
+      "explanation": "Вопрос о текущем действии: cosa stai guardando?"
+    },
+    {
+      "question": "Perché ___ ? (piangere)",
+      "options": [
+        "stai piangendo",
+        "piangi",
+        "piangerai"
+      ],
+      "answer": "stai piangendo",
+      "explanation": "Вопрос о действии сейчас: perché stai piangendo?"
+    },
+    {
+      "question": "Dove ___ ? (correre)",
+      "options": [
+        "stai correndo",
+        "corri",
+        "correrai"
+      ],
+      "answer": "stai correndo",
+      "explanation": "Вопрос о действии в процессе: dove stai correndo?"
+    },
+    {
+      "question": "Chi ___ ? (chiamare)",
+      "options": [
+        "stai chiamando",
+        "chiami",
+        "chiamerai"
+      ],
+      "answer": "stai chiamando",
+      "explanation": "Вопрос о действии сейчас: chi stai chiamando?"
+    },
+    {
+      "question": "Quando ___ ? (partire)",
+      "options": [
+        "stai partendo",
+        "parti",
+        "partirai"
+      ],
+      "answer": "stai partendo",
+      "explanation": "Вопрос о действии в процессе: quando stai partendo?"
+    },
+    {
+      "question": "Quanto tempo ___ qui? (aspettare)",
+      "options": [
+        "stai aspettando",
+        "aspetti",
+        "aspetterai"
+      ],
+      "answer": "stai aspettando",
+      "explanation": "Вопрос о длительном действии: quanto tempo stai aspettando?"
+    },
+    {
+      "question": "Perché non ___ ? (rispondere)",
+      "options": [
+        "stai rispondendo",
+        "rispondi",
+        "risponderai"
+      ],
+      "answer": "stai rispondendo",
+      "explanation": "Вопрос почему не происходит действие сейчас."
+    }
+  ]
+}
