@@ -905,7 +905,8 @@
       "question": "Marco studia italiano. ___ è molto bravo. ___ studia italiano, Marco è molto bravo.",
       "options": [
         "Lui",
-        "Chi"
+        "Chi",
+        "Lei"
       ],
       "answer": "Lui",
       "explanation": "Esercizio 91: La forma corretta è 'Lui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
@@ -914,7 +915,8 @@
       "question": "Maria studia italiano. ___ è molto brava. ___ studia italiano, Maria è molto brava.",
       "options": [
         "Lei",
-        "Chi"
+        "Chi",
+        "Lui"
       ],
       "answer": "Lei",
       "explanation": "Esercizio 92: La forma corretta è 'Lei'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
@@ -923,7 +925,8 @@
       "question": "Ho comprato un libro. ___ libro è interessante. ___ libro che ho comprato è interessante.",
       "options": [
         "Questo",
-        "Il"
+        "Il",
+        "Questa"
       ],
       "answer": "Questo",
       "explanation": "Esercizio 93: La forma corretta è 'Questo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
@@ -932,7 +935,8 @@
       "question": "Ho comprato una penna. ___ penna è blu. ___ penna che ho comprato è blu.",
       "options": [
         "Questa",
-        "La"
+        "La",
+        "Questo"
       ],
       "answer": "Questa",
       "explanation": "Esercizio 94: La forma corretta è 'Questa'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
@@ -941,7 +945,8 @@
       "question": "Sono andato a Roma. ___ ho visto il Colosseo. ___ sono andato a Roma, ho visto il Colosseo.",
       "options": [
         "Lì",
-        "Quando"
+        "Quando",
+        "Qui"
       ],
       "answer": "Lì",
       "explanation": "Esercizio 95: La forma corretta è 'Lì'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
@@ -950,7 +955,8 @@
       "question": "Ho visto Marco. ___ ho salutato. ___ è molto bravo.",
       "options": [
         "Lo",
-        "Lui"
+        "Lui",
+        "Lei"
       ],
       "answer": "Lo",
       "explanation": "Esercizio 96: La forma corretta è 'Lo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
@@ -959,7 +965,8 @@
       "question": "Ho visto Maria. ___ ho salutata. ___ è molto brava.",
       "options": [
         "La",
-        "Lei"
+        "Lei",
+        "Lui"
       ],
       "answer": "La",
       "explanation": "Esercizio 97: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
@@ -968,7 +975,8 @@
       "question": "Ho parlato a Marco. ___ ho detto tutto. ___ è molto bravo.",
       "options": [
         "Gli",
-        "Lui"
+        "Lui",
+        "Lei"
       ],
       "answer": "Gli",
       "explanation": "Esercizio 98: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
@@ -977,7 +985,8 @@
       "question": "Ho parlato a Maria. ___ ho detto tutto. ___ è molto brava.",
       "options": [
         "Le",
-        "Lei"
+        "Lei",
+        "Lui"
       ],
       "answer": "Le",
       "explanation": "Esercizio 99: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
@@ -986,7 +995,8 @@
       "question": "Ho dato il libro a Marco. ___ l'ho dato. ___ è molto bravo.",
       "options": [
         "Gli",
-        "Lui"
+        "Lui",
+        "Lei"
       ],
       "answer": "Gli",
       "explanation": "Esercizio 100: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
