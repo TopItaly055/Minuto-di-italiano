@@ -1,0 +1,605 @@
+{
+  "topic_name": "Strutture di focalizzazione (C2)",
+  "exercises": [
+    {
+      "question": "___ proprio lui che ha vinto il premio Nobel.",
+      "options": ["È", "È stato", "Sia"],
+      "answer": "È",
+      "explanation": "La frase scissa 'È X che...' mette in risalto il soggetto 'lui' per dare enfasi."
+    },
+    {
+      "question": "È a te ___ voglio parlare, non a tuo fratello.",
+      "options": ["che", "cui", "chi"],
+      "answer": "che",
+      "explanation": "Nella frase scissa si usa 'che' dopo l'elemento focalizzato."
+    },
+    {
+      "question": "È per questo ___ sono venuto qui oggi.",
+      "options": ["che", "cui", "perché"],
+      "answer": "che",
+      "explanation": "La frase scissa richiede 'che' per collegare l'elemento focalizzato alla proposizione."
+    },
+    {
+      "question": "___ l'economia il problema principale, non la politica.",
+      "options": ["È", "Sia", "Fosse"],
+      "answer": "È",
+      "explanation": "La struttura 'È X...' serve a focalizzare il tema principale del discorso."
+    },
+    {
+      "question": "È nel Rinascimento ___ la pittura italiana raggiunse l'apice.",
+      "options": ["che", "quando", "dove"],
+      "answer": "che",
+      "explanation": "Frase scissa temporale: si usa 'che' anche per focalizzare elementi temporali."
+    },
+    {
+      "question": "___ arrivò il direttore, tutti si alzarono in piedi.",
+      "options": ["Quando", "Mentre", "Appena"],
+      "answer": "Quando",
+      "explanation": "L'inversione con 'quando' in posizione iniziale crea enfasi sull'evento temporale."
+    },
+    {
+      "question": "Mai ___ visto un tramonto così spettacolare!",
+      "options": ["avevo", "ho", "avrei"],
+      "answer": "avevo",
+      "explanation": "Inversione enfatica: l'avverbio 'mai' in posizione iniziale richiede l'inversione soggetto-verbo."
+    },
+    {
+      "question": "Solo dopo anni ___ la verità.",
+      "options": ["scoprii", "ho scoperto", "scopersi"],
+      "answer": "scoprii",
+      "explanation": "L'inversione temporale enfatizza il momento della scoperta."
+    },
+    {
+      "question": "___ la porta ed entrò il protagonista.",
+      "options": ["Si aprì", "Aprì", "Apriva"],
+      "answer": "Si aprì",
+      "explanation": "Inversione narrativa: il verbo precede il soggetto per creare suspense."
+    },
+    {
+      "question": "In cima alla collina ___ un'antica torre medievale.",
+      "options": ["sorge", "sorgeva", "è sorto"],
+      "answer": "sorge",
+      "explanation": "Inversione locativa: il complemento di luogo precede il verbo per enfasi."
+    },
+    {
+      "question": "Marco, ___ l'ho detto mille volte!",
+      "options": ["te", "ti", "a te"],
+      "answer": "te",
+      "explanation": "Dislocazione a sinistra con ripresa pronominale tonica per enfasi."
+    },
+    {
+      "question": "Quella storia, ___ conosco benissimo.",
+      "options": ["la", "l'", "gli"],
+      "answer": "la",
+      "explanation": "Tema in posizione iniziale con ripresa clitica dell'oggetto."
+    },
+    {
+      "question": "Il problema, ___ hai ragione, è complesso.",
+      "options": ["su questo", "di questo", "per questo"],
+      "answer": "su questo",
+      "explanation": "Tema sospeso con ripresa anaforica mediante dimostrativo."
+    },
+    {
+      "question": "___ comprato, le scarpe nuove.",
+      "options": ["Le ho", "Ho le", "L'ho"],
+      "answer": "Le ho",
+      "explanation": "Dislocazione a destra: il rema viene anticipato con ripresa clitica."
+    },
+    {
+      "question": "A Maria, ___ piacciono i fiori, non i cioccolatini.",
+      "options": ["le", "gli", "li"],
+      "answer": "le",
+      "explanation": "Tematizzazione del complemento con ripresa pronominale per contrasto."
+    },
+    {
+      "question": "È di musica ___ voglio parlare, non di cinema.",
+      "options": ["che", "cui", "di cui"],
+      "answer": "che",
+      "explanation": "Frase scissa per mettere in contrasto temi diversi."
+    },
+    {
+      "question": "___ stata lei a proporre quella soluzione innovativa.",
+      "options": ["È", "Sia", "Fosse"],
+      "answer": "È",
+      "explanation": "Frase scissa al passato per enfatizzare l'agente dell'azione."
+    },
+    {
+      "question": "Fu proprio in quel momento ___ tutto cambiò.",
+      "options": ["che", "quando", "cui"],
+      "answer": "che",
+      "explanation": "Frase scissa al passato remoto per drammatizzare l'evento."
+    },
+    {
+      "question": "È con grande piacere ___ vi presento il nostro ospite.",
+      "options": ["che", "cui", "quale"],
+      "answer": "che",
+      "explanation": "Focalizzazione del complemento modale per cortesia formale."
+    },
+    {
+      "question": "___ in piedi il pubblico ad applaudire.",
+      "options": ["Si alzò", "Alzò", "Alzava"],
+      "answer": "Si alzò",
+      "explanation": "Inversione soggetto-verbo per effetto drammatico."
+    },
+    {
+      "question": "Dietro l'angolo ___ un piccolo ristorante tipico.",
+      "options": ["si trova", "trova", "trovava"],
+      "answer": "si trova",
+      "explanation": "Inversione locativa per descrizioni ambientali."
+    },
+    {
+      "question": "Rare volte ___ assistito a uno spettacolo simile.",
+      "options": ["ho", "avevo", "ebbi"],
+      "answer": "ho",
+      "explanation": "Inversione con avverbio di frequenza in posizione marcata."
+    },
+    {
+      "question": "È dalla tua determinazione ___ dipende il successo.",
+      "options": ["che", "cui", "di cui"],
+      "answer": "che",
+      "explanation": "Focalizzazione della causa per enfatizzare la dipendenza."
+    },
+    {
+      "question": "Quell'articolo, ___ ho letto con grande interesse.",
+      "options": ["lo", "l'", "gli"],
+      "answer": "lo",
+      "explanation": "Tema anticipato con ripresa clitica per continuità testuale."
+    },
+    {
+      "question": "Il libro, a Giovanni ___ ho prestato ieri.",
+      "options": ["glielo", "lo gli", "gliel'"],
+      "answer": "glielo",
+      "explanation": "Dislocazione doppia: tema (libro) e beneficiario (Giovanni) con ripresa clitica."
+    },
+    {
+      "question": "___ attraverso il sacrificio che si ottengono i risultati.",
+      "options": ["È", "Sia", "Fosse"],
+      "answer": "È",
+      "explanation": "Frase scissa per esprimere una verità generale con enfasi."
+    },
+    {
+      "question": "Lungo il fiume ___ numerosi ponti antichi.",
+      "options": ["sorgono", "sono", "stanno"],
+      "answer": "sorgono",
+      "explanation": "Inversione locativa per descrizioni paesaggistiche."
+    },
+    {
+      "question": "È nell'arte ___ l'uomo esprime la propria essenza.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Focalizzazione dell'ambito per enunciati filosofici."
+    },
+    {
+      "question": "I documenti, ___ ho consegnati al notaio stamattina.",
+      "options": ["li", "gli", "le"],
+      "answer": "li",
+      "explanation": "Tematizzazione dell'oggetto con accordo participiale."
+    },
+    {
+      "question": "È per la libertà ___ i nostri antenati hanno lottato.",
+      "options": ["che", "cui", "quale"],
+      "answer": "che",
+      "explanation": "Frase scissa per enfatizzare il fine di un'azione storica."
+    },
+    {
+      "question": "___ gridò qualcuno dalla folla.",
+      "options": ["Improvvisamente", "Subito", "Velocemente"],
+      "answer": "Improvvisamente",
+      "explanation": "Inversione narrativa: avverbio + verbo + soggetto indefinito."
+    },
+    {
+      "question": "Le tue promesse, ___ ricordo benissimo.",
+      "options": ["le", "ne", "gli"],
+      "answer": "le",
+      "explanation": "Tema con ripresa clitica per richiamare un discorso precedente."
+    },
+    {
+      "question": "È sul dialogo ___ si fonda ogni democrazia.",
+      "options": ["che", "cui", "quale"],
+      "answer": "che",
+      "explanation": "Focalizzazione del fondamento per enunciati politici."
+    },
+    {
+      "question": "Venne il giorno ___ tutto sarebbe cambiato.",
+      "options": ["in cui", "che", "quando"],
+      "answer": "in cui",
+      "explanation": "Inversione temporale narrativa con relativo."
+    },
+    {
+      "question": "È con umiltà ___ si impara davvero.",
+      "options": ["che", "cui", "come"],
+      "answer": "che",
+      "explanation": "Frase scissa per enfatizzare l'atteggiamento necessario."
+    },
+    {
+      "question": "La verità, prima o poi ___ viene a galla.",
+      "options": ["viene", "viene a", "si viene"],
+      "answer": "viene",
+      "explanation": "Tema sospeso con ripresa per esprimere inevitabilità."
+    },
+    {
+      "question": "___ il campanile della chiesa in lontananza.",
+      "options": ["Si scorge", "Scorge", "Scorgeva"],
+      "answer": "Si scorge",
+      "explanation": "Inversione descrittiva per ambientazioni."
+    },
+    {
+      "question": "È dalla crisi ___ nascono le opportunità.",
+      "options": ["che", "cui", "donde"],
+      "answer": "che",
+      "explanation": "Focalizzazione dell'origine per espressioni proverbiali."
+    },
+    {
+      "question": "Quel progetto, ___ hanno investito milioni.",
+      "options": ["ci", "vi", "ne"],
+      "answer": "ci",
+      "explanation": "Tema con ripresa locativa/astratta per riferimenti progettuali."
+    },
+    {
+      "question": "È nella diversità ___ risiede la ricchezza culturale.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Frase scissa per affermazioni sociologiche."
+    },
+    {
+      "question": "Risuonò ___ una voce cavernosa.",
+      "options": ["nell'oscurità", "oscuramente", "oscuro"],
+      "answer": "nell'oscurità",
+      "explanation": "Inversione con complemento di luogo per atmosfera."
+    },
+    {
+      "question": "A questi principi, ___ ho sempre ispirato la mia condotta.",
+      "options": ["mi sono", "mi è", "mi"],
+      "answer": "mi sono",
+      "explanation": "Tematizzazione con ripresa riflessiva per dichiarazioni personali."
+    },
+    {
+      "question": "È attraverso l'esperienza ___ maturiamo.",
+      "options": ["che", "cui", "come"],
+      "answer": "che",
+      "explanation": "Focalizzazione del mezzo per riflessioni esistenziali."
+    },
+    {
+      "question": "___ un silenzio imbarazzante dopo quella rivelazione.",
+      "options": ["Seguì", "Seguiva", "È seguito"],
+      "answer": "Seguì",
+      "explanation": "Inversione temporale per sequenze narrative."
+    },
+    {
+      "question": "Le sue parole, ___ ho meditate a lungo.",
+      "options": ["le", "ne", "gli"],
+      "answer": "le",
+      "explanation": "Tema con ripresa per indicare riflessione profonda."
+    },
+    {
+      "question": "È nel rispetto reciproco ___ si costruisce la convivenza.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Focalizzazione del principio per discorsi etici."
+    },
+    {
+      "question": "Apparve all'orizzonte ___ veliero solitario.",
+      "options": ["un", "il", "uno"],
+      "answer": "un",
+      "explanation": "Inversione presentativa: verbo + soggetto indefinito."
+    },
+    {
+      "question": "È dalla ricerca ___ proviene ogni progresso scientifico.",
+      "options": ["che", "cui", "donde"],
+      "answer": "che",
+      "explanation": "Frase scissa per affermazioni epistemologiche."
+    },
+    {
+      "question": "Questa teoria, ___ ho sempre trovata affascinante.",
+      "options": ["l'", "la", "gli"],
+      "answer": "l'",
+      "explanation": "Tema con elisione della ripresa clitica."
+    },
+    {
+      "question": "È con la pratica costante ___ si perfeziona l'arte.",
+      "options": ["che", "cui", "come"],
+      "answer": "che",
+      "explanation": "Focalizzazione del metodo per precetti didattici."
+    },
+    {
+      "question": "___ improvvisa una forte scossa sismica.",
+      "options": ["Si avvertì", "Avvertì", "Avvertiva"],
+      "answer": "Si avvertì",
+      "explanation": "Inversione con si passivante per eventi improvvisi."
+    },
+    {
+      "question": "Di questa faccenda, ___ parleremo domani.",
+      "options": ["ne", "la", "gli"],
+      "answer": "ne",
+      "explanation": "Tema con ripresa partitiva per rinvio."
+    },
+    {
+      "question": "È sul campo ___ si misurano i veri campioni.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Focalizzazione del contesto per metafore sportive."
+    },
+    {
+      "question": "Giunse finalmente ___ tanto atteso.",
+      "options": ["il momento", "momento", "un momento"],
+      "answer": "il momento",
+      "explanation": "Inversione con avverbio temporale per climax narrativo."
+    },
+    {
+      "question": "È dalla sofferenza ___ nasce la saggezza.",
+      "options": ["che", "cui", "donde"],
+      "answer": "che",
+      "explanation": "Frase scissa per massime esistenziali."
+    },
+    {
+      "question": "Quel discorso, ___ ricorderò per sempre.",
+      "options": ["lo", "ne", "gli"],
+      "answer": "lo",
+      "explanation": "Tema con ripresa per enfatizzare la memorabilità."
+    },
+    {
+      "question": "È nell'educazione ___ si investe sul futuro.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Focalizzazione dell'ambito per politiche sociali."
+    },
+    {
+      "question": "___ un grido nella notte.",
+      "options": ["Riecheggiò", "Echeggiava", "È echeggiato"],
+      "answer": "Riecheggiò",
+      "explanation": "Inversione per creare suspense."
+    },
+    {
+      "question": "A quelle critiche, ___ ho risposto con fermezza.",
+      "options": ["vi", "ci", "ne"],
+      "answer": "vi",
+      "explanation": "Tema con ripresa locativa/astratta per repliche."
+    },
+    {
+      "question": "È con l'esempio ___ si educa veramente.",
+      "options": ["che", "cui", "come"],
+      "answer": "che",
+      "explanation": "Focalizzazione dello strumento educativo."
+    },
+    {
+      "question": "___ le prime luci dell'alba.",
+      "options": ["Apparvero", "Apparivano", "Sono apparse"],
+      "answer": "Apparvero",
+      "explanation": "Inversione poetica per descrizioni naturali."
+    },
+    {
+      "question": "Quella decisione, ___ ho presa dopo lunga riflessione.",
+      "options": ["l'", "la", "ne"],
+      "answer": "l'",
+      "explanation": "Tema con elisione e accordo participiale."
+    },
+    {
+      "question": "È nella solidarietà ___ trova forza la società.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Frase scissa per valori comunitari."
+    },
+    {
+      "question": "Echeggiarono ___ gli applausi del pubblico entusiasta.",
+      "options": ["nella sala", "in sala", "alla sala"],
+      "answer": "nella sala",
+      "explanation": "Inversione locativa per scene pubbliche."
+    },
+    {
+      "question": "È dal confronto ___ emergono le idee migliori.",
+      "options": ["che", "cui", "donde"],
+      "answer": "che",
+      "explanation": "Focalizzazione del processo per contesti collaborativi."
+    },
+    {
+      "question": "Le tue intenzioni, ___ ho sempre interpretate correttamente.",
+      "options": ["le", "ne", "gli"],
+      "answer": "le",
+      "explanation": "Tema con ripresa per rivendicazione di comprensione."
+    },
+    {
+      "question": "È con la pazienza ___ si superano le difficoltà.",
+      "options": ["che", "cui", "come"],
+      "answer": "che",
+      "explanation": "Focalizzazione della virtù necessaria."
+    },
+    {
+      "question": "___ in lontananza il rumore del treno.",
+      "options": ["Si udì", "Udì", "Udiva"],
+      "answer": "Si udì",
+      "explanation": "Inversione sensoriale per ambientazioni."
+    },
+    {
+      "question": "A quella proposta, ___ ho aderito con entusiasmo.",
+      "options": ["vi", "ci", "ne"],
+      "answer": "vi",
+      "explanation": "Tema con ripresa per esprimere adesione."
+    },
+    {
+      "question": "È nella trasparenza ___ si basa la fiducia.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Focalizzazione del fondamento per principi etici."
+    },
+    {
+      "question": "Calò ___ un silenzio carico di tensione.",
+      "options": ["improvvisamente", "improvviso", "improvvisando"],
+      "answer": "improvvisamente",
+      "explanation": "Inversione per drammatizzare un momento."
+    },
+    {
+      "question": "Quell'esperienza, ___ ha segnato profondamente.",
+      "options": ["mi", "me", "a me"],
+      "answer": "mi",
+      "explanation": "Tema con ripresa pronominale per impatto personale."
+    },
+    {
+      "question": "È sul merito ___ dovrebbe basarsi ogni valutazione.",
+      "options": ["che", "cui", "dove"],
+      "answer": "che",
+      "explanation": "Frase scissa per principi di giustizia."
+    },
+    {
+      "question": "___ un profumo inebriante di fiori.",
+      "options": ["Aleggiava", "Aleggiò", "Aleggia"],
+      "answer": "Aleggiava",
+      "explanation": "Inversione descrittiva imperfettiva per atmosfera."
+    },
+    {
+      "question": "A questi valori, ___ sono rimasto sempre fedele.",
+      "options": ["sono", "mi sono", "ci sono"],
+      "answer": "sono",
+      "explanation": "Tema con verbo di fedeltà senza ripresa obbligatoria."
+    },
+    {
+      "question": "È con la dedizione ___ si raggiungono gli obiettivi.",
+      "options": ["che", "cui", "come"],
+      "answer": "che",
+      "explanation": "Focalizzazione della qualità necessaria."
+    },
+    {
+      "question": "___ sui volti degli astanti sorpresa e incredulità.",
+      "options": ["Si leggeva", "Leggeva", "Leggevano"],
+      "answer": "Si leggeva",
+      "explanation": "Inversione con si passivante per osservazioni."
+    },
+    {
+      "question": "Il tuo consiglio, ___ ho seguito alla lettera.",
+      "options": ["l'", "lo", "gli"],
+      "answer": "l'",
+      "explanation": "Tema con elisione per indicare adesione totale."
+    },
+    {
+      "question": "È nell'innovazione ___ risiede il progresso.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Frase scissa per discorsi sul progresso."
+    },
+    {
+      "question": "Risuonò ___ il rintocco delle campane.",
+      "options": ["solenne", "solennemente", "con solennità"],
+      "answer": "solennemente",
+      "explanation": "Inversione avverbiale per cerimonie."
+    },
+    {
+      "question": "È dalla determinazione ___ dipende il successo finale.",
+      "options": ["che", "cui", "donde"],
+      "answer": "che",
+      "explanation": "Focalizzazione del fattore determinante."
+    },
+    {
+      "question": "La tua fiducia, ___ ho sempre apprezzata immensamente.",
+      "options": ["l'", "la", "ne"],
+      "answer": "l'",
+      "explanation": "Tema con elisione e participio accordato."
+    },
+    {
+      "question": "È con l'impegno quotidiano ___ si costruisce il futuro.",
+      "options": ["che", "cui", "come"],
+      "answer": "che",
+      "explanation": "Focalizzazione della costanza necessaria."
+    },
+    {
+      "question": "___ inesorabile il tempo che consuma ogni cosa.",
+      "options": ["Scorre", "Scorreva", "È scorso"],
+      "answer": "Scorre",
+      "explanation": "Inversione filosofica per riflessioni sul tempo."
+    },
+    {
+      "question": "A quella sfida, ___ ho risposto con coraggio.",
+      "options": ["vi", "ci", "ne"],
+      "answer": "vi",
+      "explanation": "Tema con ripresa per indicare reazione."
+    },
+    {
+      "question": "È nella coerenza ___ si manifesta il carattere.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Frase scissa per giudizi morali."
+    },
+    {
+      "question": "___ finalmente il sole dopo giorni di pioggia.",
+      "options": ["Riapparve", "Riappariva", "È riapparso"],
+      "answer": "Riapparve",
+      "explanation": "Inversione per eventi atmosferici attesi."
+    },
+    {
+      "question": "I suoi insegnamenti, ___ ho custoditi nel cuore.",
+      "options": ["li", "ne", "gli"],
+      "answer": "li",
+      "explanation": "Tema con ripresa e metafora affettiva."
+    },
+    {
+      "question": "È dal rispetto delle regole ___ nasce la civiltà.",
+      "options": ["che", "cui", "donde"],
+      "answer": "che",
+      "explanation": "Focalizzazione del principio civilizzatore."
+    },
+    {
+      "question": "___ un brivido lungo la schiena.",
+      "options": ["Mi percorse", "Percorse", "Percorreva"],
+      "answer": "Mi percorse",
+      "explanation": "Inversione somatica per sensazioni fisiche."
+    },
+    {
+      "question": "Quella lezione, ___ ho imparata a mie spese.",
+      "options": ["l'", "la", "ne"],
+      "answer": "l'",
+      "explanation": "Tema con elisione per esperienze formative."
+    },
+    {
+      "question": "È con la perseveranza ___ si vincono le battaglie.",
+      "options": ["che", "cui", "come"],
+      "answer": "che",
+      "explanation": "Focalizzazione della qualità vincente."
+    },
+    {
+      "question": "___ le stelle nel cielo notturno.",
+      "options": ["Brillavano", "Brillarono", "Brillano"],
+      "answer": "Brillavano",
+      "explanation": "Inversione poetica imperfettiva per scene notturne."
+    },
+    {
+      "question": "È nell'onestà ___ si fonda ogni rapporto autentico.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Frase scissa per principi relazionali."
+    },
+    {
+      "question": "Quelle parole, ___ hanno cambiato la mia vita.",
+      "options": ["mi", "me", "a me"],
+      "answer": "mi",
+      "explanation": "Tema con ripresa per trasformazione personale."
+    },
+    {
+      "question": "È dalla passione ___ nasce l'eccellenza.",
+      "options": ["che", "cui", "donde"],
+      "answer": "che",
+      "explanation": "Focalizzazione della fonte dell'eccellenza."
+    },
+    {
+      "question": "___ lentamente il sipario sulla scena finale.",
+      "options": ["Calò", "Calava", "È calato"],
+      "answer": "Calò",
+      "explanation": "Inversione teatrale per conclusioni."
+    },
+    {
+      "question": "È con la responsabilità ___ si esercita il potere.",
+      "options": ["che", "cui", "come"],
+      "answer": "che",
+      "explanation": "Frase scissa per enfatizzare il modo corretto di esercitare autorità."
+    },
+    {
+      "question": "Le sue intenzioni, ___ erano chiare fin dall'inizio.",
+      "options": ["mi", "a me", "per me"],
+      "answer": "mi",
+      "explanation": "Dislocazione a sinistra con ripresa pronominale per chiarezza percepita."
+    },
+    {
+      "question": "È nella semplicità ___ si trova la vera eleganza.",
+      "options": ["che", "dove", "cui"],
+      "answer": "che",
+      "explanation": "Frase scissa per esprimere un principio estetico."
+    }
+  ]
+}
