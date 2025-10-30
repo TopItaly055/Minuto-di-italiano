@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Variabilità normativa (C2)",
+  "exercises": [
+    {
+      "question": "Dante ___ la Divina Commedia nel XIV secolo.",
+      "options": [
+        "scrisse",
+        "ha scritto",
+        "scriveva"
+      ],
+      "answer": "scrisse",
+      "explanation": "Esercizio 1: La forma corretta è 'scrisse'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Napoleone ___ in esilio a Sant'Elena.",
+      "options": [
+        "andò",
+        "è andato",
+        "andava"
+      ],
+      "answer": "andò",
+      "explanation": "Esercizio 2: La forma corretta è 'andò'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Leonardo da Vinci ___ la Gioconda.",
+      "options": [
+        "dipinse",
+        "ha dipinto",
+        "dipingeva"
+      ],
+      "answer": "dipinse",
+      "explanation": "Esercizio 3: La forma corretta è 'dipinse'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Marco Polo ___ in Cina nel XIII secolo.",
+      "options": [
+        "viaggiò",
+        "ha viaggiato",
+        "viaggiava"
+      ],
+      "answer": "viaggiò",
+      "explanation": "Esercizio 4: La forma corretta è 'viaggiò'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Michelangelo ___ la Cappella Sistina.",
+      "options": [
+        "dipinse",
+        "ha dipinto",
+        "dipingeva"
+      ],
+      "answer": "dipinse",
+      "explanation": "Esercizio 5: La forma corretta è 'dipinse'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Garibaldi ___ l'Italia nel 1860.",
+      "options": [
+        "unificò",
+        "ha unificato",
+        "unificava"
+      ],
+      "answer": "unificò",
+      "explanation": "Esercizio 6: La forma corretta è 'unificò'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Verdi ___ opere immortali.",
+      "options": [
+        "compose",
+        "ha composto",
+        "componeva"
+      ],
+      "answer": "compose",
+      "explanation": "Esercizio 7: La forma corretta è 'compose'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Fellini ___ capolavori del cinema.",
+      "options": [
+        "girò",
+        "ha girato",
+        "girava"
+      ],
+      "answer": "girò",
+      "explanation": "Esercizio 8: La forma corretta è 'girò'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Pavarotti ___ in tutto il mondo.",
+      "options": [
+        "cantò",
+        "ha cantato",
+        "cantava"
+      ],
+      "answer": "cantò",
+      "explanation": "Esercizio 9: La forma corretta è 'cantò'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ferrari ___ automobili leggendarie.",
+      "options": [
+        "creò",
+        "ha creato",
+        "creava"
+      ],
+      "answer": "creò",
+      "explanation": "Esercizio 10: La forma corretta è 'creò'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ieri ___ al cinema con gli amici.",
+      "options": [
+        "sono andato",
+        "andai",
+        "andavo"
+      ],
+      "answer": "sono andato",
+      "explanation": "Esercizio 11: La forma corretta è 'sono andato'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "L'anno scorso ___ in vacanza in Grecia.",
+      "options": [
+        "sono stato",
+        "fui",
+        "ero"
+      ],
+      "answer": "sono stato",
+      "explanation": "Esercizio 12: La forma corretta è 'sono stato'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "La settimana scorsa ___ un libro interessante.",
+      "options": [
+        "ho letto",
+        "lessi",
+        "leggevo"
+      ],
+      "answer": "ho letto",
+      "explanation": "Esercizio 13: La forma corretta è 'ho letto'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Il mese scorso ___ una nuova casa.",
+      "options": [
+        "ho comprato",
+        "comperai",
+        "compravo"
+      ],
+      "answer": "ho comprato",
+      "explanation": "Esercizio 14: La forma corretta è 'ho comprato'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "L'altro ieri ___ un incidente in autostrada.",
+      "options": [
+        "ho avuto",
+        "ebbi",
+        "avevo"
+      ],
+      "answer": "ho avuto",
+      "explanation": "Esercizio 15: La forma corretta è 'ho avuto'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "La scorsa estate ___ molto caldo.",
+      "options": [
+        "è stato",
+        "fu",
+        "era"
+      ],
+      "answer": "è stato",
+      "explanation": "Esercizio 16: La forma corretta è 'è stato'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ieri sera ___ tardi dal lavoro.",
+      "options": [
+        "sono tornato",
+        "tornai",
+        "tornavo"
+      ],
+      "answer": "sono tornato",
+      "explanation": "Esercizio 17: La forma corretta è 'sono tornato'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "La settimana scorsa ___ una riunione importante.",
+      "options": [
+        "ho avuto",
+        "ebbi",
+        "avevo"
+      ],
+      "answer": "ho avuto",
+      "explanation": "Esercizio 18: La forma corretta è 'ho avuto'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Il mese scorso ___ un esame difficile.",
+      "options": [
+        "ho superato",
+        "superai",
+        "superavo"
+      ],
+      "answer": "ho superato",
+      "explanation": "Esercizio 19: La forma corretta è 'ho superato'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "L'anno scorso ___ una promozione.",
+      "options": [
+        "ho ottenuto",
+        "ottenni",
+        "ottenevo"
+      ],
+      "answer": "ho ottenuto",
+      "explanation": "Esercizio 20: La forma corretta è 'ho ottenuto'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ho visto Maria e ___ ho dato il libro.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 21: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Conosco Anna e ___ parlo spesso.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 22: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ho incontrato Sara e ___ ho raccontato tutto.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 23: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Vedo Lucia e ___ telefono ogni giorno.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 24: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Conosco Elena e ___ scrivo spesso.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 25: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ho parlato con Giulia e ___ ho spiegato la situazione.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 26: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Vedo Francesca e ___ porto sempre un regalo.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 27: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Conosco Roberta e ___ aiuto sempre.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 28: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ho incontrato Valentina e ___ ho dato consigli.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 29: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Vedo Chiara e ___ racconto le mie esperienze.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 30: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ho visto i ragazzi e ___ ho dato i compiti.",
+      "options": [
+        "gli",
+        "loro",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 31: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Conosco i bambini e ___ racconto storie.",
+      "options": [
+        "gli",
+        "loro",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 32: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ho incontrato gli studenti e ___ ho spiegato la lezione.",
+      "options": [
+        "gli",
+        "loro",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 33: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Vedo i colleghi e ___ parlo di lavoro.",
+      "options": [
+        "gli",
+        "loro",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 34: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Conosco i vicini e ___ saluto sempre.",
+      "options": [
+        "gli",
+        "loro",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 35: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ho parlato con i genitori e ___ ho dato notizie.",
+      "options": [
+        "gli",
+        "loro",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 36: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Vedo gli amici e ___ telefono spesso.",
+      "options": [
+        "gli",
+        "loro",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 37: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Conosco i parenti e ___ visito regolarmente.",
+      "options": [
+        "gli",
+        "loro",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 38: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ho incontrato i clienti e ___ ho presentato il progetto.",
+      "options": [
+        "gli",
+        "loro",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 39: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Vedo i turisti e ___ do indicazioni.",
+      "options": [
+        "gli",
+        "loro",
+        "le"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 40: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Lombardia si dice \"___\" invece di \"mangiare\".",
+      "options": [
+        "magnare",
+        "mangiare",
+        "pappare"
+      ],
+      "answer": "magnare",
+      "explanation": "Esercizio 41: La forma corretta è 'magnare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Sicilia si usa \"___\" per \"bambino\".",
+      "options": [
+        "picciriddu",
+        "bambino",
+        "ragazzino"
+      ],
+      "answer": "picciriddu",
+      "explanation": "Esercizio 42: La forma corretta è 'picciriddu'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Veneto si dice \"___\" per \"andare\".",
+      "options": [
+        "ndare",
+        "andare",
+        "camminare"
+      ],
+      "answer": "ndare",
+      "explanation": "Esercizio 43: La forma corretta è 'ndare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Campania si usa \"___\" per \"casa\".",
+      "options": [
+        "casa",
+        "casa",
+        "casa"
+      ],
+      "answer": "casa",
+      "explanation": "Esercizio 44: La forma corretta è 'casa'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Piemonte si dice \"___\" per \"lavorare\".",
+      "options": [
+        "lavorare",
+        "lavorare",
+        "lavorare"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 45: La forma corretta è 'lavorare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Puglia si usa \"___\" per \"acqua\".",
+      "options": [
+        "acqua",
+        "acqua",
+        "acqua"
+      ],
+      "answer": "acqua",
+      "explanation": "Esercizio 46: La forma corretta è 'acqua'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Toscana si dice \"___\" per \"dire\".",
+      "options": [
+        "dire",
+        "dire",
+        "dire"
+      ],
+      "answer": "dire",
+      "explanation": "Esercizio 47: La forma corretta è 'dire'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Sardegna si usa \"___\" per \"uomo\".",
+      "options": [
+        "omine",
+        "uomo",
+        "maschio"
+      ],
+      "answer": "omine",
+      "explanation": "Esercizio 48: La forma corretta è 'omine'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Liguria si dice \"___\" per \"strada\".",
+      "options": [
+        "strada",
+        "strada",
+        "strada"
+      ],
+      "answer": "strada",
+      "explanation": "Esercizio 49: La forma corretta è 'strada'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Calabria si usa \"___\" per \"madre\".",
+      "options": [
+        "matre",
+        "madre",
+        "mamma"
+      ],
+      "answer": "matre",
+      "explanation": "Esercizio 50: La forma corretta è 'matre'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In contesto formale si dice \"___\" invece di \"dare\".",
+      "options": [
+        "concedere",
+        "dare",
+        "offrire"
+      ],
+      "answer": "concedere",
+      "explanation": "Esercizio 51: La forma corretta è 'concedere'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio colloquiale si usa \"___\" per \"denaro\".",
+      "options": [
+        "soldi",
+        "denaro",
+        "moneta"
+      ],
+      "answer": "soldi",
+      "explanation": "Esercizio 52: La forma corretta è 'soldi'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In ambito accademico si preferisce \"___\" a \"cercare\".",
+      "options": [
+        "ricercare",
+        "cercare",
+        "trovare"
+      ],
+      "answer": "ricercare",
+      "explanation": "Esercizio 53: La forma corretta è 'ricercare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel parlato quotidiano si dice \"___\" per \"automobile\".",
+      "options": [
+        "macchina",
+        "automobile",
+        "veicolo"
+      ],
+      "answer": "macchina",
+      "explanation": "Esercizio 54: La forma corretta è 'macchina'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In contesto burocratico si usa \"___\" invece di \"fare\".",
+      "options": [
+        "effettuare",
+        "fare",
+        "realizzare"
+      ],
+      "answer": "effettuare",
+      "explanation": "Esercizio 55: La forma corretta è 'effettuare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio familiare si dice \"___\" per \"telefono\".",
+      "options": [
+        "telefono",
+        "telefono",
+        "telefono"
+      ],
+      "answer": "telefono",
+      "explanation": "Esercizio 56: La forma corretta è 'telefono'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In ambito professionale si preferisce \"___\" a \"dire\".",
+      "options": [
+        "affermare",
+        "dire",
+        "sostenere"
+      ],
+      "answer": "affermare",
+      "explanation": "Esercizio 57: La forma corretta è 'affermare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel parlato informale si usa \"___\" per \"casa\".",
+      "options": [
+        "casa",
+        "casa",
+        "casa"
+      ],
+      "answer": "casa",
+      "explanation": "Esercizio 58: La forma corretta è 'casa'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In contesto istituzionale si dice \"___\" invece di \"aiutare\".",
+      "options": [
+        "assistere",
+        "aiutare",
+        "sostenere"
+      ],
+      "answer": "assistere",
+      "explanation": "Esercizio 59: La forma corretta è 'assistere'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio giovanile si usa \"___\" per \"amico\".",
+      "options": [
+        "amico",
+        "amico",
+        "amico"
+      ],
+      "answer": "amico",
+      "explanation": "Esercizio 60: La forma corretta è 'amico'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In una lettera formale si scrive \"___\" invece di \"grazie\".",
+      "options": [
+        "ringrazio",
+        "grazie",
+        "ti ringrazio"
+      ],
+      "answer": "ringrazio",
+      "explanation": "Esercizio 61: La forma corretta è 'ringrazio'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In un colloquio informale si dice \"___\" per \"arrivederci\".",
+      "options": [
+        "ciao",
+        "arrivederci",
+        "salve"
+      ],
+      "answer": "ciao",
+      "explanation": "Esercizio 62: La forma corretta è 'ciao'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In un documento ufficiale si usa \"___\" per \"problema\".",
+      "options": [
+        "questione",
+        "problema",
+        "difficoltà"
+      ],
+      "answer": "questione",
+      "explanation": "Esercizio 63: La forma corretta è 'questione'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel parlato quotidiano si dice \"___\" per \"difficile\".",
+      "options": [
+        "difficile",
+        "difficile",
+        "difficile"
+      ],
+      "answer": "difficile",
+      "explanation": "Esercizio 64: La forma corretta è 'difficile'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In un discorso pubblico si preferisce \"___\" a \"casa\".",
+      "options": [
+        "abitazione",
+        "casa",
+        "residenza"
+      ],
+      "answer": "abitazione",
+      "explanation": "Esercizio 65: La forma corretta è 'abitazione'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio familiare si usa \"___\" per \"mangiare\".",
+      "options": [
+        "mangiare",
+        "mangiare",
+        "mangiare"
+      ],
+      "answer": "mangiare",
+      "explanation": "Esercizio 66: La forma corretta è 'mangiare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In ambito accademico si dice \"___\" invece di \"pensare\".",
+      "options": [
+        "considerare",
+        "pensare",
+        "riflettere"
+      ],
+      "answer": "considerare",
+      "explanation": "Esercizio 67: La forma corretta è 'considerare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel parlato colloquiale si usa \"___\" per \"lavoro\".",
+      "options": [
+        "lavoro",
+        "lavoro",
+        "lavoro"
+      ],
+      "answer": "lavoro",
+      "explanation": "Esercizio 68: La forma corretta è 'lavoro'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In contesto professionale si preferisce \"___\" a \"fare\".",
+      "options": [
+        "svolgere",
+        "fare",
+        "realizzare"
+      ],
+      "answer": "svolgere",
+      "explanation": "Esercizio 69: La forma corretta è 'svolgere'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio informale si dice \"___\" per \"andare\".",
+      "options": [
+        "andare",
+        "andare",
+        "andare"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 70: La forma corretta è 'andare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio antico si diceva \"___\" per \"dire\".",
+      "options": [
+        "dire",
+        "dire",
+        "dire"
+      ],
+      "answer": "dire",
+      "explanation": "Esercizio 71: La forma corretta è 'dire'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio moderno si usa \"___\" per \"telefono\".",
+      "options": [
+        "telefono",
+        "telefono",
+        "telefono"
+      ],
+      "answer": "telefono",
+      "explanation": "Esercizio 72: La forma corretta è 'telefono'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio giovanile si dice \"___\" per \"bello\".",
+      "options": [
+        "figo",
+        "bello",
+        "carino"
+      ],
+      "answer": "figo",
+      "explanation": "Esercizio 73: La forma corretta è 'figo'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio tradizionale si usa \"___\" per \"casa\".",
+      "options": [
+        "casa",
+        "casa",
+        "casa"
+      ],
+      "answer": "casa",
+      "explanation": "Esercizio 74: La forma corretta è 'casa'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio contemporaneo si dice \"___\" per \"computer\".",
+      "options": [
+        "computer",
+        "computer",
+        "computer"
+      ],
+      "answer": "computer",
+      "explanation": "Esercizio 75: La forma corretta è 'computer'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio classico si usava \"___\" per \"scrivere\".",
+      "options": [
+        "scrivere",
+        "scrivere",
+        "scrivere"
+      ],
+      "answer": "scrivere",
+      "explanation": "Esercizio 76: La forma corretta è 'scrivere'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio moderno si preferisce \"___\" a \"leggere\".",
+      "options": [
+        "leggere",
+        "leggere",
+        "leggere"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 77: La forma corretta è 'leggere'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio giovanile si usa \"___\" per \"amico\".",
+      "options": [
+        "amico",
+        "amico",
+        "amico"
+      ],
+      "answer": "amico",
+      "explanation": "Esercizio 78: La forma corretta è 'amico'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio formale si dice \"___\" invece di \"parlare\".",
+      "options": [
+        "esprimere",
+        "parlare",
+        "comunicare"
+      ],
+      "answer": "esprimere",
+      "explanation": "Esercizio 79: La forma corretta è 'esprimere'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Nel linguaggio colloquiale si usa \"___\" per \"vedere\".",
+      "options": [
+        "vedere",
+        "vedere",
+        "vedere"
+      ],
+      "answer": "vedere",
+      "explanation": "Esercizio 80: La forma corretta è 'vedere'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Dante ___ la Divina Commedia, opera di straordinaria bellezza letteraria.",
+      "options": [
+        "compose",
+        "ha composto",
+        "componeva"
+      ],
+      "answer": "compose",
+      "explanation": "Esercizio 81: La forma corretta è 'compose'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Michelangelo ___ la Cappella Sistina, capolavoro dell'arte rinascimentale.",
+      "options": [
+        "dipinse",
+        "ha dipinto",
+        "dipingeva"
+      ],
+      "answer": "dipinse",
+      "explanation": "Esercizio 82: La forma corretta è 'dipinse'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Leonardo da Vinci ___ la Gioconda, ritratto di inestimabile valore artistico.",
+      "options": [
+        "dipinse",
+        "ha dipinto",
+        "dipingeva"
+      ],
+      "answer": "dipinse",
+      "explanation": "Esercizio 83: La forma corretta è 'dipinse'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Verdi ___ opere immortali che ancora oggi incantano il pubblico.",
+      "options": [
+        "compose",
+        "ha composto",
+        "componeva"
+      ],
+      "answer": "compose",
+      "explanation": "Esercizio 84: La forma corretta è 'compose'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Fellini ___ capolavori del cinema italiano riconosciuti in tutto il mondo.",
+      "options": [
+        "girò",
+        "ha girato",
+        "girava"
+      ],
+      "answer": "girò",
+      "explanation": "Esercizio 85: La forma corretta è 'girò'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ieri ___ al cinema e ho visto un film bellissimo.",
+      "options": [
+        "sono andato",
+        "andai",
+        "andavo"
+      ],
+      "answer": "sono andato",
+      "explanation": "Esercizio 86: La forma corretta è 'sono andato'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "La settimana scorsa ___ una vacanza fantastica in montagna.",
+      "options": [
+        "ho fatto",
+        "feci",
+        "facevo"
+      ],
+      "answer": "ho fatto",
+      "explanation": "Esercizio 87: La forma corretta è 'ho fatto'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Il mese scorso ___ un nuovo lavoro molto interessante.",
+      "options": [
+        "ho trovato",
+        "trovai",
+        "trovavo"
+      ],
+      "answer": "ho trovato",
+      "explanation": "Esercizio 88: La forma corretta è 'ho trovato'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "L'altro ieri ___ una cena deliziosa al ristorante.",
+      "options": [
+        "ho mangiato",
+        "mangiai",
+        "mangiavo"
+      ],
+      "answer": "ho mangiato",
+      "explanation": "Esercizio 89: La forma corretta è 'ho mangiato'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "La scorsa estate ___ molto caldo e sono andato al mare.",
+      "options": [
+        "è stato",
+        "fu",
+        "era"
+      ],
+      "answer": "è stato",
+      "explanation": "Esercizio 90: La forma corretta è 'è stato'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ho visto Maria e ___ ho raccontato tutto quello che è successo.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 91: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Conosco Anna e ___ telefono spesso per chiacchierare.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 92: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Ho incontrato Sara e ___ ho dato consigli utili.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 93: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Vedo Lucia e ___ porto sempre qualcosa di buono.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 94: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "Conosco Elena e ___ scrivo messaggi ogni giorno.",
+      "options": [
+        "gli",
+        "le",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 95: La forma corretta è 'gli'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Sicilia si dice \"___\" per bambino, termine tipico del dialetto locale.",
+      "options": [
+        "picciriddu",
+        "bambino",
+        "ragazzino"
+      ],
+      "answer": "picciriddu",
+      "explanation": "Esercizio 96: La forma corretta è 'picciriddu'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Lombardia si usa \"___\" per mangiare, espressione regionale caratteristica.",
+      "options": [
+        "magnare",
+        "mangiare",
+        "pappare"
+      ],
+      "answer": "magnare",
+      "explanation": "Esercizio 97: La forma corretta è 'magnare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Veneto si dice \"___\" per andare, forma dialettale tradizionale.",
+      "options": [
+        "ndare",
+        "andare",
+        "camminare"
+      ],
+      "answer": "ndare",
+      "explanation": "Esercizio 98: La forma corretta è 'ndare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Campania si usa \"___\" per casa, termine del dialetto napoletano.",
+      "options": [
+        "casa",
+        "casa",
+        "casa"
+      ],
+      "answer": "casa",
+      "explanation": "Esercizio 99: La forma corretta è 'casa'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    },
+    {
+      "question": "In Piemonte si dice \"___\" per lavorare, espressione locale tipica.",
+      "options": [
+        "lavorare",
+        "lavorare",
+        "lavorare"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 100: La forma corretta è 'lavorare'. La variabilità normativa regola l'uso di forme diatopiche (geografiche) e diafasiche (stilistiche) in base al contesto comunicativo e al registro linguistico."
+    }
+  ]
+}
