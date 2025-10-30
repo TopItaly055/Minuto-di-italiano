@@ -1,0 +1,2435 @@
+{
+  "topic_name": "Futuro anteriore (B1)",
+  "exercises": [
+    {
+      "question": "Quando ___ a casa, ti chiamerò.",
+      "options": [
+        "sarò arrivato",
+        "arriverò",
+        "arrivavo"
+      ],
+      "answer": "sarò arrivato",
+      "explanation": "Futuro anteriore esprime un'azione futura che sarà completata prima di un'altra azione futura. 'Sarò arrivato' indica che l'arrivo sarà completato prima della telefonata."
+    },
+    {
+      "question": "Dopo che ___ il lavoro, andremo al ristorante.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Il futuro anteriore esprime un'azione che sarà completata prima di un'altra. 'Avrò finito' indica che il lavoro sarà completato prima di andare al ristorante."
+    },
+    {
+      "question": "Non usciremo finché ___ la pioggia.",
+      "options": [
+        "sarà cessata",
+        "cesserà",
+        "cessava"
+      ],
+      "answer": "sarà cessata",
+      "explanation": "Con 'finché' si usa il futuro anteriore per indicare che l'azione sarà completata prima di uscire. 'Sarà cessata' è la forma corretta per indicare che la pioggia sarà cessata."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposarti.",
+      "options": [
+        "avrai superato",
+        "supererai",
+        "superavi"
+      ],
+      "answer": "avrai superato",
+      "explanation": "Il futuro anteriore indica che il superamento dell'esame sarà completato prima di potersi riposare."
+    },
+    {
+      "question": "Appena ___ la lettera, ti risponderò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' si usa il futuro anteriore per indicare che l'azione sarà completata immediatamente prima di un'altra."
+    },
+    {
+      "question": "Dopo che ___ la cena, guarderemo un film.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di guardare un film."
+    },
+    {
+      "question": "Quando ___ i compiti, potrai giocare.",
+      "options": [
+        "avrai fatto",
+        "farai",
+        "facevi"
+      ],
+      "answer": "avrai fatto",
+      "explanation": "Il futuro anteriore indica che i compiti saranno completati prima di poter giocare."
+    },
+    {
+      "question": "Non partirò finché ___ la risposta.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'finché' il futuro anteriore esprime che la ricezione della risposta sarà completata prima della partenza."
+    },
+    {
+      "question": "Quando ___ il treno, andremo in stazione.",
+      "options": [
+        "sarà arrivato",
+        "arriverà",
+        "arrivava"
+      ],
+      "answer": "sarà arrivato",
+      "explanation": "Il futuro anteriore indica che l'arrivo del treno sarà completato prima di andare in stazione."
+    },
+    {
+      "question": "Dopo che ___ la lezione, studieremo insieme.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà completata prima di studiare insieme."
+    },
+    {
+      "question": "Quando ___ il progetto, potrai presentarlo.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore indica che il progetto sarà completato prima di poterlo presentare."
+    },
+    {
+      "question": "Appena ___ la notizia, la condividerò con te.",
+      "options": [
+        "avrò saputo",
+        "saprò",
+        "sapevo"
+      ],
+      "answer": "avrò saputo",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conoscenza della notizia sarà immediata prima della condivisione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti.",
+      "options": [
+        "saremo arrivati",
+        "arriveremo",
+        "arrivavamo"
+      ],
+      "answer": "saremo arrivati",
+      "explanation": "Il futuro anteriore con 'finché' indica che l'arrivo di tutti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ l'ufficio, tornerò a casa.",
+      "options": [
+        "avrò chiuso",
+        "chiuderò",
+        "chiudevo"
+      ],
+      "answer": "avrò chiuso",
+      "explanation": "Il futuro anteriore esprime che la chiusura dell'ufficio sarà completata prima di tornare a casa."
+    },
+    {
+      "question": "Dopo che ___ la spesa, cucineremo.",
+      "options": [
+        "avremo fatto",
+        "faremo",
+        "facevamo"
+      ],
+      "answer": "avremo fatto",
+      "explanation": "Il futuro anteriore indica che la spesa sarà completata prima di cucinare."
+    },
+    {
+      "question": "Quando ___ il libro, te lo restituirò.",
+      "options": [
+        "avrò letto",
+        "leggerò",
+        "leggevo"
+      ],
+      "answer": "avrò letto",
+      "explanation": "Il futuro anteriore esprime che la lettura del libro sarà completata prima di restituirlo."
+    },
+    {
+      "question": "Appena ___ la decisione, ti informerò.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima dell'informazione."
+    },
+    {
+      "question": "Non partirò finché ___ la valigia.",
+      "options": [
+        "avrò preparato",
+        "preparerò",
+        "preparavo"
+      ],
+      "answer": "avrò preparato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che la preparazione della valigia sarà completata prima della partenza."
+    },
+    {
+      "question": "Quando ___ il lavoro, andremo in vacanza.",
+      "options": [
+        "avremo terminato",
+        "termineremo",
+        "terminavamo"
+      ],
+      "answer": "avremo terminato",
+      "explanation": "Il futuro anteriore indica che il lavoro sarà terminato prima di andare in vacanza."
+    },
+    {
+      "question": "Dopo che ___ la riunione, discuteremo il progetto.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la riunione sarà completata prima di discutere il progetto."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai riposare.",
+      "options": [
+        "avrai fatto",
+        "farai",
+        "facevi"
+      ],
+      "answer": "avrai fatto",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà completato prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà terminata",
+        "terminerà",
+        "terminava"
+      ],
+      "answer": "sarà terminata",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conferenza sarà terminata immediatamente prima del ritorno."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà completata prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al cinema.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al cinema."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il certificato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il certificato."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore indica che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti.",
+      "options": [
+        "avremo controllato",
+        "controlleremo",
+        "controllavamo"
+      ],
+      "answer": "avremo controllato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che il controllo di tutti i documenti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in montagna.",
+      "options": [
+        "avremo riparato",
+        "ripareremo",
+        "riparavamo"
+      ],
+      "answer": "avremo riparato",
+      "explanation": "Il futuro anteriore indica che la riparazione della macchina sarà completata prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la lezione, potrai andare a casa.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà completata prima di poter andare a casa."
+    },
+    {
+      "question": "Appena ___ il lavoro, ti chiamerò.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Con 'appena' il futuro anteriore indica che il lavoro sarà completato immediatamente prima della telefonata."
+    },
+    {
+      "question": "Non usciremo finché ___ la pioggia.",
+      "options": [
+        "sarà cessata",
+        "cesserà",
+        "cessava"
+      ],
+      "answer": "sarà cessata",
+      "explanation": "Il futuro anteriore con 'finché' esprime che la pioggia sarà cessata prima di uscire."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposarti.",
+      "options": [
+        "avrai sostenuto",
+        "sosterrai",
+        "sostenevi"
+      ],
+      "answer": "avrai sostenuto",
+      "explanation": "Il futuro anteriore indica che l'esame sarà sostenuto prima di poter riposare."
+    },
+    {
+      "question": "Dopo che ___ la riunione, andremo a pranzo.",
+      "options": [
+        "sarà terminata",
+        "terminerà",
+        "terminava"
+      ],
+      "answer": "sarà terminata",
+      "explanation": "Il futuro anteriore esprime che la riunione sarà terminata prima di andare a pranzo."
+    },
+    {
+      "question": "Quando ___ il libro, te lo restituirò.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Il futuro anteriore indica che la lettura del libro sarà completata prima di restituirlo."
+    },
+    {
+      "question": "Appena ___ la notizia, la diffonderò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della diffusione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i partecipanti.",
+      "options": [
+        "saremo arrivati",
+        "arriveremo",
+        "arrivavamo"
+      ],
+      "answer": "saremo arrivati",
+      "explanation": "Il futuro anteriore con 'finché' indica che l'arrivo di tutti i partecipanti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò concluso",
+        "concluderò",
+        "concludevo"
+      ],
+      "answer": "avrò concluso",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà conclusa prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, guarderemo un film.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di guardare un film."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai l'attestato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere l'attestato."
+    },
+    {
+      "question": "Appena ___ la decisione, ti informerò.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima dell'informazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i preparativi.",
+      "options": [
+        "avrò fatto",
+        "farò",
+        "facevo"
+      ],
+      "answer": "avrò fatto",
+      "explanation": "Il futuro anteriore con 'finché' esprime che tutti i preparativi saranno completati prima della partenza."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai fare la doccia.",
+      "options": [
+        "avrai terminato",
+        "terminerai",
+        "terminavi"
+      ],
+      "answer": "avrai terminato",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà terminato prima di poter fare la doccia."
+    },
+    {
+      "question": "Dopo che ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la conferenza sarà finita prima di tornare in ufficio."
+    },
+    {
+      "question": "Quando ___ il progetto, potrai presentarlo al cliente.",
+      "options": [
+        "avrai ultimato",
+        "ultimerai",
+        "ultimavi"
+      ],
+      "answer": "avrai ultimato",
+      "explanation": "Il futuro anteriore indica che il progetto sarà ultimato prima di poterlo presentare al cliente."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò sul sito.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti necessari.",
+      "options": [
+        "avremo raccolto",
+        "raccoglieremo",
+        "raccoglievamo"
+      ],
+      "answer": "avremo raccolto",
+      "explanation": "Il futuro anteriore con 'finché' indica che la raccolta di tutti i documenti sarà completata prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in vacanza.",
+      "options": [
+        "avremo sistemato",
+        "sistemeremo",
+        "sistemavamo"
+      ],
+      "answer": "avremo sistemato",
+      "explanation": "Il futuro anteriore indica che la sistemazione della macchina sarà completata prima di andare in vacanza."
+    },
+    {
+      "question": "Dopo che ___ la lezione, studieremo insieme.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di studiare insieme."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposare.",
+      "options": [
+        "avrai superato",
+        "supererai",
+        "superavi"
+      ],
+      "answer": "avrai superato",
+      "explanation": "Il futuro anteriore indica che l'esame sarà superato prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la condividerò con te.",
+      "options": [
+        "avrò saputo",
+        "saprò",
+        "sapevo"
+      ],
+      "answer": "avrò saputo",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conoscenza della notizia sarà immediata prima della condivisione."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò terminato",
+        "terminerò",
+        "terminavo"
+      ],
+      "answer": "avrò terminato",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà terminata prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al teatro.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al teatro."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il diploma.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il diploma."
+    },
+    {
+      "question": "Appena ___ la decisione, ti comunicherò tutto.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima della comunicazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i bagagli.",
+      "options": [
+        "avrò preparato",
+        "preparerò",
+        "preparavo"
+      ],
+      "answer": "avrò preparato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che la preparazione di tutti i bagagli sarà completata prima della partenza."
+    },
+    {
+      "question": "Quando ___ il lavoro, andremo in montagna.",
+      "options": [
+        "avremo terminato",
+        "termineremo",
+        "terminavamo"
+      ],
+      "answer": "avremo terminato",
+      "explanation": "Il futuro anteriore indica che il lavoro sarà terminato prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la riunione, discuteremo il progetto.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la riunione sarà finita prima di discutere il progetto."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai riposare.",
+      "options": [
+        "avrai fatto",
+        "farai",
+        "facevi"
+      ],
+      "answer": "avrai fatto",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà fatto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà terminata",
+        "terminerà",
+        "terminava"
+      ],
+      "answer": "sarà terminata",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conferenza sarà terminata immediatamente prima del ritorno."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà finita prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al cinema.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al cinema."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il certificato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il certificato."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore indica che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti.",
+      "options": [
+        "avremo controllato",
+        "controlleremo",
+        "controllavamo"
+      ],
+      "answer": "avremo controllato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che il controllo di tutti i documenti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in montagna.",
+      "options": [
+        "avremo riparato",
+        "ripareremo",
+        "riparavamo"
+      ],
+      "answer": "avremo riparato",
+      "explanation": "Il futuro anteriore indica che la riparazione della macchina sarà completata prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la lezione, potrai andare a casa.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di poter andare a casa."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposarti.",
+      "options": [
+        "avrai sostenuto",
+        "sosterrai",
+        "sostenevi"
+      ],
+      "answer": "avrai sostenuto",
+      "explanation": "Il futuro anteriore indica che l'esame sarà sostenuto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la diffonderò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della diffusione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i partecipanti.",
+      "options": [
+        "saremo arrivati",
+        "arriveremo",
+        "arrivavamo"
+      ],
+      "answer": "saremo arrivati",
+      "explanation": "Il futuro anteriore con 'finché' indica che l'arrivo di tutti i partecipanti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò concluso",
+        "concluderò",
+        "concludevo"
+      ],
+      "answer": "avrò concluso",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà conclusa prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, guarderemo un film.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di guardare un film."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai l'attestato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere l'attestato."
+    },
+    {
+      "question": "Appena ___ la decisione, ti informerò.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima dell'informazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i preparativi.",
+      "options": [
+        "avrò fatto",
+        "farò",
+        "facevo"
+      ],
+      "answer": "avrò fatto",
+      "explanation": "Il futuro anteriore con 'finché' esprime che tutti i preparativi saranno completati prima della partenza."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai fare la doccia.",
+      "options": [
+        "avrai terminato",
+        "terminerai",
+        "terminavi"
+      ],
+      "answer": "avrai terminato",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà terminato prima di poter fare la doccia."
+    },
+    {
+      "question": "Dopo che ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la conferenza sarà finita prima di tornare in ufficio."
+    },
+    {
+      "question": "Quando ___ il progetto, potrai presentarlo al cliente.",
+      "options": [
+        "avrai ultimato",
+        "ultimerai",
+        "ultimavi"
+      ],
+      "answer": "avrai ultimato",
+      "explanation": "Il futuro anteriore indica che il progetto sarà ultimato prima di poterlo presentare al cliente."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò sul sito.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti necessari.",
+      "options": [
+        "avremo raccolto",
+        "raccoglieremo",
+        "raccoglievamo"
+      ],
+      "answer": "avremo raccolto",
+      "explanation": "Il futuro anteriore con 'finché' indica che la raccolta di tutti i documenti sarà completata prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in vacanza.",
+      "options": [
+        "avremo sistemato",
+        "sistemeremo",
+        "sistemavamo"
+      ],
+      "answer": "avremo sistemato",
+      "explanation": "Il futuro anteriore indica che la sistemazione della macchina sarà completata prima di andare in vacanza."
+    },
+    {
+      "question": "Dopo che ___ la lezione, studieremo insieme.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di studiare insieme."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposare.",
+      "options": [
+        "avrai superato",
+        "supererai",
+        "superavi"
+      ],
+      "answer": "avrai superato",
+      "explanation": "Il futuro anteriore indica che l'esame sarà superato prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la condividerò con te.",
+      "options": [
+        "avrò saputo",
+        "saprò",
+        "sapevo"
+      ],
+      "answer": "avrò saputo",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conoscenza della notizia sarà immediata prima della condivisione."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò terminato",
+        "terminerò",
+        "terminavo"
+      ],
+      "answer": "avrò terminato",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà terminata prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al teatro.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al teatro."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il diploma.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il diploma."
+    },
+    {
+      "question": "Appena ___ la decisione, ti comunicherò tutto.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima della comunicazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i bagagli.",
+      "options": [
+        "avrò preparato",
+        "preparerò",
+        "preparavo"
+      ],
+      "answer": "avrò preparato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che la preparazione di tutti i bagagli sarà completata prima della partenza."
+    },
+    {
+      "question": "Quando ___ il lavoro, andremo in montagna.",
+      "options": [
+        "avremo terminato",
+        "termineremo",
+        "terminavamo"
+      ],
+      "answer": "avremo terminato",
+      "explanation": "Il futuro anteriore indica che il lavoro sarà terminato prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la riunione, discuteremo il progetto.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la riunione sarà finita prima di discutere il progetto."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai riposare.",
+      "options": [
+        "avrai fatto",
+        "farai",
+        "facevi"
+      ],
+      "answer": "avrai fatto",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà fatto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà terminata",
+        "terminerà",
+        "terminava"
+      ],
+      "answer": "sarà terminata",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conferenza sarà terminata immediatamente prima del ritorno."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà finita prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al cinema.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al cinema."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il certificato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il certificato."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore indica che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti.",
+      "options": [
+        "avremo controllato",
+        "controlleremo",
+        "controllavamo"
+      ],
+      "answer": "avremo controllato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che il controllo di tutti i documenti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in montagna.",
+      "options": [
+        "avremo riparato",
+        "ripareremo",
+        "riparavamo"
+      ],
+      "answer": "avremo riparato",
+      "explanation": "Il futuro anteriore indica che la riparazione della macchina sarà completata prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la lezione, potrai andare a casa.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di poter andare a casa."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposarti.",
+      "options": [
+        "avrai sostenuto",
+        "sosterrai",
+        "sostenevi"
+      ],
+      "answer": "avrai sostenuto",
+      "explanation": "Il futuro anteriore indica che l'esame sarà sostenuto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la diffonderò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della diffusione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i partecipanti.",
+      "options": [
+        "saremo arrivati",
+        "arriveremo",
+        "arrivavamo"
+      ],
+      "answer": "saremo arrivati",
+      "explanation": "Il futuro anteriore con 'finché' indica che l'arrivo di tutti i partecipanti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò concluso",
+        "concluderò",
+        "concludevo"
+      ],
+      "answer": "avrò concluso",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà conclusa prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, guarderemo un film.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di guardare un film."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai l'attestato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere l'attestato."
+    },
+    {
+      "question": "Appena ___ la decisione, ti informerò.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima dell'informazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i preparativi.",
+      "options": [
+        "avrò fatto",
+        "farò",
+        "facevo"
+      ],
+      "answer": "avrò fatto",
+      "explanation": "Il futuro anteriore con 'finché' esprime che tutti i preparativi saranno completati prima della partenza."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai fare la doccia.",
+      "options": [
+        "avrai terminato",
+        "terminerai",
+        "terminavi"
+      ],
+      "answer": "avrai terminato",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà terminato prima di poter fare la doccia."
+    },
+    {
+      "question": "Dopo che ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la conferenza sarà finita prima di tornare in ufficio."
+    },
+    {
+      "question": "Quando ___ il progetto, potrai presentarlo al cliente.",
+      "options": [
+        "avrai ultimato",
+        "ultimerai",
+        "ultimavi"
+      ],
+      "answer": "avrai ultimato",
+      "explanation": "Il futuro anteriore indica che il progetto sarà ultimato prima di poterlo presentare al cliente."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò sul sito.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti necessari.",
+      "options": [
+        "avremo raccolto",
+        "raccoglieremo",
+        "raccoglievamo"
+      ],
+      "answer": "avremo raccolto",
+      "explanation": "Il futuro anteriore con 'finché' indica che la raccolta di tutti i documenti sarà completata prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in vacanza.",
+      "options": [
+        "avremo sistemato",
+        "sistemeremo",
+        "sistemavamo"
+      ],
+      "answer": "avremo sistemato",
+      "explanation": "Il futuro anteriore indica che la sistemazione della macchina sarà completata prima di andare in vacanza."
+    },
+    {
+      "question": "Dopo che ___ la lezione, studieremo insieme.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di studiare insieme."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposare.",
+      "options": [
+        "avrai superato",
+        "supererai",
+        "superavi"
+      ],
+      "answer": "avrai superato",
+      "explanation": "Il futuro anteriore indica che l'esame sarà superato prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la condividerò con te.",
+      "options": [
+        "avrò saputo",
+        "saprò",
+        "sapevo"
+      ],
+      "answer": "avrò saputo",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conoscenza della notizia sarà immediata prima della condivisione."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò terminato",
+        "terminerò",
+        "terminavo"
+      ],
+      "answer": "avrò terminato",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà terminata prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al teatro.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al teatro."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il diploma.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il diploma."
+    },
+    {
+      "question": "Appena ___ la decisione, ti comunicherò tutto.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima della comunicazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i bagagli.",
+      "options": [
+        "avrò preparato",
+        "preparerò",
+        "preparavo"
+      ],
+      "answer": "avrò preparato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che la preparazione di tutti i bagagli sarà completata prima della partenza."
+    },
+    {
+      "question": "Quando ___ il lavoro, andremo in montagna.",
+      "options": [
+        "avremo terminato",
+        "termineremo",
+        "terminavamo"
+      ],
+      "answer": "avremo terminato",
+      "explanation": "Il futuro anteriore indica che il lavoro sarà terminato prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la riunione, discuteremo il progetto.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la riunione sarà finita prima di discutere il progetto."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai riposare.",
+      "options": [
+        "avrai fatto",
+        "farai",
+        "facevi"
+      ],
+      "answer": "avrai fatto",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà fatto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà terminata",
+        "terminerà",
+        "terminava"
+      ],
+      "answer": "sarà terminata",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conferenza sarà terminata immediatamente prima del ritorno."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà finita prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al cinema.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al cinema."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il certificato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il certificato."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore indica che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti.",
+      "options": [
+        "avremo controllato",
+        "controlleremo",
+        "controllavamo"
+      ],
+      "answer": "avremo controllato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che il controllo di tutti i documenti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in montagna.",
+      "options": [
+        "avremo riparato",
+        "ripareremo",
+        "riparavamo"
+      ],
+      "answer": "avremo riparato",
+      "explanation": "Il futuro anteriore indica che la riparazione della macchina sarà completata prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la lezione, potrai andare a casa.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di poter andare a casa."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposarti.",
+      "options": [
+        "avrai sostenuto",
+        "sosterrai",
+        "sostenevi"
+      ],
+      "answer": "avrai sostenuto",
+      "explanation": "Il futuro anteriore indica che l'esame sarà sostenuto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la diffonderò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della diffusione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i partecipanti.",
+      "options": [
+        "saremo arrivati",
+        "arriveremo",
+        "arrivavamo"
+      ],
+      "answer": "saremo arrivati",
+      "explanation": "Il futuro anteriore con 'finché' indica che l'arrivo di tutti i partecipanti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò concluso",
+        "concluderò",
+        "concludevo"
+      ],
+      "answer": "avrò concluso",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà conclusa prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, guarderemo un film.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di guardare un film."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai l'attestato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere l'attestato."
+    },
+    {
+      "question": "Appena ___ la decisione, ti informerò.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima dell'informazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i preparativi.",
+      "options": [
+        "avrò fatto",
+        "farò",
+        "facevo"
+      ],
+      "answer": "avrò fatto",
+      "explanation": "Il futuro anteriore con 'finché' esprime che tutti i preparativi saranno completati prima della partenza."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai fare la doccia.",
+      "options": [
+        "avrai terminato",
+        "terminerai",
+        "terminavi"
+      ],
+      "answer": "avrai terminato",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà terminato prima di poter fare la doccia."
+    },
+    {
+      "question": "Dopo che ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la conferenza sarà finita prima di tornare in ufficio."
+    },
+    {
+      "question": "Quando ___ il progetto, potrai presentarlo al cliente.",
+      "options": [
+        "avrai ultimato",
+        "ultimerai",
+        "ultimavi"
+      ],
+      "answer": "avrai ultimato",
+      "explanation": "Il futuro anteriore indica che il progetto sarà ultimato prima di poterlo presentare al cliente."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò sul sito.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti necessari.",
+      "options": [
+        "avremo raccolto",
+        "raccoglieremo",
+        "raccoglievamo"
+      ],
+      "answer": "avremo raccolto",
+      "explanation": "Il futuro anteriore con 'finché' indica che la raccolta di tutti i documenti sarà completata prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in vacanza.",
+      "options": [
+        "avremo sistemato",
+        "sistemeremo",
+        "sistemavamo"
+      ],
+      "answer": "avremo sistemato",
+      "explanation": "Il futuro anteriore indica che la sistemazione della macchina sarà completata prima di andare in vacanza."
+    },
+    {
+      "question": "Dopo che ___ la lezione, studieremo insieme.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di studiare insieme."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposare.",
+      "options": [
+        "avrai superato",
+        "supererai",
+        "superavi"
+      ],
+      "answer": "avrai superato",
+      "explanation": "Il futuro anteriore indica che l'esame sarà superato prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la condividerò con te.",
+      "options": [
+        "avrò saputo",
+        "saprò",
+        "sapevo"
+      ],
+      "answer": "avrò saputo",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conoscenza della notizia sarà immediata prima della condivisione."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò terminato",
+        "terminerò",
+        "terminavo"
+      ],
+      "answer": "avrò terminato",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà terminata prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al teatro.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al teatro."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il diploma.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il diploma."
+    },
+    {
+      "question": "Appena ___ la decisione, ti comunicherò tutto.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima della comunicazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i bagagli.",
+      "options": [
+        "avrò preparato",
+        "preparerò",
+        "preparavo"
+      ],
+      "answer": "avrò preparato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che la preparazione di tutti i bagagli sarà completata prima della partenza."
+    },
+    {
+      "question": "Quando ___ il lavoro, andremo in montagna.",
+      "options": [
+        "avremo terminato",
+        "termineremo",
+        "terminavamo"
+      ],
+      "answer": "avremo terminato",
+      "explanation": "Il futuro anteriore indica che il lavoro sarà terminato prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la riunione, discuteremo il progetto.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la riunione sarà finita prima di discutere il progetto."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai riposare.",
+      "options": [
+        "avrai fatto",
+        "farai",
+        "facevi"
+      ],
+      "answer": "avrai fatto",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà fatto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà terminata",
+        "terminerà",
+        "terminava"
+      ],
+      "answer": "sarà terminata",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conferenza sarà terminata immediatamente prima del ritorno."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà finita prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al cinema.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al cinema."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il certificato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il certificato."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore indica che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti.",
+      "options": [
+        "avremo controllato",
+        "controlleremo",
+        "controllavamo"
+      ],
+      "answer": "avremo controllato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che il controllo di tutti i documenti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in montagna.",
+      "options": [
+        "avremo riparato",
+        "ripareremo",
+        "riparavamo"
+      ],
+      "answer": "avremo riparato",
+      "explanation": "Il futuro anteriore indica che la riparazione della macchina sarà completata prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la lezione, potrai andare a casa.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di poter andare a casa."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposarti.",
+      "options": [
+        "avrai sostenuto",
+        "sosterrai",
+        "sostenevi"
+      ],
+      "answer": "avrai sostenuto",
+      "explanation": "Il futuro anteriore indica che l'esame sarà sostenuto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la diffonderò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della diffusione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i partecipanti.",
+      "options": [
+        "saremo arrivati",
+        "arriveremo",
+        "arrivavamo"
+      ],
+      "answer": "saremo arrivati",
+      "explanation": "Il futuro anteriore con 'finché' indica che l'arrivo di tutti i partecipanti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò concluso",
+        "concluderò",
+        "concludevo"
+      ],
+      "answer": "avrò concluso",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà conclusa prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, guarderemo un film.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di guardare un film."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai l'attestato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere l'attestato."
+    },
+    {
+      "question": "Appena ___ la decisione, ti informerò.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima dell'informazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i preparativi.",
+      "options": [
+        "avrò fatto",
+        "farò",
+        "facevo"
+      ],
+      "answer": "avrò fatto",
+      "explanation": "Il futuro anteriore con 'finché' esprime che tutti i preparativi saranno completati prima della partenza."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai fare la doccia.",
+      "options": [
+        "avrai terminato",
+        "terminerai",
+        "terminavi"
+      ],
+      "answer": "avrai terminato",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà terminato prima di poter fare la doccia."
+    },
+    {
+      "question": "Dopo che ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la conferenza sarà finita prima di tornare in ufficio."
+    },
+    {
+      "question": "Quando ___ il progetto, potrai presentarlo al cliente.",
+      "options": [
+        "avrai ultimato",
+        "ultimerai",
+        "ultimavi"
+      ],
+      "answer": "avrai ultimato",
+      "explanation": "Il futuro anteriore indica che il progetto sarà ultimato prima di poterlo presentare al cliente."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò sul sito.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti necessari.",
+      "options": [
+        "avremo raccolto",
+        "raccoglieremo",
+        "raccoglievamo"
+      ],
+      "answer": "avremo raccolto",
+      "explanation": "Il futuro anteriore con 'finché' indica che la raccolta di tutti i documenti sarà completata prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in vacanza.",
+      "options": [
+        "avremo sistemato",
+        "sistemeremo",
+        "sistemavamo"
+      ],
+      "answer": "avremo sistemato",
+      "explanation": "Il futuro anteriore indica che la sistemazione della macchina sarà completata prima di andare in vacanza."
+    },
+    {
+      "question": "Dopo che ___ la lezione, studieremo insieme.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di studiare insieme."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposare.",
+      "options": [
+        "avrai superato",
+        "supererai",
+        "superavi"
+      ],
+      "answer": "avrai superato",
+      "explanation": "Il futuro anteriore indica che l'esame sarà superato prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la condividerò con te.",
+      "options": [
+        "avrò saputo",
+        "saprò",
+        "sapevo"
+      ],
+      "answer": "avrò saputo",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conoscenza della notizia sarà immediata prima della condivisione."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò terminato",
+        "terminerò",
+        "terminavo"
+      ],
+      "answer": "avrò terminato",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà terminata prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al teatro.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al teatro."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il diploma.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il diploma."
+    },
+    {
+      "question": "Appena ___ la decisione, ti comunicherò tutto.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima della comunicazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i bagagli.",
+      "options": [
+        "avrò preparato",
+        "preparerò",
+        "preparavo"
+      ],
+      "answer": "avrò preparato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che la preparazione di tutti i bagagli sarà completata prima della partenza."
+    },
+    {
+      "question": "Quando ___ il lavoro, andremo in montagna.",
+      "options": [
+        "avremo terminato",
+        "termineremo",
+        "terminavamo"
+      ],
+      "answer": "avremo terminato",
+      "explanation": "Il futuro anteriore indica che il lavoro sarà terminato prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la riunione, discuteremo il progetto.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la riunione sarà finita prima di discutere il progetto."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai riposare.",
+      "options": [
+        "avrai fatto",
+        "farai",
+        "facevi"
+      ],
+      "answer": "avrai fatto",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà fatto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà terminata",
+        "terminerà",
+        "terminava"
+      ],
+      "answer": "sarà terminata",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conferenza sarà terminata immediatamente prima del ritorno."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà finita prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al cinema.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al cinema."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il certificato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il certificato."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore indica che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti.",
+      "options": [
+        "avremo controllato",
+        "controlleremo",
+        "controllavamo"
+      ],
+      "answer": "avremo controllato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che il controllo di tutti i documenti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in montagna.",
+      "options": [
+        "avremo riparato",
+        "ripareremo",
+        "riparavamo"
+      ],
+      "answer": "avremo riparato",
+      "explanation": "Il futuro anteriore indica che la riparazione della macchina sarà completata prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la lezione, potrai andare a casa.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di poter andare a casa."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposarti.",
+      "options": [
+        "avrai sostenuto",
+        "sosterrai",
+        "sostenevi"
+      ],
+      "answer": "avrai sostenuto",
+      "explanation": "Il futuro anteriore indica che l'esame sarà sostenuto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la diffonderò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della diffusione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i partecipanti.",
+      "options": [
+        "saremo arrivati",
+        "arriveremo",
+        "arrivavamo"
+      ],
+      "answer": "saremo arrivati",
+      "explanation": "Il futuro anteriore con 'finché' indica che l'arrivo di tutti i partecipanti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò concluso",
+        "concluderò",
+        "concludevo"
+      ],
+      "answer": "avrò concluso",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà conclusa prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, guarderemo un film.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di guardare un film."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai l'attestato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere l'attestato."
+    },
+    {
+      "question": "Appena ___ la decisione, ti informerò.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima dell'informazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i preparativi.",
+      "options": [
+        "avrò fatto",
+        "farò",
+        "facevo"
+      ],
+      "answer": "avrò fatto",
+      "explanation": "Il futuro anteriore con 'finché' esprime che tutti i preparativi saranno completati prima della partenza."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai fare la doccia.",
+      "options": [
+        "avrai terminato",
+        "terminerai",
+        "terminavi"
+      ],
+      "answer": "avrai terminato",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà terminato prima di poter fare la doccia."
+    },
+    {
+      "question": "Dopo che ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la conferenza sarà finita prima di tornare in ufficio."
+    },
+    {
+      "question": "Quando ___ il progetto, potrai presentarlo al cliente.",
+      "options": [
+        "avrai ultimato",
+        "ultimerai",
+        "ultimavi"
+      ],
+      "answer": "avrai ultimato",
+      "explanation": "Il futuro anteriore indica che il progetto sarà ultimato prima di poterlo presentare al cliente."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò sul sito.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti necessari.",
+      "options": [
+        "avremo raccolto",
+        "raccoglieremo",
+        "raccoglievamo"
+      ],
+      "answer": "avremo raccolto",
+      "explanation": "Il futuro anteriore con 'finché' indica che la raccolta di tutti i documenti sarà completata prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in vacanza.",
+      "options": [
+        "avremo sistemato",
+        "sistemeremo",
+        "sistemavamo"
+      ],
+      "answer": "avremo sistemato",
+      "explanation": "Il futuro anteriore indica che la sistemazione della macchina sarà completata prima di andare in vacanza."
+    },
+    {
+      "question": "Dopo che ___ la lezione, studieremo insieme.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la lezione sarà finita prima di studiare insieme."
+    },
+    {
+      "question": "Quando ___ l'esame, potrai riposare.",
+      "options": [
+        "avrai superato",
+        "supererai",
+        "superavi"
+      ],
+      "answer": "avrai superato",
+      "explanation": "Il futuro anteriore indica che l'esame sarà superato prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la notizia, la condividerò con te.",
+      "options": [
+        "avrò saputo",
+        "saprò",
+        "sapevo"
+      ],
+      "answer": "avrò saputo",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conoscenza della notizia sarà immediata prima della condivisione."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò terminato",
+        "terminerò",
+        "terminavo"
+      ],
+      "answer": "avrò terminato",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà terminata prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al teatro.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al teatro."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il diploma.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il diploma."
+    },
+    {
+      "question": "Appena ___ la decisione, ti comunicherò tutto.",
+      "options": [
+        "avrò preso",
+        "prenderò",
+        "prendevo"
+      ],
+      "answer": "avrò preso",
+      "explanation": "Con 'appena' il futuro anteriore indica che la decisione sarà presa immediatamente prima della comunicazione."
+    },
+    {
+      "question": "Non partirò finché ___ tutti i bagagli.",
+      "options": [
+        "avrò preparato",
+        "preparerò",
+        "preparavo"
+      ],
+      "answer": "avrò preparato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che la preparazione di tutti i bagagli sarà completata prima della partenza."
+    },
+    {
+      "question": "Quando ___ il lavoro, andremo in montagna.",
+      "options": [
+        "avremo terminato",
+        "termineremo",
+        "terminavamo"
+      ],
+      "answer": "avremo terminato",
+      "explanation": "Il futuro anteriore indica che il lavoro sarà terminato prima di andare in montagna."
+    },
+    {
+      "question": "Dopo che ___ la riunione, discuteremo il progetto.",
+      "options": [
+        "sarà finita",
+        "finirà",
+        "finiva"
+      ],
+      "answer": "sarà finita",
+      "explanation": "Il futuro anteriore esprime che la riunione sarà finita prima di discutere il progetto."
+    },
+    {
+      "question": "Quando ___ l'allenamento, potrai riposare.",
+      "options": [
+        "avrai fatto",
+        "farai",
+        "facevi"
+      ],
+      "answer": "avrai fatto",
+      "explanation": "Il futuro anteriore indica che l'allenamento sarà fatto prima di poter riposare."
+    },
+    {
+      "question": "Appena ___ la conferenza, torneremo in ufficio.",
+      "options": [
+        "sarà terminata",
+        "terminerà",
+        "terminava"
+      ],
+      "answer": "sarà terminata",
+      "explanation": "Con 'appena' il futuro anteriore esprime che la conferenza sarà terminata immediatamente prima del ritorno."
+    },
+    {
+      "question": "Non usciremo finché ___ il tempo.",
+      "options": [
+        "sarà migliorato",
+        "migliorerà",
+        "migliorava"
+      ],
+      "answer": "sarà migliorato",
+      "explanation": "Il futuro anteriore con 'finché' indica che il miglioramento del tempo sarà completato prima di uscire."
+    },
+    {
+      "question": "Quando ___ la presentazione, potrai fare domande.",
+      "options": [
+        "avrò finito",
+        "finirò",
+        "finivo"
+      ],
+      "answer": "avrò finito",
+      "explanation": "Il futuro anteriore esprime che la presentazione sarà finita prima di poter fare domande."
+    },
+    {
+      "question": "Dopo che ___ la cena, andremo al cinema.",
+      "options": [
+        "avremo preparato",
+        "prepareremo",
+        "preparavamo"
+      ],
+      "answer": "avremo preparato",
+      "explanation": "Il futuro anteriore indica che la preparazione della cena sarà completata prima di andare al cinema."
+    },
+    {
+      "question": "Quando ___ il corso, riceverai il certificato.",
+      "options": [
+        "avrai completato",
+        "completerai",
+        "completavi"
+      ],
+      "answer": "avrai completato",
+      "explanation": "Il futuro anteriore esprime che il corso sarà completato prima di ricevere il certificato."
+    },
+    {
+      "question": "Appena ___ la notizia, la pubblicherò.",
+      "options": [
+        "avrò ricevuto",
+        "riceverò",
+        "ricevevo"
+      ],
+      "answer": "avrò ricevuto",
+      "explanation": "Con 'appena' il futuro anteriore indica che la ricezione della notizia sarà immediata prima della pubblicazione."
+    },
+    {
+      "question": "Non inizieremo finché ___ tutti i documenti.",
+      "options": [
+        "avremo controllato",
+        "controlleremo",
+        "controllavamo"
+      ],
+      "answer": "avremo controllato",
+      "explanation": "Il futuro anteriore con 'finché' esprime che il controllo di tutti i documenti sarà completato prima di iniziare."
+    },
+    {
+      "question": "Quando ___ la macchina, andremo in montagna.",
+      "options": [
+        "avremo riparato",
+        "ripareremo",
+        "riparavamo"
+      ],
+      "answer": "avremo riparato",
+      "explanation": "Il futuro anteriore indica che la riparazione della macchina sarà completata prima di andare in montagna."
+    }
+  ]
+}
