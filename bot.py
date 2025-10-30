@@ -2,6 +2,11 @@ import os
 import json
 import logging
 from typing import Any, Dict, List
+import pickle
+from dotenv import load_dotenv
+
+# Загружаем переменные окружения
+load_dotenv()
 
 from telegram import (
     Update,
@@ -34,10 +39,16 @@ log = logging.getLogger("gram-bot")
 #                  КОНСТАНТЫ
 # ——————————————————————————————————————————————
 TOKEN = os.getenv("BOT_TOKEN")
+WEBHOOK_URL = os.getenv("WEBHOOK_URL", "")
+PORT = int(os.getenv("PORT", 8443))
 CONTENT_DIR = "content"
 LEVELS = ["A1", "A2", "B1", "B2"]
 
 STATE_LEVEL, STATE_TOPIC, STATE_QUIZ = range(3)
+
+# Статистика пользователей
+USER_STATS = {}
+STATS_FILE = "user_stats.pkl"
 
 # ——————————————————————————————————————————————
 #           ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
@@ -54,14 +65,157 @@ def _safe_get(d: Dict[str, Any], key: str, default: Any = "") -> Any:
     return d.get(key, default)
 
 
+def _load_user_stats():
+    """Загрузить статистику пользователей из файла."""
+    global USER_STATS
+    try:
+        if os.path.exists(STATS_FILE):
+            with open(STATS_FILE, 'rb') as f:
+                USER_STATS = pickle.load(f)
+            log.info(f"Загружена статистика для {len(USER_STATS)} пользователей")
+    except Exception as e:
+        log.warning(f"Ошибка загрузки статистики: {e}")
+        USER_STATS = {}
+
+
+def _save_user_stats():
+    """Сохранить статистику пользователей в файл."""
+    try:
+        with open(STATS_FILE, 'wb') as f:
+            pickle.dump(USER_STATS, f)
+        log.info(f"Статистика сохранена для {len(USER_STATS)} пользователей")
+    except Exception as e:
+        log.error(f"Ошибка сохранения статистики: {e}")
+
+
+def _get_user_id(update: Update) -> int:
+    """Получить ID пользователя."""
+    if update.message:
+        return update.message.from_user.id
+    elif update.callback_query:
+        return update.callback_query.from_user.id
+    return 0
+
+
+def _init_user_stats(user_id: int) -> Dict[str, Any]:
+    """Инициализировать статистику пользователя."""
+    if user_id not in USER_STATS:
+        USER_STATS[user_id] = {
+            "total_exercises": 0,
+            "correct_answers": 0,
+            "topics_completed": [],
+            "levels_completed": [],
+            "current_streak": 0,
+            "best_streak": 0
+        }
+    return USER_STATS[user_id]
+
+
+def _get_motivational_message(stats: Dict[str, Any]) -> str:
+    """Получить мотивационное сообщение на основе статистики."""
+    if stats["total_exercises"] == 0:
+        return "🚀 Начните свой путь изучения итальянского!"
+    
+    accuracy = (stats["correct_answers"] / stats["total_exercises"]) * 100
+    
+    if accuracy >= 90:
+        return "🌟 Отлично! Вы настоящий мастер итальянского!"
+    elif accuracy >= 80:
+        return "👏 Превосходно! Продолжайте в том же духе!"
+    elif accuracy >= 70:
+        return "💪 Хорошая работа! Вы на правильном пути!"
+    elif accuracy >= 60:
+        return "📚 Неплохо! Еще немного практики и будет отлично!"
+    else:
+        return "🎯 Не сдавайтесь! Каждая ошибка - это шаг к успеху!"
+
+
+def _update_user_stats(user_id: int, is_correct: bool, topic_name: str, level: str):
+    """Обновить статистику пользователя."""
+    stats = _init_user_stats(user_id)
+    stats["total_exercises"] += 1
+    
+    if is_correct:
+        stats["correct_answers"] += 1
+        stats["current_streak"] += 1
+        if stats["current_streak"] > stats["best_streak"]:
+            stats["best_streak"] = stats["current_streak"]
+    else:
+        stats["current_streak"] = 0
+    
+    if topic_name not in stats["topics_completed"]:
+        stats["topics_completed"].append(topic_name)
+    
+    if level not in stats["levels_completed"]:
+        stats["levels_completed"].append(level)
+    
+    # Сохраняем статистику после каждого обновления
+    _save_user_stats()
+
+
 # ——————————————————————————————————————————————
 #                  ХЕНДЛЕРЫ
 # ——————————————————————————————————————————————
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = _get_user_id(update)
+    _init_user_stats(user_id)
+    
     await _reply(
         update,
-        "👋 Привет! Я — тренажёр по итальянскому языку.\n"
-        "Напиши /quiz, чтобы выбрать уровень и начать тренировку.",
+        "👋 Привет! Я — тренажёр по итальянскому языку.\n\n"
+        "📚 Доступные команды:\n"
+        "• /quiz - начать тренировку\n"
+        "• /stats - посмотреть статистику\n"
+        "• /achievements - ваши достижения\n"
+        "• /help - справка по командам\n"
+        "• /reset - сбросить статистику\n"
+        "• /cancel - отменить текущую тренировку\n\n"
+        "Выберите /quiz, чтобы начать!",
+    )
+
+
+async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await _reply(
+        update,
+        "📖 Справка по командам:\n\n"
+        "🎯 /quiz - начать новую тренировку\n"
+        "   Выберите уровень (A1, A2, B1, B2) и тему\n\n"
+        "📊 /stats - посмотреть вашу статистику\n"
+        "   Узнайте свой прогресс и достижения\n\n"
+        "🏅 /achievements - ваши достижения\n"
+        "   Посмотрите заработанные награды\n\n"
+        "🗑️ /reset - сбросить статистику\n"
+        "   Начать отслеживание заново\n\n"
+        "❌ /cancel - отменить текущую тренировку\n"
+        "   Используйте, если хотите начать заново\n\n"
+        "ℹ️ /help - показать эту справку\n\n"
+        "Удачи в изучении итальянского! 🇮🇹"
+    )
+
+
+async def stats_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = _get_user_id(update)
+    stats = _init_user_stats(user_id)
+    
+    accuracy = 0
+    if stats["total_exercises"] > 0:
+        accuracy = round((stats["correct_answers"] / stats["total_exercises"]) * 100, 1)
+    
+    levels_text = ", ".join(stats["levels_completed"]) if stats["levels_completed"] else "пока нет"
+    topics_text = len(stats["topics_completed"])
+    motivational_msg = _get_motivational_message(stats)
+    
+    await _reply(
+        update,
+        f"📊 Ваша статистика:\n\n"
+        f"🎯 Всего упражнений: {stats['total_exercises']}\n"
+        f"✅ Правильных ответов: {stats['correct_answers']}\n"
+        f"📈 Точность: {accuracy}%\n"
+        f"🔥 Текущая серия: {stats['current_streak']}\n"
+        f"🏆 Лучшая серия: {stats['best_streak']}\n"
+        f"📚 Изученных тем: {topics_text}\n"
+        f"🎓 Пройденные уровни: {levels_text}\n\n"
+        f"{motivational_msg}"
     )
 
 
@@ -165,9 +319,18 @@ async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
         return ConversationHandler.END
 
     if idx >= len(exercises):
+        # Показываем статистику по завершенной теме
+        user_id = _get_user_id(update)
+        stats = _init_user_stats(user_id)
+        topic_name = context.user_data.get("topic_name", "тема")
+        
         await _reply(
             update,
-            "🎉 Все упражнения завершены! Напиши /quiz, чтобы начать заново.",
+            f"🎉 Все упражнения по теме '{topic_name}' завершены!\n\n"
+            f"📊 Ваша статистика:\n"
+            f"• Точность: {round((stats['correct_answers'] / stats['total_exercises']) * 100, 1)}%\n"
+            f"• Текущая серия: {stats['current_streak']}\n\n"
+            f"Напиши /quiz для новой тренировки или /stats для полной статистики!",
             reply_markup=ReplyKeyboardRemove(),
         )
         for k in ("exercises", "index", "topic_name"):
@@ -186,7 +349,12 @@ async def send_question(update: Update, context: ContextTypes.DEFAULT_TYPE):
     kb = ReplyKeyboardMarkup(
         [[opt] for opt in options], resize_keyboard=True, one_time_keyboard=True
     )
-    await _reply(update, f"❓ Упражнение {idx + 1}:\n{question}", reply_markup=kb)
+    
+    # Показываем прогресс
+    total_exercises = len(exercises)
+    progress = f"({idx + 1}/{total_exercises})"
+    
+    await _reply(update, f"❓ Упражнение {progress}:\n{question}", reply_markup=kb)
     return STATE_QUIZ
 
 
@@ -202,8 +370,18 @@ async def handle_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     ex = exercises[idx]
     correct = str(_safe_get(ex, "answer", "")).strip()
     explanation = _safe_get(ex, "explanation", "")
+    
+    # Получаем информацию о пользователе и теме
+    user_id = _get_user_id(update)
+    topic_name = context.user_data.get("topic_name", "Неизвестная тема")
+    level = context.user_data.get("level", "Неизвестный уровень")
 
-    if text.lower() == correct.lower():
+    is_correct = text.lower() == correct.lower()
+    
+    # Обновляем статистику
+    _update_user_stats(user_id, is_correct, topic_name, level)
+
+    if is_correct:
         msg = "✅ Верно!"
         if explanation:
             msg += f"\n{explanation}"
@@ -226,6 +404,67 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
     return ConversationHandler.END
 
 
+async def reset_stats(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Сбросить статистику пользователя."""
+    user_id = _get_user_id(update)
+    
+    if user_id in USER_STATS:
+        del USER_STATS[user_id]
+        _save_user_stats()
+        await _reply(update, "🗑️ Ваша статистика сброшена!")
+    else:
+        await _reply(update, "ℹ️ У вас пока нет статистики для сброса.")
+
+
+async def achievements(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Показать достижения пользователя."""
+    user_id = _get_user_id(update)
+    stats = _init_user_stats(user_id)
+    
+    achievements_list = []
+    
+    # Проверяем достижения
+    if stats["total_exercises"] >= 10:
+        achievements_list.append("🎯 Первые шаги - выполнено 10 упражнений")
+    
+    if stats["total_exercises"] >= 50:
+        achievements_list.append("📚 Усердный ученик - выполнено 50 упражнений")
+    
+    if stats["total_exercises"] >= 100:
+        achievements_list.append("🏆 Мастер практики - выполнено 100 упражнений")
+    
+    if stats["best_streak"] >= 5:
+        achievements_list.append("🔥 Горячая серия - 5 правильных ответов подряд")
+    
+    if stats["best_streak"] >= 10:
+        achievements_list.append("⚡ Невероятная серия - 10 правильных ответов подряд")
+    
+    if len(stats["levels_completed"]) >= 2:
+        achievements_list.append("🎓 Многогранный - изучено 2 уровня")
+    
+    if len(stats["topics_completed"]) >= 5:
+        achievements_list.append("📖 Эрудит - изучено 5 тем")
+    
+    if stats["total_exercises"] > 0:
+        accuracy = (stats["correct_answers"] / stats["total_exercises"]) * 100
+        if accuracy >= 90:
+            achievements_list.append("🌟 Совершенство - точность 90%+")
+    
+    if achievements_list:
+        achievements_text = "\n".join(achievements_list)
+        await _reply(
+            update,
+            f"🏅 Ваши достижения:\n\n{achievements_text}\n\n"
+            f"Продолжайте изучать итальянский! 🇮🇹"
+        )
+    else:
+        await _reply(
+            update,
+            "🎯 У вас пока нет достижений.\n"
+            "Начните тренировку с /quiz, чтобы заработать первые награды!"
+        )
+
+
 async def on_error(update: object, context: ContextTypes.DEFAULT_TYPE) -> None:
     log.exception("Ошибка обработчика: %s", context.error)
 
@@ -237,6 +476,15 @@ async def delete_webhook_on_startup(app):
     await app.bot.delete_webhook(drop_pending_updates=True)
     log.info("🔄 Webhook удалён, очередь сброшена.")
 
+async def set_webhook_on_startup(app):
+    """Устанавливаем веб-хук при запуске."""
+    if WEBHOOK_URL:
+        await app.bot.set_webhook(url=WEBHOOK_URL)
+        log.info(f"🔗 Webhook установлен: {WEBHOOK_URL}")
+    else:
+        await app.bot.delete_webhook()
+        log.info("🔄 Webhook удален, используется polling")
+
 
 # ——————————————————————————————————————————————
 #                    MAIN
@@ -246,15 +494,33 @@ def main():
         log.error("❌ BOT_TOKEN не задан.")
         return
 
-    app = (
-        ApplicationBuilder()
-        .token(TOKEN)
-        .post_init(delete_webhook_on_startup)
-        .build()
-    )
+    # Загружаем статистику при запуске
+    _load_user_stats()
+
+    # Выбираем метод запуска
+    if WEBHOOK_URL:
+        # Используем веб-хук для Render
+        app = (
+            ApplicationBuilder()
+            .token(TOKEN)
+            .post_init(set_webhook_on_startup)
+            .build()
+        )
+    else:
+        # Используем polling для локальной разработки
+        app = (
+            ApplicationBuilder()
+            .token(TOKEN)
+            .post_init(delete_webhook_on_startup)
+            .build()
+        )
 
     app.add_error_handler(on_error)
     app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("help", help_command))
+    app.add_handler(CommandHandler("stats", stats_command))
+    app.add_handler(CommandHandler("achievements", achievements))
+    app.add_handler(CommandHandler("reset", reset_stats))
     app.add_handler(CommandHandler("cancel", cancel))
 
     conv = ConversationHandler(
@@ -269,8 +535,17 @@ def main():
     )
     app.add_handler(conv)
 
-    log.info("✅ Запускаем polling…")
-    app.run_polling(drop_pending_updates=True, allowed_updates=Update.ALL_TYPES)
+    if WEBHOOK_URL:
+        log.info("✅ Запускаем с веб-хуком…")
+        app.run_webhook(
+            listen="0.0.0.0",
+            port=PORT,
+            webhook_url=WEBHOOK_URL,
+            allowed_updates=Update.ALL_TYPES
+        )
+    else:
+        log.info("✅ Запускаем polling…")
+        app.run_polling(drop_pending_updates=True, allowed_updates=Update.ALL_TYPES)
 
 
 if __name__ == "__main__":
