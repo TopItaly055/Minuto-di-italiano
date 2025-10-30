@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Imperfetto vs Passato Prossimo (B1)",
+  "exercises": [
+    {
+      "question": "Mentre ___ la TV, il telefono è squillato.",
+      "options": [
+        "guardavo",
+        "ho guardato",
+        "avevo guardato"
+      ],
+      "answer": "guardavo",
+      "explanation": "Imperfetto для фонового действия, passato prossimo для внезапного события."
+    },
+    {
+      "question": "Quando ___ a casa, pioveva.",
+      "options": [
+        "sono arrivato",
+        "arrivavo",
+        "ero arrivato"
+      ],
+      "answer": "sono arrivato",
+      "explanation": "Passato prossimo для завершенного события, imperfetto для фонового состояния."
+    },
+    {
+      "question": "Mentre ___ la cena, qualcuno ha bussato alla porta.",
+      "options": [
+        "preparavo",
+        "ho preparato",
+        "avevo preparato"
+      ],
+      "answer": "preparavo",
+      "explanation": "Фоновое действие в imperfetto, внезапное событие в passato prossimo."
+    },
+    {
+      "question": "Ieri, mentre ___, il professore ha fatto una domanda.",
+      "options": [
+        "studiavo",
+        "ho studiato",
+        "avevo studiato"
+      ],
+      "answer": "studiavo",
+      "explanation": "Imperfetto для фона, passato prossimo для конкретного события."
+    },
+    {
+      "question": "Quando ___ in Italia, visitavo spesso i musei.",
+      "options": [
+        "vivevo",
+        "ho vissuto",
+        "vissi"
+      ],
+      "answer": "vivevo",
+      "explanation": "Длительное состояние в imperfetto, привычка в imperfetto."
+    },
+    {
+      "question": "Da bambino ___ sempre al parco.",
+      "options": [
+        "giocavo",
+        "ho giocato",
+        "avevo giocato"
+      ],
+      "answer": "giocavo",
+      "explanation": "Привычка в прошлом выражается imperfetto."
+    },
+    {
+      "question": "L'anno scorso ___ in vacanza in Grecia.",
+      "options": [
+        "sono andato",
+        "andavo",
+        "ero andato"
+      ],
+      "answer": "sono andato",
+      "explanation": "Конкретное завершенное действие в passato prossimo."
+    },
+    {
+      "question": "Di solito ___ il treno per andare al lavoro.",
+      "options": [
+        "prendevo",
+        "ho preso",
+        "avevo preso"
+      ],
+      "answer": "prendevo",
+      "explanation": "Привычка в прошлом — imperfetto."
+    },
+    {
+      "question": "Ieri sera ___ tardi dal cinema.",
+      "options": [
+        "sono tornato",
+        "tornavo",
+        "ero tornato"
+      ],
+      "answer": "sono tornato",
+      "explanation": "Конкретное завершенное действие — passato prossimo."
+    },
+    {
+      "question": "Quando ___ giovane, ___ molto sport.",
+      "options": [
+        "ero... facevo",
+        "sono stato... ho fatto",
+        "fui... feci"
+      ],
+      "answer": "ero... facevo",
+      "explanation": "Состояние и привычка в прошлом — imperfetto."
+    },
+    {
+      "question": "Da piccolo ___ molto timido.",
+      "options": [
+        "ero",
+        "sono stato",
+        "fui"
+      ],
+      "answer": "ero",
+      "explanation": "Длительное состояние в прошлом — imperfetto."
+    },
+    {
+      "question": "L'anno scorso ___ in ospedale per una settimana.",
+      "options": [
+        "sono stato",
+        "ero",
+        "stavo"
+      ],
+      "answer": "sono stato",
+      "explanation": "Ограниченный период времени — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ in fila, ho incontrato un amico.",
+      "options": [
+        "aspettavo",
+        "ho aspettato",
+        "avevo aspettato"
+      ],
+      "answer": "aspettavo",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a Roma, ___ spesso al Colosseo.",
+      "options": [
+        "vivevo... andavo",
+        "ho vissuto... sono andato",
+        "vissi... andai"
+      ],
+      "answer": "vivevo... andavo",
+      "explanation": "Длительное состояние и привычка — imperfetto."
+    },
+    {
+      "question": "Ieri ___ al supermercato e ___ il latte.",
+      "options": [
+        "sono andato... ho comprato",
+        "andavo... compravo",
+        "ero andato... avevo comprato"
+      ],
+      "answer": "sono andato... ho comprato",
+      "explanation": "Серия завершенных действий — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la pioggia, è uscito il sole.",
+      "options": [
+        "pioveva",
+        "ha piovuto",
+        "aveva piovuto"
+      ],
+      "answer": "pioveva",
+      "explanation": "Фоновое состояние в imperfetto, внезапное изменение в passato prossimo."
+    },
+    {
+      "question": "Quando ___ il treno, ___ già partito.",
+      "options": [
+        "sono arrivato... era",
+        "arrivavo... è stato",
+        "ero arrivato... fu"
+      ],
+      "answer": "sono arrivato... era",
+      "explanation": "Событие в passato prossimo, предшествующее состояние в imperfetto."
+    },
+    {
+      "question": "Mentre ___ il giornale, ___ una notizia interessante.",
+      "options": [
+        "leggevo... ho trovato",
+        "ho letto... trovavo",
+        "avevo letto... ho trovato"
+      ],
+      "answer": "leggevo... ho trovato",
+      "explanation": "Фоновое действие в imperfetto, конкретное открытие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a casa, ___ ancora sveglio.",
+      "options": [
+        "sono tornato... eri",
+        "tornavo... sei stato",
+        "ero tornato... fosti"
+      ],
+      "answer": "sono tornato... eri",
+      "explanation": "Событие в passato prossimo, состояние в imperfetto."
+    },
+    {
+      "question": "Mentre ___ la lezione, il professore ___ una domanda.",
+      "options": [
+        "seguivo... ha fatto",
+        "ho seguito... faceva",
+        "avevo seguito... ha fatto"
+      ],
+      "answer": "seguivo... ha fatto",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Era una bella giornata e ___ il sole.",
+      "options": [
+        "splendeva",
+        "ha splenduto",
+        "aveva splenduto"
+      ],
+      "answer": "splendeva",
+      "explanation": "Описание атмосферы в прошлом — imperfetto."
+    },
+    {
+      "question": "All'improvviso ___ un forte rumore.",
+      "options": [
+        "si è sentito",
+        "si sentiva",
+        "si era sentito"
+      ],
+      "answer": "si è sentito",
+      "explanation": "Внезапное событие — passato prossimo."
+    },
+    {
+      "question": "La strada ___ deserta e ___ silenzio.",
+      "options": [
+        "era... regnava",
+        "è stata... ha regnato",
+        "fu... regnò"
+      ],
+      "answer": "era... regnava",
+      "explanation": "Описание атмосферы — imperfetto."
+    },
+    {
+      "question": "Poi ___ una macchina e tutto ___ .",
+      "options": [
+        "è passata... è cambiato",
+        "passava... cambiava",
+        "era passata... era cambiato"
+      ],
+      "answer": "è passata... è cambiato",
+      "explanation": "Конкретные события — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ per strada, ___ una vecchia chiesa.",
+      "options": [
+        "camminavo... ho visto",
+        "ho camminato... vedevo",
+        "avevo camminato... ho visto"
+      ],
+      "answer": "camminavo... ho visto",
+      "explanation": "Фоновое действие в imperfetto, конкретное наблюдение в passato prossimo."
+    },
+    {
+      "question": "Quando ___ bambino, ___ sempre con i miei amici.",
+      "options": [
+        "ero... giocavo",
+        "sono stato... ho giocato",
+        "fui... giocai"
+      ],
+      "answer": "ero... giocavo",
+      "explanation": "Состояние и привычка в прошлом — imperfetto."
+    },
+    {
+      "question": "L'estate scorsa ___ in montagna per due settimane.",
+      "options": [
+        "sono stato",
+        "ero",
+        "stavo"
+      ],
+      "answer": "sono stato",
+      "explanation": "Ограниченный период — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la cena, ___ un blackout.",
+      "options": [
+        "preparavo... c'è stato",
+        "ho preparato... c'era",
+        "avevo preparato... c'è stato"
+      ],
+      "answer": "preparavo... c'è stato",
+      "explanation": "Фоновое действие в imperfetto, внезапное событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a Milano, ___ spesso il Duomo.",
+      "options": [
+        "vivevo... visitavo",
+        "ho vissuto... ho visitato",
+        "vissi... visitai"
+      ],
+      "answer": "vivevo... visitavo",
+      "explanation": "Длительное состояние и привычка — imperfetto."
+    },
+    {
+      "question": "Ieri ___ tardi e poi ___ subito.",
+      "options": [
+        "sono tornato... ho dormito",
+        "tornavo... dormivo",
+        "ero tornato... avevo dormito"
+      ],
+      "answer": "sono tornato... ho dormito",
+      "explanation": "Серия завершенных действий — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ il libro, ___ che era molto interessante.",
+      "options": [
+        "leggevo... ho capito",
+        "ho letto... capivo",
+        "avevo letto... ho capito"
+      ],
+      "answer": "leggevo... ho capito",
+      "explanation": "Фоновое действие в imperfetto, момент понимания в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a casa, ___ che qualcuno ___ .",
+      "options": [
+        "sono arrivato... ho visto... era entrato",
+        "arrivavo... vedevo... è entrato",
+        "ero arrivato... avevo visto... entrò"
+      ],
+      "answer": "sono arrivato... ho visto... era entrato",
+      "explanation": "Событие в passato prossimo, предшествующее действие в imperfetto."
+    },
+    {
+      "question": "Mentre ___ la musica, ___ a piangere.",
+      "options": [
+        "ascoltavo... ho iniziato",
+        "ho ascoltato... iniziavo",
+        "avevo ascoltato... ho iniziato"
+      ],
+      "answer": "ascoltavo... ho iniziato",
+      "explanation": "Фоновое действие в imperfetto, начало нового действия в passato prossimo."
+    },
+    {
+      "question": "Quando ___ il lavoro, ___ molto stanco.",
+      "options": [
+        "ho finito... ero",
+        "finivo... sono stato",
+        "avevo finito... fui"
+      ],
+      "answer": "ho finito... ero",
+      "explanation": "Завершенное действие в passato prossimo, состояние в imperfetto."
+    },
+    {
+      "question": "Mentre ___ per il parco, ___ un incidente.",
+      "options": [
+        "passeggiavo... ho visto",
+        "ho passeggiato... vedevo",
+        "avevo passeggiato... ho visto"
+      ],
+      "answer": "passeggiavo... ho visto",
+      "explanation": "Фоновое действие в imperfetto, конкретное наблюдение в passato prossimo."
+    },
+    {
+      "question": "Da giovane ___ sempre in bicicletta.",
+      "options": [
+        "andavo",
+        "sono andato",
+        "avevo andato"
+      ],
+      "answer": "andavo",
+      "explanation": "Привычка в прошлом — imperfetto."
+    },
+    {
+      "question": "L'anno scorso ___ la patente.",
+      "options": [
+        "ho preso",
+        "prendevo",
+        "avevo preso"
+      ],
+      "answer": "ho preso",
+      "explanation": "Конкретное достижение — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ il caffè, ___ un amico.",
+      "options": [
+        "bevevo... ho incontrato",
+        "ho bevuto... incontravo",
+        "avevo bevuto... ho incontrato"
+      ],
+      "answer": "bevevo... ho incontrato",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a scuola, ___ sempre in ritardo.",
+      "options": [
+        "andavo... arrivavo",
+        "sono andato... sono arrivato",
+        "andai... arrivai"
+      ],
+      "answer": "andavo... arrivavo",
+      "explanation": "Привычки в прошлом — imperfetto."
+    },
+    {
+      "question": "Ieri ___ al cinema e ___ un film bellissimo.",
+      "options": [
+        "sono andato... ho visto",
+        "andavo... vedevo",
+        "ero andato... avevo visto"
+      ],
+      "answer": "sono andato... ho visto",
+      "explanation": "Серия завершенных действий — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la lezione, ___ una domanda.",
+      "options": [
+        "seguivo... ho fatto",
+        "ho seguito... facevo",
+        "avevo seguito... ho fatto"
+      ],
+      "answer": "seguivo... ho fatto",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ bambino, ___ molto timido.",
+      "options": [
+        "ero... ero",
+        "sono stato... sono stato",
+        "fui... fui"
+      ],
+      "answer": "ero... ero",
+      "explanation": "Состояние в прошлом — imperfetto."
+    },
+    {
+      "question": "L'estate scorsa ___ in Spagna.",
+      "options": [
+        "sono stato",
+        "ero",
+        "stavo"
+      ],
+      "answer": "sono stato",
+      "explanation": "Ограниченный период — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la cena, ___ un blackout.",
+      "options": [
+        "preparavo... c'è stato",
+        "ho preparato... c'era",
+        "avevo preparato... c'è stato"
+      ],
+      "answer": "preparavo... c'è stato",
+      "explanation": "Фоновое действие в imperfetto, внезапное событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a Roma, ___ spesso i musei.",
+      "options": [
+        "vivevo... visitavo",
+        "ho vissuto... ho visitato",
+        "vissi... visitai"
+      ],
+      "answer": "vivevo... visitavo",
+      "explanation": "Длительное состояние и привычка — imperfetto."
+    },
+    {
+      "question": "Ieri ___ tardi e poi ___ subito.",
+      "options": [
+        "sono tornato... ho dormito",
+        "tornavo... dormivo",
+        "ero tornato... avevo dormito"
+      ],
+      "answer": "sono tornato... ho dormito",
+      "explanation": "Серия завершенных действий — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ il giornale, ___ una notizia interessante.",
+      "options": [
+        "leggevo... ho trovato",
+        "ho letto... trovavo",
+        "avevo letto... ho trovato"
+      ],
+      "answer": "leggevo... ho trovato",
+      "explanation": "Фоновое действие в imperfetto, конкретное открытие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a casa, ___ ancora sveglio.",
+      "options": [
+        "sono tornato... eri",
+        "tornavo... sei stato",
+        "ero tornato... fosti"
+      ],
+      "answer": "sono tornato... eri",
+      "explanation": "Событие в passato prossimo, состояние в imperfetto."
+    },
+    {
+      "question": "Da piccolo ___ sempre con i miei fratelli.",
+      "options": [
+        "giocavo",
+        "ho giocato",
+        "avevo giocato"
+      ],
+      "answer": "giocavo",
+      "explanation": "Привычка в прошлом — imperfetto."
+    },
+    {
+      "question": "L'anno scorso ___ la laurea.",
+      "options": [
+        "ho preso",
+        "prendevo",
+        "avevo preso"
+      ],
+      "answer": "ho preso",
+      "explanation": "Конкретное достижение — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la musica, ___ a piangere.",
+      "options": [
+        "ascoltavo... ho iniziato",
+        "ho ascoltato... iniziavo",
+        "avevo ascoltato... ho iniziato"
+      ],
+      "answer": "ascoltavo... ho iniziato",
+      "explanation": "Фоновое действие в imperfetto, начало нового действия в passato prossimo."
+    },
+    {
+      "question": "Quando ___ il lavoro, ___ molto stanco.",
+      "options": [
+        "ho finito... ero",
+        "finivo... sono stato",
+        "avevo finito... fui"
+      ],
+      "answer": "ho finito... ero",
+      "explanation": "Завершенное действие в passato prossimo, состояние в imperfetto."
+    },
+    {
+      "question": "Mentre ___ per il parco, ___ un incidente.",
+      "options": [
+        "passeggiavo... ho visto",
+        "ho passeggiato... vedevo",
+        "avevo passeggiato... ho visto"
+      ],
+      "answer": "passeggiavo... ho visto",
+      "explanation": "Фоновое действие в imperfetto, конкретное наблюдение в passato prossimo."
+    },
+    {
+      "question": "Da giovane ___ sempre in palestra.",
+      "options": [
+        "andavo",
+        "sono andato",
+        "avevo andato"
+      ],
+      "answer": "andavo",
+      "explanation": "Привычка в прошлом — imperfetto."
+    },
+    {
+      "question": "L'estate scorsa ___ in Francia.",
+      "options": [
+        "sono stato",
+        "ero",
+        "stavo"
+      ],
+      "answer": "sono stato",
+      "explanation": "Ограниченный период — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ il caffè, ___ un amico.",
+      "options": [
+        "bevevo... ho incontrato",
+        "ho bevuto... incontravo",
+        "avevo bevuto... ho incontrato"
+      ],
+      "answer": "bevevo... ho incontrato",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a scuola, ___ sempre in ritardo.",
+      "options": [
+        "andavo... arrivavo",
+        "sono andato... sono arrivato",
+        "andai... arrivai"
+      ],
+      "answer": "andavo... arrivavo",
+      "explanation": "Привычки в прошлом — imperfetto."
+    },
+    {
+      "question": "Ieri ___ al cinema e ___ un film bellissimo.",
+      "options": [
+        "sono andato... ho visto",
+        "andavo... vedevo",
+        "ero andato... avevo visto"
+      ],
+      "answer": "sono andato... ho visto",
+      "explanation": "Серия завершенных действий — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la lezione, ___ una domanda.",
+      "options": [
+        "seguivo... ho fatto",
+        "ho seguito... facevo",
+        "avevo seguito... ho fatto"
+      ],
+      "answer": "seguivo... ho fatto",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ bambino, ___ molto timido.",
+      "options": [
+        "ero... ero",
+        "sono stato... sono stato",
+        "fui... fui"
+      ],
+      "answer": "ero... ero",
+      "explanation": "Состояние в прошлом — imperfetto."
+    },
+    {
+      "question": "L'estate scorsa ___ in Grecia.",
+      "options": [
+        "sono stato",
+        "ero",
+        "stavo"
+      ],
+      "answer": "sono stato",
+      "explanation": "Ограниченный период — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la cena, ___ un blackout.",
+      "options": [
+        "preparavo... c'è stato",
+        "ho preparato... c'era",
+        "avevo preparato... c'è stato"
+      ],
+      "answer": "preparavo... c'è stato",
+      "explanation": "Фоновое действие в imperfetto, внезапное событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a Milano, ___ spesso il Duomo.",
+      "options": [
+        "vivevo... visitavo",
+        "ho vissuto... ho visitato",
+        "vissi... visitai"
+      ],
+      "answer": "vivevo... visitavo",
+      "explanation": "Длительное состояние и привычка — imperfetto."
+    },
+    {
+      "question": "Ieri ___ tardi e poi ___ subito.",
+      "options": [
+        "sono tornato... ho dormito",
+        "tornavo... dormivo",
+        "ero tornato... avevo dormito"
+      ],
+      "answer": "sono tornato... ho dormito",
+      "explanation": "Серия завершенных действий — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ il giornale, ___ una notizia interessante.",
+      "options": [
+        "leggevo... ho trovato",
+        "ho letto... trovavo",
+        "avevo letto... ho trovato"
+      ],
+      "answer": "leggevo... ho trovato",
+      "explanation": "Фоновое действие в imperfetto, конкретное открытие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a casa, ___ ancora sveglio.",
+      "options": [
+        "sono tornato... eri",
+        "tornavo... sei stato",
+        "ero tornato... fosti"
+      ],
+      "answer": "sono tornato... eri",
+      "explanation": "Событие в passato prossimo, состояние в imperfetto."
+    },
+    {
+      "question": "Da piccolo ___ sempre con i miei fratelli.",
+      "options": [
+        "giocavo",
+        "ho giocato",
+        "avevo giocato"
+      ],
+      "answer": "giocavo",
+      "explanation": "Привычка в прошлом — imperfetto."
+    },
+    {
+      "question": "L'anno scorso ___ la patente.",
+      "options": [
+        "ho preso",
+        "prendevo",
+        "avevo preso"
+      ],
+      "answer": "ho preso",
+      "explanation": "Конкретное достижение — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ il caffè, ___ un amico.",
+      "options": [
+        "bevevo... ho incontrato",
+        "ho bevuto... incontravo",
+        "avevo bevuto... ho incontrato"
+      ],
+      "answer": "bevevo... ho incontrato",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a scuola, ___ sempre in ritardo.",
+      "options": [
+        "andavo... arrivavo",
+        "sono andato... sono arrivato",
+        "andai... arrivai"
+      ],
+      "answer": "andavo... arrivavo",
+      "explanation": "Привычки в прошлом — imperfetto."
+    },
+    {
+      "question": "Ieri ___ al cinema e ___ un film bellissimo.",
+      "options": [
+        "sono andato... ho visto",
+        "andavo... vedevo",
+        "ero andato... avevo visto"
+      ],
+      "answer": "sono andato... ho visto",
+      "explanation": "Серия завершенных действий — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la lezione, ___ una domanda.",
+      "options": [
+        "seguivo... ho fatto",
+        "ho seguito... facevo",
+        "avevo seguito... ho fatto"
+      ],
+      "answer": "seguivo... ho fatto",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ bambino, ___ molto timido.",
+      "options": [
+        "ero... ero",
+        "sono stato... sono stato",
+        "fui... fui"
+      ],
+      "answer": "ero... ero",
+      "explanation": "Состояние в прошлом — imperfetto."
+    },
+    {
+      "question": "L'estate scorsa ___ in Portogallo.",
+      "options": [
+        "sono stato",
+        "ero",
+        "stavo"
+      ],
+      "answer": "sono stato",
+      "explanation": "Ограниченный период — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la cena, ___ un blackout.",
+      "options": [
+        "preparavo... c'è stato",
+        "ho preparato... c'era",
+        "avevo preparato... c'è stato"
+      ],
+      "answer": "preparavo... c'è stato",
+      "explanation": "Фоновое действие в imperfetto, внезапное событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a Firenze, ___ spesso gli Uffizi.",
+      "options": [
+        "vivevo... visitavo",
+        "ho vissuto... ho visitato",
+        "vissi... visitai"
+      ],
+      "answer": "vivevo... visitavo",
+      "explanation": "Длительное состояние и привычка — imperfetto."
+    },
+    {
+      "question": "Ieri ___ tardi e poi ___ subito.",
+      "options": [
+        "sono tornato... ho dormito",
+        "tornavo... dormivo",
+        "ero tornato... avevo dormito"
+      ],
+      "answer": "sono tornato... ho dormito",
+      "explanation": "Серия завершенных действий — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ il giornale, ___ una notizia interessante.",
+      "options": [
+        "leggevo... ho trovato",
+        "ho letto... trovavo",
+        "avevo letto... ho trovato"
+      ],
+      "answer": "leggevo... ho trovato",
+      "explanation": "Фоновое действие в imperfetto, конкретное открытие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a casa, ___ ancora sveglio.",
+      "options": [
+        "sono tornato... eri",
+        "tornavo... sei stato",
+        "ero tornato... fosti"
+      ],
+      "answer": "sono tornato... eri",
+      "explanation": "Событие в passato prossimo, состояние в imperfetto."
+    },
+    {
+      "question": "Da piccolo ___ sempre con i miei fratelli.",
+      "options": [
+        "giocavo",
+        "ho giocato",
+        "avevo giocato"
+      ],
+      "answer": "giocavo",
+      "explanation": "Привычка в прошлом — imperfetto."
+    },
+    {
+      "question": "L'anno scorso ___ la patente.",
+      "options": [
+        "ho preso",
+        "prendevo",
+        "avevo preso"
+      ],
+      "answer": "ho preso",
+      "explanation": "Конкретное достижение — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ il caffè, ___ un amico.",
+      "options": [
+        "bevevo... ho incontrato",
+        "ho bevuto... incontravo",
+        "avevo bevuto... ho incontrato"
+      ],
+      "answer": "bevevo... ho incontrato",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a scuola, ___ sempre in ritardo.",
+      "options": [
+        "andavo... arrivavo",
+        "sono andato... sono arrivato",
+        "andai... arrivai"
+      ],
+      "answer": "andavo... arrivavo",
+      "explanation": "Привычки в прошлом — imperfetto."
+    },
+    {
+      "question": "Ieri ___ al cinema e ___ un film bellissimo.",
+      "options": [
+        "sono andato... ho visto",
+        "andavo... vedevo",
+        "ero andato... avevo visto"
+      ],
+      "answer": "sono andato... ho visto",
+      "explanation": "Серия завершенных действий — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la lezione, ___ una domanda.",
+      "options": [
+        "seguivo... ho fatto",
+        "ho seguito... facevo",
+        "avevo seguito... ho fatto"
+      ],
+      "answer": "seguivo... ho fatto",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ giovane, ___ sempre in bicicletta.",
+      "options": [
+        "ero... andavo",
+        "sono stato... sono andato",
+        "fui... andai"
+      ],
+      "answer": "ero... andavo",
+      "explanation": "Состояние и привычка в прошлом — imperfetto."
+    },
+    {
+      "question": "L'estate scorsa ___ in montagna per una settimana.",
+      "options": [
+        "sono stato",
+        "ero",
+        "stavo"
+      ],
+      "answer": "sono stato",
+      "explanation": "Ограниченный период — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la musica, ___ a piangere.",
+      "options": [
+        "ascoltavo... ho iniziato",
+        "ho ascoltato... iniziavo",
+        "avevo ascoltato... ho iniziato"
+      ],
+      "answer": "ascoltavo... ho iniziato",
+      "explanation": "Фоновое действие в imperfetto, начало нового действия в passato prossimo."
+    },
+    {
+      "question": "Quando ___ il lavoro, ___ molto stanco.",
+      "options": [
+        "ho finito... ero",
+        "finivo... sono stato",
+        "avevo finito... fui"
+      ],
+      "answer": "ho finito... ero",
+      "explanation": "Завершенное действие в passato prossimo, состояние в imperfetto."
+    },
+    {
+      "question": "Mentre ___ per il parco, ___ un incidente.",
+      "options": [
+        "passeggiavo... ho visto",
+        "ho passeggiato... vedevo",
+        "avevo passeggiato... ho visto"
+      ],
+      "answer": "passeggiavo... ho visto",
+      "explanation": "Фоновое действие в imperfetto, конкретное наблюдение в passato prossimo."
+    },
+    {
+      "question": "Da bambino ___ sempre con i miei amici.",
+      "options": [
+        "giocavo",
+        "ho giocato",
+        "avevo giocato"
+      ],
+      "answer": "giocavo",
+      "explanation": "Привычка в прошлом — imperfetto."
+    },
+    {
+      "question": "L'anno scorso ___ la laurea in medicina.",
+      "options": [
+        "ho preso",
+        "prendevo",
+        "avevo preso"
+      ],
+      "answer": "ho preso",
+      "explanation": "Конкретное достижение — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ il caffè, ___ un amico di vecchia data.",
+      "options": [
+        "bevevo... ho incontrato",
+        "ho bevuto... incontravo",
+        "avevo bevuto... ho incontrato"
+      ],
+      "answer": "bevevo... ho incontrato",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ all'università, ___ sempre in ritardo.",
+      "options": [
+        "andavo... arrivavo",
+        "sono andato... sono arrivato",
+        "andai... arrivai"
+      ],
+      "answer": "andavo... arrivavo",
+      "explanation": "Привычки в прошлом — imperfetto."
+    },
+    {
+      "question": "Ieri ___ al teatro e ___ uno spettacolo meraviglioso.",
+      "options": [
+        "sono andato... ho visto",
+        "andavo... vedevo",
+        "ero andato... avevo visto"
+      ],
+      "answer": "sono andato... ho visto",
+      "explanation": "Серия завершенных действий — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la conferenza, ___ una domanda molto interessante.",
+      "options": [
+        "seguivo... ho fatto",
+        "ho seguito... facevo",
+        "avevo seguito... ho fatto"
+      ],
+      "answer": "seguivo... ho fatto",
+      "explanation": "Фоновое действие в imperfetto, событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ bambino, ___ molto timido e riservato.",
+      "options": [
+        "ero... ero",
+        "sono stato... sono stato",
+        "fui... fui"
+      ],
+      "answer": "ero... ero",
+      "explanation": "Состояние в прошлом — imperfetto."
+    },
+    {
+      "question": "L'estate scorsa ___ in Turchia per due settimane.",
+      "options": [
+        "sono stato",
+        "ero",
+        "stavo"
+      ],
+      "answer": "sono stato",
+      "explanation": "Ограниченный период — passato prossimo."
+    },
+    {
+      "question": "Mentre ___ la cena, ___ un blackout improvviso.",
+      "options": [
+        "preparavo... c'è stato",
+        "ho preparato... c'era",
+        "avevo preparato... c'è stato"
+      ],
+      "answer": "preparavo... c'è stato",
+      "explanation": "Фоновое действие в imperfetto, внезапное событие в passato prossimo."
+    },
+    {
+      "question": "Quando ___ a Venezia, ___ spesso i canali.",
+      "options": [
+        "vivevo... visitavo",
+        "ho vissuto... ho visitato",
+        "vissi... visitai"
+      ],
+      "answer": "vivevo... visitavo",
+      "explanation": "Длительное состояние и привычка — imperfetto."
+    }
+  ]
+}
