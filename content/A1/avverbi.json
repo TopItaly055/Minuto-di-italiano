@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Avverbi di base (A1)",
+  "exercises": [
+    {
+      "question": "Io ___ vado a scuola in autobus.",
+      "options": [
+        "sempre",
+        "mai",
+        "presto"
+      ],
+      "answer": "sempre",
+      "explanation": "'Sempre' (всегда) указывает на регулярное действие."
+    },
+    {
+      "question": "Non mangio ___ la carne.",
+      "options": [
+        "mai",
+        "sempre",
+        "molto"
+      ],
+      "answer": "mai",
+      "explanation": "'Mai' (никогда) используется с отрицанием 'non'."
+    },
+    {
+      "question": "Lui ___ arriva in ritardo.",
+      "options": [
+        "spesso",
+        "mai",
+        "qui"
+      ],
+      "answer": "spesso",
+      "explanation": "'Spesso' (часто) указывает на частое действие."
+    },
+    {
+      "question": "Vado al cinema ___ .",
+      "options": [
+        "qualche volta",
+        "mai",
+        "molto"
+      ],
+      "answer": "qualche volta",
+      "explanation": "'Qualche volta' (иногда) указывает на нерегулярное действие."
+    },
+    {
+      "question": "Lei ___ legge i libri.",
+      "options": [
+        "raramente",
+        "sempre",
+        "qui"
+      ],
+      "answer": "raramente",
+      "explanation": "'Raramente' (редко) указывает на редкое действие."
+    },
+    {
+      "question": "___ devo andare a casa.",
+      "options": [
+        "Ora",
+        "Sempre",
+        "Molto"
+      ],
+      "answer": "Ora",
+      "explanation": "'Ora' (сейчас) указывает на настоящий момент."
+    },
+    {
+      "question": "Parto ___ per Roma.",
+      "options": [
+        "domani",
+        "sempre",
+        "bene"
+      ],
+      "answer": "domani",
+      "explanation": "'Domani' (завтра) указывает на будущее время."
+    },
+    {
+      "question": "___ sono andato al cinema.",
+      "options": [
+        "Ieri",
+        "Domani",
+        "Sempre"
+      ],
+      "answer": "Ieri",
+      "explanation": "'Ieri' (вчера) указывает на прошедшее время."
+    },
+    {
+      "question": "___ ho una lezione.",
+      "options": [
+        "Oggi",
+        "Ieri",
+        "Sempre"
+      ],
+      "answer": "Oggi",
+      "explanation": "'Oggi' (сегодня) указывает на сегодняшний день."
+    },
+    {
+      "question": "Mi alzo ___ ogni mattina.",
+      "options": [
+        "presto",
+        "tardi",
+        "mai"
+      ],
+      "answer": "presto",
+      "explanation": "'Presto' (рано) указывает на раннее время."
+    },
+    {
+      "question": "Torno a casa ___ .",
+      "options": [
+        "tardi",
+        "presto",
+        "sempre"
+      ],
+      "answer": "tardi",
+      "explanation": "'Tardi' (поздно) указывает на позднее время."
+    },
+    {
+      "question": "Parlo italiano ___ .",
+      "options": [
+        "bene",
+        "sempre",
+        "domani"
+      ],
+      "answer": "bene",
+      "explanation": "'Bene' (хорошо) указывает на качество действия."
+    },
+    {
+      "question": "Canto ___ .",
+      "options": [
+        "male",
+        "sempre",
+        "qui"
+      ],
+      "answer": "male",
+      "explanation": "'Male' (плохо) указывает на плохое качество действия."
+    },
+    {
+      "question": "Parla ___ , per favore!",
+      "options": [
+        "piano",
+        "sempre",
+        "domani"
+      ],
+      "answer": "piano",
+      "explanation": "'Piano' (тихо/медленно) указывает на способ действия."
+    },
+    {
+      "question": "Grida ___ !",
+      "options": [
+        "forte",
+        "piano",
+        "bene"
+      ],
+      "answer": "forte",
+      "explanation": "'Forte' (громко) указывает на громкий способ действия."
+    },
+    {
+      "question": "Cammina ___ .",
+      "options": [
+        "velocemente",
+        "sempre",
+        "qui"
+      ],
+      "answer": "velocemente",
+      "explanation": "'Velocemente' (быстро) указывает на быстрый способ действия."
+    },
+    {
+      "question": "Legge ___ .",
+      "options": [
+        "lentamente",
+        "sempre",
+        "domani"
+      ],
+      "answer": "lentamente",
+      "explanation": "'Lentamente' (медленно) указывает на медленный способ действия."
+    },
+    {
+      "question": "Vieni ___ !",
+      "options": [
+        "qui",
+        "sempre",
+        "bene"
+      ],
+      "answer": "qui",
+      "explanation": "'Qui' (здесь/сюда) указывает на близкое место."
+    },
+    {
+      "question": "Il libro è ___ .",
+      "options": [
+        "lì",
+        "sempre",
+        "bene"
+      ],
+      "answer": "lì",
+      "explanation": "'Lì' (там) указывает на отдаленное место."
+    },
+    {
+      "question": "Abito ___ alla scuola.",
+      "options": [
+        "vicino",
+        "sempre",
+        "bene"
+      ],
+      "answer": "vicino",
+      "explanation": "'Vicino' (близко) указывает на близость."
+    },
+    {
+      "question": "L'ufficio è ___ .",
+      "options": [
+        "lontano",
+        "sempre",
+        "bene"
+      ],
+      "answer": "lontano",
+      "explanation": "'Lontano' (далеко) указывает на удаленность."
+    },
+    {
+      "question": "Il gatto è ___ la scatola.",
+      "options": [
+        "dentro",
+        "sempre",
+        "bene"
+      ],
+      "answer": "dentro",
+      "explanation": "'Dentro' (внутри) указывает на положение внутри."
+    },
+    {
+      "question": "Il cane è ___ .",
+      "options": [
+        "fuori",
+        "sempre",
+        "bene"
+      ],
+      "answer": "fuori",
+      "explanation": "'Fuori' (снаружи) указывает на положение снаружи."
+    },
+    {
+      "question": "Il libro è ___ il tavolo.",
+      "options": [
+        "sopra",
+        "sempre",
+        "bene"
+      ],
+      "answer": "sopra",
+      "explanation": "'Sopra' (над/на) указывает на положение сверху."
+    },
+    {
+      "question": "Il gatto è ___ il letto.",
+      "options": [
+        "sotto",
+        "sempre",
+        "bene"
+      ],
+      "answer": "sotto",
+      "explanation": "'Sotto' (под) указывает на положение снизу."
+    },
+    {
+      "question": "Studio ___ .",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "'Molto' (много) указывает на большое количество."
+    },
+    {
+      "question": "Dormo ___ .",
+      "options": [
+        "poco",
+        "sempre",
+        "qui"
+      ],
+      "answer": "poco",
+      "explanation": "'Poco' (мало) указывает на малое количество."
+    },
+    {
+      "question": "Mangio ___ .",
+      "options": [
+        "troppo",
+        "sempre",
+        "qui"
+      ],
+      "answer": "troppo",
+      "explanation": "'Troppo' (слишком) указывает на чрезмерное количество."
+    },
+    {
+      "question": "È ___ caldo.",
+      "options": [
+        "abbastanza",
+        "sempre",
+        "qui"
+      ],
+      "answer": "abbastanza",
+      "explanation": "'Abbastanza' (достаточно) указывает на достаточное количество."
+    },
+    {
+      "question": "Vado ___ al cinema. (частота)",
+      "options": [
+        "spesso",
+        "qui",
+        "bene"
+      ],
+      "answer": "spesso",
+      "explanation": "Наречие частотности 'spesso' (часто)."
+    },
+    {
+      "question": "Parlo ___ l'italiano. (качество)",
+      "options": [
+        "bene",
+        "sempre",
+        "qui"
+      ],
+      "answer": "bene",
+      "explanation": "Наречие образа действия 'bene' (хорошо)."
+    },
+    {
+      "question": "Vengo ___ . (время)",
+      "options": [
+        "subito",
+        "sempre",
+        "molto"
+      ],
+      "answer": "subito",
+      "explanation": "Наречие времени 'subito' (сразу)."
+    },
+    {
+      "question": "Abito ___ al centro. (место)",
+      "options": [
+        "vicino",
+        "sempre",
+        "bene"
+      ],
+      "answer": "vicino",
+      "explanation": "Наречие места 'vicino' (близко)."
+    },
+    {
+      "question": "Lavoro ___ . (количество)",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "Наречие количества 'molto' (много)."
+    },
+    {
+      "question": "Mangio ___ la pizza.",
+      "options": [
+        "spesso",
+        "qui",
+        "bene"
+      ],
+      "answer": "spesso",
+      "explanation": "Наречие частотности с глаголом 'mangiare'."
+    },
+    {
+      "question": "Studio ___ per l'esame.",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "Наречие количества с глаголом 'studiare'."
+    },
+    {
+      "question": "Arrivo ___ a casa.",
+      "options": [
+        "tardi",
+        "sempre",
+        "molto"
+      ],
+      "answer": "tardi",
+      "explanation": "Наречие времени с глаголом 'arrivare'."
+    },
+    {
+      "question": "Cammino ___ al parco.",
+      "options": [
+        "lentamente",
+        "sempre",
+        "qui"
+      ],
+      "answer": "lentamente",
+      "explanation": "Наречие образа действия с глаголом 'camminare'."
+    },
+    {
+      "question": "Non vado ___ al mare.",
+      "options": [
+        "mai",
+        "sempre",
+        "bene"
+      ],
+      "answer": "mai",
+      "explanation": "Отрицательное наречие 'mai' с 'non'."
+    },
+    {
+      "question": "Mi sveglio ___ alle sette.",
+      "options": [
+        "sempre",
+        "qui",
+        "bene"
+      ],
+      "answer": "sempre",
+      "explanation": "'Sempre' указывает на регулярность пробуждения."
+    },
+    {
+      "question": "___ è sabato.",
+      "options": [
+        "Oggi",
+        "Sempre",
+        "Molto"
+      ],
+      "answer": "Oggi",
+      "explanation": "'Oggi' указывает на сегодняшний день."
+    },
+    {
+      "question": "Parla ___ , non capisco!",
+      "options": [
+        "piano",
+        "sempre",
+        "qui"
+      ],
+      "answer": "piano",
+      "explanation": "'Piano' (медленно) - просьба говорить медленнее."
+    },
+    {
+      "question": "Abito ___ da qui.",
+      "options": [
+        "lontano",
+        "sempre",
+        "bene"
+      ],
+      "answer": "lontano",
+      "explanation": "'Lontano' указывает на удаленность проживания."
+    },
+    {
+      "question": "Sono ___ stanco.",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "'Molto' усиливает прилагательное 'stanco'."
+    },
+    {
+      "question": "Vado ___ ___ a casa. (сейчас)",
+      "options": [
+        "subito",
+        "sempre",
+        "molto"
+      ],
+      "answer": "subito",
+      "explanation": "'Subito' означает 'сразу/немедленно'."
+    },
+    {
+      "question": "Studio ___ la sera. (обычно)",
+      "options": [
+        "di solito",
+        "mai",
+        "qui"
+      ],
+      "answer": "di solito",
+      "explanation": "'Di solito' означает 'обычно'."
+    },
+    {
+      "question": "Arrivo ___ in ritardo. (редко)",
+      "options": [
+        "raramente",
+        "sempre",
+        "molto"
+      ],
+      "answer": "raramente",
+      "explanation": "'Raramente' означает 'редко'."
+    },
+    {
+      "question": "Parlo ___ velocemente. (слишком)",
+      "options": [
+        "troppo",
+        "sempre",
+        "qui"
+      ],
+      "answer": "troppo",
+      "explanation": "'Troppo' означает 'слишком'."
+    },
+    {
+      "question": "Capisco ___ bene. (довольно)",
+      "options": [
+        "abbastanza",
+        "sempre",
+        "qui"
+      ],
+      "answer": "abbastanza",
+      "explanation": "'Abbastanza' означает 'довольно/достаточно'."
+    },
+    {
+      "question": "Non vengo ___ in ritardo.",
+      "options": [
+        "mai",
+        "sempre",
+        "molto"
+      ],
+      "answer": "mai",
+      "explanation": "'Non... mai' означает 'никогда'."
+    },
+    {
+      "question": "Non parlo ___ forte.",
+      "options": [
+        "mai",
+        "sempre",
+        "qui"
+      ],
+      "answer": "mai",
+      "explanation": "'Non... mai' с наречием образа действия."
+    },
+    {
+      "question": "Non studio ___ .",
+      "options": [
+        "abbastanza",
+        "sempre",
+        "qui"
+      ],
+      "answer": "abbastanza",
+      "explanation": "'Non... abbastanza' означает 'недостаточно'."
+    },
+    {
+      "question": "Non abito ___ lontano.",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "'Non molto lontano' означает 'не очень далеко'."
+    },
+    {
+      "question": "Quando parti? - ___ .",
+      "options": [
+        "Domani",
+        "Sempre",
+        "Molto"
+      ],
+      "answer": "Domani",
+      "explanation": "Ответ на вопрос 'когда' с наречием времени."
+    },
+    {
+      "question": "Dove abiti? - ___ .",
+      "options": [
+        "Qui",
+        "Sempre",
+        "Bene"
+      ],
+      "answer": "Qui",
+      "explanation": "Ответ на вопрос 'где' с наречием места."
+    },
+    {
+      "question": "Come stai? - ___ .",
+      "options": [
+        "Bene",
+        "Sempre",
+        "Qui"
+      ],
+      "answer": "Bene",
+      "explanation": "Ответ на вопрос 'как' с наречием образа действия."
+    },
+    {
+      "question": "Quanto lavori? - ___ .",
+      "options": [
+        "Molto",
+        "Sempre",
+        "Qui"
+      ],
+      "answer": "Molto",
+      "explanation": "Ответ на вопрос 'сколько' с наречием количества."
+    },
+    {
+      "question": "Vado a letto ___ .",
+      "options": [
+        "tardi",
+        "sempre",
+        "molto"
+      ],
+      "answer": "tardi",
+      "explanation": "'Tardi' указывает на позднее время отхода ко сну."
+    },
+    {
+      "question": "Mi sveglio ___ ogni giorno.",
+      "options": [
+        "presto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "presto",
+      "explanation": "'Presto' указывает на раннее пробуждение."
+    },
+    {
+      "question": "___ lavoro in ufficio.",
+      "options": [
+        "Oggi",
+        "Sempre",
+        "Molto"
+      ],
+      "answer": "Oggi",
+      "explanation": "'Oggi' указывает на сегодняшний день работы."
+    },
+    {
+      "question": "___ vado al mare.",
+      "options": [
+        "Domani",
+        "Sempre",
+        "Qui"
+      ],
+      "answer": "Domani",
+      "explanation": "'Domani' указывает на завтрашнюю поездку."
+    },
+    {
+      "question": "È ___ difficile.",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "'Molto' усиливает прилагательное 'difficile'."
+    },
+    {
+      "question": "Sono ___ felice.",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "'Molto' усиливает прилагательное 'felice'."
+    },
+    {
+      "question": "È ___ interessante.",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "'Molto' усиливает прилагательное 'interessante'."
+    },
+    {
+      "question": "È ___ bello.",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "'Molto' усиливает прилагательное 'bello'."
+    },
+    {
+      "question": "Parlo italiano ___ bene.",
+      "options": [
+        "abbastanza",
+        "sempre",
+        "qui"
+      ],
+      "answer": "abbastanza",
+      "explanation": "'Abbastanza bene' означает 'достаточно хорошо'."
+    },
+    {
+      "question": "Cammino ___ velocemente.",
+      "options": [
+        "troppo",
+        "sempre",
+        "qui"
+      ],
+      "answer": "troppo",
+      "explanation": "'Troppo velocemente' означает 'слишком быстро'."
+    },
+    {
+      "question": "Studio ___ poco.",
+      "options": [
+        "troppo",
+        "sempre",
+        "qui"
+      ],
+      "answer": "troppo",
+      "explanation": "'Troppo poco' означает 'слишком мало'."
+    },
+    {
+      "question": "Lavoro ___ molto.",
+      "options": [
+        "troppo",
+        "sempre",
+        "qui"
+      ],
+      "answer": "troppo",
+      "explanation": "'Troppo molto' означает 'слишком много'."
+    },
+    {
+      "question": "___ vado a letto.",
+      "options": [
+        "Adesso",
+        "Sempre",
+        "Molto"
+      ],
+      "answer": "Adesso",
+      "explanation": "'Adesso' (сейчас) указывает на текущий момент."
+    },
+    {
+      "question": "Parto ___ .",
+      "options": [
+        "dopo",
+        "sempre",
+        "molto"
+      ],
+      "answer": "dopo",
+      "explanation": "'Dopo' (потом) указывает на последующее действие."
+    },
+    {
+      "question": "Arrivo ___ .",
+      "options": [
+        "presto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "presto",
+      "explanation": "'Presto' может означать 'скоро' или 'рано'."
+    },
+    {
+      "question": "Torno ___ .",
+      "options": [
+        "dopo",
+        "sempre",
+        "molto"
+      ],
+      "answer": "dopo",
+      "explanation": "'Dopo' означает 'потом/позже'."
+    },
+    {
+      "question": "Sto ___ bene, grazie.",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "'Molto bene' - распространенный ответ на 'come stai?'."
+    },
+    {
+      "question": "Torno ___ a casa.",
+      "options": [
+        "subito",
+        "sempre",
+        "qui"
+      ],
+      "answer": "subito",
+      "explanation": "'Subito' означает 'сразу/немедленно'."
+    },
+    {
+      "question": "Parlo ___ piano.",
+      "options": [
+        "più",
+        "sempre",
+        "qui"
+      ],
+      "answer": "più",
+      "explanation": "'Più piano' означает 'помедленнее'."
+    },
+    {
+      "question": "Vieni ___ !",
+      "options": [
+        "qui",
+        "sempre",
+        "molto"
+      ],
+      "answer": "qui",
+      "explanation": "'Vieni qui' означает 'иди сюда'."
+    },
+    {
+      "question": "Posso venire ___ ?",
+      "options": [
+        "adesso",
+        "sempre",
+        "molto"
+      ],
+      "answer": "adesso",
+      "explanation": "Наречие времени с модальным глаголом potere."
+    },
+    {
+      "question": "Devo andare ___ .",
+      "options": [
+        "subito",
+        "sempre",
+        "molto"
+      ],
+      "answer": "subito",
+      "explanation": "Наречие времени с модальным глаголом dovere."
+    },
+    {
+      "question": "Voglio dormire ___ .",
+      "options": [
+        "molto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "molto",
+      "explanation": "Наречие количества с модальным глаголом volere."
+    },
+    {
+      "question": "Lavoro ___ otto ore al giorno.",
+      "options": [
+        "circa",
+        "sempre",
+        "qui"
+      ],
+      "answer": "circa",
+      "explanation": "'Circa' означает 'около/приблизительно'."
+    },
+    {
+      "question": "Vado ___ in palestra.",
+      "options": [
+        "spesso",
+        "qui",
+        "bene"
+      ],
+      "answer": "spesso",
+      "explanation": "Наречие частотности 'spesso' (часто)."
+    },
+    {
+      "question": "Mangio ___ la mattina.",
+      "options": [
+        "poco",
+        "sempre",
+        "qui"
+      ],
+      "answer": "poco",
+      "explanation": "Наречие количества 'poco' (мало)."
+    },
+    {
+      "question": "Arrivo ___ alle nove.",
+      "options": [
+        "sempre",
+        "qui",
+        "molto"
+      ],
+      "answer": "sempre",
+      "explanation": "Наречие частотности 'sempre' (всегда)."
+    },
+    {
+      "question": "Studio ___ la sera.",
+      "options": [
+        "di solito",
+        "qui",
+        "molto"
+      ],
+      "answer": "di solito",
+      "explanation": "'Di solito' означает 'обычно'."
+    },
+    {
+      "question": "Parlo ___ al telefono.",
+      "options": [
+        "spesso",
+        "qui",
+        "bene"
+      ],
+      "answer": "spesso",
+      "explanation": "Наречие частотности с глаголом 'parlare'."
+    },
+    {
+      "question": "Corro ___ al parco.",
+      "options": [
+        "velocemente",
+        "sempre",
+        "qui"
+      ],
+      "answer": "velocemente",
+      "explanation": "Наречие образа действия с глаголом 'correre'."
+    },
+    {
+      "question": "Leggo ___ i giornali.",
+      "options": [
+        "raramente",
+        "qui",
+        "molto"
+      ],
+      "answer": "raramente",
+      "explanation": "Наречие частотности 'raramente' (редко)."
+    },
+    {
+      "question": "Vado ___ a letto.",
+      "options": [
+        "presto",
+        "sempre",
+        "qui"
+      ],
+      "answer": "presto",
+      "explanation": "Наречие времени 'presto' (рано)."
+    },
+    {
+      "question": "Mi alzo ___ la mattina.",
+      "options": [
+        "tardi",
+        "sempre",
+        "qui"
+      ],
+      "answer": "tardi",
+      "explanation": "Наречие времени 'tardi' (поздно)."
+    },
+    {
+      "question": "Cucino ___ la pasta.",
+      "options": [
+        "spesso",
+        "qui",
+        "molto"
+      ],
+      "answer": "spesso",
+      "explanation": "Наречие частотности с глаголом 'cucinare'."
+    },
+    {
+      "question": "Guardo ___ la TV.",
+      "options": [
+        "poco",
+        "sempre",
+        "qui"
+      ],
+      "answer": "poco",
+      "explanation": "Наречие количества с глаголом 'guardare'."
+    },
+    {
+      "question": "Ascolto ___ la musica.",
+      "options": [
+        "sempre",
+        "qui",
+        "molto"
+      ],
+      "answer": "sempre",
+      "explanation": "Наречие частотности 'sempre' (всегда)."
+    },
+    {
+      "question": "Bevo ___ il caffè.",
+      "options": [
+        "spesso",
+        "qui",
+        "molto"
+      ],
+      "answer": "spesso",
+      "explanation": "Наречие частотности с глаголом 'bere'."
+    },
+    {
+      "question": "Cammino ___ in centro.",
+      "options": [
+        "spesso",
+        "qui",
+        "molto"
+      ],
+      "answer": "spesso",
+      "explanation": "Наречие частотности с глаголом 'camminare'."
+    },
+    {
+      "question": "Pranzo ___ a casa.",
+      "options": [
+        "sempre",
+        "qui",
+        "molto"
+      ],
+      "answer": "sempre",
+      "explanation": "Наречие частотности с глаголом 'pranzare'."
+    },
+    {
+      "question": "Ceno ___ fuori.",
+      "options": [
+        "raramente",
+        "qui",
+        "molto"
+      ],
+      "answer": "raramente",
+      "explanation": "Наречие частотности с глаголом 'cenare'."
+    },
+    {
+      "question": "Viaggio ___ .",
+      "options": [
+        "poco",
+        "qui",
+        "bene"
+      ],
+      "answer": "poco",
+      "explanation": "Наречие количества с глаголом 'viaggiare'."
+    },
+    {
+      "question": "Faccio ___ sport.",
+      "options": [
+        "poco",
+        "qui",
+        "bene"
+      ],
+      "answer": "poco",
+      "explanation": "Наречие количества 'poco' (мало) с глаголом 'fare'."
+    },
+    {
+      "question": "Dormo ___ otto ore.",
+      "options": [
+        "circa",
+        "sempre",
+        "qui"
+      ],
+      "answer": "circa",
+      "explanation": "'Circa' означает 'около/приблизительно'."
+    }
+  ]
+}
