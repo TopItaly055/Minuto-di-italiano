@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Preposizioni articolate e a/in con città/paesi (A2)",
+  "exercises": [
+    {
+      "question": "Il libro ___ professore è interessante.",
+      "options": [
+        "del",
+        "di",
+        "dello"
+      ],
+      "answer": "del",
+      "explanation": "Articolo determinativo + preposizione DI: del professore (del = di + il)."
+    },
+    {
+      "question": "La casa ___ nonna è grande.",
+      "options": [
+        "della",
+        "di",
+        "delle"
+      ],
+      "answer": "della",
+      "explanation": "Articolo determinativo + DI: della nonna (della = di + la)."
+    },
+    {
+      "question": "I libri ___ studenti sono nuovi.",
+      "options": [
+        "degli",
+        "di",
+        "dello"
+      ],
+      "answer": "degli",
+      "explanation": "Articolo determinativo + DI: degli studenti (degli = di + gli)."
+    },
+    {
+      "question": "Le chiavi ___ macchina sono qui.",
+      "options": [
+        "della",
+        "di",
+        "delle"
+      ],
+      "answer": "della",
+      "explanation": "Articolo determinativo + DI: della macchina (della = di + la)."
+    },
+    {
+      "question": "Il colore ___ fiore è rosso.",
+      "options": [
+        "del",
+        "di",
+        "dello"
+      ],
+      "answer": "del",
+      "explanation": "Articolo determinativo + DI: del fiore (del = di + il)."
+    },
+    {
+      "question": "Vado ___ cinema stasera.",
+      "options": [
+        "al",
+        "a",
+        "allo"
+      ],
+      "answer": "al",
+      "explanation": "Articolo determinativo + preposizione A: al cinema (al = a + il)."
+    },
+    {
+      "question": "Sono ___ università.",
+      "options": [
+        "all'",
+        "a",
+        "alla"
+      ],
+      "answer": "all'",
+      "explanation": "Articolo determinativo + A: all'università (all' = a + l')."
+    },
+    {
+      "question": "Andiamo ___ mare domani.",
+      "options": [
+        "al",
+        "a",
+        "allo"
+      ],
+      "answer": "al",
+      "explanation": "Articolo determinativo + A: al mare (al = a + il)."
+    },
+    {
+      "question": "Vado ___ scuola ogni giorno.",
+      "options": [
+        "a",
+        "alla",
+        "al"
+      ],
+      "answer": "a",
+      "explanation": "Con 'scuola' si usa A senza articolo: vado a scuola."
+    },
+    {
+      "question": "Sono ___ casa ora.",
+      "options": [
+        "a",
+        "alla",
+        "al"
+      ],
+      "answer": "a",
+      "explanation": "Con 'casa' si usa A senza articolo: sono a casa."
+    },
+    {
+      "question": "Vengo ___ dottore.",
+      "options": [
+        "dal",
+        "da",
+        "dallo"
+      ],
+      "answer": "dal",
+      "explanation": "Articolo determinativo + preposizione DA: dal dottore (dal = da + il)."
+    },
+    {
+      "question": "Torno ___ lavoro alle sei.",
+      "options": [
+        "dal",
+        "da",
+        "dalla"
+      ],
+      "answer": "dal",
+      "explanation": "Articolo determinativo + DA: dal lavoro (dal = da + il)."
+    },
+    {
+      "question": "Arrivo ___ stazione.",
+      "options": [
+        "dalla",
+        "da",
+        "dalle"
+      ],
+      "answer": "dalla",
+      "explanation": "Articolo determinativo + DA: dalla stazione (dalla = da + la)."
+    },
+    {
+      "question": "Vengo ___ Italia.",
+      "options": [
+        "dall'",
+        "da",
+        "dalla"
+      ],
+      "answer": "dall'",
+      "explanation": "Articolo determinativo + DA: dall'Italia (dall' = da + l')."
+    },
+    {
+      "question": "Sono ___ ufficio.",
+      "options": [
+        "nell'",
+        "in",
+        "nello"
+      ],
+      "answer": "nell'",
+      "explanation": "Articolo determinativo + preposizione IN: nell'ufficio (nell' = in + l')."
+    },
+    {
+      "question": "Vivo ___ centro della città.",
+      "options": [
+        "nel",
+        "in",
+        "nello"
+      ],
+      "answer": "nel",
+      "explanation": "Articolo determinativo + IN: nel centro (nel = in + il)."
+    },
+    {
+      "question": "Sono ___ bagno.",
+      "options": [
+        "nel",
+        "in",
+        "nello"
+      ],
+      "answer": "nel",
+      "explanation": "Articolo determinativo + IN: nel bagno (nel = in + il)."
+    },
+    {
+      "question": "Lavoro ___ ospedale.",
+      "options": [
+        "nell'",
+        "in",
+        "nello"
+      ],
+      "answer": "nell'",
+      "explanation": "Articolo determinativo + IN: nell'ospedale (nell' = in + l')."
+    },
+    {
+      "question": "Sono ___ biblioteca.",
+      "options": [
+        "nella",
+        "in",
+        "nelle"
+      ],
+      "answer": "nella",
+      "explanation": "Articolo determinativo + IN: nella biblioteca (nella = in + la)."
+    },
+    {
+      "question": "Il libro è ___ tavolo.",
+      "options": [
+        "sul",
+        "su",
+        "sullo"
+      ],
+      "answer": "sul",
+      "explanation": "Articolo determinativo + preposizione SU: sul tavolo (sul = su + il)."
+    },
+    {
+      "question": "La borsa è ___ sedia.",
+      "options": [
+        "sulla",
+        "su",
+        "sulle"
+      ],
+      "answer": "sulla",
+      "explanation": "Articolo determinativo + SU: sulla sedia (sulla = su + la)."
+    },
+    {
+      "question": "I libri sono ___ scaffale.",
+      "options": [
+        "sullo",
+        "su",
+        "sugli"
+      ],
+      "answer": "sullo",
+      "explanation": "Articolo determinativo + SU: sullo scaffale (sullo = su + lo)."
+    },
+    {
+      "question": "Le chiavi sono ___ tavolo.",
+      "options": [
+        "sul",
+        "su",
+        "sullo"
+      ],
+      "answer": "sul",
+      "explanation": "Articolo determinativo + SU: sul tavolo (sul = su + il)."
+    },
+    {
+      "question": "Vado ___ amici.",
+      "options": [
+        "con gli",
+        "con",
+        "cogli"
+      ],
+      "answer": "con gli",
+      "explanation": "Articolo determinativo + preposizione CON: con gli amici (con + gli)."
+    },
+    {
+      "question": "Parlo ___ professore.",
+      "options": [
+        "con il",
+        "con",
+        "col"
+      ],
+      "answer": "con il",
+      "explanation": "Articolo determinativo + CON: con il professore (con + il)."
+    },
+    {
+      "question": "Esco ___ famiglia.",
+      "options": [
+        "con la",
+        "con",
+        "colla"
+      ],
+      "answer": "con la",
+      "explanation": "Articolo determinativo + CON: con la famiglia (con + la)."
+    },
+    {
+      "question": "Vivo ___ Roma.",
+      "options": [
+        "a",
+        "in",
+        "al"
+      ],
+      "answer": "a",
+      "explanation": "Con le città si usa A: vivo a Roma."
+    },
+    {
+      "question": "Sono ___ Milano.",
+      "options": [
+        "a",
+        "in",
+        "al"
+      ],
+      "answer": "a",
+      "explanation": "Con le città si usa A: sono a Milano."
+    },
+    {
+      "question": "Vado ___ Firenze.",
+      "options": [
+        "a",
+        "in",
+        "al"
+      ],
+      "answer": "a",
+      "explanation": "Con le città si usa A: vado a Firenze."
+    },
+    {
+      "question": "Torno ___ Napoli.",
+      "options": [
+        "a",
+        "in",
+        "al"
+      ],
+      "answer": "a",
+      "explanation": "Con le città si usa A: torno a Napoli."
+    },
+    {
+      "question": "Sono ___ Venezia.",
+      "options": [
+        "a",
+        "in",
+        "al"
+      ],
+      "answer": "a",
+      "explanation": "Con le città si usa A: sono a Venezia."
+    },
+    {
+      "question": "Vivo ___ Italia.",
+      "options": [
+        "in",
+        "a",
+        "al"
+      ],
+      "answer": "in",
+      "explanation": "Con i paesi si usa IN: vivo in Italia."
+    },
+    {
+      "question": "Sono ___ Francia.",
+      "options": [
+        "in",
+        "a",
+        "al"
+      ],
+      "answer": "in",
+      "explanation": "Con i paesi si usa IN: sono in Francia."
+    },
+    {
+      "question": "Vado ___ Germania.",
+      "options": [
+        "in",
+        "a",
+        "al"
+      ],
+      "answer": "in",
+      "explanation": "Con i paesi si usa IN: vado in Germania."
+    },
+    {
+      "question": "Torno ___ Spagna.",
+      "options": [
+        "in",
+        "a",
+        "al"
+      ],
+      "answer": "in",
+      "explanation": "Con i paesi si usa IN: torno in Spagna."
+    },
+    {
+      "question": "Sono ___ Inghilterra.",
+      "options": [
+        "in",
+        "a",
+        "al"
+      ],
+      "answer": "in",
+      "explanation": "Con i paesi si usa IN: sono in Inghilterra."
+    },
+    {
+      "question": "Vivo ___ Amsterdam.",
+      "options": [
+        "ad",
+        "a",
+        "in"
+      ],
+      "answer": "ad",
+      "explanation": "Con città che iniziano con vocale si usa AD: ad Amsterdam."
+    },
+    {
+      "question": "Sono ___ Oslo.",
+      "options": [
+        "ad",
+        "a",
+        "in"
+      ],
+      "answer": "ad",
+      "explanation": "Con città che iniziano con vocale si usa AD: ad Oslo."
+    },
+    {
+      "question": "Vado ___ Istanbul.",
+      "options": [
+        "ad",
+        "a",
+        "in"
+      ],
+      "answer": "ad",
+      "explanation": "Con città che iniziano con vocale si usa AD: ad Istanbul."
+    },
+    {
+      "question": "Sono ___ Stati Uniti.",
+      "options": [
+        "negli",
+        "in",
+        "a"
+      ],
+      "answer": "negli",
+      "explanation": "Con paesi al plurale si usa articolo: negli Stati Uniti."
+    },
+    {
+      "question": "Vivo ___ Paesi Bassi.",
+      "options": [
+        "nei",
+        "in",
+        "a"
+      ],
+      "answer": "nei",
+      "explanation": "Con paesi al plurale si usa articolo: nei Paesi Bassi."
+    },
+    {
+      "question": "Vado ___ Emirati Arabi.",
+      "options": [
+        "negli",
+        "in",
+        "a"
+      ],
+      "answer": "negli",
+      "explanation": "Con paesi al plurale si usa articolo: negli Emirati Arabi."
+    },
+    {
+      "question": "Passo ___ parco.",
+      "options": [
+        "per il",
+        "per",
+        "pel"
+      ],
+      "answer": "per il",
+      "explanation": "Articolo determinativo + preposizione PER: per il parco (per + il)."
+    },
+    {
+      "question": "Cammino ___ strada.",
+      "options": [
+        "per la",
+        "per",
+        "pella"
+      ],
+      "answer": "per la",
+      "explanation": "Articolo determinativo + PER: per la strada (per + la)."
+    },
+    {
+      "question": "Vado ___ centro.",
+      "options": [
+        "per il",
+        "per",
+        "pel"
+      ],
+      "answer": "per il",
+      "explanation": "Articolo determinativo + PER: per il centro (per + il)."
+    },
+    {
+      "question": "Il libro è ___ scaffali.",
+      "options": [
+        "tra gli",
+        "tra",
+        "fra gli"
+      ],
+      "answer": "tra gli",
+      "explanation": "Articolo determinativo + preposizione TRA: tra gli scaffali (tra + gli)."
+    },
+    {
+      "question": "Sono ___ due case.",
+      "options": [
+        "tra le",
+        "tra",
+        "fra le"
+      ],
+      "answer": "tra le",
+      "explanation": "Articolo determinativo + TRA: tra le due case (tra + le)."
+    },
+    {
+      "question": "Il gatto è ___ divano e tavolo.",
+      "options": [
+        "tra il",
+        "tra",
+        "fra il"
+      ],
+      "answer": "tra il",
+      "explanation": "Articolo determinativo + TRA: tra il divano e il tavolo."
+    },
+    {
+      "question": "Il cane è ___ giardino.",
+      "options": [
+        "nel",
+        "in",
+        "nello"
+      ],
+      "answer": "nel",
+      "explanation": "Articolo determinativo + IN: nel giardino (nel = in + il)."
+    },
+    {
+      "question": "Le chiavi sono ___ borsa.",
+      "options": [
+        "nella",
+        "in",
+        "nelle"
+      ],
+      "answer": "nella",
+      "explanation": "Articolo determinativo + IN: nella borsa (nella = in + la)."
+    },
+    {
+      "question": "Il telefono è ___ tasca.",
+      "options": [
+        "nella",
+        "in",
+        "nelle"
+      ],
+      "answer": "nella",
+      "explanation": "Articolo determinativo + IN: nella tasca (nella = in + la)."
+    },
+    {
+      "question": "I bambini giocano ___ parco.",
+      "options": [
+        "nel",
+        "in",
+        "nello"
+      ],
+      "answer": "nel",
+      "explanation": "Articolo determinativo + IN: nel parco (nel = in + il)."
+    },
+    {
+      "question": "La macchina è ___ garage.",
+      "options": [
+        "nel",
+        "in",
+        "nello"
+      ],
+      "answer": "nel",
+      "explanation": "Articolo determinativo + IN: nel garage (nel = in + il)."
+    },
+    {
+      "question": "Sono ___ casa mia.",
+      "options": [
+        "a",
+        "in",
+        "al"
+      ],
+      "answer": "a",
+      "explanation": "Con 'casa' si usa A: sono a casa mia."
+    },
+    {
+      "question": "Vado ___ scuola.",
+      "options": [
+        "a",
+        "in",
+        "al"
+      ],
+      "answer": "a",
+      "explanation": "Con 'scuola' si usa A: vado a scuola."
+    },
+    {
+      "question": "Lavoro ___ ufficio.",
+      "options": [
+        "in",
+        "a",
+        "al"
+      ],
+      "answer": "in",
+      "explanation": "Con 'ufficio' si usa IN: lavoro in ufficio."
+    },
+    {
+      "question": "Sono ___ ospedale.",
+      "options": [
+        "in",
+        "a",
+        "al"
+      ],
+      "answer": "in",
+      "explanation": "Con 'ospedale' si usa IN: sono in ospedale."
+    },
+    {
+      "question": "Vado ___ teatro.",
+      "options": [
+        "a",
+        "in",
+        "al"
+      ],
+      "answer": "a",
+      "explanation": "Con 'teatro' si usa A: vado a teatro."
+    },
+    {
+      "question": "Il libro ___ professore è ___ tavolo.",
+      "options": [
+        "del... sul",
+        "di... su",
+        "dello... sullo"
+      ],
+      "answer": "del... sul",
+      "explanation": "Articoli determinativi: del professore (di + il), sul tavolo (su + il)."
+    },
+    {
+      "question": "Vado ___ cinema ___ amici.",
+      "options": [
+        "al... con gli",
+        "a... con",
+        "allo... cogli"
+      ],
+      "answer": "al... con gli",
+      "explanation": "Articoli determinativi: al cinema (a + il), con gli amici (con + gli)."
+    },
+    {
+      "question": "Sono ___ Italia ___ famiglia.",
+      "options": [
+        "in... con la",
+        "a... con",
+        "in... con"
+      ],
+      "answer": "in... con la",
+      "explanation": "Con paesi si usa IN, articolo determinativo: in Italia, con la famiglia (con + la)."
+    },
+    {
+      "question": "Il gatto è ___ divano ___ casa.",
+      "options": [
+        "sul... in",
+        "su... a",
+        "sullo... in"
+      ],
+      "answer": "sul... in",
+      "explanation": "Articoli determinativi: sul divano (su + il), in casa (senza articolo)."
+    },
+    {
+      "question": "Vivo ___ Roma ___ centro.",
+      "options": [
+        "a... nel",
+        "in... nel",
+        "a... in"
+      ],
+      "answer": "a... nel",
+      "explanation": "Con città si usa A, articolo determinativo: a Roma, nel centro (in + il)."
+    },
+    {
+      "question": "La borsa è ___ sedia.",
+      "options": [
+        "sulla",
+        "su",
+        "sulle"
+      ],
+      "answer": "sulla",
+      "explanation": "Articolo determinativo + SU: sulla sedia (sulla = su + la)."
+    },
+    {
+      "question": "I libri sono ___ scaffale.",
+      "options": [
+        "sullo",
+        "su",
+        "sugli"
+      ],
+      "answer": "sullo",
+      "explanation": "Articolo determinativo + SU: sullo scaffale (sullo = su + lo)."
+    },
+    {
+      "question": "Il cane dorme ___ giardino.",
+      "options": [
+        "nel",
+        "in",
+        "nello"
+      ],
+      "answer": "nel",
+      "explanation": "Articolo determinativo + IN: nel giardino (nel = in + il)."
+    },
+    {
+      "question": "Le scarpe sono ___ armadio.",
+      "options": [
+        "nell'",
+        "in",
+        "nello"
+      ],
+      "answer": "nell'",
+      "explanation": "Articolo determinativo + IN: nell'armadio (nell' = in + l')."
+    },
+    {
+      "question": "Il telefono è ___ tasca.",
+      "options": [
+        "nella",
+        "in",
+        "nelle"
+      ],
+      "answer": "nella",
+      "explanation": "Articolo determinativo + IN: nella tasca (nella = in + la)."
+    },
+    {
+      "question": "Sono ___ casa ___ amici.",
+      "options": [
+        "a... con gli",
+        "in... con",
+        "a... con"
+      ],
+      "answer": "a... con gli",
+      "explanation": "Con 'casa' si usa A, articolo determinativo: a casa, con gli amici (con + gli)."
+    },
+    {
+      "question": "Vado ___ università ___ treno.",
+      "options": [
+        "all'... in",
+        "a... in",
+        "alla... in"
+      ],
+      "answer": "all'... in",
+      "explanation": "Articolo determinativo + A: all'università (a + l'), con mezzi di trasporto si usa IN."
+    },
+    {
+      "question": "Torno ___ lavoro ___ macchina.",
+      "options": [
+        "dal... in",
+        "da... in",
+        "dalla... in"
+      ],
+      "answer": "dal... in",
+      "explanation": "Articolo determinativo + DA: dal lavoro (da + il), con mezzi di trasporto si usa IN."
+    },
+    {
+      "question": "Sono ___ ospedale ___ famiglia.",
+      "options": [
+        "in... con la",
+        "a... con",
+        "in... con"
+      ],
+      "answer": "in... con la",
+      "explanation": "Con 'ospedale' si usa IN, articolo determinativo: in ospedale, con la famiglia (con + la)."
+    },
+    {
+      "question": "Vivo ___ centro ___ Roma.",
+      "options": [
+        "nel... di",
+        "in... di",
+        "nello... di"
+      ],
+      "answer": "nel... di",
+      "explanation": "Articolo determinativo + IN: nel centro (in + il), articolo determinativo + DI: di Roma (di + la)."
+    },
+    {
+      "question": "Il libro è ___ professore ___ università.",
+      "options": [
+        "del... dell'",
+        "di... dell'",
+        "dello... dell'"
+      ],
+      "answer": "del... dell'",
+      "explanation": "Articoli determinativi + DI: del professore (di + il), dell'università (di + l')."
+    },
+    {
+      "question": "Vado ___ cinema ___ amici ___ macchina.",
+      "options": [
+        "al... con gli... in",
+        "a... con... in",
+        "allo... cogli... in"
+      ],
+      "answer": "al... con gli... in",
+      "explanation": "Articoli determinativi: al cinema (a + il), con gli amici (con + gli), in macchina (con mezzi di trasporto)."
+    },
+    {
+      "question": "Sono ___ Italia ___ famiglia ___ Roma.",
+      "options": [
+        "in... con la... a",
+        "a... con... a",
+        "in... con... a"
+      ],
+      "answer": "in... con la... a",
+      "explanation": "Con paesi si usa IN, articolo determinativo: in Italia, con la famiglia (con + la), con città si usa A: a Roma."
+    },
+    {
+      "question": "Il gatto è ___ divano ___ casa ___ giardino.",
+      "options": [
+        "sul... in... nel",
+        "su... a... nel",
+        "sullo... in... nel"
+      ],
+      "answer": "sul... in... nel",
+      "explanation": "Articoli determinativi: sul divano (su + il), in casa (senza articolo), nel giardino (in + il)."
+    },
+    {
+      "question": "Vivo ___ centro ___ Roma ___ famiglia.",
+      "options": [
+        "nel... di... con la",
+        "in... di... con",
+        "nello... di... con la"
+      ],
+      "answer": "nel... di... con la",
+      "explanation": "Articoli determinativi: nel centro (in + il), di Roma (di + la), con la famiglia (con + la)."
+    },
+    {
+      "question": "Il cane è ___ giardino ___ casa.",
+      "options": [
+        "nel... della",
+        "in... della",
+        "nello... della"
+      ],
+      "answer": "nel... della",
+      "explanation": "Articoli determinativi: nel giardino (in + il), della casa (di + la)."
+    },
+    {
+      "question": "Le chiavi sono ___ borsa ___ nonna.",
+      "options": [
+        "nella... della",
+        "in... di",
+        "nelle... della"
+      ],
+      "answer": "nella... della",
+      "explanation": "Articoli determinativi: nella borsa (in + la), della nonna (di + la)."
+    },
+    {
+      "question": "Il telefono è ___ tasca ___ giacca.",
+      "options": [
+        "nella... della",
+        "in... di",
+        "nelle... della"
+      ],
+      "answer": "nella... della",
+      "explanation": "Articoli determinativi: nella tasca (in + la), della giacca (di + la)."
+    },
+    {
+      "question": "I bambini giocano ___ parco ___ scuola.",
+      "options": [
+        "nel... della",
+        "in... di",
+        "nello... della"
+      ],
+      "answer": "nel... della",
+      "explanation": "Articoli determinativi: nel parco (in + il), della scuola (di + la)."
+    },
+    {
+      "question": "La macchina è ___ garage ___ casa.",
+      "options": [
+        "nel... della",
+        "in... di",
+        "nello... della"
+      ],
+      "answer": "nel... della",
+      "explanation": "Articoli determinativi: nel garage (in + il), della casa (di + la)."
+    },
+    {
+      "question": "Sono ___ Torino ___ Italia.",
+      "options": [
+        "a... in",
+        "in... in",
+        "a... a"
+      ],
+      "answer": "a... in",
+      "explanation": "Con città si usa A: a Torino. Con paesi si usa IN: in Italia."
+    },
+    {
+      "question": "Vado ___ Bologna ___ treno.",
+      "options": [
+        "a... in",
+        "in... in",
+        "a... a"
+      ],
+      "answer": "a... in",
+      "explanation": "Con città si usa A: a Bologna. Con mezzi di trasporto si usa IN: in treno."
+    },
+    {
+      "question": "Torno ___ Genova ___ aereo.",
+      "options": [
+        "a... in",
+        "in... in",
+        "a... a"
+      ],
+      "answer": "a... in",
+      "explanation": "Con città si usa A: a Genova. Con mezzi di trasporto si usa IN: in aereo."
+    },
+    {
+      "question": "Sono ___ Barcellona ___ Spagna.",
+      "options": [
+        "a... in",
+        "in... in",
+        "a... a"
+      ],
+      "answer": "a... in",
+      "explanation": "Con città si usa A: a Barcellona. Con paesi si usa IN: in Spagna."
+    },
+    {
+      "question": "Vivo ___ Parigi ___ Francia.",
+      "options": [
+        "a... in",
+        "in... in",
+        "a... a"
+      ],
+      "answer": "a... in",
+      "explanation": "Con città si usa A: a Parigi. Con paesi si usa IN: in Francia."
+    },
+    {
+      "question": "Il libro è ___ scaffale ___ biblioteca.",
+      "options": [
+        "sullo... della",
+        "su... della",
+        "sugli... della"
+      ],
+      "answer": "sullo... della",
+      "explanation": "Articoli determinativi: sullo scaffale (su + lo), della biblioteca (di + la)."
+    },
+    {
+      "question": "Le scarpe sono ___ armadio ___ camera.",
+      "options": [
+        "nell'... della",
+        "in... di",
+        "nello... della"
+      ],
+      "answer": "nell'... della",
+      "explanation": "Articoli determinativi: nell'armadio (in + l'), della camera (di + la)."
+    },
+    {
+      "question": "Il gatto dorme ___ divano ___ salotto.",
+      "options": [
+        "sul... del",
+        "su... del",
+        "sullo... del"
+      ],
+      "answer": "sul... del",
+      "explanation": "Articoli determinativi: sul divano (su + il), del salotto (di + il)."
+    },
+    {
+      "question": "I fiori sono ___ vaso ___ cucina.",
+      "options": [
+        "nel... della",
+        "in... di",
+        "nello... della"
+      ],
+      "answer": "nel... della",
+      "explanation": "Articoli determinativi: nel vaso (in + il), della cucina (di + la)."
+    },
+    {
+      "question": "La penna è ___ cassetto ___ scrivania.",
+      "options": [
+        "nel... della",
+        "in... di",
+        "nello... della"
+      ],
+      "answer": "nel... della",
+      "explanation": "Articoli determinativi: nel cassetto (in + il), della scrivania (di + la)."
+    },
+    {
+      "question": "Vado ___ supermercato ___ macchina.",
+      "options": [
+        "al... in",
+        "a... in",
+        "allo... in"
+      ],
+      "answer": "al... in",
+      "explanation": "Articolo determinativo + A: al supermercato (a + il). Con mezzi di trasporto si usa IN: in macchina."
+    },
+    {
+      "question": "Sono ___ banca ___ centro.",
+      "options": [
+        "in... nel",
+        "a... nel",
+        "in... in"
+      ],
+      "answer": "in... nel",
+      "explanation": "Con 'banca' si usa IN. Articolo determinativo + IN: nel centro (in + il)."
+    },
+    {
+      "question": "Torno ___ casa ___ lavoro.",
+      "options": [
+        "a... dal",
+        "in... dal",
+        "a... da"
+      ],
+      "answer": "a... dal",
+      "explanation": "Con 'casa' si usa A. Articolo determinativo + DA: dal lavoro (da + il)."
+    },
+    {
+      "question": "Vivo ___ periferia ___ città.",
+      "options": [
+        "in... della",
+        "a... della",
+        "in... di"
+      ],
+      "answer": "in... della",
+      "explanation": "Con 'periferia' si usa IN. Articolo determinativo + DI: della città (di + la)."
+    },
+    {
+      "question": "Sono ___ stazione ___ treno.",
+      "options": [
+        "in... in",
+        "a... in",
+        "in... a"
+      ],
+      "answer": "in... in",
+      "explanation": "Con 'stazione' si usa IN. Con mezzi di trasporto si usa IN: in treno."
+    },
+    {
+      "question": "Il cane corre ___ giardino ___ casa ___ famiglia.",
+      "options": [
+        "nel... della... con la",
+        "in... di... con",
+        "nello... della... con la"
+      ],
+      "answer": "nel... della... con la",
+      "explanation": "Articoli determinativi: nel giardino (in + il), della casa (di + la), con la famiglia (con + la)."
+    },
+    {
+      "question": "Vado ___ università ___ amici ___ autobus.",
+      "options": [
+        "all'... con gli... in",
+        "a... con... in",
+        "alla... cogli... in"
+      ],
+      "answer": "all'... con gli... in",
+      "explanation": "Articoli determinativi: all'università (a + l'), con gli amici (con + gli), in autobus (con mezzi di trasporto)."
+    }
+  ]
+}
