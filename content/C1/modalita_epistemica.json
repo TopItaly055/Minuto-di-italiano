@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Modalità ed epistemica (C1)",
+  "exercises": [
+    {
+      "question": "Devo ___ italiano per il lavoro.",
+      "options": [
+        "studiare",
+        "studiato",
+        "studio"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 1: La forma corretta è 'studiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Devo ___ qui ogni giorno.",
+      "options": [
+        "lavorare",
+        "lavorato",
+        "lavoro"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 2: La forma corretta è 'lavorare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Devo ___ a Roma domani.",
+      "options": [
+        "andare",
+        "andato",
+        "vado"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 3: La forma corretta è 'andare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Devo ___ la lezione oggi.",
+      "options": [
+        "seguire",
+        "seguito",
+        "seguo"
+      ],
+      "answer": "seguire",
+      "explanation": "Esercizio 4: La forma corretta è 'seguire'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Devo ___ il problema subito.",
+      "options": [
+        "risolvere",
+        "risolto",
+        "risolvo"
+      ],
+      "answer": "risolvere",
+      "explanation": "Esercizio 5: La forma corretta è 'risolvere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Devo ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidato",
+        "guido"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 6: La forma corretta è 'guidare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Devo ___ la pasta stasera.",
+      "options": [
+        "mangiare",
+        "mangiato",
+        "mangio"
+      ],
+      "answer": "mangiare",
+      "explanation": "Esercizio 7: La forma corretta è 'mangiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Devo ___ il caffè.",
+      "options": [
+        "bere",
+        "bevuto",
+        "bevo"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 8: La forma corretta è 'bere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Devo ___ i libri.",
+      "options": [
+        "leggere",
+        "letto",
+        "leggo"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 9: La forma corretta è 'leggere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Devo ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltato",
+        "ascolto"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 10: La forma corretta è 'ascoltare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovevo ___ italiano per il lavoro.",
+      "options": [
+        "studiare",
+        "studiato",
+        "studiavo"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 11: La forma corretta è 'studiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovevo ___ qui ogni giorno.",
+      "options": [
+        "lavorare",
+        "lavorato",
+        "lavoravo"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 12: La forma corretta è 'lavorare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovevo ___ a Roma ieri.",
+      "options": [
+        "andare",
+        "andato",
+        "andavo"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 13: La forma corretta è 'andare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovevo ___ la lezione oggi.",
+      "options": [
+        "seguire",
+        "seguito",
+        "seguivo"
+      ],
+      "answer": "seguire",
+      "explanation": "Esercizio 14: La forma corretta è 'seguire'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovevo ___ il problema subito.",
+      "options": [
+        "risolvere",
+        "risolto",
+        "risolvevo"
+      ],
+      "answer": "risolvere",
+      "explanation": "Esercizio 15: La forma corretta è 'risolvere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovevo ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidato",
+        "guidavo"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 16: La forma corretta è 'guidare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovevo ___ la pasta stasera.",
+      "options": [
+        "mangiare",
+        "mangiato",
+        "mangiavo"
+      ],
+      "answer": "mangiare",
+      "explanation": "Esercizio 17: La forma corretta è 'mangiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovevo ___ il caffè.",
+      "options": [
+        "bere",
+        "bevuto",
+        "bevevo"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 18: La forma corretta è 'bere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovevo ___ i libri.",
+      "options": [
+        "leggere",
+        "letto",
+        "leggevo"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 19: La forma corretta è 'leggere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovevo ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltato",
+        "ascoltavo"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 20: La forma corretta è 'ascoltare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrò ___ italiano per il lavoro.",
+      "options": [
+        "studiare",
+        "studiato",
+        "studierò"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 21: La forma corretta è 'studiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrò ___ qui ogni giorno.",
+      "options": [
+        "lavorare",
+        "lavorato",
+        "lavorerò"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 22: La forma corretta è 'lavorare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrò ___ a Roma domani.",
+      "options": [
+        "andare",
+        "andato",
+        "andrò"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 23: La forma corretta è 'andare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrò ___ la lezione oggi.",
+      "options": [
+        "seguire",
+        "seguito",
+        "seguirò"
+      ],
+      "answer": "seguire",
+      "explanation": "Esercizio 24: La forma corretta è 'seguire'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrò ___ il problema subito.",
+      "options": [
+        "risolvere",
+        "risolto",
+        "risolverò"
+      ],
+      "answer": "risolvere",
+      "explanation": "Esercizio 25: La forma corretta è 'risolvere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrò ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidato",
+        "guiderò"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 26: La forma corretta è 'guidare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrò ___ la pasta stasera.",
+      "options": [
+        "mangiare",
+        "mangiato",
+        "mangerò"
+      ],
+      "answer": "mangiare",
+      "explanation": "Esercizio 27: La forma corretta è 'mangiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrò ___ il caffè.",
+      "options": [
+        "bere",
+        "bevuto",
+        "berrò"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 28: La forma corretta è 'bere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrò ___ i libri.",
+      "options": [
+        "leggere",
+        "letto",
+        "leggerò"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 29: La forma corretta è 'leggere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrò ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltato",
+        "ascolterò"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 30: La forma corretta è 'ascoltare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Posso ___ italiano per il lavoro.",
+      "options": [
+        "studiare",
+        "studiato",
+        "studio"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 31: La forma corretta è 'studiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Posso ___ qui ogni giorno.",
+      "options": [
+        "lavorare",
+        "lavorato",
+        "lavoro"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 32: La forma corretta è 'lavorare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Posso ___ a Roma domani.",
+      "options": [
+        "andare",
+        "andato",
+        "vado"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 33: La forma corretta è 'andare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Posso ___ la lezione oggi.",
+      "options": [
+        "seguire",
+        "seguito",
+        "seguo"
+      ],
+      "answer": "seguire",
+      "explanation": "Esercizio 34: La forma corretta è 'seguire'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Posso ___ il problema subito.",
+      "options": [
+        "risolvere",
+        "risolto",
+        "risolvo"
+      ],
+      "answer": "risolvere",
+      "explanation": "Esercizio 35: La forma corretta è 'risolvere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Posso ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidato",
+        "guido"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 36: La forma corretta è 'guidare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Posso ___ la pasta stasera.",
+      "options": [
+        "mangiare",
+        "mangiato",
+        "mangio"
+      ],
+      "answer": "mangiare",
+      "explanation": "Esercizio 37: La forma corretta è 'mangiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Posso ___ il caffè.",
+      "options": [
+        "bere",
+        "bevuto",
+        "bevo"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 38: La forma corretta è 'bere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Posso ___ i libri.",
+      "options": [
+        "leggere",
+        "letto",
+        "leggo"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 39: La forma corretta è 'leggere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Posso ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltato",
+        "ascolto"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 40: La forma corretta è 'ascoltare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potevo ___ italiano per il lavoro.",
+      "options": [
+        "studiare",
+        "studiato",
+        "studiavo"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 41: La forma corretta è 'studiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potevo ___ qui ogni giorno.",
+      "options": [
+        "lavorare",
+        "lavorato",
+        "lavoravo"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 42: La forma corretta è 'lavorare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potevo ___ a Roma ieri.",
+      "options": [
+        "andare",
+        "andato",
+        "andavo"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 43: La forma corretta è 'andare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potevo ___ la lezione oggi.",
+      "options": [
+        "seguire",
+        "seguito",
+        "seguivo"
+      ],
+      "answer": "seguire",
+      "explanation": "Esercizio 44: La forma corretta è 'seguire'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potevo ___ il problema subito.",
+      "options": [
+        "risolvere",
+        "risolto",
+        "risolvevo"
+      ],
+      "answer": "risolvere",
+      "explanation": "Esercizio 45: La forma corretta è 'risolvere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potevo ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidato",
+        "guidavo"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 46: La forma corretta è 'guidare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potevo ___ la pasta stasera.",
+      "options": [
+        "mangiare",
+        "mangiato",
+        "mangiavo"
+      ],
+      "answer": "mangiare",
+      "explanation": "Esercizio 47: La forma corretta è 'mangiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potevo ___ il caffè.",
+      "options": [
+        "bere",
+        "bevuto",
+        "bevevo"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 48: La forma corretta è 'bere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potevo ___ i libri.",
+      "options": [
+        "leggere",
+        "letto",
+        "leggevo"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 49: La forma corretta è 'leggere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potevo ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltato",
+        "ascoltavo"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 50: La forma corretta è 'ascoltare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potrò ___ italiano per il lavoro.",
+      "options": [
+        "studiare",
+        "studiato",
+        "studierò"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 51: La forma corretta è 'studiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potrò ___ qui ogni giorno.",
+      "options": [
+        "lavorare",
+        "lavorato",
+        "lavorerò"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 52: La forma corretta è 'lavorare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potrò ___ a Roma domani.",
+      "options": [
+        "andare",
+        "andato",
+        "andrò"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 53: La forma corretta è 'andare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potrò ___ la lezione oggi.",
+      "options": [
+        "seguire",
+        "seguito",
+        "seguirò"
+      ],
+      "answer": "seguire",
+      "explanation": "Esercizio 54: La forma corretta è 'seguire'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potrò ___ il problema subito.",
+      "options": [
+        "risolvere",
+        "risolto",
+        "risolverò"
+      ],
+      "answer": "risolvere",
+      "explanation": "Esercizio 55: La forma corretta è 'risolvere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potrò ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidato",
+        "guiderò"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 56: La forma corretta è 'guidare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potrò ___ la pasta stasera.",
+      "options": [
+        "mangiare",
+        "mangiato",
+        "mangerò"
+      ],
+      "answer": "mangiare",
+      "explanation": "Esercizio 57: La forma corretta è 'mangiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potrò ___ il caffè.",
+      "options": [
+        "bere",
+        "bevuto",
+        "berrò"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 58: La forma corretta è 'bere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potrò ___ i libri.",
+      "options": [
+        "leggere",
+        "letto",
+        "leggerò"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 59: La forma corretta è 'leggere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Potrò ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltato",
+        "ascolterò"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 60: La forma corretta è 'ascoltare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Voglio ___ italiano per il lavoro.",
+      "options": [
+        "studiare",
+        "studiato",
+        "studio"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 61: La forma corretta è 'studiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Voglio ___ qui ogni giorno.",
+      "options": [
+        "lavorare",
+        "lavorato",
+        "lavoro"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 62: La forma corretta è 'lavorare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Voglio ___ a Roma domani.",
+      "options": [
+        "andare",
+        "andato",
+        "vado"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 63: La forma corretta è 'andare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Voglio ___ la lezione oggi.",
+      "options": [
+        "seguire",
+        "seguito",
+        "seguo"
+      ],
+      "answer": "seguire",
+      "explanation": "Esercizio 64: La forma corretta è 'seguire'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Voglio ___ il problema subito.",
+      "options": [
+        "risolvere",
+        "risolto",
+        "risolvo"
+      ],
+      "answer": "risolvere",
+      "explanation": "Esercizio 65: La forma corretta è 'risolvere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Voglio ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidato",
+        "guido"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 66: La forma corretta è 'guidare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Voglio ___ la pasta stasera.",
+      "options": [
+        "mangiare",
+        "mangiato",
+        "mangio"
+      ],
+      "answer": "mangiare",
+      "explanation": "Esercizio 67: La forma corretta è 'mangiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Voglio ___ il caffè.",
+      "options": [
+        "bere",
+        "bevuto",
+        "bevo"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 68: La forma corretta è 'bere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Voglio ___ i libri.",
+      "options": [
+        "leggere",
+        "letto",
+        "leggo"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 69: La forma corretta è 'leggere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Voglio ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltato",
+        "ascolto"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 70: La forma corretta è 'ascoltare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Volevo ___ italiano per il lavoro.",
+      "options": [
+        "studiare",
+        "studiato",
+        "studiavo"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 71: La forma corretta è 'studiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Volevo ___ qui ogni giorno.",
+      "options": [
+        "lavorare",
+        "lavorato",
+        "lavoravo"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 72: La forma corretta è 'lavorare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Volevo ___ a Roma ieri.",
+      "options": [
+        "andare",
+        "andato",
+        "andavo"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 73: La forma corretta è 'andare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Volevo ___ la lezione oggi.",
+      "options": [
+        "seguire",
+        "seguito",
+        "seguivo"
+      ],
+      "answer": "seguire",
+      "explanation": "Esercizio 74: La forma corretta è 'seguire'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Volevo ___ il problema subito.",
+      "options": [
+        "risolvere",
+        "risolto",
+        "risolvevo"
+      ],
+      "answer": "risolvere",
+      "explanation": "Esercizio 75: La forma corretta è 'risolvere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Volevo ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidato",
+        "guidavo"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 76: La forma corretta è 'guidare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Volevo ___ la pasta stasera.",
+      "options": [
+        "mangiare",
+        "mangiato",
+        "mangiavo"
+      ],
+      "answer": "mangiare",
+      "explanation": "Esercizio 77: La forma corretta è 'mangiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Volevo ___ il caffè.",
+      "options": [
+        "bere",
+        "bevuto",
+        "bevevo"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 78: La forma corretta è 'bere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Volevo ___ i libri.",
+      "options": [
+        "leggere",
+        "letto",
+        "leggevo"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 79: La forma corretta è 'leggere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Volevo ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltato",
+        "ascoltavo"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 80: La forma corretta è 'ascoltare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Vorrei ___ italiano per il lavoro.",
+      "options": [
+        "studiare",
+        "studiato",
+        "studierò"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 81: La forma corretta è 'studiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Vorrei ___ qui ogni giorno.",
+      "options": [
+        "lavorare",
+        "lavorato",
+        "lavorerò"
+      ],
+      "answer": "lavorare",
+      "explanation": "Esercizio 82: La forma corretta è 'lavorare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Vorrei ___ a Roma domani.",
+      "options": [
+        "andare",
+        "andato",
+        "andrò"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 83: La forma corretta è 'andare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Vorrei ___ la lezione oggi.",
+      "options": [
+        "seguire",
+        "seguito",
+        "seguirò"
+      ],
+      "answer": "seguire",
+      "explanation": "Esercizio 84: La forma corretta è 'seguire'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Vorrei ___ il problema subito.",
+      "options": [
+        "risolvere",
+        "risolto",
+        "risolverò"
+      ],
+      "answer": "risolvere",
+      "explanation": "Esercizio 85: La forma corretta è 'risolvere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Vorrei ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidato",
+        "guiderò"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 86: La forma corretta è 'guidare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Vorrei ___ la pasta stasera.",
+      "options": [
+        "mangiare",
+        "mangiato",
+        "mangerò"
+      ],
+      "answer": "mangiare",
+      "explanation": "Esercizio 87: La forma corretta è 'mangiare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Vorrei ___ il caffè.",
+      "options": [
+        "bere",
+        "bevuto",
+        "berrò"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 88: La forma corretta è 'bere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Vorrei ___ i libri.",
+      "options": [
+        "leggere",
+        "letto",
+        "leggerò"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 89: La forma corretta è 'leggere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Vorrei ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltato",
+        "ascolterò"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 90: La forma corretta è 'ascoltare'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrà ___ molto stanco dopo il viaggio.",
+      "options": [
+        "essere",
+        "stato",
+        "sarà"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 91: La forma corretta è 'essere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrà ___ molto intelligente.",
+      "options": [
+        "essere",
+        "stato",
+        "sarà"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 92: La forma corretta è 'essere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrà ___ molto bravo nel suo lavoro.",
+      "options": [
+        "essere",
+        "stato",
+        "sarà"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 93: La forma corretta è 'essere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrà ___ molto contento della notizia.",
+      "options": [
+        "essere",
+        "stato",
+        "sarà"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 94: La forma corretta è 'essere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrà ___ molto soddisfatto del risultato.",
+      "options": [
+        "essere",
+        "stato",
+        "sarà"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 95: La forma corretta è 'essere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrà ___ molto tardi.",
+      "options": [
+        "essere",
+        "stato",
+        "sarà"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 96: La forma corretta è 'essere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrà ___ molto presto.",
+      "options": [
+        "essere",
+        "stato",
+        "sarà"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 97: La forma corretta è 'essere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrà ___ molto lontano.",
+      "options": [
+        "essere",
+        "stato",
+        "sarà"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 98: La forma corretta è 'essere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrà ___ molto vicino.",
+      "options": [
+        "essere",
+        "stato",
+        "sarà"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 99: La forma corretta è 'essere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    },
+    {
+      "question": "Dovrà ___ molto alto.",
+      "options": [
+        "essere",
+        "stato",
+        "sarà"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 100: La forma corretta è 'essere'. La modalità ed epistemica regolano l'uso di dovere/potere/volere in tutti i tempi e il futuro epistemico in contesti formali."
+    }
+  ]
+}
