@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Passivo (B1)",
+  "exercises": [
+    {
+      "question": "Il libro ___ da tutti gli studenti.",
+      "options": [
+        "è letto",
+        "si legge",
+        "viene letto"
+      ],
+      "answer": "è letto",
+      "explanation": "Esercizio 1: La forma corretta è 'è letto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ dalla madre.",
+      "options": [
+        "è scritta",
+        "si scrive",
+        "viene scritta"
+      ],
+      "answer": "è scritta",
+      "explanation": "Esercizio 2: La forma corretta è 'è scritta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ dai muratori.",
+      "options": [
+        "è costruita",
+        "si costruisce",
+        "viene costruita"
+      ],
+      "answer": "è costruita",
+      "explanation": "Esercizio 3: La forma corretta è 'è costruita'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ da milioni di persone.",
+      "options": [
+        "è visto",
+        "si vede",
+        "viene visto"
+      ],
+      "answer": "è visto",
+      "explanation": "Esercizio 4: La forma corretta è 'è visto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ in tutto il mondo.",
+      "options": [
+        "è ascoltata",
+        "si ascolta",
+        "viene ascoltata"
+      ],
+      "answer": "è ascoltata",
+      "explanation": "Esercizio 5: La forma corretta è 'è ascoltata'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ ieri da tutti.",
+      "options": [
+        "è stato letto",
+        "si è letto",
+        "viene letto"
+      ],
+      "answer": "è stato letto",
+      "explanation": "Esercizio 6: La forma corretta è 'è stato letto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ stamattina.",
+      "options": [
+        "è stata scritta",
+        "si è scritta",
+        "viene scritta"
+      ],
+      "answer": "è stata scritta",
+      "explanation": "Esercizio 7: La forma corretta è 'è stata scritta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ l'anno scorso.",
+      "options": [
+        "è stata costruita",
+        "si è costruita",
+        "viene costruita"
+      ],
+      "answer": "è stata costruita",
+      "explanation": "Esercizio 8: La forma corretta è 'è stata costruita'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ da tutti.",
+      "options": [
+        "è stato visto",
+        "si è visto",
+        "viene visto"
+      ],
+      "answer": "è stato visto",
+      "explanation": "Esercizio 9: La forma corretta è 'è stato visto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ovunque.",
+      "options": [
+        "è stata ascoltata",
+        "si è ascoltata",
+        "viene ascoltata"
+      ],
+      "answer": "è stata ascoltata",
+      "explanation": "Esercizio 10: La forma corretta è 'è stata ascoltata'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ domani da tutti.",
+      "options": [
+        "sarà letto",
+        "si leggerà",
+        "verrà letto"
+      ],
+      "answer": "sarà letto",
+      "explanation": "Esercizio 11: La forma corretta è 'sarà letto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ stasera.",
+      "options": [
+        "sarà scritta",
+        "si scriverà",
+        "verrà scritta"
+      ],
+      "answer": "sarà scritta",
+      "explanation": "Esercizio 12: La forma corretta è 'sarà scritta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ l'anno prossimo.",
+      "options": [
+        "sarà costruita",
+        "si costruirà",
+        "verrà costruita"
+      ],
+      "answer": "sarà costruita",
+      "explanation": "Esercizio 13: La forma corretta è 'sarà costruita'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ da tutti.",
+      "options": [
+        "sarà visto",
+        "si vedrà",
+        "verrà visto"
+      ],
+      "answer": "sarà visto",
+      "explanation": "Esercizio 14: La forma corretta è 'sarà visto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ovunque.",
+      "options": [
+        "sarà ascoltata",
+        "si ascolterà",
+        "verrà ascoltata"
+      ],
+      "answer": "sarà ascoltata",
+      "explanation": "Esercizio 15: La forma corretta è 'sarà ascoltata'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ da tutti i giorni.",
+      "options": [
+        "era letto",
+        "si leggeva",
+        "veniva letto"
+      ],
+      "answer": "era letto",
+      "explanation": "Esercizio 16: La forma corretta è 'era letto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ ogni giorno.",
+      "options": [
+        "era scritta",
+        "si scriveva",
+        "veniva scritta"
+      ],
+      "answer": "era scritta",
+      "explanation": "Esercizio 17: La forma corretta è 'era scritta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ continuamente.",
+      "options": [
+        "era costruita",
+        "si costruiva",
+        "veniva costruita"
+      ],
+      "answer": "era costruita",
+      "explanation": "Esercizio 18: La forma corretta è 'era costruita'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ da tutti.",
+      "options": [
+        "era visto",
+        "si vedeva",
+        "veniva visto"
+      ],
+      "answer": "era visto",
+      "explanation": "Esercizio 19: La forma corretta è 'era visto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ovunque.",
+      "options": [
+        "era ascoltata",
+        "si ascoltava",
+        "veniva ascoltata"
+      ],
+      "answer": "era ascoltata",
+      "explanation": "Esercizio 20: La forma corretta è 'era ascoltata'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ già da tutti.",
+      "options": [
+        "era stato letto",
+        "si era letto",
+        "veniva letto"
+      ],
+      "answer": "era stato letto",
+      "explanation": "Esercizio 21: La forma corretta è 'era stato letto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ già.",
+      "options": [
+        "era stata scritta",
+        "si era scritta",
+        "veniva scritta"
+      ],
+      "answer": "era stata scritta",
+      "explanation": "Esercizio 22: La forma corretta è 'era stata scritta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ già.",
+      "options": [
+        "era stata costruita",
+        "si era costruita",
+        "veniva costruita"
+      ],
+      "answer": "era stata costruita",
+      "explanation": "Esercizio 23: La forma corretta è 'era stata costruita'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ già da tutti.",
+      "options": [
+        "era stato visto",
+        "si era visto",
+        "veniva visto"
+      ],
+      "answer": "era stato visto",
+      "explanation": "Esercizio 24: La forma corretta è 'era stato visto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ già ovunque.",
+      "options": [
+        "era stata ascoltata",
+        "si era ascoltata",
+        "veniva ascoltata"
+      ],
+      "answer": "era stata ascoltata",
+      "explanation": "Esercizio 25: La forma corretta è 'era stata ascoltata'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ letto da tutti.",
+      "options": [
+        "viene",
+        "è",
+        "si"
+      ],
+      "answer": "viene",
+      "explanation": "Esercizio 26: La forma corretta è 'viene'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ scritta ogni giorno.",
+      "options": [
+        "viene",
+        "è",
+        "si"
+      ],
+      "answer": "viene",
+      "explanation": "Esercizio 27: La forma corretta è 'viene'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ costruita dai muratori.",
+      "options": [
+        "viene",
+        "è",
+        "si"
+      ],
+      "answer": "viene",
+      "explanation": "Esercizio 28: La forma corretta è 'viene'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ visto da milioni.",
+      "options": [
+        "viene",
+        "è",
+        "si"
+      ],
+      "answer": "viene",
+      "explanation": "Esercizio 29: La forma corretta è 'viene'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ascoltata ovunque.",
+      "options": [
+        "viene",
+        "è",
+        "si"
+      ],
+      "answer": "viene",
+      "explanation": "Esercizio 30: La forma corretta è 'viene'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ letto ieri.",
+      "options": [
+        "è venuto",
+        "è stato",
+        "si è"
+      ],
+      "answer": "è venuto",
+      "explanation": "Esercizio 31: La forma corretta è 'è venuto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ scritta stamattina.",
+      "options": [
+        "è venuta",
+        "è stata",
+        "si è"
+      ],
+      "answer": "è venuta",
+      "explanation": "Esercizio 32: La forma corretta è 'è venuta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ costruita l'anno scorso.",
+      "options": [
+        "è venuta",
+        "è stata",
+        "si è"
+      ],
+      "answer": "è venuta",
+      "explanation": "Esercizio 33: La forma corretta è 'è venuta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ visto da tutti.",
+      "options": [
+        "è venuto",
+        "è stato",
+        "si è"
+      ],
+      "answer": "è venuto",
+      "explanation": "Esercizio 34: La forma corretta è 'è venuto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ascoltata ovunque.",
+      "options": [
+        "è venuta",
+        "è stata",
+        "si è"
+      ],
+      "answer": "è venuta",
+      "explanation": "Esercizio 35: La forma corretta è 'è venuta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ letto domani.",
+      "options": [
+        "verrà",
+        "sarà",
+        "si"
+      ],
+      "answer": "verrà",
+      "explanation": "Esercizio 36: La forma corretta è 'verrà'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ scritta stasera.",
+      "options": [
+        "verrà",
+        "sarà",
+        "si"
+      ],
+      "answer": "verrà",
+      "explanation": "Esercizio 37: La forma corretta è 'verrà'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ costruita l'anno prossimo.",
+      "options": [
+        "verrà",
+        "sarà",
+        "si"
+      ],
+      "answer": "verrà",
+      "explanation": "Esercizio 38: La forma corretta è 'verrà'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ visto da tutti.",
+      "options": [
+        "verrà",
+        "sarà",
+        "si"
+      ],
+      "answer": "verrà",
+      "explanation": "Esercizio 39: La forma corretta è 'verrà'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ascoltata ovunque.",
+      "options": [
+        "verrà",
+        "sarà",
+        "si"
+      ],
+      "answer": "verrà",
+      "explanation": "Esercizio 40: La forma corretta è 'verrà'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ letto ogni giorno.",
+      "options": [
+        "veniva",
+        "era",
+        "si"
+      ],
+      "answer": "veniva",
+      "explanation": "Esercizio 41: La forma corretta è 'veniva'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ scritta continuamente.",
+      "options": [
+        "veniva",
+        "era",
+        "si"
+      ],
+      "answer": "veniva",
+      "explanation": "Esercizio 42: La forma corretta è 'veniva'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ costruita sempre.",
+      "options": [
+        "veniva",
+        "era",
+        "si"
+      ],
+      "answer": "veniva",
+      "explanation": "Esercizio 43: La forma corretta è 'veniva'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ visto da tutti.",
+      "options": [
+        "veniva",
+        "era",
+        "si"
+      ],
+      "answer": "veniva",
+      "explanation": "Esercizio 44: La forma corretta è 'veniva'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ascoltata ovunque.",
+      "options": [
+        "veniva",
+        "era",
+        "si"
+      ],
+      "answer": "veniva",
+      "explanation": "Esercizio 45: La forma corretta è 'veniva'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ letto già.",
+      "options": [
+        "era venuto",
+        "era stato",
+        "si era"
+      ],
+      "answer": "era venuto",
+      "explanation": "Esercizio 46: La forma corretta è 'era venuto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ scritta già.",
+      "options": [
+        "era venuta",
+        "era stata",
+        "si era"
+      ],
+      "answer": "era venuta",
+      "explanation": "Esercizio 47: La forma corretta è 'era venuta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ costruita già.",
+      "options": [
+        "era venuta",
+        "era stata",
+        "si era"
+      ],
+      "answer": "era venuta",
+      "explanation": "Esercizio 48: La forma corretta è 'era venuta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ visto già.",
+      "options": [
+        "era venuto",
+        "era stato",
+        "si era"
+      ],
+      "answer": "era venuto",
+      "explanation": "Esercizio 49: La forma corretta è 'era venuto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ascoltata già.",
+      "options": [
+        "era venuta",
+        "era stata",
+        "si era"
+      ],
+      "answer": "era venuta",
+      "explanation": "Esercizio 50: La forma corretta è 'era venuta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "In questo ristorante ___ buona pasta.",
+      "options": [
+        "si mangia",
+        "è mangiata",
+        "viene mangiata"
+      ],
+      "answer": "si mangia",
+      "explanation": "Esercizio 51: La forma corretta è 'si mangia'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "In Italia ___ buon vino.",
+      "options": [
+        "si beve",
+        "è bevuto",
+        "viene bevuto"
+      ],
+      "answer": "si beve",
+      "explanation": "Esercizio 52: La forma corretta è 'si beve'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "In questa città ___ buona musica.",
+      "options": [
+        "si ascolta",
+        "è ascoltata",
+        "viene ascoltata"
+      ],
+      "answer": "si ascolta",
+      "explanation": "Esercizio 53: La forma corretta è 'si ascolta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "In questo posto ___ buon caffè.",
+      "options": [
+        "si beve",
+        "è bevuto",
+        "viene bevuto"
+      ],
+      "answer": "si beve",
+      "explanation": "Esercizio 54: La forma corretta è 'si beve'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "In Italia ___ buona pizza.",
+      "options": [
+        "si mangia",
+        "è mangiata",
+        "viene mangiata"
+      ],
+      "answer": "si mangia",
+      "explanation": "Esercizio 55: La forma corretta è 'si mangia'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "In Italia ___ molte macchine.",
+      "options": [
+        "si vedono",
+        "sono viste",
+        "vengono viste"
+      ],
+      "answer": "si vedono",
+      "explanation": "Esercizio 56: La forma corretta è 'si vedono'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "In questa città ___ molti turisti.",
+      "options": [
+        "si vedono",
+        "sono visti",
+        "vengono visti"
+      ],
+      "answer": "si vedono",
+      "explanation": "Esercizio 57: La forma corretta è 'si vedono'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "In questo posto ___ molte persone.",
+      "options": [
+        "si vedono",
+        "sono viste",
+        "vengono viste"
+      ],
+      "answer": "si vedono",
+      "explanation": "Esercizio 58: La forma corretta è 'si vedono'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "In Italia ___ molti monumenti.",
+      "options": [
+        "si vedono",
+        "sono visti",
+        "vengono visti"
+      ],
+      "answer": "si vedono",
+      "explanation": "Esercizio 59: La forma corretta è 'si vedono'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "In questa città ___ molti negozi.",
+      "options": [
+        "si vedono",
+        "sono visti",
+        "vengono visti"
+      ],
+      "answer": "si vedono",
+      "explanation": "Esercizio 60: La forma corretta è 'si vedono'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Ieri ___ molte persone.",
+      "options": [
+        "si sono viste",
+        "sono state viste",
+        "vengono viste"
+      ],
+      "answer": "si sono viste",
+      "explanation": "Esercizio 61: La forma corretta è 'si sono viste'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Stamattina ___ molti turisti.",
+      "options": [
+        "si sono visti",
+        "sono stati visti",
+        "vengono visti"
+      ],
+      "answer": "si sono visti",
+      "explanation": "Esercizio 62: La forma corretta è 'si sono visti'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Ieri sera ___ molte macchine.",
+      "options": [
+        "si sono viste",
+        "sono state viste",
+        "vengono viste"
+      ],
+      "answer": "si sono viste",
+      "explanation": "Esercizio 63: La forma corretta è 'si sono viste'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Stamattina ___ molti negozi.",
+      "options": [
+        "si sono visti",
+        "sono stati visti",
+        "vengono visti"
+      ],
+      "answer": "si sono visti",
+      "explanation": "Esercizio 64: La forma corretta è 'si sono visti'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Ieri ___ molti monumenti.",
+      "options": [
+        "si sono visti",
+        "sono stati visti",
+        "vengono visti"
+      ],
+      "answer": "si sono visti",
+      "explanation": "Esercizio 65: La forma corretta è 'si sono visti'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Domani ___ molte persone.",
+      "options": [
+        "si vedranno",
+        "saranno viste",
+        "verranno viste"
+      ],
+      "answer": "si vedranno",
+      "explanation": "Esercizio 66: La forma corretta è 'si vedranno'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Stasera ___ molti turisti.",
+      "options": [
+        "si vedranno",
+        "saranno visti",
+        "verranno visti"
+      ],
+      "answer": "si vedranno",
+      "explanation": "Esercizio 67: La forma corretta è 'si vedranno'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Domani ___ molte macchine.",
+      "options": [
+        "si vedranno",
+        "saranno viste",
+        "verranno viste"
+      ],
+      "answer": "si vedranno",
+      "explanation": "Esercizio 68: La forma corretta è 'si vedranno'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Stasera ___ molti negozi.",
+      "options": [
+        "si vedranno",
+        "saranno visti",
+        "verranno visti"
+      ],
+      "answer": "si vedranno",
+      "explanation": "Esercizio 69: La forma corretta è 'si vedranno'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Domani ___ molti monumenti.",
+      "options": [
+        "si vedranno",
+        "saranno visti",
+        "verranno visti"
+      ],
+      "answer": "si vedranno",
+      "explanation": "Esercizio 70: La forma corretta è 'si vedranno'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Prima ___ molte persone.",
+      "options": [
+        "si vedevano",
+        "erano viste",
+        "venivano viste"
+      ],
+      "answer": "si vedevano",
+      "explanation": "Esercizio 71: La forma corretta è 'si vedevano'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Una volta ___ molti turisti.",
+      "options": [
+        "si vedevano",
+        "erano visti",
+        "venivano visti"
+      ],
+      "answer": "si vedevano",
+      "explanation": "Esercizio 72: La forma corretta è 'si vedevano'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Prima ___ molte macchine.",
+      "options": [
+        "si vedevano",
+        "erano viste",
+        "venivano viste"
+      ],
+      "answer": "si vedevano",
+      "explanation": "Esercizio 73: La forma corretta è 'si vedevano'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Una volta ___ molti negozi.",
+      "options": [
+        "si vedevano",
+        "erano visti",
+        "venivano visti"
+      ],
+      "answer": "si vedevano",
+      "explanation": "Esercizio 74: La forma corretta è 'si vedevano'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Prima ___ molti monumenti.",
+      "options": [
+        "si vedevano",
+        "erano visti",
+        "venivano visti"
+      ],
+      "answer": "si vedevano",
+      "explanation": "Esercizio 75: La forma corretta è 'si vedevano'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ letto da tutti i giorni.",
+      "options": [
+        "è stato",
+        "si è",
+        "viene"
+      ],
+      "answer": "è stato",
+      "explanation": "Esercizio 76: La forma corretta è 'è stato'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ scritta ogni giorno.",
+      "options": [
+        "è stata",
+        "si è",
+        "viene"
+      ],
+      "answer": "è stata",
+      "explanation": "Esercizio 77: La forma corretta è 'è stata'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ costruita continuamente.",
+      "options": [
+        "è stata",
+        "si è",
+        "viene"
+      ],
+      "answer": "è stata",
+      "explanation": "Esercizio 78: La forma corretta è 'è stata'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ visto da tutti.",
+      "options": [
+        "è stato",
+        "si è",
+        "viene"
+      ],
+      "answer": "è stato",
+      "explanation": "Esercizio 79: La forma corretta è 'è stato'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ascoltata ovunque.",
+      "options": [
+        "è stata",
+        "si è",
+        "viene"
+      ],
+      "answer": "è stata",
+      "explanation": "Esercizio 80: La forma corretta è 'è stata'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ letto ieri.",
+      "options": [
+        "è venuto",
+        "è stato",
+        "si è"
+      ],
+      "answer": "è venuto",
+      "explanation": "Esercizio 81: La forma corretta è 'è venuto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ scritta stamattina.",
+      "options": [
+        "è venuta",
+        "è stata",
+        "si è"
+      ],
+      "answer": "è venuta",
+      "explanation": "Esercizio 82: La forma corretta è 'è venuta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ costruita l'anno scorso.",
+      "options": [
+        "è venuta",
+        "è stata",
+        "si è"
+      ],
+      "answer": "è venuta",
+      "explanation": "Esercizio 83: La forma corretta è 'è venuta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ visto da tutti.",
+      "options": [
+        "è venuto",
+        "è stato",
+        "si è"
+      ],
+      "answer": "è venuto",
+      "explanation": "Esercizio 84: La forma corretta è 'è venuto'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ascoltata ovunque.",
+      "options": [
+        "è venuta",
+        "è stata",
+        "si è"
+      ],
+      "answer": "è venuta",
+      "explanation": "Esercizio 85: La forma corretta è 'è venuta'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Ieri ___ molte persone.",
+      "options": [
+        "si sono viste",
+        "sono state viste",
+        "vengono viste"
+      ],
+      "answer": "si sono viste",
+      "explanation": "Esercizio 86: La forma corretta è 'si sono viste'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Stamattina ___ molti turisti.",
+      "options": [
+        "si sono visti",
+        "sono stati visti",
+        "vengono visti"
+      ],
+      "answer": "si sono visti",
+      "explanation": "Esercizio 87: La forma corretta è 'si sono visti'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Ieri sera ___ molte macchine.",
+      "options": [
+        "si sono viste",
+        "sono state viste",
+        "vengono viste"
+      ],
+      "answer": "si sono viste",
+      "explanation": "Esercizio 88: La forma corretta è 'si sono viste'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Stamattina ___ molti negozi.",
+      "options": [
+        "si sono visti",
+        "sono stati visti",
+        "vengono visti"
+      ],
+      "answer": "si sono visti",
+      "explanation": "Esercizio 89: La forma corretta è 'si sono visti'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Ieri ___ molti monumenti.",
+      "options": [
+        "si sono visti",
+        "sono stati visti",
+        "vengono visti"
+      ],
+      "answer": "si sono visti",
+      "explanation": "Esercizio 90: La forma corretta è 'si sono visti'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il libro ___ letto da tutti.",
+      "options": [
+        "può essere",
+        "si può",
+        "viene"
+      ],
+      "answer": "può essere",
+      "explanation": "Esercizio 91: La forma corretta è 'può essere'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La lettera ___ scritta ogni giorno.",
+      "options": [
+        "può essere",
+        "si può",
+        "viene"
+      ],
+      "answer": "può essere",
+      "explanation": "Esercizio 92: La forma corretta è 'può essere'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La casa ___ costruita dai muratori.",
+      "options": [
+        "può essere",
+        "si può",
+        "viene"
+      ],
+      "answer": "può essere",
+      "explanation": "Esercizio 93: La forma corretta è 'può essere'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "Il film ___ visto da milioni.",
+      "options": [
+        "può essere",
+        "si può",
+        "viene"
+      ],
+      "answer": "può essere",
+      "explanation": "Esercizio 94: La forma corretta è 'può essere'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "La musica ___ ascoltata ovunque.",
+      "options": [
+        "può essere",
+        "si può",
+        "viene"
+      ],
+      "answer": "può essere",
+      "explanation": "Esercizio 95: La forma corretta è 'può essere'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "È bello ___ letto da tutti.",
+      "options": [
+        "essere",
+        "si",
+        "venire"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 96: La forma corretta è 'essere'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "È piacevole ___ scritta ogni giorno.",
+      "options": [
+        "essere",
+        "si",
+        "venire"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 97: La forma corretta è 'essere'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "È interessante ___ costruita dai muratori.",
+      "options": [
+        "essere",
+        "si",
+        "venire"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 98: La forma corretta è 'essere'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "È bello ___ visto da milioni.",
+      "options": [
+        "essere",
+        "si",
+        "venire"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 99: La forma corretta è 'essere'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    },
+    {
+      "question": "È piacevole ___ ascoltata ovunque.",
+      "options": [
+        "essere",
+        "si",
+        "venire"
+      ],
+      "answer": "essere",
+      "explanation": "Esercizio 100: La forma corretta è 'essere'. Essere + participio per passivo classico, venire + participio per passivo introduttivo, si passivante per passivo impersonale."
+    }
+  ]
+}
