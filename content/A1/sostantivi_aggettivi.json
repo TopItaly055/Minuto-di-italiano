@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Существительные и прилагательные (A1)",
+  "exercises": [
+    {
+      "question": "La ___ è nuova.",
+      "options": [
+        "casa",
+        "Il",
+        "Lo"
+      ],
+      "answer": "casa",
+      "explanation": "Casa - fem род, единственное число. Согласуется с прилагательным 'nuova'."
+    },
+    {
+      "question": "Il ___ è bello.",
+      "options": [
+        "libro",
+        "La",
+        "Lo"
+      ],
+      "answer": "libro",
+      "explanation": "Libro - masc род, единственное число. Согласуется с прилагательным 'bello'."
+    },
+    {
+      "question": "Il ___ è piccolo.",
+      "options": [
+        "gatto",
+        "La",
+        "Lo"
+      ],
+      "answer": "gatto",
+      "explanation": "Gatto - masc род, единственное число. Согласуется с прилагательным 'piccolo'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "gatta",
+        "Il",
+        "Lo"
+      ],
+      "answer": "gatta",
+      "explanation": "Gatta - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "La ___ è vecchia.",
+      "options": [
+        "macchina",
+        "Il",
+        "Lo"
+      ],
+      "answer": "macchina",
+      "explanation": "Macchina - fem род, единственное число. Согласуется с прилагательным 'vecchia'."
+    },
+    {
+      "question": "La ___ è nuova.",
+      "options": [
+        "scuola",
+        "Il",
+        "Lo"
+      ],
+      "answer": "scuola",
+      "explanation": "Scuola - fem род, единственное число. Согласуется с прилагательным 'nuova'."
+    },
+    {
+      "question": "Il ___ è nero.",
+      "options": [
+        "cane",
+        "La",
+        "Lo"
+      ],
+      "answer": "cane",
+      "explanation": "Cane - masc род, единственное число. Согласуется с прилагательным 'nero'."
+    },
+    {
+      "question": "La ___ è fedele.",
+      "options": [
+        "cagna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "cagna",
+      "explanation": "Cagna - fem род, единственное число. Согласуется с прилагательным 'fedele'."
+    },
+    {
+      "question": "Il ___ è felice.",
+      "options": [
+        "bambino",
+        "La",
+        "Lo"
+      ],
+      "answer": "bambino",
+      "explanation": "Bambino - masc род, единственное число. Согласуется с прилагательным 'felice'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "bambina",
+        "Il",
+        "Lo"
+      ],
+      "answer": "bambina",
+      "explanation": "Bambina - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "Il ___ è forte.",
+      "options": [
+        "uomo",
+        "La",
+        "Lo"
+      ],
+      "answer": "uomo",
+      "explanation": "Uomo - masc род, единственное число. Согласуется с прилагательным 'forte'."
+    },
+    {
+      "question": "La ___ è debole.",
+      "options": [
+        "donna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "donna",
+      "explanation": "Donna - fem род, единственное число. Согласуется с прилагательным 'debole'."
+    },
+    {
+      "question": "Il ___ è giovane.",
+      "options": [
+        "ragazzo",
+        "La",
+        "Lo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Ragazzo - masc род, единственное число. Согласуется с прилагательным 'giovane'."
+    },
+    {
+      "question": "La ___ è vecchia.",
+      "options": [
+        "ragazza",
+        "Il",
+        "Lo"
+      ],
+      "answer": "ragazza",
+      "explanation": "Ragazza - fem род, единственное число. Согласуется с прилагательным 'vecchia'."
+    },
+    {
+      "question": "Il ___ è simpatico.",
+      "options": [
+        "nonno",
+        "La",
+        "Lo"
+      ],
+      "answer": "nonno",
+      "explanation": "Nonno - masc род, единственное число. Согласуется с прилагательным 'simpatico'."
+    },
+    {
+      "question": "La ___ è cattiva.",
+      "options": [
+        "nonna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "nonna",
+      "explanation": "Nonna - fem род, единственное число. Согласуется с прилагательным 'cattiva'."
+    },
+    {
+      "question": "Il ___ è cattivo.",
+      "options": [
+        "madre",
+        "La",
+        "Lo"
+      ],
+      "answer": "madre",
+      "explanation": "Madre - masc род, единственное число. Согласуется с прилагательным 'cattivo'."
+    },
+    {
+      "question": "Il ___ è buono.",
+      "options": [
+        "padre",
+        "La",
+        "Lo"
+      ],
+      "answer": "padre",
+      "explanation": "Padre - masc род, единственное число. Согласуется с прилагательным 'buono'."
+    },
+    {
+      "question": "Il ___ è simpatico.",
+      "options": [
+        "fratello",
+        "La",
+        "Lo"
+      ],
+      "answer": "fratello",
+      "explanation": "Fratello - masc род, единственное число. Согласуется с прилагательным 'simpatico'."
+    },
+    {
+      "question": "La ___ è buona.",
+      "options": [
+        "sorella",
+        "Il",
+        "Lo"
+      ],
+      "answer": "sorella",
+      "explanation": "Sorella - fem род, единственное число. Согласуется с прилагательным 'buona'."
+    },
+    {
+      "question": "La ___ è grande.",
+      "options": [
+        "casa",
+        "Il",
+        "Lo"
+      ],
+      "answer": "casa",
+      "explanation": "Casa - fem род, единственное число. Согласуется с прилагательным 'grande'."
+    },
+    {
+      "question": "Il ___ è vecchio.",
+      "options": [
+        "libro",
+        "La",
+        "Lo"
+      ],
+      "answer": "libro",
+      "explanation": "Libro - masc род, единственное число. Согласуется с прилагательным 'vecchio'."
+    },
+    {
+      "question": "Il ___ è bianco.",
+      "options": [
+        "gatto",
+        "La",
+        "Lo"
+      ],
+      "answer": "gatto",
+      "explanation": "Gatto - masc род, единственное число. Согласуется с прилагательным 'bianco'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "gatta",
+        "Il",
+        "Lo"
+      ],
+      "answer": "gatta",
+      "explanation": "Gatta - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "La ___ è blu.",
+      "options": [
+        "macchina",
+        "Il",
+        "Lo"
+      ],
+      "answer": "macchina",
+      "explanation": "Macchina - fem род, единственное число. Согласуется с прилагательным 'blu'."
+    },
+    {
+      "question": "La ___ è nuova.",
+      "options": [
+        "scuola",
+        "Il",
+        "Lo"
+      ],
+      "answer": "scuola",
+      "explanation": "Scuola - fem род, единственное число. Согласуется с прилагательным 'nuova'."
+    },
+    {
+      "question": "Il ___ è grande.",
+      "options": [
+        "cane",
+        "La",
+        "Lo"
+      ],
+      "answer": "cane",
+      "explanation": "Cane - masc род, единственное число. Согласуется с прилагательным 'grande'."
+    },
+    {
+      "question": "La ___ è grande.",
+      "options": [
+        "cagna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "cagna",
+      "explanation": "Cagna - fem род, единственное число. Согласуется с прилагательным 'grande'."
+    },
+    {
+      "question": "Il ___ è grande.",
+      "options": [
+        "bambino",
+        "La",
+        "Lo"
+      ],
+      "answer": "bambino",
+      "explanation": "Bambino - masc род, единственное число. Согласуется с прилагательным 'grande'."
+    },
+    {
+      "question": "La ___ è felice.",
+      "options": [
+        "bambina",
+        "Il",
+        "Lo"
+      ],
+      "answer": "bambina",
+      "explanation": "Bambina - fem род, единственное число. Согласуется с прилагательным 'felice'."
+    },
+    {
+      "question": "Il ___ è forte.",
+      "options": [
+        "uomo",
+        "La",
+        "Lo"
+      ],
+      "answer": "uomo",
+      "explanation": "Uomo - masc род, единственное число. Согласуется с прилагательным 'forte'."
+    },
+    {
+      "question": "La ___ è bassa.",
+      "options": [
+        "donna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "donna",
+      "explanation": "Donna - fem род, единственное число. Согласуется с прилагательным 'bassa'."
+    },
+    {
+      "question": "Il ___ è giovane.",
+      "options": [
+        "ragazzo",
+        "La",
+        "Lo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Ragazzo - masc род, единственное число. Согласуется с прилагательным 'giovane'."
+    },
+    {
+      "question": "La ___ è giovane.",
+      "options": [
+        "ragazza",
+        "Il",
+        "Lo"
+      ],
+      "answer": "ragazza",
+      "explanation": "Ragazza - fem род, единственное число. Согласуется с прилагательным 'giovane'."
+    },
+    {
+      "question": "Il ___ è giovane.",
+      "options": [
+        "nonno",
+        "La",
+        "Lo"
+      ],
+      "answer": "nonno",
+      "explanation": "Nonno - masc род, единственное число. Согласуется с прилагательным 'giovane'."
+    },
+    {
+      "question": "La ___ è vecchia.",
+      "options": [
+        "nonna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "nonna",
+      "explanation": "Nonna - fem род, единственное число. Согласуется с прилагательным 'vecchia'."
+    },
+    {
+      "question": "Il ___ è brutto.",
+      "options": [
+        "madre",
+        "La",
+        "Lo"
+      ],
+      "answer": "madre",
+      "explanation": "Madre - masc род, единственное число. Согласуется с прилагательным 'brutto'."
+    },
+    {
+      "question": "Il ___ è brutto.",
+      "options": [
+        "padre",
+        "La",
+        "Lo"
+      ],
+      "answer": "padre",
+      "explanation": "Padre - masc род, единственное число. Согласуется с прилагательным 'brutto'."
+    },
+    {
+      "question": "Il ___ è piccolo.",
+      "options": [
+        "fratello",
+        "La",
+        "Lo"
+      ],
+      "answer": "fratello",
+      "explanation": "Fratello - masc род, единственное число. Согласуется с прилагательным 'piccolo'."
+    },
+    {
+      "question": "La ___ è buona.",
+      "options": [
+        "sorella",
+        "Il",
+        "Lo"
+      ],
+      "answer": "sorella",
+      "explanation": "Sorella - fem род, единственное число. Согласуется с прилагательным 'buona'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "casa",
+        "Il",
+        "Lo"
+      ],
+      "answer": "casa",
+      "explanation": "Casa - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "Il ___ è noioso.",
+      "options": [
+        "libro",
+        "La",
+        "Lo"
+      ],
+      "answer": "libro",
+      "explanation": "Libro - masc род, единственное число. Согласуется с прилагательным 'noioso'."
+    },
+    {
+      "question": "Il ___ è simpatico.",
+      "options": [
+        "gatto",
+        "La",
+        "Lo"
+      ],
+      "answer": "gatto",
+      "explanation": "Gatto - masc род, единственное число. Согласуется с прилагательным 'simpatico'."
+    },
+    {
+      "question": "La ___ è bianca.",
+      "options": [
+        "gatta",
+        "Il",
+        "Lo"
+      ],
+      "answer": "gatta",
+      "explanation": "Gatta - fem род, единственное число. Согласуется с прилагательным 'bianca'."
+    },
+    {
+      "question": "La ___ è nuova.",
+      "options": [
+        "macchina",
+        "Il",
+        "Lo"
+      ],
+      "answer": "macchina",
+      "explanation": "Macchina - fem род, единственное число. Согласуется с прилагательным 'nuova'."
+    },
+    {
+      "question": "La ___ è grande.",
+      "options": [
+        "scuola",
+        "Il",
+        "Lo"
+      ],
+      "answer": "scuola",
+      "explanation": "Scuola - fem род, единственное число. Согласуется с прилагательным 'grande'."
+    },
+    {
+      "question": "Il ___ è fedele.",
+      "options": [
+        "cane",
+        "La",
+        "Lo"
+      ],
+      "answer": "cane",
+      "explanation": "Cane - masc род, единственное число. Согласуется с прилагательным 'fedele'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "cagna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "cagna",
+      "explanation": "Cagna - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "Il ___ è triste.",
+      "options": [
+        "bambino",
+        "La",
+        "Lo"
+      ],
+      "answer": "bambino",
+      "explanation": "Bambino - masc род, единственное число. Согласуется с прилагательным 'triste'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "bambina",
+        "Il",
+        "Lo"
+      ],
+      "answer": "bambina",
+      "explanation": "Bambina - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "Il ___ è alto.",
+      "options": [
+        "uomo",
+        "La",
+        "Lo"
+      ],
+      "answer": "uomo",
+      "explanation": "Uomo - masc род, единственное число. Согласуется с прилагательным 'alto'."
+    },
+    {
+      "question": "La ___ è bassa.",
+      "options": [
+        "donna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "donna",
+      "explanation": "Donna - fem род, единственное число. Согласуется с прилагательным 'bassa'."
+    },
+    {
+      "question": "Il ___ è bello.",
+      "options": [
+        "ragazzo",
+        "La",
+        "Lo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Ragazzo - masc род, единственное число. Согласуется с прилагательным 'bello'."
+    },
+    {
+      "question": "La ___ è giovane.",
+      "options": [
+        "ragazza",
+        "Il",
+        "Lo"
+      ],
+      "answer": "ragazza",
+      "explanation": "Ragazza - fem род, единственное число. Согласуется с прилагательным 'giovane'."
+    },
+    {
+      "question": "Il ___ è cattivo.",
+      "options": [
+        "nonno",
+        "La",
+        "Lo"
+      ],
+      "answer": "nonno",
+      "explanation": "Nonno - masc род, единственное число. Согласуется с прилагательным 'cattivo'."
+    },
+    {
+      "question": "La ___ è giovane.",
+      "options": [
+        "nonna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "nonna",
+      "explanation": "Nonna - fem род, единственное число. Согласуется с прилагательным 'giovane'."
+    },
+    {
+      "question": "Il ___ è brutto.",
+      "options": [
+        "madre",
+        "La",
+        "Lo"
+      ],
+      "answer": "madre",
+      "explanation": "Madre - masc род, единственное число. Согласуется с прилагательным 'brutto'."
+    },
+    {
+      "question": "Il ___ è cattivo.",
+      "options": [
+        "padre",
+        "La",
+        "Lo"
+      ],
+      "answer": "padre",
+      "explanation": "Padre - masc род, единственное число. Согласуется с прилагательным 'cattivo'."
+    },
+    {
+      "question": "Il ___ è grande.",
+      "options": [
+        "fratello",
+        "La",
+        "Lo"
+      ],
+      "answer": "fratello",
+      "explanation": "Fratello - masc род, единственное число. Согласуется с прилагательным 'grande'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "sorella",
+        "Il",
+        "Lo"
+      ],
+      "answer": "sorella",
+      "explanation": "Sorella - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "La ___ è nuova.",
+      "options": [
+        "casa",
+        "Il",
+        "Lo"
+      ],
+      "answer": "casa",
+      "explanation": "Casa - fem род, единственное число. Согласуется с прилагательным 'nuova'."
+    },
+    {
+      "question": "Il ___ è interessante.",
+      "options": [
+        "libro",
+        "La",
+        "Lo"
+      ],
+      "answer": "libro",
+      "explanation": "Libro - masc род, единственное число. Согласуется с прилагательным 'interessante'."
+    },
+    {
+      "question": "Il ___ è simpatico.",
+      "options": [
+        "gatto",
+        "La",
+        "Lo"
+      ],
+      "answer": "gatto",
+      "explanation": "Gatto - masc род, единственное число. Согласуется с прилагательным 'simpatico'."
+    },
+    {
+      "question": "La ___ è bianca.",
+      "options": [
+        "gatta",
+        "Il",
+        "Lo"
+      ],
+      "answer": "gatta",
+      "explanation": "Gatta - fem род, единственное число. Согласуется с прилагательным 'bianca'."
+    },
+    {
+      "question": "La ___ è vecchia.",
+      "options": [
+        "macchina",
+        "Il",
+        "Lo"
+      ],
+      "answer": "macchina",
+      "explanation": "Macchina - fem род, единственное число. Согласуется с прилагательным 'vecchia'."
+    },
+    {
+      "question": "La ___ è vecchia.",
+      "options": [
+        "scuola",
+        "Il",
+        "Lo"
+      ],
+      "answer": "scuola",
+      "explanation": "Scuola - fem род, единственное число. Согласуется с прилагательным 'vecchia'."
+    },
+    {
+      "question": "Il ___ è nero.",
+      "options": [
+        "cane",
+        "La",
+        "Lo"
+      ],
+      "answer": "cane",
+      "explanation": "Cane - masc род, единственное число. Согласуется с прилагательным 'nero'."
+    },
+    {
+      "question": "La ___ è nera.",
+      "options": [
+        "cagna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "cagna",
+      "explanation": "Cagna - fem род, единственное число. Согласуется с прилагательным 'nera'."
+    },
+    {
+      "question": "Il ___ è felice.",
+      "options": [
+        "bambino",
+        "La",
+        "Lo"
+      ],
+      "answer": "bambino",
+      "explanation": "Bambino - masc род, единственное число. Согласуется с прилагательным 'felice'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "bambina",
+        "Il",
+        "Lo"
+      ],
+      "answer": "bambina",
+      "explanation": "Bambina - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "Il ___ è buono.",
+      "options": [
+        "uomo",
+        "La",
+        "Lo"
+      ],
+      "answer": "uomo",
+      "explanation": "Uomo - masc род, единственное число. Согласуется с прилагательным 'buono'."
+    },
+    {
+      "question": "La ___ è forte.",
+      "options": [
+        "donna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "donna",
+      "explanation": "Donna - fem род, единственное число. Согласуется с прилагательным 'forte'."
+    },
+    {
+      "question": "Il ___ è bello.",
+      "options": [
+        "ragazzo",
+        "La",
+        "Lo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Ragazzo - masc род, единственное число. Согласуется с прилагательным 'bello'."
+    },
+    {
+      "question": "La ___ è vecchia.",
+      "options": [
+        "ragazza",
+        "Il",
+        "Lo"
+      ],
+      "answer": "ragazza",
+      "explanation": "Ragazza - fem род, единственное число. Согласуется с прилагательным 'vecchia'."
+    },
+    {
+      "question": "Il ___ è giovane.",
+      "options": [
+        "nonno",
+        "La",
+        "Lo"
+      ],
+      "answer": "nonno",
+      "explanation": "Nonno - masc род, единственное число. Согласуется с прилагательным 'giovane'."
+    },
+    {
+      "question": "La ___ è cattiva.",
+      "options": [
+        "nonna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "nonna",
+      "explanation": "Nonna - fem род, единственное число. Согласуется с прилагательным 'cattiva'."
+    },
+    {
+      "question": "Il ___ è cattivo.",
+      "options": [
+        "madre",
+        "La",
+        "Lo"
+      ],
+      "answer": "madre",
+      "explanation": "Madre - masc род, единственное число. Согласуется с прилагательным 'cattivo'."
+    },
+    {
+      "question": "Il ___ è buono.",
+      "options": [
+        "padre",
+        "La",
+        "Lo"
+      ],
+      "answer": "padre",
+      "explanation": "Padre - masc род, единственное число. Согласуется с прилагательным 'buono'."
+    },
+    {
+      "question": "Il ___ è cattivo.",
+      "options": [
+        "fratello",
+        "La",
+        "Lo"
+      ],
+      "answer": "fratello",
+      "explanation": "Fratello - masc род, единственное число. Согласуется с прилагательным 'cattivo'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "sorella",
+        "Il",
+        "Lo"
+      ],
+      "answer": "sorella",
+      "explanation": "Sorella - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "casa",
+        "Il",
+        "Lo"
+      ],
+      "answer": "casa",
+      "explanation": "Casa - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "Il ___ è vecchio.",
+      "options": [
+        "libro",
+        "La",
+        "Lo"
+      ],
+      "answer": "libro",
+      "explanation": "Libro - masc род, единственное число. Согласуется с прилагательным 'vecchio'."
+    },
+    {
+      "question": "Il ___ è nero.",
+      "options": [
+        "gatto",
+        "La",
+        "Lo"
+      ],
+      "answer": "gatto",
+      "explanation": "Gatto - masc род, единственное число. Согласуется с прилагательным 'nero'."
+    },
+    {
+      "question": "La ___ è piccola.",
+      "options": [
+        "gatta",
+        "Il",
+        "Lo"
+      ],
+      "answer": "gatta",
+      "explanation": "Gatta - fem род, единственное число. Согласуется с прилагательным 'piccola'."
+    },
+    {
+      "question": "La ___ è blu.",
+      "options": [
+        "macchina",
+        "Il",
+        "Lo"
+      ],
+      "answer": "macchina",
+      "explanation": "Macchina - fem род, единственное число. Согласуется с прилагательным 'blu'."
+    },
+    {
+      "question": "La ___ è grande.",
+      "options": [
+        "scuola",
+        "Il",
+        "Lo"
+      ],
+      "answer": "scuola",
+      "explanation": "Scuola - fem род, единственное число. Согласуется с прилагательным 'grande'."
+    },
+    {
+      "question": "Il ___ è fedele.",
+      "options": [
+        "cane",
+        "La",
+        "Lo"
+      ],
+      "answer": "cane",
+      "explanation": "Cane - masc род, единственное число. Согласуется с прилагательным 'fedele'."
+    },
+    {
+      "question": "La ___ è fedele.",
+      "options": [
+        "cagna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "cagna",
+      "explanation": "Cagna - fem род, единственное число. Согласуется с прилагательным 'fedele'."
+    },
+    {
+      "question": "Il ___ è bello.",
+      "options": [
+        "bambino",
+        "La",
+        "Lo"
+      ],
+      "answer": "bambino",
+      "explanation": "Bambino - masc род, единственное число. Согласуется с прилагательным 'bello'."
+    },
+    {
+      "question": "La ___ è grande.",
+      "options": [
+        "bambina",
+        "Il",
+        "Lo"
+      ],
+      "answer": "bambina",
+      "explanation": "Bambina - fem род, единственное число. Согласуется с прилагательным 'grande'."
+    },
+    {
+      "question": "Il ___ è debole.",
+      "options": [
+        "uomo",
+        "La",
+        "Lo"
+      ],
+      "answer": "uomo",
+      "explanation": "Uomo - masc род, единственное число. Согласуется с прилагательным 'debole'."
+    },
+    {
+      "question": "La ___ è forte.",
+      "options": [
+        "donna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "donna",
+      "explanation": "Donna - fem род, единственное число. Согласуется с прилагательным 'forte'."
+    },
+    {
+      "question": "Il ___ è basso.",
+      "options": [
+        "ragazzo",
+        "La",
+        "Lo"
+      ],
+      "answer": "ragazzo",
+      "explanation": "Ragazzo - masc род, единственное число. Согласуется с прилагательным 'basso'."
+    },
+    {
+      "question": "La ___ è bella.",
+      "options": [
+        "ragazza",
+        "Il",
+        "Lo"
+      ],
+      "answer": "ragazza",
+      "explanation": "Ragazza - fem род, единственное число. Согласуется с прилагательным 'bella'."
+    },
+    {
+      "question": "Il ___ è giovane.",
+      "options": [
+        "nonno",
+        "La",
+        "Lo"
+      ],
+      "answer": "nonno",
+      "explanation": "Nonno - masc род, единственное число. Согласуется с прилагательным 'giovane'."
+    },
+    {
+      "question": "La ___ è buona.",
+      "options": [
+        "nonna",
+        "Il",
+        "Lo"
+      ],
+      "answer": "nonna",
+      "explanation": "Nonna - fem род, единственное число. Согласуется с прилагательным 'buona'."
+    },
+    {
+      "question": "Il ___ è simpatico.",
+      "options": [
+        "madre",
+        "La",
+        "Lo"
+      ],
+      "answer": "madre",
+      "explanation": "Madre - masc род, единственное число. Согласуется с прилагательным 'simpatico'."
+    },
+    {
+      "question": "Il ___ è simpatico.",
+      "options": [
+        "padre",
+        "La",
+        "Lo"
+      ],
+      "answer": "padre",
+      "explanation": "Padre - masc род, единственное число. Согласуется с прилагательным 'simpatico'."
+    },
+    {
+      "question": "Il ___ è piccolo.",
+      "options": [
+        "fratello",
+        "La",
+        "Lo"
+      ],
+      "answer": "fratello",
+      "explanation": "Fratello - masc род, единственное число. Согласуется с прилагательным 'piccolo'."
+    },
+    {
+      "question": "La ___ è buona.",
+      "options": [
+        "sorella",
+        "Il",
+        "Lo"
+      ],
+      "answer": "sorella",
+      "explanation": "Sorella - fem род, единственное число. Согласуется с прилагательным 'buona'."
+    }
+  ]
+}
