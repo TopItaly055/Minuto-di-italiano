@@ -1,0 +1,1465 @@
+{
+  "topic_name": "Condizionale presente (B1)",
+  "exercises": [
+    {
+      "question": "Mi scusi, ___ il passaggio per Roma?",
+      "options": [
+        "potrebbe",
+        "può",
+        "poteva"
+      ],
+      "answer": "potrebbe",
+      "explanation": "Il condizionale presente 'potrebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse con questo problema?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere il conto, per favore?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere che ore sono?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi passasse il sale?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile prenotare un tavolo per due?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di prenotazione."
+    },
+    {
+      "question": "___ gradirebbe un aperitivo?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere dove si trova la stazione?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di indicazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a portare la valigia?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere il menu, per favore?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un dessert?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se c'è una farmacia qui vicino?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi prestasse la penna?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile cambiare questa camicia?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un cappuccino?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere quando parte il prossimo treno?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi spiegasse come arrivare in centro?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere la ricevuta?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un bicchiere d'acqua?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo negozio è aperto?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a trovare questo indirizzo?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile parlare con il direttore?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di colloquio."
+    },
+    {
+      "question": "___ gradirebbe un tè?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso pagare con la carta?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi prestasse il telefono?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un tavolo vicino alla finestra?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di prenotazione."
+    },
+    {
+      "question": "___ gradirebbe un digestivo?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se c'è un bancomat qui vicino?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a capire questo documento?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per questa macchina?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un succo di frutta?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo prodotto è in sconto?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi spiegasse come funziona questo apparecchio?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un preventivo per questo lavoro?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un aperitivo?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso restituire questo articolo?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a riempire questo modulo?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere informazioni sui voli per Milano?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un caffè corretto?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo ristorante accetta prenotazioni?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a tradurre questa frase?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un appuntamento per domani?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di appuntamento."
+    },
+    {
+      "question": "___ gradirebbe un gelato?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo hotel ha la connessione wifi?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a trovare un taxi?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere la chiave della camera?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un prosecco?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso lasciare qui la valigia?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi spiegasse come arrivare all'aeroporto?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione di viaggio?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un amaro?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo museo è aperto oggi?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a prenotare un tavolo?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere una mappa della città?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un limoncello?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso fumare qui?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a chiamare un taxi?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere il numero di telefono dell'hotel?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un grappa?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo negozio ha orari di apertura estesi?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a capire questo contratto?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione sanitaria?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un sambuca?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso pagare in contanti?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a prenotare un volo?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere informazioni sui trasporti pubblici?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un caffè shakerato?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo ristorante serve cibo vegetariano?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a trovare una farmacia?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere una copia di questo documento?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè macchiato?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso usare il wifi qui?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a compilare questo modulo?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per la macchina a noleggio?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè lungo?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo negozio fa consegne a domicilio?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a tradurre questo testo?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per il bagaglio?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè ristretto?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso prenotare online?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a trovare un parcheggio?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere informazioni sui biglietti per il teatro?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un caffè decaffeinato?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo hotel ha la piscina?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a prenotare una camera?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per lo smartphone?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè americano?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso portare il cane in questo ristorante?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a capire questo orario?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere informazioni sui tour della città?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un caffè con panna?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo museo ha audioguide?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a trovare un bancomat?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per il viaggio?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè corretto con grappa?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso fumare in questo locale?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a prenotare un taxi?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere informazioni sui mezzi pubblici per l'aeroporto?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un caffè con latte di soia?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo negozio accetta carte di credito?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a capire questo menu?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per il computer?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè con cannella?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso portare la borsa in questo museo?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a trovare la fermata dell'autobus?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere informazioni sui biglietti per il concerto?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un caffè con cardamomo?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo ristorante ha menu per celiaci?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a prenotare un tavolo per stasera?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per la bicicletta?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè con vaniglia?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso usare il telefono qui?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a capire questo orario dei treni?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere informazioni sui biglietti per il cinema?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un caffè con miele?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo negozio ha orari di apertura domenicali?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a trovare un ufficio postale?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per il tablet?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè con cioccolato?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso portare il laptop in questo locale?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a prenotare una camera per domani?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere informazioni sui biglietti per il teatro?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un caffè con latte di mandorla?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo ristorante ha menu per vegani?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a capire questo contratto di affitto?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per la moto?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè con latte di cocco?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso portare il passeggino in questo museo?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a trovare un supermercato?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere informazioni sui biglietti per l'opera?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un caffè con latte di avena?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo negozio ha orari di apertura notturni?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a prenotare un volo per domani?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per il drone?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè con latte di riso?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso portare il monopattino in questo parco?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a capire questo regolamento?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere informazioni sui biglietti per il balletto?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gradirebbe un caffè con latte di canapa?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se questo ristorante ha menu per intolleranti al lattosio?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a trovare un negozio di elettronica?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    },
+    {
+      "question": "___ possibile avere un'assicurazione per la barca?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di servizio."
+    },
+    {
+      "question": "___ gradirebbe un caffè con latte di kamut?",
+      "options": [
+        "Le",
+        "Ti",
+        "Vi"
+      ],
+      "answer": "Le",
+      "explanation": "Il condizionale presente con 'Le' esprime cortesia formale nell'offerta."
+    },
+    {
+      "question": "___ sapere se posso portare il skateboard in questo centro commerciale?",
+      "options": [
+        "Potrei",
+        "Posso",
+        "Potevo"
+      ],
+      "answer": "Potrei",
+      "explanation": "Il condizionale presente 'potrei' esprime cortesia nella richiesta di informazioni."
+    },
+    {
+      "question": "___ gentile se mi aiutasse a prenotare un tavolo per dopodomani?",
+      "options": [
+        "Sarebbe",
+        "È",
+        "Era"
+      ],
+      "answer": "Sarebbe",
+      "explanation": "Il condizionale presente 'sarebbe' esprime cortesia nella richiesta di aiuto."
+    }
+  ]
+}
