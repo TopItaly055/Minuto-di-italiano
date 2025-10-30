@@ -1,0 +1,1115 @@
+{
+  "topic_name": "Periodo ipotetico (B1)",
+  "exercises": [
+    {
+      "question": "Se piove, ___ a casa.",
+      "options": [
+        "rimango",
+        "rimarrei",
+        "rimarrò"
+      ],
+      "answer": "rimango",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se fa caldo, ___ la finestra.",
+      "options": [
+        "apro",
+        "aprirei",
+        "aprirò"
+      ],
+      "answer": "apro",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai fame, ___ qualcosa.",
+      "options": [
+        "mangia",
+        "mangeresti",
+        "mangerai"
+      ],
+      "answer": "mangia",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se sei stanco, ___ a riposare.",
+      "options": [
+        "vai",
+        "andresti",
+        "andrai"
+      ],
+      "answer": "vai",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se non capisci, ___ di nuovo.",
+      "options": [
+        "chiedi",
+        "chiederesti",
+        "chiederai"
+      ],
+      "answer": "chiedi",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se piove forte, ___ l'ombrello.",
+      "options": [
+        "prendo",
+        "prenderei",
+        "prenderò"
+      ],
+      "answer": "prendo",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se fa freddo, ___ la giacca.",
+      "options": [
+        "indosso",
+        "indosserei",
+        "indosserò"
+      ],
+      "answer": "indosso",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai tempo, ___ con me.",
+      "options": [
+        "vieni",
+        "verresti",
+        "verrai"
+      ],
+      "answer": "vieni",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se non capisci, ___ di nuovo.",
+      "options": [
+        "ripeti",
+        "ripeteresti",
+        "ripeterai"
+      ],
+      "answer": "ripeti",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se sei in ritardo, ___ più veloce.",
+      "options": [
+        "cammina",
+        "cammineresti",
+        "camminerai"
+      ],
+      "answer": "cammina",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se fa buio, ___ la luce.",
+      "options": [
+        "accendo",
+        "accenderei",
+        "accenderò"
+      ],
+      "answer": "accendo",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai sete, ___ dell'acqua.",
+      "options": [
+        "bevi",
+        "berresti",
+        "berrai"
+      ],
+      "answer": "bevi",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se sei malato, ___ il medico.",
+      "options": [
+        "chiama",
+        "chiameresti",
+        "chiamerai"
+      ],
+      "answer": "chiama",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se non funziona, ___ di nuovo.",
+      "options": [
+        "prova",
+        "proveresti",
+        "proverai"
+      ],
+      "answer": "prova",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se hai problemi, ___ aiuto.",
+      "options": [
+        "chiedi",
+        "chiederesti",
+        "chiederai"
+      ],
+      "answer": "chiedi",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se fa rumore, ___ la porta.",
+      "options": [
+        "chiudo",
+        "chiuderei",
+        "chiuderò"
+      ],
+      "answer": "chiudo",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai domande, ___ pure.",
+      "options": [
+        "chiedi",
+        "chiederesti",
+        "chiederai"
+      ],
+      "answer": "chiedi",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se non capisci, ___ spiegazioni.",
+      "options": [
+        "chiedi",
+        "chiederesti",
+        "chiederai"
+      ],
+      "answer": "chiedi",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se hai bisogno, ___ me.",
+      "options": [
+        "chiama",
+        "chiameresti",
+        "chiamerai"
+      ],
+      "answer": "chiama",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se sei in difficoltà, ___ aiuto.",
+      "options": [
+        "chiedi",
+        "chiederesti",
+        "chiederai"
+      ],
+      "answer": "chiedi",
+      "explanation": "Primo tipo di periodo ipotetico: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se avessi tempo, ___ al cinema.",
+      "options": [
+        "andrei",
+        "vado",
+        "andrò"
+      ],
+      "answer": "andrei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se fossi ricco, ___ una villa.",
+      "options": [
+        "comprerei",
+        "compro",
+        "comprerò"
+      ],
+      "answer": "comprerei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione irrealistica."
+    },
+    {
+      "question": "Se avessi studiato, ___ l'esame.",
+      "options": [
+        "passerei",
+        "passo",
+        "passerò"
+      ],
+      "answer": "passerei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se fossi in te, ___ più attento.",
+      "options": [
+        "sarei",
+        "sono",
+        "sarò"
+      ],
+      "answer": "sarei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime un consiglio ipotetico."
+    },
+    {
+      "question": "Se avessi i soldi, ___ questa macchina.",
+      "options": [
+        "comprerei",
+        "compro",
+        "comprerò"
+      ],
+      "answer": "comprerei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione irrealistica."
+    },
+    {
+      "question": "Se fossi più giovane, ___ viaggiare.",
+      "options": [
+        "vorrei",
+        "voglio",
+        "vorrò"
+      ],
+      "answer": "vorrei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se avessi tempo, ___ più spesso.",
+      "options": [
+        "telefonerei",
+        "telefono",
+        "telefonerò"
+      ],
+      "answer": "telefonerei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se fossi più alto, ___ giocare a basket.",
+      "options": [
+        "potrei",
+        "posso",
+        "potrò"
+      ],
+      "answer": "potrei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se avessi una macchina, ___ in vacanza.",
+      "options": [
+        "andrei",
+        "vado",
+        "andrò"
+      ],
+      "answer": "andrei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se fossi più bravo, ___ questo lavoro.",
+      "options": [
+        "farei",
+        "faccio",
+        "farò"
+      ],
+      "answer": "farei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se avessi più tempo, ___ meglio.",
+      "options": [
+        "studierei",
+        "studio",
+        "studierò"
+      ],
+      "answer": "studierei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se fossi più coraggioso, ___ questo.",
+      "options": [
+        "farei",
+        "faccio",
+        "farò"
+      ],
+      "answer": "farei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se avessi l'occasione, ___ questo viaggio.",
+      "options": [
+        "farei",
+        "faccio",
+        "farò"
+      ],
+      "answer": "farei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se fossi più intelligente, ___ questo problema.",
+      "options": [
+        "risolverei",
+        "risolvo",
+        "risolverò"
+      ],
+      "answer": "risolverei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se avessi la possibilità, ___ all'estero.",
+      "options": [
+        "andrei",
+        "vado",
+        "andrò"
+      ],
+      "answer": "andrei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se fossi più forte, ___ questo peso.",
+      "options": [
+        "solleverei",
+        "sollevo",
+        "solleverò"
+      ],
+      "answer": "solleverei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se avessi più soldi, ___ questa casa.",
+      "options": [
+        "comprerei",
+        "compro",
+        "comprerò"
+      ],
+      "answer": "comprerei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se fossi più veloce, ___ vincere.",
+      "options": [
+        "potrei",
+        "posso",
+        "potrò"
+      ],
+      "answer": "potrei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se avessi più tempo, ___ questo libro.",
+      "options": [
+        "leggerei",
+        "leggo",
+        "leggerò"
+      ],
+      "answer": "leggerei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se fossi più paziente, ___ aspettare.",
+      "options": [
+        "potrei",
+        "posso",
+        "potrò"
+      ],
+      "answer": "potrei",
+      "explanation": "Secondo tipo di periodo ipotetico: Se + imperfetto congiuntivo, condizionale presente. Esprime una condizione ipotetica."
+    },
+    {
+      "question": "Se avessi studiato, ___ l'esame.",
+      "options": [
+        "avrei passato",
+        "passo",
+        "passerò"
+      ],
+      "answer": "avrei passato",
+      "explanation": "Terzo tipo di periodo ipotetico: Se + trapassato congiuntivo, condizionale passato. Esprime una condizione irrealistica del passato."
+    },
+    {
+      "question": "Se fossi venuto, ___ divertito.",
+      "options": [
+        "mi sarei",
+        "sono",
+        "sarò"
+      ],
+      "answer": "mi sarei",
+      "explanation": "Terzo tipo di periodo ipotetico: Se + trapassato congiuntivo, condizionale passato. Esprime una condizione irrealistica del passato."
+    },
+    {
+      "question": "Se avessi saputo, ___ diversamente.",
+      "options": [
+        "avrei fatto",
+        "faccio",
+        "farò"
+      ],
+      "answer": "avrei fatto",
+      "explanation": "Terzo tipo di periodo ipotetico: Se + trapassato congiuntivo, condizionale passato. Esprime una condizione irrealistica del passato."
+    },
+    {
+      "question": "Se fossi partito prima, ___ in tempo.",
+      "options": [
+        "sarei arrivato",
+        "arrivo",
+        "arriverò"
+      ],
+      "answer": "sarei arrivato",
+      "explanation": "Terzo tipo di periodo ipotetico: Se + trapassato congiuntivo, condizionale passato. Esprime una condizione irrealistica del passato."
+    },
+    {
+      "question": "Se avessi chiamato, ___ risposto.",
+      "options": [
+        "avrei",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avrei",
+      "explanation": "Terzo tipo di periodo ipotetico: Se + trapassato congiuntivo, condizionale passato. Esprime una condizione irrealistica del passato."
+    },
+    {
+      "question": "Se fossi rimasto, ___ tutto.",
+      "options": [
+        "avrei visto",
+        "vedo",
+        "vedrò"
+      ],
+      "answer": "avrei visto",
+      "explanation": "Terzo tipo di periodo ipotetico: Se + trapassato congiuntivo, condizionale passato. Esprime una condizione irrealistica del passato."
+    },
+    {
+      "question": "Se avessi capito, ___ spiegato.",
+      "options": [
+        "avrei",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avrei",
+      "explanation": "Terzo tipo di periodo ipotetico: Se + trapassato congiuntivo, condizionale passato. Esprime una condizione irrealistica del passato."
+    },
+    {
+      "question": "Se fossi andato, ___ cambiato.",
+      "options": [
+        "sarebbe",
+        "è",
+        "sarà"
+      ],
+      "answer": "sarebbe",
+      "explanation": "Terzo tipo di periodo ipotetico: Se + trapassato congiuntivo, condizionale passato. Esprime una condizione irrealistica del passato."
+    },
+    {
+      "question": "Se avessi fatto, ___ successo.",
+      "options": [
+        "sarebbe",
+        "è",
+        "sarà"
+      ],
+      "answer": "sarebbe",
+      "explanation": "Terzo tipo di periodo ipotetico: Se + trapassato congiuntivo, condizionale passato. Esprime una condizione irrealistica del passato."
+    },
+    {
+      "question": "Se fossi stato qui, ___ aiutato.",
+      "options": [
+        "avrei",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avrei",
+      "explanation": "Terzo tipo di periodo ipotetico: Se + trapassato congiuntivo, condizionale passato. Esprime una condizione irrealistica del passato."
+    },
+    {
+      "question": "Se domani piove, ___ l'ombrello.",
+      "options": [
+        "prenderò",
+        "prenderei",
+        "prendo"
+      ],
+      "answer": "prenderò",
+      "explanation": "Primo tipo: Se + presente indicativo, futuro semplice. Esprime una condizione reale futura."
+    },
+    {
+      "question": "Se hai tempo stasera, ___ al cinema.",
+      "options": [
+        "andremo",
+        "andremmo",
+        "andiamo"
+      ],
+      "answer": "andremo",
+      "explanation": "Primo tipo: Se + presente indicativo, futuro semplice. Esprime una condizione reale futura."
+    },
+    {
+      "question": "Se non capisci, ___ di nuovo.",
+      "options": [
+        "ripeti",
+        "ripeteresti",
+        "ripeterai"
+      ],
+      "answer": "ripeti",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se sei stanco, ___ a riposare.",
+      "options": [
+        "vai",
+        "andresti",
+        "andrai"
+      ],
+      "answer": "vai",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se fa freddo, ___ la giacca.",
+      "options": [
+        "indosso",
+        "indosserei",
+        "indosserò"
+      ],
+      "answer": "indosso",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai fame, ___ qualcosa.",
+      "options": [
+        "mangia",
+        "mangeresti",
+        "mangerai"
+      ],
+      "answer": "mangia",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se piove forte, ___ l'ombrello.",
+      "options": [
+        "prendo",
+        "prenderei",
+        "prenderò"
+      ],
+      "answer": "prendo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai sete, ___ dell'acqua.",
+      "options": [
+        "bevi",
+        "berresti",
+        "berrai"
+      ],
+      "answer": "bevi",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se sei malato, ___ il medico.",
+      "options": [
+        "chiama",
+        "chiameresti",
+        "chiamerai"
+      ],
+      "answer": "chiama",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se non funziona, ___ di nuovo.",
+      "options": [
+        "prova",
+        "proveresti",
+        "proverai"
+      ],
+      "answer": "prova",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se hai problemi, ___ aiuto.",
+      "options": [
+        "chiedi",
+        "chiederesti",
+        "chiederai"
+      ],
+      "answer": "chiedi",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se fa rumore, ___ la porta.",
+      "options": [
+        "chiudo",
+        "chiuderei",
+        "chiuderò"
+      ],
+      "answer": "chiudo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai domande, ___ pure.",
+      "options": [
+        "chiedi",
+        "chiederesti",
+        "chiederai"
+      ],
+      "answer": "chiedi",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se non capisci, ___ spiegazioni.",
+      "options": [
+        "chiedi",
+        "chiederesti",
+        "chiederai"
+      ],
+      "answer": "chiedi",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se hai bisogno, ___ me.",
+      "options": [
+        "chiama",
+        "chiameresti",
+        "chiamerai"
+      ],
+      "answer": "chiama",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se sei in difficoltà, ___ aiuto.",
+      "options": [
+        "chiedi",
+        "chiederesti",
+        "chiederai"
+      ],
+      "answer": "chiedi",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se fa buio, ___ la luce.",
+      "options": [
+        "accendo",
+        "accenderei",
+        "accenderò"
+      ],
+      "answer": "accendo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai tempo, ___ con me.",
+      "options": [
+        "vieni",
+        "verresti",
+        "verrai"
+      ],
+      "answer": "vieni",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se sei in ritardo, ___ più veloce.",
+      "options": [
+        "cammina",
+        "cammineresti",
+        "camminerai"
+      ],
+      "answer": "cammina",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se non capisci, ___ di nuovo.",
+      "options": [
+        "ripeti",
+        "ripeteresti",
+        "ripeterai"
+      ],
+      "answer": "ripeti",
+      "explanation": "Primo tipo: Se + presente indicativo, imperativo. Esprime una condizione reale con comando."
+    },
+    {
+      "question": "Se domani fa bel tempo, ___ una passeggiata.",
+      "options": [
+        "faremo",
+        "faremmo",
+        "facciamo"
+      ],
+      "answer": "faremo",
+      "explanation": "Primo tipo: Se + presente indicativo, futuro semplice. Esprime una condizione reale futura."
+    },
+    {
+      "question": "Se hai voglia, ___ insieme.",
+      "options": [
+        "studiamo",
+        "studieremmo",
+        "studieremo"
+      ],
+      "answer": "studiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei libero, ___ al telefono.",
+      "options": [
+        "parliamo",
+        "parleremmo",
+        "parleremo"
+      ],
+      "answer": "parliamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai fame, ___ qualcosa da mangiare.",
+      "options": [
+        "prepariamo",
+        "prepareremmo",
+        "prepareremo"
+      ],
+      "answer": "prepariamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se fa caldo, ___ la finestra.",
+      "options": [
+        "apriamo",
+        "apriremmo",
+        "apriremo"
+      ],
+      "answer": "apriamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai tempo, ___ un caffè.",
+      "options": [
+        "prendiamo",
+        "prenderemmo",
+        "prenderemo"
+      ],
+      "answer": "prendiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei stanco, ___ a casa.",
+      "options": [
+        "torniamo",
+        "tornerebbero",
+        "torniamo"
+      ],
+      "answer": "torniamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se piove, ___ dentro.",
+      "options": [
+        "restiamo",
+        "resteremmo",
+        "resteremo"
+      ],
+      "answer": "restiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai voglia, ___ un film.",
+      "options": [
+        "guardiamo",
+        "guarderemmo",
+        "guarderemo"
+      ],
+      "answer": "guardiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei libero, ___ insieme.",
+      "options": [
+        "ceniamo",
+        "ceneremmo",
+        "ceneremo"
+      ],
+      "answer": "ceniamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai tempo, ___ la lezione.",
+      "options": [
+        "ripetiamo",
+        "ripeteremmo",
+        "ripeteremo"
+      ],
+      "answer": "ripetiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se domani fa bel tempo, ___ al mare.",
+      "options": [
+        "andremo",
+        "andremmo",
+        "andiamo"
+      ],
+      "answer": "andremo",
+      "explanation": "Primo tipo: Se + presente indicativo, futuro semplice. Esprime una condizione reale futura."
+    },
+    {
+      "question": "Se hai voglia, ___ una pizza.",
+      "options": [
+        "ordiniamo",
+        "ordineremmo",
+        "ordineremo"
+      ],
+      "answer": "ordiniamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei stanco, ___ presto.",
+      "options": [
+        "dormiamo",
+        "dormiremmo",
+        "dormiremo"
+      ],
+      "answer": "dormiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai tempo, ___ un libro.",
+      "options": [
+        "leggiamo",
+        "leggeremmo",
+        "leggeremo"
+      ],
+      "answer": "leggiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se fa freddo, ___ il riscaldamento.",
+      "options": [
+        "accendiamo",
+        "accenderemmo",
+        "accenderemo"
+      ],
+      "answer": "accendiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai fame, ___ qualcosa.",
+      "options": [
+        "mangiamo",
+        "mangeremmo",
+        "mangeremo"
+      ],
+      "answer": "mangiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei libero, ___ una passeggiata.",
+      "options": [
+        "facciamo",
+        "faremmo",
+        "faremo"
+      ],
+      "answer": "facciamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai tempo, ___ insieme.",
+      "options": [
+        "lavoriamo",
+        "lavoreremmo",
+        "lavoreremo"
+      ],
+      "answer": "lavoriamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se domani piove, ___ a casa.",
+      "options": [
+        "rimaniamo",
+        "rimaneremmo",
+        "rimaneremo"
+      ],
+      "answer": "rimaniamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai voglia, ___ un gioco.",
+      "options": [
+        "giochiamo",
+        "giocheremmo",
+        "giocheremo"
+      ],
+      "answer": "giochiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei stanco, ___ una pausa.",
+      "options": [
+        "facciamo",
+        "faremmo",
+        "faremo"
+      ],
+      "answer": "facciamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai tempo, ___ la musica.",
+      "options": [
+        "ascoltiamo",
+        "ascolteremmo",
+        "ascolteremo"
+      ],
+      "answer": "ascoltiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se fa caldo, ___ il ventilatore.",
+      "options": [
+        "accendiamo",
+        "accenderemmo",
+        "accenderemo"
+      ],
+      "answer": "accendiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai sete, ___ qualcosa.",
+      "options": [
+        "beviamo",
+        "berremmo",
+        "berremo"
+      ],
+      "answer": "beviamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei libero, ___ un caffè.",
+      "options": [
+        "prendiamo",
+        "prenderemmo",
+        "prenderemo"
+      ],
+      "answer": "prendiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se domani fa bel tempo, ___ in giardino.",
+      "options": [
+        "stiamo",
+        "staremmo",
+        "staremo"
+      ],
+      "answer": "stiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai voglia, ___ una storia.",
+      "options": [
+        "raccontiamo",
+        "racconteremmo",
+        "racconteremo"
+      ],
+      "answer": "raccontiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei stanco, ___ a letto.",
+      "options": [
+        "andiamo",
+        "andremmo",
+        "andremo"
+      ],
+      "answer": "andiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai tempo, ___ la lezione.",
+      "options": [
+        "ripassiamo",
+        "ripasseremmo",
+        "ripasseremo"
+      ],
+      "answer": "ripassiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se fa freddo, ___ la porta.",
+      "options": [
+        "chiudiamo",
+        "chiuderemmo",
+        "chiuderemo"
+      ],
+      "answer": "chiudiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai fame, ___ qualcosa.",
+      "options": [
+        "cuciniamo",
+        "cucineremmo",
+        "cucineremo"
+      ],
+      "answer": "cuciniamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei libero, ___ un film.",
+      "options": [
+        "vediamo",
+        "vedremmo",
+        "vedremo"
+      ],
+      "answer": "vediamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se domani piove, ___ dentro.",
+      "options": [
+        "restiamo",
+        "resteremmo",
+        "resteremo"
+      ],
+      "answer": "restiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai voglia, ___ una canzone.",
+      "options": [
+        "cantiamo",
+        "canteremmo",
+        "canteremo"
+      ],
+      "answer": "cantiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei stanco, ___ una pausa.",
+      "options": [
+        "facciamo",
+        "faremmo",
+        "faremo"
+      ],
+      "answer": "facciamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai tempo, ___ la lezione.",
+      "options": [
+        "studiamo",
+        "studieremmo",
+        "studieremo"
+      ],
+      "answer": "studiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se fa caldo, ___ il condizionatore.",
+      "options": [
+        "accendiamo",
+        "accenderemmo",
+        "accenderemo"
+      ],
+      "answer": "accendiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se hai sete, ___ qualcosa.",
+      "options": [
+        "beviamo",
+        "berremmo",
+        "berremo"
+      ],
+      "answer": "beviamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se sei libero, ___ un gioco.",
+      "options": [
+        "giochiamo",
+        "giocheremmo",
+        "giocheremo"
+      ],
+      "answer": "giochiamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    },
+    {
+      "question": "Se domani fa bel tempo, ___ una gita.",
+      "options": [
+        "facciamo",
+        "faremmo",
+        "faremo"
+      ],
+      "answer": "facciamo",
+      "explanation": "Primo tipo: Se + presente indicativo, presente indicativo. Esprime una condizione reale."
+    }
+  ]
+}
