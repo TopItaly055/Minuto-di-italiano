@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Discorso indiretto (B1)",
+  "exercises": [
+    {
+      "question": "Marco dice: \"Studio italiano\". Marco dice ___ italiano.",
+      "options": [
+        "che studia",
+        "che studiava",
+        "che studierà"
+      ],
+      "answer": "che studia",
+      "explanation": "Esercizio 1: La forma corretta è 'che studia'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Lavoro in banca\". Maria dice ___ in banca.",
+      "options": [
+        "che lavora",
+        "che lavorava",
+        "che lavorerà"
+      ],
+      "answer": "che lavora",
+      "explanation": "Esercizio 2: La forma corretta è 'che lavora'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Vivo a Roma\". Luca dice ___ a Roma.",
+      "options": [
+        "che vive",
+        "che viveva",
+        "che vivrà"
+      ],
+      "answer": "che vive",
+      "explanation": "Esercizio 3: La forma corretta è 'che vive'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Parlo francese\". Anna dice ___ francese.",
+      "options": [
+        "che parla",
+        "che parlava",
+        "che parlerà"
+      ],
+      "answer": "che parla",
+      "explanation": "Esercizio 4: La forma corretta è 'che parla'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Guido una macchina\". Giovanni dice ___ una macchina.",
+      "options": [
+        "che guida",
+        "che guidava",
+        "che guiderà"
+      ],
+      "answer": "che guida",
+      "explanation": "Esercizio 5: La forma corretta è 'che guida'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Vedo un film\". Marco dice ___ un film.",
+      "options": [
+        "che vede",
+        "che vedeva",
+        "che vedrà"
+      ],
+      "answer": "che vede",
+      "explanation": "Esercizio 6: La forma corretta è 'che vede'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Sento la musica\". Maria dice ___ la musica.",
+      "options": [
+        "che sente",
+        "che sentiva",
+        "che sentirà"
+      ],
+      "answer": "che sente",
+      "explanation": "Esercizio 7: La forma corretta è 'che sente'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Leggo un libro\". Luca dice ___ un libro.",
+      "options": [
+        "che legge",
+        "che leggeva",
+        "che leggerà"
+      ],
+      "answer": "che legge",
+      "explanation": "Esercizio 8: La forma corretta è 'che legge'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Scrivo una lettera\". Anna dice ___ una lettera.",
+      "options": [
+        "che scrive",
+        "che scriveva",
+        "che scriverà"
+      ],
+      "answer": "che scrive",
+      "explanation": "Esercizio 9: La forma corretta è 'che scrive'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Mangio la pizza\". Giovanni dice ___ la pizza.",
+      "options": [
+        "che mangia",
+        "che mangiava",
+        "che mangerà"
+      ],
+      "answer": "che mangia",
+      "explanation": "Esercizio 10: La forma corretta è 'che mangia'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Vado al cinema\". Marco dice ___ al cinema.",
+      "options": [
+        "che va",
+        "che andava",
+        "che andrà"
+      ],
+      "answer": "che va",
+      "explanation": "Esercizio 11: La forma corretta è 'che va'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Vengo da te\". Maria dice ___ da te.",
+      "options": [
+        "che viene",
+        "che veniva",
+        "che verrà"
+      ],
+      "answer": "che viene",
+      "explanation": "Esercizio 12: La forma corretta è 'che viene'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Esco di casa\". Luca dice ___ di casa.",
+      "options": [
+        "che esce",
+        "che usciva",
+        "che uscirà"
+      ],
+      "answer": "che esce",
+      "explanation": "Esercizio 13: La forma corretta è 'che esce'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Entro in ufficio\". Anna dice ___ in ufficio.",
+      "options": [
+        "che entra",
+        "che entrava",
+        "che entrerà"
+      ],
+      "answer": "che entra",
+      "explanation": "Esercizio 14: La forma corretta è 'che entra'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Torno a casa\". Giovanni dice ___ a casa.",
+      "options": [
+        "che torna",
+        "che tornava",
+        "che tornerà"
+      ],
+      "answer": "che torna",
+      "explanation": "Esercizio 15: La forma corretta è 'che torna'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Ho studiato italiano\". Marco dice ___ italiano.",
+      "options": [
+        "che aveva studiato",
+        "che ha studiato",
+        "che studierà"
+      ],
+      "answer": "che aveva studiato",
+      "explanation": "Esercizio 16: La forma corretta è 'che aveva studiato'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Ho lavorato in banca\". Maria dice ___ in banca.",
+      "options": [
+        "che aveva lavorato",
+        "che ha lavorato",
+        "che lavorerà"
+      ],
+      "answer": "che aveva lavorato",
+      "explanation": "Esercizio 17: La forma corretta è 'che aveva lavorato'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Ho vissuto a Roma\". Luca dice ___ a Roma.",
+      "options": [
+        "che aveva vissuto",
+        "che ha vissuto",
+        "che vivrà"
+      ],
+      "answer": "che aveva vissuto",
+      "explanation": "Esercizio 18: La forma corretta è 'che aveva vissuto'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Ho parlato francese\". Anna dice ___ francese.",
+      "options": [
+        "che aveva parlato",
+        "che ha parlato",
+        "che parlerà"
+      ],
+      "answer": "che aveva parlato",
+      "explanation": "Esercizio 19: La forma corretta è 'che aveva parlato'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Ho guidato una macchina\". Giovanni dice ___ una macchina.",
+      "options": [
+        "che aveva guidato",
+        "che ha guidato",
+        "che guiderà"
+      ],
+      "answer": "che aveva guidato",
+      "explanation": "Esercizio 20: La forma corretta è 'che aveva guidato'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Ho visto un film\". Marco dice ___ un film.",
+      "options": [
+        "che aveva visto",
+        "che ha visto",
+        "che vedrà"
+      ],
+      "answer": "che aveva visto",
+      "explanation": "Esercizio 21: La forma corretta è 'che aveva visto'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Ho sentito la musica\". Maria dice ___ la musica.",
+      "options": [
+        "che aveva sentito",
+        "che ha sentito",
+        "che sentirà"
+      ],
+      "answer": "che aveva sentito",
+      "explanation": "Esercizio 22: La forma corretta è 'che aveva sentito'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Ho letto un libro\". Luca dice ___ un libro.",
+      "options": [
+        "che aveva letto",
+        "che ha letto",
+        "che leggerà"
+      ],
+      "answer": "che aveva letto",
+      "explanation": "Esercizio 23: La forma corretta è 'che aveva letto'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Ho scritto una lettera\". Anna dice ___ una lettera.",
+      "options": [
+        "che aveva scritto",
+        "che ha scritto",
+        "che scriverà"
+      ],
+      "answer": "che aveva scritto",
+      "explanation": "Esercizio 24: La forma corretta è 'che aveva scritto'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Ho mangiato la pizza\". Giovanni dice ___ la pizza.",
+      "options": [
+        "che aveva mangiato",
+        "che ha mangiato",
+        "che mangerà"
+      ],
+      "answer": "che aveva mangiato",
+      "explanation": "Esercizio 25: La forma corretta è 'che aveva mangiato'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Sono andato al cinema\". Marco dice ___ al cinema.",
+      "options": [
+        "che era andato",
+        "che è andato",
+        "che andrà"
+      ],
+      "answer": "che era andato",
+      "explanation": "Esercizio 26: La forma corretta è 'che era andato'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Sono venuta da te\". Maria dice ___ da te.",
+      "options": [
+        "che era venuta",
+        "che è venuta",
+        "che verrà"
+      ],
+      "answer": "che era venuta",
+      "explanation": "Esercizio 27: La forma corretta è 'che era venuta'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Sono uscito di casa\". Luca dice ___ di casa.",
+      "options": [
+        "che era uscito",
+        "che è uscito",
+        "che uscirà"
+      ],
+      "answer": "che era uscito",
+      "explanation": "Esercizio 28: La forma corretta è 'che era uscito'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Sono entrata in ufficio\". Anna dice ___ in ufficio.",
+      "options": [
+        "che era entrata",
+        "che è entrata",
+        "che entrerà"
+      ],
+      "answer": "che era entrata",
+      "explanation": "Esercizio 29: La forma corretta è 'che era entrata'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Sono tornato a casa\". Giovanni dice ___ a casa.",
+      "options": [
+        "che era tornato",
+        "che è tornato",
+        "che tornerà"
+      ],
+      "answer": "che era tornato",
+      "explanation": "Esercizio 30: La forma corretta è 'che era tornato'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Studierò italiano\". Marco dice ___ italiano.",
+      "options": [
+        "che studierà",
+        "che studiava",
+        "che studierebbe"
+      ],
+      "answer": "che studierà",
+      "explanation": "Esercizio 31: La forma corretta è 'che studierà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Lavorerò in banca\". Maria dice ___ in banca.",
+      "options": [
+        "che lavorerà",
+        "che lavorava",
+        "che lavorerebbe"
+      ],
+      "answer": "che lavorerà",
+      "explanation": "Esercizio 32: La forma corretta è 'che lavorerà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Vivrò a Roma\". Luca dice ___ a Roma.",
+      "options": [
+        "che vivrà",
+        "che viveva",
+        "che vivrebbe"
+      ],
+      "answer": "che vivrà",
+      "explanation": "Esercizio 33: La forma corretta è 'che vivrà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Parlerò francese\". Anna dice ___ francese.",
+      "options": [
+        "che parlerà",
+        "che parlava",
+        "che parlerebbe"
+      ],
+      "answer": "che parlerà",
+      "explanation": "Esercizio 34: La forma corretta è 'che parlerà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Guiderò una macchina\". Giovanni dice ___ una macchina.",
+      "options": [
+        "che guiderà",
+        "che guidava",
+        "che guiderebbe"
+      ],
+      "answer": "che guiderà",
+      "explanation": "Esercizio 35: La forma corretta è 'che guiderà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Vedrò un film\". Marco dice ___ un film.",
+      "options": [
+        "che vedrà",
+        "che vedeva",
+        "che vedrebbe"
+      ],
+      "answer": "che vedrà",
+      "explanation": "Esercizio 36: La forma corretta è 'che vedrà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Senterò la musica\". Maria dice ___ la musica.",
+      "options": [
+        "che sentirà",
+        "che sentiva",
+        "che sentirebbe"
+      ],
+      "answer": "che sentirà",
+      "explanation": "Esercizio 37: La forma corretta è 'che sentirà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Leggerò un libro\". Luca dice ___ un libro.",
+      "options": [
+        "che leggerà",
+        "che leggeva",
+        "che leggerebbe"
+      ],
+      "answer": "che leggerà",
+      "explanation": "Esercizio 38: La forma corretta è 'che leggerà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Scriverò una lettera\". Anna dice ___ una lettera.",
+      "options": [
+        "che scriverà",
+        "che scriveva",
+        "che scriverebbe"
+      ],
+      "answer": "che scriverà",
+      "explanation": "Esercizio 39: La forma corretta è 'che scriverà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Mangerò la pizza\". Giovanni dice ___ la pizza.",
+      "options": [
+        "che mangerà",
+        "che mangiava",
+        "che mangerebbe"
+      ],
+      "answer": "che mangerà",
+      "explanation": "Esercizio 40: La forma corretta è 'che mangerà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Andrò al cinema\". Marco dice ___ al cinema.",
+      "options": [
+        "che andrà",
+        "che andava",
+        "che andrebbe"
+      ],
+      "answer": "che andrà",
+      "explanation": "Esercizio 41: La forma corretta è 'che andrà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Verrò da te\". Maria dice ___ da te.",
+      "options": [
+        "che verrà",
+        "che veniva",
+        "che verrebbe"
+      ],
+      "answer": "che verrà",
+      "explanation": "Esercizio 42: La forma corretta è 'che verrà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Uscirò di casa\". Luca dice ___ di casa.",
+      "options": [
+        "che uscirà",
+        "che usciva",
+        "che uscirebbe"
+      ],
+      "answer": "che uscirà",
+      "explanation": "Esercizio 43: La forma corretta è 'che uscirà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Entrerò in ufficio\". Anna dice ___ in ufficio.",
+      "options": [
+        "che entrerà",
+        "che entrava",
+        "che entrerebbe"
+      ],
+      "answer": "che entrerà",
+      "explanation": "Esercizio 44: La forma corretta è 'che entrerà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Tornerò a casa\". Giovanni dice ___ a casa.",
+      "options": [
+        "che tornerà",
+        "che tornava",
+        "che tornerebbe"
+      ],
+      "answer": "che tornerà",
+      "explanation": "Esercizio 45: La forma corretta è 'che tornerà'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Studiavo italiano\". Marco dice ___ italiano.",
+      "options": [
+        "che studiava",
+        "che aveva studiato",
+        "che studierà"
+      ],
+      "answer": "che studiava",
+      "explanation": "Esercizio 46: La forma corretta è 'che studiava'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Lavoravo in banca\". Maria dice ___ in banca.",
+      "options": [
+        "che lavorava",
+        "che aveva lavorato",
+        "che lavorerà"
+      ],
+      "answer": "che lavorava",
+      "explanation": "Esercizio 47: La forma corretta è 'che lavorava'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Vivevo a Roma\". Luca dice ___ a Roma.",
+      "options": [
+        "che viveva",
+        "che aveva vissuto",
+        "che vivrà"
+      ],
+      "answer": "che viveva",
+      "explanation": "Esercizio 48: La forma corretta è 'che viveva'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Parlavo francese\". Anna dice ___ francese.",
+      "options": [
+        "che parlava",
+        "che aveva parlato",
+        "che parlerà"
+      ],
+      "answer": "che parlava",
+      "explanation": "Esercizio 49: La forma corretta è 'che parlava'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Guidavo una macchina\". Giovanni dice ___ una macchina.",
+      "options": [
+        "che guidava",
+        "che aveva guidato",
+        "che guiderà"
+      ],
+      "answer": "che guidava",
+      "explanation": "Esercizio 50: La forma corretta è 'che guidava'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Vedevo un film\". Marco dice ___ un film.",
+      "options": [
+        "che vedeva",
+        "che aveva visto",
+        "che vedrà"
+      ],
+      "answer": "che vedeva",
+      "explanation": "Esercizio 51: La forma corretta è 'che vedeva'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Sentivo la musica\". Maria dice ___ la musica.",
+      "options": [
+        "che sentiva",
+        "che aveva sentito",
+        "che sentirà"
+      ],
+      "answer": "che sentiva",
+      "explanation": "Esercizio 52: La forma corretta è 'che sentiva'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Leggevo un libro\". Luca dice ___ un libro.",
+      "options": [
+        "che leggeva",
+        "che aveva letto",
+        "che leggerà"
+      ],
+      "answer": "che leggeva",
+      "explanation": "Esercizio 53: La forma corretta è 'che leggeva'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Scrivevo una lettera\". Anna dice ___ una lettera.",
+      "options": [
+        "che scriveva",
+        "che aveva scritto",
+        "che scriverà"
+      ],
+      "answer": "che scriveva",
+      "explanation": "Esercizio 54: La forma corretta è 'che scriveva'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Mangiavo la pizza\". Giovanni dice ___ la pizza.",
+      "options": [
+        "che mangiava",
+        "che aveva mangiato",
+        "che mangerà"
+      ],
+      "answer": "che mangiava",
+      "explanation": "Esercizio 55: La forma corretta è 'che mangiava'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Andavo al cinema\". Marco dice ___ al cinema.",
+      "options": [
+        "che andava",
+        "che era andato",
+        "che andrà"
+      ],
+      "answer": "che andava",
+      "explanation": "Esercizio 56: La forma corretta è 'che andava'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Venivo da te\". Maria dice ___ da te.",
+      "options": [
+        "che veniva",
+        "che era venuta",
+        "che verrà"
+      ],
+      "answer": "che veniva",
+      "explanation": "Esercizio 57: La forma corretta è 'che veniva'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Uscivo di casa\". Luca dice ___ di casa.",
+      "options": [
+        "che usciva",
+        "che era uscito",
+        "che uscirà"
+      ],
+      "answer": "che usciva",
+      "explanation": "Esercizio 58: La forma corretta è 'che usciva'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Entravo in ufficio\". Anna dice ___ in ufficio.",
+      "options": [
+        "che entrava",
+        "che era entrata",
+        "che entrerà"
+      ],
+      "answer": "che entrava",
+      "explanation": "Esercizio 59: La forma corretta è 'che entrava'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Tornavo a casa\". Giovanni dice ___ a casa.",
+      "options": [
+        "che tornava",
+        "che era tornato",
+        "che tornerà"
+      ],
+      "answer": "che tornava",
+      "explanation": "Esercizio 60: La forma corretta è 'che tornava'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Io studio italiano\". Marco dice ___ italiano.",
+      "options": [
+        "che studia",
+        "che studiava",
+        "che studierà"
+      ],
+      "answer": "che studia",
+      "explanation": "Esercizio 61: La forma corretta è 'che studia'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Io lavoro in banca\". Maria dice ___ in banca.",
+      "options": [
+        "che lavora",
+        "che lavorava",
+        "che lavorerà"
+      ],
+      "answer": "che lavora",
+      "explanation": "Esercizio 62: La forma corretta è 'che lavora'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Io vivo a Roma\". Luca dice ___ a Roma.",
+      "options": [
+        "che vive",
+        "che viveva",
+        "che vivrà"
+      ],
+      "answer": "che vive",
+      "explanation": "Esercizio 63: La forma corretta è 'che vive'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Io parlo francese\". Anna dice ___ francese.",
+      "options": [
+        "che parla",
+        "che parlava",
+        "che parlerà"
+      ],
+      "answer": "che parla",
+      "explanation": "Esercizio 64: La forma corretta è 'che parla'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Io guido una macchina\". Giovanni dice ___ una macchina.",
+      "options": [
+        "che guida",
+        "che guidava",
+        "che guiderà"
+      ],
+      "answer": "che guida",
+      "explanation": "Esercizio 65: La forma corretta è 'che guida'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Oggi studio italiano\". Marco dice ___ italiano.",
+      "options": [
+        "che studia",
+        "che studiava",
+        "che studierà"
+      ],
+      "answer": "che studia",
+      "explanation": "Esercizio 66: La forma corretta è 'che studia'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Oggi lavoro in banca\". Maria dice ___ in banca.",
+      "options": [
+        "che lavora",
+        "che lavorava",
+        "che lavorerà"
+      ],
+      "answer": "che lavora",
+      "explanation": "Esercizio 67: La forma corretta è 'che lavora'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Oggi vivo a Roma\". Luca dice ___ a Roma.",
+      "options": [
+        "che vive",
+        "che viveva",
+        "che vivrà"
+      ],
+      "answer": "che vive",
+      "explanation": "Esercizio 68: La forma corretta è 'che vive'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Oggi parlo francese\". Anna dice ___ francese.",
+      "options": [
+        "che parla",
+        "che parlava",
+        "che parlerà"
+      ],
+      "answer": "che parla",
+      "explanation": "Esercizio 69: La forma corretta è 'che parla'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Oggi guido una macchina\". Giovanni dice ___ una macchina.",
+      "options": [
+        "che guida",
+        "che guidava",
+        "che guiderà"
+      ],
+      "answer": "che guida",
+      "explanation": "Esercizio 70: La forma corretta è 'che guida'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Qui studio italiano\". Marco dice ___ italiano.",
+      "options": [
+        "che studia",
+        "che studiava",
+        "che studierà"
+      ],
+      "answer": "che studia",
+      "explanation": "Esercizio 71: La forma corretta è 'che studia'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Qui lavoro in banca\". Maria dice ___ in banca.",
+      "options": [
+        "che lavora",
+        "che lavorava",
+        "che lavorerà"
+      ],
+      "answer": "che lavora",
+      "explanation": "Esercizio 72: La forma corretta è 'che lavora'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Qui vivo a Roma\". Luca dice ___ a Roma.",
+      "options": [
+        "che vive",
+        "che viveva",
+        "che vivrà"
+      ],
+      "answer": "che vive",
+      "explanation": "Esercizio 73: La forma corretta è 'che vive'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Qui parlo francese\". Anna dice ___ francese.",
+      "options": [
+        "che parla",
+        "che parlava",
+        "che parlerà"
+      ],
+      "answer": "che parla",
+      "explanation": "Esercizio 74: La forma corretta è 'che parla'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Qui guido una macchina\". Giovanni dice ___ una macchina.",
+      "options": [
+        "che guida",
+        "che guidava",
+        "che guiderà"
+      ],
+      "answer": "che guida",
+      "explanation": "Esercizio 75: La forma corretta è 'che guida'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Ti amo\". Marco dice ___ .",
+      "options": [
+        "che mi ama",
+        "che mi amava",
+        "che mi amerà"
+      ],
+      "answer": "che mi ama",
+      "explanation": "Esercizio 76: La forma corretta è 'che mi ama'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Ti penso\". Maria dice ___ .",
+      "options": [
+        "che mi pensa",
+        "che mi pensava",
+        "che mi penserà"
+      ],
+      "answer": "che mi pensa",
+      "explanation": "Esercizio 77: La forma corretta è 'che mi pensa'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Ti aspetto\". Luca dice ___ .",
+      "options": [
+        "che mi aspetta",
+        "che mi aspettava",
+        "che mi aspetterà"
+      ],
+      "answer": "che mi aspetta",
+      "explanation": "Esercizio 78: La forma corretta è 'che mi aspetta'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Ti scrivo\". Anna dice ___ .",
+      "options": [
+        "che mi scrive",
+        "che mi scriveva",
+        "che mi scriverà"
+      ],
+      "answer": "che mi scrive",
+      "explanation": "Esercizio 79: La forma corretta è 'che mi scrive'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Ti telefono\". Giovanni dice ___ .",
+      "options": [
+        "che mi telefona",
+        "che mi telefonava",
+        "che mi telefonerà"
+      ],
+      "answer": "che mi telefona",
+      "explanation": "Esercizio 80: La forma corretta è 'che mi telefona'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Ti vedo\". Marco dice ___ .",
+      "options": [
+        "che mi vede",
+        "che mi vedeva",
+        "che mi vedrà"
+      ],
+      "answer": "che mi vede",
+      "explanation": "Esercizio 81: La forma corretta è 'che mi vede'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Ti sento\". Maria dice ___ .",
+      "options": [
+        "che mi sente",
+        "che mi sentiva",
+        "che mi sentirà"
+      ],
+      "answer": "che mi sente",
+      "explanation": "Esercizio 82: La forma corretta è 'che mi sente'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Ti ascolto\". Luca dice ___ .",
+      "options": [
+        "che mi ascolta",
+        "che mi ascoltava",
+        "che mi ascolterà"
+      ],
+      "answer": "che mi ascolta",
+      "explanation": "Esercizio 83: La forma corretta è 'che mi ascolta'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Ti guardo\". Anna dice ___ .",
+      "options": [
+        "che mi guarda",
+        "che mi guardava",
+        "che mi guarderà"
+      ],
+      "answer": "che mi guarda",
+      "explanation": "Esercizio 84: La forma corretta è 'che mi guarda'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Ti osservo\". Giovanni dice ___ .",
+      "options": [
+        "che mi osserva",
+        "che mi osservava",
+        "che mi osserverà"
+      ],
+      "answer": "che mi osserva",
+      "explanation": "Esercizio 85: La forma corretta è 'che mi osserva'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Ti vado\". Marco dice ___ .",
+      "options": [
+        "che mi va",
+        "che mi andava",
+        "che mi andrà"
+      ],
+      "answer": "che mi va",
+      "explanation": "Esercizio 86: La forma corretta è 'che mi va'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Ti vengo\". Maria dice ___ .",
+      "options": [
+        "che mi viene",
+        "che mi veniva",
+        "che mi verrà"
+      ],
+      "answer": "che mi viene",
+      "explanation": "Esercizio 87: La forma corretta è 'che mi viene'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Ti esco\". Luca dice ___ .",
+      "options": [
+        "che mi esce",
+        "che mi usciva",
+        "che mi uscirà"
+      ],
+      "answer": "che mi esce",
+      "explanation": "Esercizio 88: La forma corretta è 'che mi esce'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Ti entro\". Anna dice ___ .",
+      "options": [
+        "che mi entra",
+        "che mi entrava",
+        "che mi entrerà"
+      ],
+      "answer": "che mi entra",
+      "explanation": "Esercizio 89: La forma corretta è 'che mi entra'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Ti torno\". Giovanni dice ___ .",
+      "options": [
+        "che mi torna",
+        "che mi tornava",
+        "che mi tornerà"
+      ],
+      "answer": "che mi torna",
+      "explanation": "Esercizio 90: La forma corretta è 'che mi torna'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Ho un libro\". Marco dice ___ un libro.",
+      "options": [
+        "che ha",
+        "che aveva",
+        "che avrà"
+      ],
+      "answer": "che ha",
+      "explanation": "Esercizio 91: La forma corretta è 'che ha'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Ho una macchina\". Maria dice ___ una macchina.",
+      "options": [
+        "che ha",
+        "che aveva",
+        "che avrà"
+      ],
+      "answer": "che ha",
+      "explanation": "Esercizio 92: La forma corretta è 'che ha'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Ho una casa\". Luca dice ___ una casa.",
+      "options": [
+        "che ha",
+        "che aveva",
+        "che avrà"
+      ],
+      "answer": "che ha",
+      "explanation": "Esercizio 93: La forma corretta è 'che ha'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Ho un lavoro\". Anna dice ___ un lavoro.",
+      "options": [
+        "che ha",
+        "che aveva",
+        "che avrà"
+      ],
+      "answer": "che ha",
+      "explanation": "Esercizio 94: La forma corretta è 'che ha'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Ho un amico\". Giovanni dice ___ un amico.",
+      "options": [
+        "che ha",
+        "che aveva",
+        "che avrà"
+      ],
+      "answer": "che ha",
+      "explanation": "Esercizio 95: La forma corretta è 'che ha'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Marco dice: \"Sono felice\". Marco dice ___ felice.",
+      "options": [
+        "che è",
+        "che era",
+        "che sarà"
+      ],
+      "answer": "che è",
+      "explanation": "Esercizio 96: La forma corretta è 'che è'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Maria dice: \"Sono stanca\". Maria dice ___ stanca.",
+      "options": [
+        "che è",
+        "che era",
+        "che sarà"
+      ],
+      "answer": "che è",
+      "explanation": "Esercizio 97: La forma corretta è 'che è'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Luca dice: \"Sono malato\". Luca dice ___ malato.",
+      "options": [
+        "che è",
+        "che era",
+        "che sarà"
+      ],
+      "answer": "che è",
+      "explanation": "Esercizio 98: La forma corretta è 'che è'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Anna dice: \"Sono occupata\". Anna dice ___ occupata.",
+      "options": [
+        "che è",
+        "che era",
+        "che sarà"
+      ],
+      "answer": "che è",
+      "explanation": "Esercizio 99: La forma corretta è 'che è'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    },
+    {
+      "question": "Giovanni dice: \"Sono libero\". Giovanni dice ___ libero.",
+      "options": [
+        "che è",
+        "che era",
+        "che sarà"
+      ],
+      "answer": "che è",
+      "explanation": "Esercizio 100: La forma corretta è 'che è'. Nel discorso indiretto si cambiano i tempi e i deittici secondo le regole della concordanza."
+    }
+  ]
+}
