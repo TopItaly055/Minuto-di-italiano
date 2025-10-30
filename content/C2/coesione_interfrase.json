@@ -1,0 +1,995 @@
+{
+  "topic_name": "Coesione interfrase (C2)",
+  "exercises": [
+    {
+      "question": "Marco studia italiano. ___ è molto bravo.",
+      "options": [
+        "Lui",
+        "Egli",
+        "Esso"
+      ],
+      "answer": "Lui",
+      "explanation": "Esercizio 1: La forma corretta è 'Lui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Marco studia italiano. ___ è molto bravo.",
+      "options": [
+        "Lui",
+        "Egli",
+        "Esso"
+      ],
+      "answer": "Lui",
+      "explanation": "Esercizio 2: La forma corretta è 'Lui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Marco studia italiano. ___ è molto bravo.",
+      "options": [
+        "Lui",
+        "Egli",
+        "Esso"
+      ],
+      "answer": "Lui",
+      "explanation": "Esercizio 3: La forma corretta è 'Lui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Marco studia italiano. ___ è molto bravo.",
+      "options": [
+        "Lui",
+        "Egli",
+        "Esso"
+      ],
+      "answer": "Lui",
+      "explanation": "Esercizio 4: La forma corretta è 'Lui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Marco studia italiano. ___ è molto bravo.",
+      "options": [
+        "Lui",
+        "Egli",
+        "Esso"
+      ],
+      "answer": "Lui",
+      "explanation": "Esercizio 5: La forma corretta è 'Lui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Maria studia italiano. ___ è molto brava.",
+      "options": [
+        "Lei",
+        "Ella",
+        "Essa"
+      ],
+      "answer": "Lei",
+      "explanation": "Esercizio 6: La forma corretta è 'Lei'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Maria studia italiano. ___ è molto brava.",
+      "options": [
+        "Lei",
+        "Ella",
+        "Essa"
+      ],
+      "answer": "Lei",
+      "explanation": "Esercizio 7: La forma corretta è 'Lei'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Maria studia italiano. ___ è molto brava.",
+      "options": [
+        "Lei",
+        "Ella",
+        "Essa"
+      ],
+      "answer": "Lei",
+      "explanation": "Esercizio 8: La forma corretta è 'Lei'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Maria studia italiano. ___ è molto brava.",
+      "options": [
+        "Lei",
+        "Ella",
+        "Essa"
+      ],
+      "answer": "Lei",
+      "explanation": "Esercizio 9: La forma corretta è 'Lei'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Maria studia italiano. ___ è molto brava.",
+      "options": [
+        "Lei",
+        "Ella",
+        "Essa"
+      ],
+      "answer": "Lei",
+      "explanation": "Esercizio 10: La forma corretta è 'Lei'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato un libro. ___ libro è interessante.",
+      "options": [
+        "Questo",
+        "Quello",
+        "Quel"
+      ],
+      "answer": "Questo",
+      "explanation": "Esercizio 11: La forma corretta è 'Questo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato un libro. ___ libro è interessante.",
+      "options": [
+        "Questo",
+        "Quello",
+        "Quel"
+      ],
+      "answer": "Questo",
+      "explanation": "Esercizio 12: La forma corretta è 'Questo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato un libro. ___ libro è interessante.",
+      "options": [
+        "Questo",
+        "Quello",
+        "Quel"
+      ],
+      "answer": "Questo",
+      "explanation": "Esercizio 13: La forma corretta è 'Questo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato un libro. ___ libro è interessante.",
+      "options": [
+        "Questo",
+        "Quello",
+        "Quel"
+      ],
+      "answer": "Questo",
+      "explanation": "Esercizio 14: La forma corretta è 'Questo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato un libro. ___ libro è interessante.",
+      "options": [
+        "Questo",
+        "Quello",
+        "Quel"
+      ],
+      "answer": "Questo",
+      "explanation": "Esercizio 15: La forma corretta è 'Questo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato una penna. ___ penna è blu.",
+      "options": [
+        "Questa",
+        "Quella",
+        "Quel"
+      ],
+      "answer": "Questa",
+      "explanation": "Esercizio 16: La forma corretta è 'Questa'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato una penna. ___ penna è blu.",
+      "options": [
+        "Questa",
+        "Quella",
+        "Quel"
+      ],
+      "answer": "Questa",
+      "explanation": "Esercizio 17: La forma corretta è 'Questa'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato una penna. ___ penna è blu.",
+      "options": [
+        "Questa",
+        "Quella",
+        "Quel"
+      ],
+      "answer": "Questa",
+      "explanation": "Esercizio 18: La forma corretta è 'Questa'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato una penna. ___ penna è blu.",
+      "options": [
+        "Questa",
+        "Quella",
+        "Quel"
+      ],
+      "answer": "Questa",
+      "explanation": "Esercizio 19: La forma corretta è 'Questa'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato una penna. ___ penna è blu.",
+      "options": [
+        "Questa",
+        "Quella",
+        "Quel"
+      ],
+      "answer": "Questa",
+      "explanation": "Esercizio 20: La forma corretta è 'Questa'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono andato a Roma. ___ ho visto il Colosseo.",
+      "options": [
+        "Lì",
+        "Qui",
+        "Là"
+      ],
+      "answer": "Lì",
+      "explanation": "Esercizio 21: La forma corretta è 'Lì'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono andato a Roma. ___ ho visto il Colosseo.",
+      "options": [
+        "Lì",
+        "Qui",
+        "Là"
+      ],
+      "answer": "Lì",
+      "explanation": "Esercizio 22: La forma corretta è 'Lì'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono andato a Roma. ___ ho visto il Colosseo.",
+      "options": [
+        "Lì",
+        "Qui",
+        "Là"
+      ],
+      "answer": "Lì",
+      "explanation": "Esercizio 23: La forma corretta è 'Lì'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono andato a Roma. ___ ho visto il Colosseo.",
+      "options": [
+        "Lì",
+        "Qui",
+        "Là"
+      ],
+      "answer": "Lì",
+      "explanation": "Esercizio 24: La forma corretta è 'Lì'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono andato a Roma. ___ ho visto il Colosseo.",
+      "options": [
+        "Lì",
+        "Qui",
+        "Là"
+      ],
+      "answer": "Lì",
+      "explanation": "Esercizio 25: La forma corretta è 'Lì'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono venuto qui. ___ ho incontrato Marco.",
+      "options": [
+        "Qui",
+        "Lì",
+        "Là"
+      ],
+      "answer": "Qui",
+      "explanation": "Esercizio 26: La forma corretta è 'Qui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono venuto qui. ___ ho incontrato Marco.",
+      "options": [
+        "Qui",
+        "Lì",
+        "Là"
+      ],
+      "answer": "Qui",
+      "explanation": "Esercizio 27: La forma corretta è 'Qui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono venuto qui. ___ ho incontrato Marco.",
+      "options": [
+        "Qui",
+        "Lì",
+        "Là"
+      ],
+      "answer": "Qui",
+      "explanation": "Esercizio 28: La forma corretta è 'Qui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono venuto qui. ___ ho incontrato Marco.",
+      "options": [
+        "Qui",
+        "Lì",
+        "Là"
+      ],
+      "answer": "Qui",
+      "explanation": "Esercizio 29: La forma corretta è 'Qui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono venuto qui. ___ ho incontrato Marco.",
+      "options": [
+        "Qui",
+        "Lì",
+        "Là"
+      ],
+      "answer": "Qui",
+      "explanation": "Esercizio 30: La forma corretta è 'Qui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ studia italiano, Marco è molto bravo.",
+      "options": [
+        "Chi",
+        "Che",
+        "Cui"
+      ],
+      "answer": "Chi",
+      "explanation": "Esercizio 31: La forma corretta è 'Chi'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ studia italiano, Marco è molto bravo.",
+      "options": [
+        "Chi",
+        "Che",
+        "Cui"
+      ],
+      "answer": "Chi",
+      "explanation": "Esercizio 32: La forma corretta è 'Chi'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ studia italiano, Marco è molto bravo.",
+      "options": [
+        "Chi",
+        "Che",
+        "Cui"
+      ],
+      "answer": "Chi",
+      "explanation": "Esercizio 33: La forma corretta è 'Chi'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ studia italiano, Marco è molto bravo.",
+      "options": [
+        "Chi",
+        "Che",
+        "Cui"
+      ],
+      "answer": "Chi",
+      "explanation": "Esercizio 34: La forma corretta è 'Chi'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ studia italiano, Marco è molto bravo.",
+      "options": [
+        "Chi",
+        "Che",
+        "Cui"
+      ],
+      "answer": "Chi",
+      "explanation": "Esercizio 35: La forma corretta è 'Chi'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ studia italiano, Maria è molto brava.",
+      "options": [
+        "Chi",
+        "Che",
+        "Cui"
+      ],
+      "answer": "Chi",
+      "explanation": "Esercizio 36: La forma corretta è 'Chi'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ studia italiano, Maria è molto brava.",
+      "options": [
+        "Chi",
+        "Che",
+        "Cui"
+      ],
+      "answer": "Chi",
+      "explanation": "Esercizio 37: La forma corretta è 'Chi'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ studia italiano, Maria è molto brava.",
+      "options": [
+        "Chi",
+        "Che",
+        "Cui"
+      ],
+      "answer": "Chi",
+      "explanation": "Esercizio 38: La forma corretta è 'Chi'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ studia italiano, Maria è molto brava.",
+      "options": [
+        "Chi",
+        "Che",
+        "Cui"
+      ],
+      "answer": "Chi",
+      "explanation": "Esercizio 39: La forma corretta è 'Chi'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ studia italiano, Maria è molto brava.",
+      "options": [
+        "Chi",
+        "Che",
+        "Cui"
+      ],
+      "answer": "Chi",
+      "explanation": "Esercizio 40: La forma corretta è 'Chi'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ libro che ho comprato è interessante.",
+      "options": [
+        "Il",
+        "Un",
+        "Lo"
+      ],
+      "answer": "Il",
+      "explanation": "Esercizio 41: La forma corretta è 'Il'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ libro che ho comprato è interessante.",
+      "options": [
+        "Il",
+        "Un",
+        "Lo"
+      ],
+      "answer": "Il",
+      "explanation": "Esercizio 42: La forma corretta è 'Il'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ libro che ho comprato è interessante.",
+      "options": [
+        "Il",
+        "Un",
+        "Lo"
+      ],
+      "answer": "Il",
+      "explanation": "Esercizio 43: La forma corretta è 'Il'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ libro che ho comprato è interessante.",
+      "options": [
+        "Il",
+        "Un",
+        "Lo"
+      ],
+      "answer": "Il",
+      "explanation": "Esercizio 44: La forma corretta è 'Il'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ libro che ho comprato è interessante.",
+      "options": [
+        "Il",
+        "Un",
+        "Lo"
+      ],
+      "answer": "Il",
+      "explanation": "Esercizio 45: La forma corretta è 'Il'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ penna che ho comprato è blu.",
+      "options": [
+        "La",
+        "Una",
+        "Lo"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 46: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ penna che ho comprato è blu.",
+      "options": [
+        "La",
+        "Una",
+        "Lo"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 47: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ penna che ho comprato è blu.",
+      "options": [
+        "La",
+        "Una",
+        "Lo"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 48: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ penna che ho comprato è blu.",
+      "options": [
+        "La",
+        "Una",
+        "Lo"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 49: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ penna che ho comprato è blu.",
+      "options": [
+        "La",
+        "Una",
+        "Lo"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 50: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ sono andato a Roma, ho visto il Colosseo.",
+      "options": [
+        "Quando",
+        "Dove",
+        "Come"
+      ],
+      "answer": "Quando",
+      "explanation": "Esercizio 51: La forma corretta è 'Quando'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ sono andato a Roma, ho visto il Colosseo.",
+      "options": [
+        "Quando",
+        "Dove",
+        "Come"
+      ],
+      "answer": "Quando",
+      "explanation": "Esercizio 52: La forma corretta è 'Quando'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ sono andato a Roma, ho visto il Colosseo.",
+      "options": [
+        "Quando",
+        "Dove",
+        "Come"
+      ],
+      "answer": "Quando",
+      "explanation": "Esercizio 53: La forma corretta è 'Quando'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ sono andato a Roma, ho visto il Colosseo.",
+      "options": [
+        "Quando",
+        "Dove",
+        "Come"
+      ],
+      "answer": "Quando",
+      "explanation": "Esercizio 54: La forma corretta è 'Quando'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ sono andato a Roma, ho visto il Colosseo.",
+      "options": [
+        "Quando",
+        "Dove",
+        "Come"
+      ],
+      "answer": "Quando",
+      "explanation": "Esercizio 55: La forma corretta è 'Quando'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ sono venuto qui, ho incontrato Marco.",
+      "options": [
+        "Quando",
+        "Dove",
+        "Come"
+      ],
+      "answer": "Quando",
+      "explanation": "Esercizio 56: La forma corretta è 'Quando'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ sono venuto qui, ho incontrato Marco.",
+      "options": [
+        "Quando",
+        "Dove",
+        "Come"
+      ],
+      "answer": "Quando",
+      "explanation": "Esercizio 57: La forma corretta è 'Quando'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ sono venuto qui, ho incontrato Marco.",
+      "options": [
+        "Quando",
+        "Dove",
+        "Come"
+      ],
+      "answer": "Quando",
+      "explanation": "Esercizio 58: La forma corretta è 'Quando'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ sono venuto qui, ho incontrato Marco.",
+      "options": [
+        "Quando",
+        "Dove",
+        "Come"
+      ],
+      "answer": "Quando",
+      "explanation": "Esercizio 59: La forma corretta è 'Quando'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "___ sono venuto qui, ho incontrato Marco.",
+      "options": [
+        "Quando",
+        "Dove",
+        "Come"
+      ],
+      "answer": "Quando",
+      "explanation": "Esercizio 60: La forma corretta è 'Quando'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Marco. ___ ho salutato.",
+      "options": [
+        "Lo",
+        "Gli",
+        "Le"
+      ],
+      "answer": "Lo",
+      "explanation": "Esercizio 61: La forma corretta è 'Lo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Marco. ___ ho salutato.",
+      "options": [
+        "Lo",
+        "Gli",
+        "Le"
+      ],
+      "answer": "Lo",
+      "explanation": "Esercizio 62: La forma corretta è 'Lo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Marco. ___ ho salutato.",
+      "options": [
+        "Lo",
+        "Gli",
+        "Le"
+      ],
+      "answer": "Lo",
+      "explanation": "Esercizio 63: La forma corretta è 'Lo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Marco. ___ ho salutato.",
+      "options": [
+        "Lo",
+        "Gli",
+        "Le"
+      ],
+      "answer": "Lo",
+      "explanation": "Esercizio 64: La forma corretta è 'Lo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Marco. ___ ho salutato.",
+      "options": [
+        "Lo",
+        "Gli",
+        "Le"
+      ],
+      "answer": "Lo",
+      "explanation": "Esercizio 65: La forma corretta è 'Lo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Maria. ___ ho salutata.",
+      "options": [
+        "La",
+        "Gli",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 66: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Maria. ___ ho salutata.",
+      "options": [
+        "La",
+        "Gli",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 67: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Maria. ___ ho salutata.",
+      "options": [
+        "La",
+        "Gli",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 68: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Maria. ___ ho salutata.",
+      "options": [
+        "La",
+        "Gli",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 69: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Maria. ___ ho salutata.",
+      "options": [
+        "La",
+        "Gli",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 70: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Marco. ___ ho detto tutto.",
+      "options": [
+        "Gli",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 71: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Marco. ___ ho detto tutto.",
+      "options": [
+        "Gli",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 72: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Marco. ___ ho detto tutto.",
+      "options": [
+        "Gli",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 73: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Marco. ___ ho detto tutto.",
+      "options": [
+        "Gli",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 74: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Marco. ___ ho detto tutto.",
+      "options": [
+        "Gli",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 75: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Maria. ___ ho detto tutto.",
+      "options": [
+        "Le",
+        "Gli",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 76: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Maria. ___ ho detto tutto.",
+      "options": [
+        "Le",
+        "Gli",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 77: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Maria. ___ ho detto tutto.",
+      "options": [
+        "Le",
+        "Gli",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 78: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Maria. ___ ho detto tutto.",
+      "options": [
+        "Le",
+        "Gli",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 79: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Maria. ___ ho detto tutto.",
+      "options": [
+        "Le",
+        "Gli",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 80: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Marco. ___ l'ho dato.",
+      "options": [
+        "Gli",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 81: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Marco. ___ l'ho dato.",
+      "options": [
+        "Gli",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 82: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Marco. ___ l'ho dato.",
+      "options": [
+        "Gli",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 83: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Marco. ___ l'ho dato.",
+      "options": [
+        "Gli",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 84: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Marco. ___ l'ho dato.",
+      "options": [
+        "Gli",
+        "Le",
+        "Lo"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 85: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Maria. ___ l'ho dato.",
+      "options": [
+        "Le",
+        "Gli",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 86: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Maria. ___ l'ho dato.",
+      "options": [
+        "Le",
+        "Gli",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 87: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Maria. ___ l'ho dato.",
+      "options": [
+        "Le",
+        "Gli",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 88: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Maria. ___ l'ho dato.",
+      "options": [
+        "Le",
+        "Gli",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 89: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Maria. ___ l'ho dato.",
+      "options": [
+        "Le",
+        "Gli",
+        "Lo"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 90: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Marco studia italiano. ___ è molto bravo. ___ studia italiano, Marco è molto bravo.",
+      "options": [
+        "Lui",
+        "Chi"
+      ],
+      "answer": "Lui",
+      "explanation": "Esercizio 91: La forma corretta è 'Lui'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Maria studia italiano. ___ è molto brava. ___ studia italiano, Maria è molto brava.",
+      "options": [
+        "Lei",
+        "Chi"
+      ],
+      "answer": "Lei",
+      "explanation": "Esercizio 92: La forma corretta è 'Lei'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato un libro. ___ libro è interessante. ___ libro che ho comprato è interessante.",
+      "options": [
+        "Questo",
+        "Il"
+      ],
+      "answer": "Questo",
+      "explanation": "Esercizio 93: La forma corretta è 'Questo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho comprato una penna. ___ penna è blu. ___ penna che ho comprato è blu.",
+      "options": [
+        "Questa",
+        "La"
+      ],
+      "answer": "Questa",
+      "explanation": "Esercizio 94: La forma corretta è 'Questa'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Sono andato a Roma. ___ ho visto il Colosseo. ___ sono andato a Roma, ho visto il Colosseo.",
+      "options": [
+        "Lì",
+        "Quando"
+      ],
+      "answer": "Lì",
+      "explanation": "Esercizio 95: La forma corretta è 'Lì'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Marco. ___ ho salutato. ___ è molto bravo.",
+      "options": [
+        "Lo",
+        "Lui"
+      ],
+      "answer": "Lo",
+      "explanation": "Esercizio 96: La forma corretta è 'Lo'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho visto Maria. ___ ho salutata. ___ è molto brava.",
+      "options": [
+        "La",
+        "Lei"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 97: La forma corretta è 'La'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Marco. ___ ho detto tutto. ___ è molto bravo.",
+      "options": [
+        "Gli",
+        "Lui"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 98: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho parlato a Maria. ___ ho detto tutto. ___ è molto brava.",
+      "options": [
+        "Le",
+        "Lei"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 99: La forma corretta è 'Le'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    },
+    {
+      "question": "Ho dato il libro a Marco. ___ l'ho dato. ___ è molto bravo.",
+      "options": [
+        "Gli",
+        "Lui"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 100: La forma corretta è 'Gli'. La coesione interfrase regola l'uso di anafora/catafora e ripresa clitica per la coerenza testuale in contesti complessi."
+    }
+  ]
+}
