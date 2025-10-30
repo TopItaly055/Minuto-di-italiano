@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Causativo (B2)",
+  "exercises": [
+    {
+      "question": "Faccio ___ la lezione.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 1: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ il libro.",
+      "options": [
+        "leggere",
+        "leggendo",
+        "letto"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 2: La forma corretta è 'leggere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltando",
+        "ascoltato"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 3: La forma corretta è 'ascoltare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ il caffè.",
+      "options": [
+        "bere",
+        "bevendo",
+        "bevuto"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 4: La forma corretta è 'bere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ la TV.",
+      "options": [
+        "guardare",
+        "guardando",
+        "guardato"
+      ],
+      "answer": "guardare",
+      "explanation": "Esercizio 5: La forma corretta è 'guardare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidando",
+        "guidato"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 6: La forma corretta è 'guidare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ la palestra.",
+      "options": [
+        "andare",
+        "andando",
+        "andato"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 7: La forma corretta è 'andare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ il telefono.",
+      "options": [
+        "usare",
+        "usando",
+        "usato"
+      ],
+      "answer": "usare",
+      "explanation": "Esercizio 8: La forma corretta è 'usare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ la cucina.",
+      "options": [
+        "frequentare",
+        "frequentando",
+        "frequentato"
+      ],
+      "answer": "frequentare",
+      "explanation": "Esercizio 9: La forma corretta è 'frequentare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ la lingua.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 10: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho fatto ___ la lezione.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 11: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho fatto ___ il libro.",
+      "options": [
+        "leggere",
+        "leggendo",
+        "letto"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 12: La forma corretta è 'leggere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho fatto ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltando",
+        "ascoltato"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 13: La forma corretta è 'ascoltare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho fatto ___ il caffè.",
+      "options": [
+        "bere",
+        "bevendo",
+        "bevuto"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 14: La forma corretta è 'bere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho fatto ___ la TV.",
+      "options": [
+        "guardare",
+        "guardando",
+        "guardato"
+      ],
+      "answer": "guardare",
+      "explanation": "Esercizio 15: La forma corretta è 'guardare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho fatto ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidando",
+        "guidato"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 16: La forma corretta è 'guidare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho fatto ___ la palestra.",
+      "options": [
+        "andare",
+        "andando",
+        "andato"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 17: La forma corretta è 'andare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho fatto ___ il telefono.",
+      "options": [
+        "usare",
+        "usando",
+        "usato"
+      ],
+      "answer": "usare",
+      "explanation": "Esercizio 18: La forma corretta è 'usare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho fatto ___ la cucina.",
+      "options": [
+        "frequentare",
+        "frequentando",
+        "frequentato"
+      ],
+      "answer": "frequentare",
+      "explanation": "Esercizio 19: La forma corretta è 'frequentare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho fatto ___ la lingua.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 20: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Farò ___ la lezione.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 21: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Farò ___ il libro.",
+      "options": [
+        "leggere",
+        "leggendo",
+        "letto"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 22: La forma corretta è 'leggere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Farò ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltando",
+        "ascoltato"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 23: La forma corretta è 'ascoltare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Farò ___ il caffè.",
+      "options": [
+        "bere",
+        "bevendo",
+        "bevuto"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 24: La forma corretta è 'bere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Farò ___ la TV.",
+      "options": [
+        "guardare",
+        "guardando",
+        "guardato"
+      ],
+      "answer": "guardare",
+      "explanation": "Esercizio 25: La forma corretta è 'guardare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Farò ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidando",
+        "guidato"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 26: La forma corretta è 'guidare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Farò ___ la palestra.",
+      "options": [
+        "andare",
+        "andando",
+        "andato"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 27: La forma corretta è 'andare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Farò ___ il telefono.",
+      "options": [
+        "usare",
+        "usando",
+        "usato"
+      ],
+      "answer": "usare",
+      "explanation": "Esercizio 28: La forma corretta è 'usare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Farò ___ la cucina.",
+      "options": [
+        "frequentare",
+        "frequentando",
+        "frequentato"
+      ],
+      "answer": "frequentare",
+      "explanation": "Esercizio 29: La forma corretta è 'frequentare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Farò ___ la lingua.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 30: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascio ___ la lezione.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 31: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascio ___ il libro.",
+      "options": [
+        "leggere",
+        "leggendo",
+        "letto"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 32: La forma corretta è 'leggere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascio ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltando",
+        "ascoltato"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 33: La forma corretta è 'ascoltare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascio ___ il caffè.",
+      "options": [
+        "bere",
+        "bevendo",
+        "bevuto"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 34: La forma corretta è 'bere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascio ___ la TV.",
+      "options": [
+        "guardare",
+        "guardando",
+        "guardato"
+      ],
+      "answer": "guardare",
+      "explanation": "Esercizio 35: La forma corretta è 'guardare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascio ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidando",
+        "guidato"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 36: La forma corretta è 'guidare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascio ___ la palestra.",
+      "options": [
+        "andare",
+        "andando",
+        "andato"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 37: La forma corretta è 'andare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascio ___ il telefono.",
+      "options": [
+        "usare",
+        "usando",
+        "usato"
+      ],
+      "answer": "usare",
+      "explanation": "Esercizio 38: La forma corretta è 'usare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascio ___ la cucina.",
+      "options": [
+        "frequentare",
+        "frequentando",
+        "frequentato"
+      ],
+      "answer": "frequentare",
+      "explanation": "Esercizio 39: La forma corretta è 'frequentare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascio ___ la lingua.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 40: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho lasciato ___ la lezione.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 41: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho lasciato ___ il libro.",
+      "options": [
+        "leggere",
+        "leggendo",
+        "letto"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 42: La forma corretta è 'leggere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho lasciato ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltando",
+        "ascoltato"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 43: La forma corretta è 'ascoltare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho lasciato ___ il caffè.",
+      "options": [
+        "bere",
+        "bevendo",
+        "bevuto"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 44: La forma corretta è 'bere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho lasciato ___ la TV.",
+      "options": [
+        "guardare",
+        "guardando",
+        "guardato"
+      ],
+      "answer": "guardare",
+      "explanation": "Esercizio 45: La forma corretta è 'guardare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho lasciato ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidando",
+        "guidato"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 46: La forma corretta è 'guidare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho lasciato ___ la palestra.",
+      "options": [
+        "andare",
+        "andando",
+        "andato"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 47: La forma corretta è 'andare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho lasciato ___ il telefono.",
+      "options": [
+        "usare",
+        "usando",
+        "usato"
+      ],
+      "answer": "usare",
+      "explanation": "Esercizio 48: La forma corretta è 'usare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho lasciato ___ la cucina.",
+      "options": [
+        "frequentare",
+        "frequentando",
+        "frequentato"
+      ],
+      "answer": "frequentare",
+      "explanation": "Esercizio 49: La forma corretta è 'frequentare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Ho lasciato ___ la lingua.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 50: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascerò ___ la lezione.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 51: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascerò ___ il libro.",
+      "options": [
+        "leggere",
+        "leggendo",
+        "letto"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 52: La forma corretta è 'leggere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascerò ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltando",
+        "ascoltato"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 53: La forma corretta è 'ascoltare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascerò ___ il caffè.",
+      "options": [
+        "bere",
+        "bevendo",
+        "bevuto"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 54: La forma corretta è 'bere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascerò ___ la TV.",
+      "options": [
+        "guardare",
+        "guardando",
+        "guardato"
+      ],
+      "answer": "guardare",
+      "explanation": "Esercizio 55: La forma corretta è 'guardare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascerò ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidando",
+        "guidato"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 56: La forma corretta è 'guidare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascerò ___ la palestra.",
+      "options": [
+        "andare",
+        "andando",
+        "andato"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 57: La forma corretta è 'andare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascerò ___ il telefono.",
+      "options": [
+        "usare",
+        "usando",
+        "usato"
+      ],
+      "answer": "usare",
+      "explanation": "Esercizio 58: La forma corretta è 'usare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascerò ___ la cucina.",
+      "options": [
+        "frequentare",
+        "frequentando",
+        "frequentato"
+      ],
+      "answer": "frequentare",
+      "explanation": "Esercizio 59: La forma corretta è 'frequentare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Lascerò ___ la lingua.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 60: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ la lezione.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 61: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ il libro.",
+      "options": [
+        "leggere",
+        "leggendo",
+        "letto"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 62: La forma corretta è 'leggere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltando",
+        "ascoltato"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 63: La forma corretta è 'ascoltare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ il caffè.",
+      "options": [
+        "bere",
+        "bevendo",
+        "bevuto"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 64: La forma corretta è 'bere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ la TV.",
+      "options": [
+        "guardare",
+        "guardando",
+        "guardato"
+      ],
+      "answer": "guardare",
+      "explanation": "Esercizio 65: La forma corretta è 'guardare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidando",
+        "guidato"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 66: La forma corretta è 'guidare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ la palestra.",
+      "options": [
+        "andare",
+        "andando",
+        "andato"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 67: La forma corretta è 'andare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ il telefono.",
+      "options": [
+        "usare",
+        "usando",
+        "usato"
+      ],
+      "answer": "usare",
+      "explanation": "Esercizio 68: La forma corretta è 'usare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ la cucina.",
+      "options": [
+        "frequentare",
+        "frequentando",
+        "frequentato"
+      ],
+      "answer": "frequentare",
+      "explanation": "Esercizio 69: La forma corretta è 'frequentare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ la lingua.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 70: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi sono fatto ___ la lezione.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 71: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi sono fatto ___ il libro.",
+      "options": [
+        "leggere",
+        "leggendo",
+        "letto"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 72: La forma corretta è 'leggere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi sono fatto ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltando",
+        "ascoltato"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 73: La forma corretta è 'ascoltare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi sono fatto ___ il caffè.",
+      "options": [
+        "bere",
+        "bevendo",
+        "bevuto"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 74: La forma corretta è 'bere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi sono fatto ___ la TV.",
+      "options": [
+        "guardare",
+        "guardando",
+        "guardato"
+      ],
+      "answer": "guardare",
+      "explanation": "Esercizio 75: La forma corretta è 'guardare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi sono fatto ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidando",
+        "guidato"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 76: La forma corretta è 'guidare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi sono fatto ___ la palestra.",
+      "options": [
+        "andare",
+        "andando",
+        "andato"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 77: La forma corretta è 'andare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi sono fatto ___ il telefono.",
+      "options": [
+        "usare",
+        "usando",
+        "usato"
+      ],
+      "answer": "usare",
+      "explanation": "Esercizio 78: La forma corretta è 'usare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi sono fatto ___ la cucina.",
+      "options": [
+        "frequentare",
+        "frequentando",
+        "frequentato"
+      ],
+      "answer": "frequentare",
+      "explanation": "Esercizio 79: La forma corretta è 'frequentare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi sono fatto ___ la lingua.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 80: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi farò ___ la lezione.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 81: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi farò ___ il libro.",
+      "options": [
+        "leggere",
+        "leggendo",
+        "letto"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 82: La forma corretta è 'leggere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi farò ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltando",
+        "ascoltato"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 83: La forma corretta è 'ascoltare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi farò ___ il caffè.",
+      "options": [
+        "bere",
+        "bevendo",
+        "bevuto"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 84: La forma corretta è 'bere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi farò ___ la TV.",
+      "options": [
+        "guardare",
+        "guardando",
+        "guardato"
+      ],
+      "answer": "guardare",
+      "explanation": "Esercizio 85: La forma corretta è 'guardare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi farò ___ la macchina.",
+      "options": [
+        "guidare",
+        "guidando",
+        "guidato"
+      ],
+      "answer": "guidare",
+      "explanation": "Esercizio 86: La forma corretta è 'guidare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi farò ___ la palestra.",
+      "options": [
+        "andare",
+        "andando",
+        "andato"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 87: La forma corretta è 'andare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi farò ___ il telefono.",
+      "options": [
+        "usare",
+        "usando",
+        "usato"
+      ],
+      "answer": "usare",
+      "explanation": "Esercizio 88: La forma corretta è 'usare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi farò ___ la cucina.",
+      "options": [
+        "frequentare",
+        "frequentando",
+        "frequentato"
+      ],
+      "answer": "frequentare",
+      "explanation": "Esercizio 89: La forma corretta è 'frequentare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi farò ___ la lingua.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 90: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ in vacanza.",
+      "options": [
+        "andare",
+        "andando",
+        "andato"
+      ],
+      "answer": "andare",
+      "explanation": "Esercizio 91: La forma corretta è 'andare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ con te.",
+      "options": [
+        "venire",
+        "venendo",
+        "venuto"
+      ],
+      "answer": "venire",
+      "explanation": "Esercizio 92: La forma corretta è 'venire'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ la verità.",
+      "options": [
+        "dire",
+        "dicendo",
+        "detto"
+      ],
+      "answer": "dire",
+      "explanation": "Esercizio 93: La forma corretta è 'dire'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ meglio.",
+      "options": [
+        "fare",
+        "facendo",
+        "fatto"
+      ],
+      "answer": "fare",
+      "explanation": "Esercizio 94: La forma corretta è 'fare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Faccio ___ tutto.",
+      "options": [
+        "sapere",
+        "sapendo",
+        "saputo"
+      ],
+      "answer": "sapere",
+      "explanation": "Esercizio 95: La forma corretta è 'sapere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ la lezione.",
+      "options": [
+        "studiare",
+        "studiando",
+        "studiato"
+      ],
+      "answer": "studiare",
+      "explanation": "Esercizio 96: La forma corretta è 'studiare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ il libro.",
+      "options": [
+        "leggere",
+        "leggendo",
+        "letto"
+      ],
+      "answer": "leggere",
+      "explanation": "Esercizio 97: La forma corretta è 'leggere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ la musica.",
+      "options": [
+        "ascoltare",
+        "ascoltando",
+        "ascoltato"
+      ],
+      "answer": "ascoltare",
+      "explanation": "Esercizio 98: La forma corretta è 'ascoltare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ il caffè.",
+      "options": [
+        "bere",
+        "bevendo",
+        "bevuto"
+      ],
+      "answer": "bere",
+      "explanation": "Esercizio 99: La forma corretta è 'bere'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    },
+    {
+      "question": "Mi faccio ___ la TV.",
+      "options": [
+        "guardare",
+        "guardando",
+        "guardato"
+      ],
+      "answer": "guardare",
+      "explanation": "Esercizio 100: La forma corretta è 'guardare'. Il causativo esprime l'azione di far fare o lasciar fare qualcosa a qualcuno."
+    }
+  ]
+}
