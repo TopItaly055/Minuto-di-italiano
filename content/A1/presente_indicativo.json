@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Глаголы настоящего времени (A1)",
+  "exercises": [
+    {
+      "question": "Io ___ italiano.",
+      "options": [
+        "sono",
+        "sei",
+        "è"
+      ],
+      "answer": "sono",
+      "explanation": "Io (я) требует формы 'sono' от глагола essere."
+    },
+    {
+      "question": "Tu ___ studente?",
+      "options": [
+        "sei",
+        "sono",
+        "è"
+      ],
+      "answer": "sei",
+      "explanation": "Tu (ты) требует формы 'sei' от глагола essere."
+    },
+    {
+      "question": "Lui ___ dottore.",
+      "options": [
+        "è",
+        "sono",
+        "sei"
+      ],
+      "answer": "è",
+      "explanation": "Lui (он) требует формы 'è' от глагола essere."
+    },
+    {
+      "question": "Lei ___ insegnante.",
+      "options": [
+        "è",
+        "sei",
+        "siamo"
+      ],
+      "answer": "è",
+      "explanation": "Lei (она) требует формы 'è' от глагола essere."
+    },
+    {
+      "question": "Noi ___ amici.",
+      "options": [
+        "siamo",
+        "sono",
+        "siete"
+      ],
+      "answer": "siamo",
+      "explanation": "Noi (мы) требует формы 'siamo' от глагола essere."
+    },
+    {
+      "question": "Voi ___ studenti?",
+      "options": [
+        "siete",
+        "siamo",
+        "sono"
+      ],
+      "answer": "siete",
+      "explanation": "Voi (вы) требует формы 'siete' от глагола essere."
+    },
+    {
+      "question": "Loro ___ italiani.",
+      "options": [
+        "sono",
+        "è",
+        "siamo"
+      ],
+      "answer": "sono",
+      "explanation": "Loro (они) требует формы 'sono' от глагола essere."
+    },
+    {
+      "question": "Io ___ un libro.",
+      "options": [
+        "ho",
+        "hai",
+        "ha"
+      ],
+      "answer": "ho",
+      "explanation": "Io (я) требует формы 'ho' от глагола avere."
+    },
+    {
+      "question": "Tu ___ un cane?",
+      "options": [
+        "hai",
+        "ho",
+        "ha"
+      ],
+      "answer": "hai",
+      "explanation": "Tu (ты) требует формы 'hai' от глагола avere."
+    },
+    {
+      "question": "Lui ___ una macchina.",
+      "options": [
+        "ha",
+        "ho",
+        "hai"
+      ],
+      "answer": "ha",
+      "explanation": "Lui (он) требует формы 'ha' от глагола avere."
+    },
+    {
+      "question": "Lei ___ due gatti.",
+      "options": [
+        "ha",
+        "hai",
+        "hanno"
+      ],
+      "answer": "ha",
+      "explanation": "Lei (она) требует формы 'ha' от глагола avere."
+    },
+    {
+      "question": "Noi ___ una casa.",
+      "options": [
+        "abbiamo",
+        "hanno",
+        "avete"
+      ],
+      "answer": "abbiamo",
+      "explanation": "Noi (мы) требует формы 'abbiamo' от глагола avere."
+    },
+    {
+      "question": "Voi ___ tempo?",
+      "options": [
+        "avete",
+        "abbiamo",
+        "hanno"
+      ],
+      "answer": "avete",
+      "explanation": "Voi (вы) требует формы 'avete' от глагола avere."
+    },
+    {
+      "question": "Loro ___ figli.",
+      "options": [
+        "hanno",
+        "ha",
+        "avete"
+      ],
+      "answer": "hanno",
+      "explanation": "Loro (они) требует формы 'hanno' от глагола avere."
+    },
+    {
+      "question": "Io ___ italiano.",
+      "options": [
+        "parlo",
+        "parli",
+        "parla"
+      ],
+      "answer": "parlo",
+      "explanation": "Io требует окончания -o: parlo."
+    },
+    {
+      "question": "Tu ___ inglese?",
+      "options": [
+        "parli",
+        "parlo",
+        "parla"
+      ],
+      "answer": "parli",
+      "explanation": "Tu требует окончания -i: parli."
+    },
+    {
+      "question": "Lui ___ francese.",
+      "options": [
+        "parla",
+        "parlo",
+        "parli"
+      ],
+      "answer": "parla",
+      "explanation": "Lui требует окончания -a: parla."
+    },
+    {
+      "question": "Lei ___ spagnolo.",
+      "options": [
+        "parla",
+        "parli",
+        "parliamo"
+      ],
+      "answer": "parla",
+      "explanation": "Lei требует окончания -a: parla."
+    },
+    {
+      "question": "Noi ___ tedesco.",
+      "options": [
+        "parliamo",
+        "parlano",
+        "parlate"
+      ],
+      "answer": "parliamo",
+      "explanation": "Noi требует окончания -iamo: parliamo."
+    },
+    {
+      "question": "Voi ___ russo?",
+      "options": [
+        "parlate",
+        "parliamo",
+        "parlano"
+      ],
+      "answer": "parlate",
+      "explanation": "Voi требует окончания -ate: parlate."
+    },
+    {
+      "question": "Loro ___ cinese.",
+      "options": [
+        "parlano",
+        "parla",
+        "parlate"
+      ],
+      "answer": "parlano",
+      "explanation": "Loro требует окончания -ano: parlano."
+    },
+    {
+      "question": "Io ___ a Roma.",
+      "options": [
+        "abito",
+        "abiti",
+        "abita"
+      ],
+      "answer": "abito",
+      "explanation": "Io требует окончания -o: abito."
+    },
+    {
+      "question": "Tu ___ a Milano?",
+      "options": [
+        "abiti",
+        "abito",
+        "abita"
+      ],
+      "answer": "abiti",
+      "explanation": "Tu требует окончания -i: abiti."
+    },
+    {
+      "question": "Lui ___ a Napoli.",
+      "options": [
+        "abita",
+        "abito",
+        "abiti"
+      ],
+      "answer": "abita",
+      "explanation": "Lui требует окончания -a: abita."
+    },
+    {
+      "question": "Noi ___ in centro.",
+      "options": [
+        "abitiamo",
+        "abitano",
+        "abitate"
+      ],
+      "answer": "abitiamo",
+      "explanation": "Noi требует окончания -iamo: abitiamo."
+    },
+    {
+      "question": "Voi ___ qui?",
+      "options": [
+        "abitate",
+        "abitiamo",
+        "abitano"
+      ],
+      "answer": "abitate",
+      "explanation": "Voi требует окончания -ate: abitate."
+    },
+    {
+      "question": "Loro ___ lontano.",
+      "options": [
+        "abitano",
+        "abita",
+        "abitate"
+      ],
+      "answer": "abitano",
+      "explanation": "Loro требует окончания -ano: abitano."
+    },
+    {
+      "question": "Io ___ in ufficio.",
+      "options": [
+        "lavoro",
+        "lavori",
+        "lavora"
+      ],
+      "answer": "lavoro",
+      "explanation": "Io требует окончания -o: lavoro."
+    },
+    {
+      "question": "Tu ___ in banca?",
+      "options": [
+        "lavori",
+        "lavoro",
+        "lavora"
+      ],
+      "answer": "lavori",
+      "explanation": "Tu требует окончания -i: lavori."
+    },
+    {
+      "question": "Lei ___ in ospedale.",
+      "options": [
+        "lavora",
+        "lavori",
+        "lavoriamo"
+      ],
+      "answer": "lavora",
+      "explanation": "Lei требует окончания -a: lavora."
+    },
+    {
+      "question": "Noi ___ insieme.",
+      "options": [
+        "lavoriamo",
+        "lavorano",
+        "lavorate"
+      ],
+      "answer": "lavoriamo",
+      "explanation": "Noi требует окончания -iamo: lavoriamo."
+    },
+    {
+      "question": "Voi ___ molto?",
+      "options": [
+        "lavorate",
+        "lavoriamo",
+        "lavorano"
+      ],
+      "answer": "lavorate",
+      "explanation": "Voi требует окончания -ate: lavorate."
+    },
+    {
+      "question": "Loro ___ in fabbrica.",
+      "options": [
+        "lavorano",
+        "lavora",
+        "lavorate"
+      ],
+      "answer": "lavorano",
+      "explanation": "Loro требует окончания -ano: lavorano."
+    },
+    {
+      "question": "Io ___ medicina.",
+      "options": [
+        "studio",
+        "studi",
+        "studia"
+      ],
+      "answer": "studio",
+      "explanation": "Io требует окончания -o: studio."
+    },
+    {
+      "question": "Tu ___ italiano?",
+      "options": [
+        "studi",
+        "studio",
+        "studia"
+      ],
+      "answer": "studi",
+      "explanation": "Tu требует окончания -i: studi."
+    },
+    {
+      "question": "Lui ___ matematica.",
+      "options": [
+        "studia",
+        "studio",
+        "studi"
+      ],
+      "answer": "studia",
+      "explanation": "Lui требует окончания -a: studia."
+    },
+    {
+      "question": "Noi ___ insieme.",
+      "options": [
+        "studiamo",
+        "studiano",
+        "studiate"
+      ],
+      "answer": "studiamo",
+      "explanation": "Noi требует окончания -iamo: studiamo."
+    },
+    {
+      "question": "Voi ___ molto?",
+      "options": [
+        "studiate",
+        "studiamo",
+        "studiano"
+      ],
+      "answer": "studiate",
+      "explanation": "Voi требует окончания -ate: studiate."
+    },
+    {
+      "question": "Loro ___ all'università.",
+      "options": [
+        "studiano",
+        "studia",
+        "studiate"
+      ],
+      "answer": "studiano",
+      "explanation": "Loro требует окончания -ano: studiano."
+    },
+    {
+      "question": "Io ___ il caffè.",
+      "options": [
+        "prendo",
+        "prendi",
+        "prende"
+      ],
+      "answer": "prendo",
+      "explanation": "Io требует окончания -o: prendo."
+    },
+    {
+      "question": "Tu ___ il tè?",
+      "options": [
+        "prendi",
+        "prendo",
+        "prende"
+      ],
+      "answer": "prendi",
+      "explanation": "Tu требует окончания -i: prendi."
+    },
+    {
+      "question": "Lui ___ l'autobus.",
+      "options": [
+        "prende",
+        "prendo",
+        "prendi"
+      ],
+      "answer": "prende",
+      "explanation": "Lui требует окончания -e: prende."
+    },
+    {
+      "question": "Noi ___ il treno.",
+      "options": [
+        "prendiamo",
+        "prendono",
+        "prendete"
+      ],
+      "answer": "prendiamo",
+      "explanation": "Noi требует окончания -iamo: prendiamo."
+    },
+    {
+      "question": "Voi ___ la metro?",
+      "options": [
+        "prendete",
+        "prendiamo",
+        "prendono"
+      ],
+      "answer": "prendete",
+      "explanation": "Voi требует окончания -ete: prendete."
+    },
+    {
+      "question": "Loro ___ un taxi.",
+      "options": [
+        "prendono",
+        "prende",
+        "prendete"
+      ],
+      "answer": "prendono",
+      "explanation": "Loro требует окончания -ono: prendono."
+    },
+    {
+      "question": "Io ___ il giornale.",
+      "options": [
+        "leggo",
+        "leggi",
+        "legge"
+      ],
+      "answer": "leggo",
+      "explanation": "Io требует формы 'leggo' от глагола leggere."
+    },
+    {
+      "question": "Tu ___ un libro?",
+      "options": [
+        "leggi",
+        "leggo",
+        "legge"
+      ],
+      "answer": "leggi",
+      "explanation": "Tu требует формы 'leggi' от глагола leggere."
+    },
+    {
+      "question": "Lei ___ una rivista.",
+      "options": [
+        "legge",
+        "leggi",
+        "leggiamo"
+      ],
+      "answer": "legge",
+      "explanation": "Lei требует формы 'legge' от глагола leggere."
+    },
+    {
+      "question": "Noi ___ insieme.",
+      "options": [
+        "leggiamo",
+        "leggono",
+        "leggete"
+      ],
+      "answer": "leggiamo",
+      "explanation": "Noi требует формы 'leggiamo' от глагола leggere."
+    },
+    {
+      "question": "Voi ___ molto?",
+      "options": [
+        "leggete",
+        "leggiamo",
+        "leggono"
+      ],
+      "answer": "leggete",
+      "explanation": "Voi требует формы 'leggete' от глагола leggere."
+    },
+    {
+      "question": "Loro ___ romanzi.",
+      "options": [
+        "leggono",
+        "legge",
+        "leggete"
+      ],
+      "answer": "leggono",
+      "explanation": "Loro требует формы 'leggono' от глагола leggere."
+    },
+    {
+      "question": "Io ___ una lettera.",
+      "options": [
+        "scrivo",
+        "scrivi",
+        "scrive"
+      ],
+      "answer": "scrivo",
+      "explanation": "Io требует окончания -o: scrivo."
+    },
+    {
+      "question": "Tu ___ un'email?",
+      "options": [
+        "scrivi",
+        "scrivo",
+        "scrive"
+      ],
+      "answer": "scrivi",
+      "explanation": "Tu требует окончания -i: scrivi."
+    },
+    {
+      "question": "Lui ___ un libro.",
+      "options": [
+        "scrive",
+        "scrivo",
+        "scrivi"
+      ],
+      "answer": "scrive",
+      "explanation": "Lui требует окончания -e: scrive."
+    },
+    {
+      "question": "Noi ___ insieme.",
+      "options": [
+        "scriviamo",
+        "scrivono",
+        "scrivete"
+      ],
+      "answer": "scriviamo",
+      "explanation": "Noi требует окончания -iamo: scriviamo."
+    },
+    {
+      "question": "Voi ___ spesso?",
+      "options": [
+        "scrivete",
+        "scriviamo",
+        "scrivono"
+      ],
+      "answer": "scrivete",
+      "explanation": "Voi требует окончания -ete: scrivete."
+    },
+    {
+      "question": "Loro ___ messaggi.",
+      "options": [
+        "scrivono",
+        "scrive",
+        "scrivete"
+      ],
+      "answer": "scrivono",
+      "explanation": "Loro требует окончания -ono: scrivono."
+    },
+    {
+      "question": "Io ___ molto.",
+      "options": [
+        "dormo",
+        "dormi",
+        "dorme"
+      ],
+      "answer": "dormo",
+      "explanation": "Io требует окончания -o: dormo."
+    },
+    {
+      "question": "Tu ___ poco?",
+      "options": [
+        "dormi",
+        "dormo",
+        "dorme"
+      ],
+      "answer": "dormi",
+      "explanation": "Tu требует окончания -i: dormi."
+    },
+    {
+      "question": "Lei ___ bene.",
+      "options": [
+        "dorme",
+        "dormi",
+        "dormiamo"
+      ],
+      "answer": "dorme",
+      "explanation": "Lei требует окончания -e: dorme."
+    },
+    {
+      "question": "Noi ___ otto ore.",
+      "options": [
+        "dormiamo",
+        "dormono",
+        "dormite"
+      ],
+      "answer": "dormiamo",
+      "explanation": "Noi требует окончания -iamo: dormiamo."
+    },
+    {
+      "question": "Voi ___ tardi?",
+      "options": [
+        "dormite",
+        "dormiamo",
+        "dormono"
+      ],
+      "answer": "dormite",
+      "explanation": "Voi требует окончания -ite: dormite."
+    },
+    {
+      "question": "Loro ___ presto.",
+      "options": [
+        "dormono",
+        "dorme",
+        "dormite"
+      ],
+      "answer": "dormono",
+      "explanation": "Loro требует окончания -ono: dormono."
+    },
+    {
+      "question": "Io ___ l'italiano.",
+      "options": [
+        "capisco",
+        "capisci",
+        "capisce"
+      ],
+      "answer": "capisco",
+      "explanation": "Io требует формы 'capisco' (с -isc-) от глагола capire."
+    },
+    {
+      "question": "Tu ___ inglese?",
+      "options": [
+        "capisci",
+        "capisco",
+        "capisce"
+      ],
+      "answer": "capisci",
+      "explanation": "Tu требует формы 'capisci' (с -isc-) от глагола capire."
+    },
+    {
+      "question": "Lui ___ tutto.",
+      "options": [
+        "capisce",
+        "capisco",
+        "capisci"
+      ],
+      "answer": "capisce",
+      "explanation": "Lui требует формы 'capisce' (с -isc-) от глагола capire."
+    },
+    {
+      "question": "Noi ___ la lezione.",
+      "options": [
+        "capiamo",
+        "capiscono",
+        "capite"
+      ],
+      "answer": "capiamo",
+      "explanation": "Noi требует формы 'capiamo' (без -isc-) от глагола capire."
+    },
+    {
+      "question": "Voi ___ bene?",
+      "options": [
+        "capite",
+        "capiamo",
+        "capiscono"
+      ],
+      "answer": "capite",
+      "explanation": "Voi требует формы 'capite' (без -isc-) от глагола capire."
+    },
+    {
+      "question": "Loro ___ poco.",
+      "options": [
+        "capiscono",
+        "capisce",
+        "capite"
+      ],
+      "answer": "capiscono",
+      "explanation": "Loro требует формы 'capiscono' (с -isc-) от глагола capire."
+    },
+    {
+      "question": "Io ___ a scuola.",
+      "options": [
+        "vado",
+        "vai",
+        "va"
+      ],
+      "answer": "vado",
+      "explanation": "Io требует неправильной формы 'vado' от глагола andare."
+    },
+    {
+      "question": "Tu ___ al cinema?",
+      "options": [
+        "vai",
+        "vado",
+        "va"
+      ],
+      "answer": "vai",
+      "explanation": "Tu требует неправильной формы 'vai' от глагола andare."
+    },
+    {
+      "question": "Lei ___ al lavoro.",
+      "options": [
+        "va",
+        "vai",
+        "andiamo"
+      ],
+      "answer": "va",
+      "explanation": "Lei требует неправильной формы 'va' от глагола andare."
+    },
+    {
+      "question": "Noi ___ al mare.",
+      "options": [
+        "andiamo",
+        "vanno",
+        "andate"
+      ],
+      "answer": "andiamo",
+      "explanation": "Noi требует формы 'andiamo' от глагола andare."
+    },
+    {
+      "question": "Voi ___ al parco?",
+      "options": [
+        "andate",
+        "andiamo",
+        "vanno"
+      ],
+      "answer": "andate",
+      "explanation": "Voi требует формы 'andate' от глагола andare."
+    },
+    {
+      "question": "Loro ___ in città.",
+      "options": [
+        "vanno",
+        "va",
+        "andate"
+      ],
+      "answer": "vanno",
+      "explanation": "Loro требует неправильной формы 'vanno' от глагола andare."
+    },
+    {
+      "question": "Io ___ colazione.",
+      "options": [
+        "faccio",
+        "fai",
+        "fa"
+      ],
+      "answer": "faccio",
+      "explanation": "Io требует неправильной формы 'faccio' от глагола fare."
+    },
+    {
+      "question": "Tu ___ sport?",
+      "options": [
+        "fai",
+        "faccio",
+        "fa"
+      ],
+      "answer": "fai",
+      "explanation": "Tu требует неправильной формы 'fai' от глагола fare."
+    },
+    {
+      "question": "Lui ___ la spesa.",
+      "options": [
+        "fa",
+        "faccio",
+        "fai"
+      ],
+      "answer": "fa",
+      "explanation": "Lui требует неправильной формы 'fa' от глагола fare."
+    },
+    {
+      "question": "Noi ___ una pausa.",
+      "options": [
+        "facciamo",
+        "fanno",
+        "fate"
+      ],
+      "answer": "facciamo",
+      "explanation": "Noi требует формы 'facciamo' от глагола fare."
+    },
+    {
+      "question": "Voi ___ i compiti?",
+      "options": [
+        "fate",
+        "facciamo",
+        "fanno"
+      ],
+      "answer": "fate",
+      "explanation": "Voi требует формы 'fate' от глагола fare."
+    },
+    {
+      "question": "Loro ___ festa.",
+      "options": [
+        "fanno",
+        "fa",
+        "fate"
+      ],
+      "answer": "fanno",
+      "explanation": "Loro требует неправильной формы 'fanno' от глагола fare."
+    },
+    {
+      "question": "Io ___ domani.",
+      "options": [
+        "vengo",
+        "vieni",
+        "viene"
+      ],
+      "answer": "vengo",
+      "explanation": "Io требует неправильной формы 'vengo' от глагола venire."
+    },
+    {
+      "question": "Tu ___ con me?",
+      "options": [
+        "vieni",
+        "vengo",
+        "viene"
+      ],
+      "answer": "vieni",
+      "explanation": "Tu требует неправильной формы 'vieni' от глагола venire."
+    },
+    {
+      "question": "Lei ___ stasera.",
+      "options": [
+        "viene",
+        "vieni",
+        "veniamo"
+      ],
+      "answer": "viene",
+      "explanation": "Lei требует неправильной формы 'viene' от глагола venire."
+    },
+    {
+      "question": "Noi ___ insieme.",
+      "options": [
+        "veniamo",
+        "vengono",
+        "venite"
+      ],
+      "answer": "veniamo",
+      "explanation": "Noi требует формы 'veniamo' от глагола venire."
+    },
+    {
+      "question": "Voi ___ in macchina?",
+      "options": [
+        "venite",
+        "veniamo",
+        "vengono"
+      ],
+      "answer": "venite",
+      "explanation": "Voi требует формы 'venite' от глагола venire."
+    },
+    {
+      "question": "Loro ___ a piedi.",
+      "options": [
+        "vengono",
+        "viene",
+        "venite"
+      ],
+      "answer": "vengono",
+      "explanation": "Loro требует неправильной формы 'vengono' от глагола venire."
+    },
+    {
+      "question": "Io ___ venire.",
+      "options": [
+        "posso",
+        "puoi",
+        "può"
+      ],
+      "answer": "posso",
+      "explanation": "Io требует формы 'posso' от глагола potere."
+    },
+    {
+      "question": "Tu ___ aiutarmi?",
+      "options": [
+        "puoi",
+        "posso",
+        "può"
+      ],
+      "answer": "puoi",
+      "explanation": "Tu требует формы 'puoi' от глагола potere."
+    },
+    {
+      "question": "Lei ___ restare.",
+      "options": [
+        "può",
+        "puoi",
+        "possiamo"
+      ],
+      "answer": "può",
+      "explanation": "Lei требует формы 'può' от глагола potere."
+    },
+    {
+      "question": "Noi ___ partire.",
+      "options": [
+        "possiamo",
+        "possono",
+        "potete"
+      ],
+      "answer": "possiamo",
+      "explanation": "Noi требует формы 'possiamo' от глагола potere."
+    },
+    {
+      "question": "Voi ___ aspettare?",
+      "options": [
+        "potete",
+        "possiamo",
+        "possono"
+      ],
+      "answer": "potete",
+      "explanation": "Voi требует формы 'potete' от глагола potere."
+    },
+    {
+      "question": "Loro ___ entrare.",
+      "options": [
+        "possono",
+        "può",
+        "potete"
+      ],
+      "answer": "possono",
+      "explanation": "Loro требует формы 'possono' от глагола potere."
+    },
+    {
+      "question": "Io ___ studiare.",
+      "options": [
+        "devo",
+        "devi",
+        "deve"
+      ],
+      "answer": "devo",
+      "explanation": "Io требует формы 'devo' от глагола dovere."
+    },
+    {
+      "question": "Tu ___ lavorare?",
+      "options": [
+        "devi",
+        "devo",
+        "deve"
+      ],
+      "answer": "devi",
+      "explanation": "Tu требует формы 'devi' от глагола dovere."
+    },
+    {
+      "question": "Lui ___ partire.",
+      "options": [
+        "deve",
+        "devo",
+        "devi"
+      ],
+      "answer": "deve",
+      "explanation": "Lui требует формы 'deve' от глагола dovere."
+    },
+    {
+      "question": "Noi ___ andare.",
+      "options": [
+        "dobbiamo",
+        "devono",
+        "dovete"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Noi требует формы 'dobbiamo' от глагола dovere."
+    },
+    {
+      "question": "Voi ___ finire?",
+      "options": [
+        "dovete",
+        "dobbiamo",
+        "devono"
+      ],
+      "answer": "dovete",
+      "explanation": "Voi требует формы 'dovete' от глагола dovere."
+    },
+    {
+      "question": "Loro ___ tornare.",
+      "options": [
+        "devono",
+        "deve",
+        "dovete"
+      ],
+      "answer": "devono",
+      "explanation": "Loro требует формы 'devono' от глагола dovere."
+    },
+    {
+      "question": "Io ___ un caffè.",
+      "options": [
+        "voglio",
+        "vuoi",
+        "vuole"
+      ],
+      "answer": "voglio",
+      "explanation": "Io требует формы 'voglio' от глагола volere."
+    }
+  ]
+}
