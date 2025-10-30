@@ -1,0 +1,653 @@
+{
+  "topic_name": "Артикли (A1)",
+  "exercises": [
+    {
+      "question": "___ casa è molto bella.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Casa - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ libro è interessante.",
+      "options": ["La", "Il", "L'"],
+      "answer": "Il",
+      "explanation": "Libro - мужской род, единственное число. Используется определенный артикль 'il'."
+    },
+    {
+      "question": "___ amico di Marco è simpatico.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Amico начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ studente studia molto.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Studente начинается с 's' + согласная, поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ amica di Anna è italiana.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Amica начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ zio di Luca abita a Roma.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Zio начинается с 'z', поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ università è grande.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Università начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ gatto dorme sul divano.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Il",
+      "explanation": "Gatto - мужской род, единственное число. Используется определенный артикль 'il'."
+    },
+    {
+      "question": "___ macchina è rossa.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Macchina - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ occhiali sono nuovi.",
+      "options": ["La", "Il", "Gli"],
+      "answer": "Gli",
+      "explanation": "Occhiali - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ finestre sono aperte.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Finestre - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ bambini giocano in giardino.",
+      "options": ["La", "Il", "I"],
+      "answer": "I",
+      "explanation": "Bambini - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ stazione è lontana.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Stazione - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ psicologo è molto bravo.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Psicologo начинается с 'ps', поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ albergo è vicino al centro.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Albergo начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ insegnante spiega la lezione.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Insegnante начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ chiesa è antica.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Chiesa - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ gnocco è delizioso.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Gnocco начинается с 'gn', поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ ufficio è al terzo piano.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Ufficio начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ scuola finisce alle tre.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Scuola - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ xilofono è uno strumento musicale.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Xilofono начинается с 'x', поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ ospedale è moderno.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Ospedale начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ museo è interessante.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Il",
+      "explanation": "Museo - мужской род, единственное число. Используется определенный артикль 'il'."
+    },
+    {
+      "question": "___ spiaggia è bella.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Spiaggia - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ pneumatico è bucato.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Pneumatico начинается с 'pn', поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ aeroporto è grande.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Aeroporto начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ teatro è famoso.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Il",
+      "explanation": "Teatro - мужской род, единственное число. Используется определенный артикль 'il'."
+    },
+    {
+      "question": "___ biblioteca è silenziosa.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Biblioteca - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ pneumatici sono nuovi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Pneumatici - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ studenti sono bravi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Studenti - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ case sono vecchie.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Case - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ libri sono interessanti.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Libri - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ amici sono simpatici.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Amici - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ amiche sono carine.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Amiche - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ gatti dormono.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Gatti - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ macchine sono veloci.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Macchine - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ occhiali sono costosi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Occhiali - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ finestre sono chiuse.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Finestre - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ bambini sono felici.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Bambini - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ stazioni sono moderne.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Stazioni - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ psicologi sono bravi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Psicologi - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ alberghi sono pieni.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Alberghi - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ insegnanti sono preparati.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Gli",
+      "explanation": "Insegnanti - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ chiese sono antiche.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Chiese - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ gnocchi sono buoni.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Gnocchi - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ uffici sono moderni.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Uffici - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ scuole sono grandi.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Scuole - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ xilofoni sono rumorosi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Xilofoni - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ ospedali sono puliti.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Ospedali - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ musei sono famosi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Musei - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ spiagge sono belle.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Spiagge - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ aeroporti sono grandi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Aeroporti - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ teatri sono storici.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Teatri - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ biblioteche sono silenziose.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Biblioteche - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ casa di Maria è grande.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Casa - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ libro di storia è noioso.",
+      "options": ["La", "Il", "L'"],
+      "answer": "Il",
+      "explanation": "Libro - мужской род, единственное число. Используется определенный артикль 'il'."
+    },
+    {
+      "question": "___ amico di Luca è simpatico.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Amico начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ studente di medicina è bravo.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Studente начинается с 's' + согласная, поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ amica di Anna è italiana.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Amica начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ zio di Marco abita a Milano.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Zio начинается с 'z', поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ università di Bologna è antica.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Università начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ gatto di Sara è nero.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Il",
+      "explanation": "Gatto - мужской род, единственное число. Используется определенный артикль 'il'."
+    },
+    {
+      "question": "___ macchina di Paolo è veloce.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Macchina - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ occhiali di nonno sono vecchi.",
+      "options": ["La", "Il", "Gli"],
+      "answer": "Gli",
+      "explanation": "Occhiali - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ finestre della casa sono aperte.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Finestre - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ bambini del parco giocano.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Bambini - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ stazione centrale è lontana.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Stazione - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ psicologo di famiglia è bravo.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Psicologo начинается с 'ps', поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ albergo del centro è caro.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Albergo начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ insegnante di matematica è severo.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Insegnante начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ chiesa del paese è antica.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Chiesa - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ gnocco della nonna è buono.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Gnocco начинается с 'gn', поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ ufficio postale è chiuso.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Ufficio начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ scuola elementare è vicina.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Scuola - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ xilofono del bambino è rumoroso.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Xilofono начинается с 'x', поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ ospedale della città è moderno.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Ospedale начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ museo d'arte è famoso.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Il",
+      "explanation": "Museo - мужской род, единственное число. Используется определенный артикль 'il'."
+    },
+    {
+      "question": "___ spiaggia del mare è bella.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Spiaggia - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ pneumatico della macchina è bucato.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Lo",
+      "explanation": "Pneumatico начинается с 'pn', поэтому используется артикль 'lo'."
+    },
+    {
+      "question": "___ aeroporto internazionale è grande.",
+      "options": ["La", "Il", "L'"],
+      "answer": "L'",
+      "explanation": "Aeroporto начинается с гласной, поэтому используется артикль 'l''."
+    },
+    {
+      "question": "___ teatro dell'opera è storico.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "Il",
+      "explanation": "Teatro - мужской род, единственное число. Используется определенный артикль 'il'."
+    },
+    {
+      "question": "___ biblioteca comunale è silenziosa.",
+      "options": ["La", "Il", "Lo"],
+      "answer": "La",
+      "explanation": "Biblioteca - женский род, единственное число. Используется определенный артикль 'la'."
+    },
+    {
+      "question": "___ pneumatici della moto sono nuovi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Pneumatici - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ studenti dell'università sono bravi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Studenti - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ case del quartiere sono vecchie.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Case - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ libri della biblioteca sono interessanti.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Libri - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ amici di Luca sono simpatici.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Amici - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ amiche di Sara sono carine.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Amiche - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ gatti del vicino dormono.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Gatti - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ macchine del parcheggio sono veloci.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Macchine - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ occhiali del nonno sono costosi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Occhiali - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ finestre della scuola sono chiuse.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Finestre - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ bambini del parco sono felici.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Bambini - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ stazioni della città sono moderne.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Stazioni - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ psicologi dell'ospedale sono bravi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Psicologi - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ alberghi del centro sono pieni.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Alberghi - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ insegnanti della scuola sono preparati.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Gli",
+      "explanation": "Insegnanti - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ chiese del paese sono antiche.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Chiese - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ gnocchi della nonna sono buoni.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Gnocchi - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ uffici del centro sono moderni.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Uffici - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ scuole del quartiere sono grandi.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Scuole - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ xilofoni dei bambini sono rumorosi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Xilofoni - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ ospedali della regione sono puliti.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Ospedali - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ musei della città sono famosi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Musei - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ spiagge della costa sono belle.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Spiagge - женский род, множественное число. Используется артикль 'le'."
+    },
+    {
+      "question": "___ aeroporti del paese sono grandi.",
+      "options": ["La", "I", "Gli"],
+      "answer": "Gli",
+      "explanation": "Aeroporti - мужской род, множественное число. Используется артикль 'gli'."
+    },
+    {
+      "question": "___ teatri della città sono storici.",
+      "options": ["La", "I", "Gli"],
+      "answer": "I",
+      "explanation": "Teatri - мужской род, множественное число. Используется артикль 'i'."
+    },
+    {
+      "question": "___ biblioteche pubbliche sono silenziose.",
+      "options": ["La", "Le", "Gli"],
+      "answer": "Le",
+      "explanation": "Biblioteche - женский род, множественное число. Используется артикль 'le'."
+    }
+  ]
+}
