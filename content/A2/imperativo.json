@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Imperativo (tu/Lei/voi) con negazione (A2)",
+  "exercises": [
+    {
+      "question": "___ la porta! (chiudere - tu)",
+      "options": [
+        "Chiudi",
+        "Chiuda",
+        "Chiudete"
+      ],
+      "answer": "Chiudi",
+      "explanation": "Imperativo per 'tu' da 'chiudere': chiudi."
+    },
+    {
+      "question": "___ forte! (parlare - tu)",
+      "options": [
+        "Parla",
+        "Parli",
+        "Parlate"
+      ],
+      "answer": "Parla",
+      "explanation": "Imperativo per 'tu' da 'parlare': parla."
+    },
+    {
+      "question": "___ qui! (venire - tu)",
+      "options": [
+        "Vieni",
+        "Venga",
+        "Venite"
+      ],
+      "answer": "Vieni",
+      "explanation": "Imperativo per 'tu' da 'venire': vieni."
+    },
+    {
+      "question": "___ il lavoro! (finire - tu)",
+      "options": [
+        "Finisci",
+        "Finisca",
+        "Finite"
+      ],
+      "answer": "Finisci",
+      "explanation": "Imperativo per 'tu' da 'finire' (con -isc-): finisci."
+    },
+    {
+      "question": "___ bene! (ascoltare - tu)",
+      "options": [
+        "Ascolta",
+        "Ascolti",
+        "Ascoltate"
+      ],
+      "answer": "Ascolta",
+      "explanation": "Imperativo per 'tu' da 'ascoltare': ascolta."
+    },
+    {
+      "question": "___ , signora! (entrare - Lei)",
+      "options": [
+        "Entri",
+        "Entra",
+        "Entrate"
+      ],
+      "answer": "Entri",
+      "explanation": "Imperativo formale per 'Lei' da 'entrare': entri."
+    },
+    {
+      "question": "___ pure, signore! (parlare - Lei)",
+      "options": [
+        "Parli",
+        "Parla",
+        "Parlate"
+      ],
+      "answer": "Parli",
+      "explanation": "Imperativo formale per 'Lei' da 'parlare': parli."
+    },
+    {
+      "question": "___ un momento! (aspettare - Lei)",
+      "options": [
+        "Aspetti",
+        "Aspetta",
+        "Aspettate"
+      ],
+      "answer": "Aspetti",
+      "explanation": "Imperativo formale per 'Lei' da 'aspettare': aspetti."
+    },
+    {
+      "question": "___ questa lettera! (leggere - Lei)",
+      "options": [
+        "Legga",
+        "Leggi",
+        "Leggete"
+      ],
+      "answer": "Legga",
+      "explanation": "Imperativo formale per 'Lei' da 'leggere': legga."
+    },
+    {
+      "question": "___ , prego! (accomodarsi - Lei)",
+      "options": [
+        "Si accomodi",
+        "Accomodati",
+        "Accomodatevi"
+      ],
+      "answer": "Si accomodi",
+      "explanation": "Imperativo formale возвратного глагола: si accomodi."
+    },
+    {
+      "question": "___ ragazzi! (venire - voi)",
+      "options": [
+        "Venite",
+        "Vieni",
+        "Venga"
+      ],
+      "answer": "Venite",
+      "explanation": "Imperativo per 'voi' da 'venire': venite."
+    },
+    {
+      "question": "___ bambini! (mangiare - voi)",
+      "options": [
+        "Mangiate",
+        "Mangia",
+        "Mangi"
+      ],
+      "answer": "Mangiate",
+      "explanation": "Imperativo per 'voi' da 'mangiare': mangiate."
+    },
+    {
+      "question": "___ attenti! (stare - voi)",
+      "options": [
+        "State",
+        "Sta'",
+        "Stia"
+      ],
+      "answer": "State",
+      "explanation": "Imperativo per 'voi' da 'stare': state."
+    },
+    {
+      "question": "___ i compiti! (fare - voi)",
+      "options": [
+        "Fate",
+        "Fa'",
+        "Faccia"
+      ],
+      "answer": "Fate",
+      "explanation": "Imperativo per 'voi' da 'fare': fate."
+    },
+    {
+      "question": "___ questo libro! (leggere - voi)",
+      "options": [
+        "Leggete",
+        "Leggi",
+        "Legga"
+      ],
+      "answer": "Leggete",
+      "explanation": "Imperativo per 'voi' da 'leggere': leggete."
+    },
+    {
+      "question": "___ troppo! (parlare - negativo tu)",
+      "options": [
+        "Non parlare",
+        "Non parla",
+        "Non parli"
+      ],
+      "answer": "Non parlare",
+      "explanation": "Imperativo negativo per 'tu': non + infinito (non parlare)."
+    },
+    {
+      "question": "___ ! (correre - negativo tu)",
+      "options": [
+        "Non correre",
+        "Non corre",
+        "Non corri"
+      ],
+      "answer": "Non correre",
+      "explanation": "Imperativo negativo per 'tu': non + infinito (non correre)."
+    },
+    {
+      "question": "___ ! (preoccuparti - negativo tu)",
+      "options": [
+        "Non preoccuparti",
+        "Non preoccupare",
+        "Non ti preoccupi"
+      ],
+      "answer": "Non preoccuparti",
+      "explanation": "Imperativo negativo возвратного глагола per 'tu': non + infinito."
+    },
+    {
+      "question": "___ tardi! (tornare - negativo tu)",
+      "options": [
+        "Non tornare",
+        "Non torna",
+        "Non torni"
+      ],
+      "answer": "Non tornare",
+      "explanation": "Imperativo negativo per 'tu': non + infinito (non tornare)."
+    },
+    {
+      "question": "___ ! (dimenticare - negativo tu)",
+      "options": [
+        "Non dimenticare",
+        "Non dimentica",
+        "Non dimentichi"
+      ],
+      "answer": "Non dimenticare",
+      "explanation": "Imperativo negativo per 'tu': non + infinito."
+    },
+    {
+      "question": "___ , signora! (preoccuparsi - negativo Lei)",
+      "options": [
+        "Non si preoccupi",
+        "Non preoccuparti",
+        "Non preoccupare"
+      ],
+      "answer": "Non si preoccupi",
+      "explanation": "Imperativo negativo per 'Lei': non + congiuntivo presente."
+    },
+    {
+      "question": "___ ! (entrare - negativo Lei)",
+      "options": [
+        "Non entri",
+        "Non entrare",
+        "Non entra"
+      ],
+      "answer": "Non entri",
+      "explanation": "Imperativo negativo per 'Lei': non + congiuntivo (non entri)."
+    },
+    {
+      "question": "___ , per favore! (fumare - negativo Lei)",
+      "options": [
+        "Non fumi",
+        "Non fumare",
+        "Non fuma"
+      ],
+      "answer": "Non fumi",
+      "explanation": "Imperativo negativo per 'Lei': non + congiuntivo (non fumi)."
+    },
+    {
+      "question": "___ ! (disturbare - negativo Lei)",
+      "options": [
+        "Non disturbi",
+        "Non disturbare",
+        "Non disturba"
+      ],
+      "answer": "Non disturbi",
+      "explanation": "Imperativo negativo per 'Lei': non + congiuntivo."
+    },
+    {
+      "question": "___ ragazzi! (correre - negativo voi)",
+      "options": [
+        "Non correte",
+        "Non correre",
+        "Non corre"
+      ],
+      "answer": "Non correte",
+      "explanation": "Imperativo negativo per 'voi': non + imperativo (non correte)."
+    },
+    {
+      "question": "___ ! (parlare - negativo voi)",
+      "options": [
+        "Non parlate",
+        "Non parlare",
+        "Non parla"
+      ],
+      "answer": "Non parlate",
+      "explanation": "Imperativo negativo per 'voi': non + imperativo (non parlate)."
+    },
+    {
+      "question": "___ troppo forte! (gridare - negativo voi)",
+      "options": [
+        "Non gridate",
+        "Non gridare",
+        "Non grida"
+      ],
+      "answer": "Non gridate",
+      "explanation": "Imperativo negativo per 'voi': non + imperativo."
+    },
+    {
+      "question": "___ ! (chiamare + mi - tu)",
+      "options": [
+        "Chiamami",
+        "Chiamalo",
+        "Mi chiama"
+      ],
+      "answer": "Chiamami",
+      "explanation": "Imperativo 'tu' + местоимение присоединяется: chiamami."
+    },
+    {
+      "question": "___ ! (dire + mi - tu)",
+      "options": [
+        "Dimmi",
+        "Digli",
+        "Mi dice"
+      ],
+      "answer": "Dimmi",
+      "explanation": "Imperativo от 'dire' (di') + mi = dimmi."
+    },
+    {
+      "question": "___ il libro! (dare + mi - tu)",
+      "options": [
+        "Dammi",
+        "Dagli",
+        "Mi dà"
+      ],
+      "answer": "Dammi",
+      "explanation": "Imperativo от 'dare' (da') + mi = dammi."
+    },
+    {
+      "question": "___ ! (ascoltare + mi - tu)",
+      "options": [
+        "Ascoltami",
+        "Ascoltalo",
+        "Mi ascolta"
+      ],
+      "answer": "Ascoltami",
+      "explanation": "Imperativo 'tu' + местоимение: ascoltami."
+    },
+    {
+      "question": "___ ! (aiutare + mi - tu)",
+      "options": [
+        "Aiutami",
+        "Aiutalo",
+        "Mi aiuta"
+      ],
+      "answer": "Aiutami",
+      "explanation": "Imperativo 'tu' + местоимение: aiutami."
+    },
+    {
+      "question": "___ , signora! (chiamare + mi - Lei)",
+      "options": [
+        "Mi chiami",
+        "Chiamami",
+        "Chiamala"
+      ],
+      "answer": "Mi chiami",
+      "explanation": "Imperativo formale: местоимение стоит ПЕРЕД глаголом (mi chiami)."
+    },
+    {
+      "question": "___ , per favore! (dire + mi - Lei)",
+      "options": [
+        "Mi dica",
+        "Dimmi",
+        "Digli"
+      ],
+      "answer": "Mi dica",
+      "explanation": "Imperativo formale: местоимение ПЕРЕД глаголом (mi dica)."
+    },
+    {
+      "question": "___ ! (ascoltare + mi - Lei)",
+      "options": [
+        "Mi ascolti",
+        "Ascoltami",
+        "Ascoltalo"
+      ],
+      "answer": "Mi ascolti",
+      "explanation": "Imperativo formale: местоимение ПЕРЕД глаголом."
+    },
+    {
+      "question": "___ questo! (dare + mi - Lei)",
+      "options": [
+        "Mi dia",
+        "Dammi",
+        "Dagli"
+      ],
+      "answer": "Mi dia",
+      "explanation": "Imperativo formale: местоимение ПЕРЕД глаголом (mi dia)."
+    },
+    {
+      "question": "___ ! (chiamare + mi - voi)",
+      "options": [
+        "Chiamatemi",
+        "Chiamatelo",
+        "Mi chiamate"
+      ],
+      "answer": "Chiamatemi",
+      "explanation": "Imperativo 'voi' + местоимение присоединяется: chiamatemi."
+    },
+    {
+      "question": "___ ! (ascoltare + mi - voi)",
+      "options": [
+        "Ascoltatemi",
+        "Ascoltatelo",
+        "Mi ascoltate"
+      ],
+      "answer": "Ascoltatemi",
+      "explanation": "Imperativo 'voi' + местоимение: ascoltatemi."
+    },
+    {
+      "question": "___ il libro! (dare + mi - voi)",
+      "options": [
+        "Datemi",
+        "Dategli",
+        "Mi date"
+      ],
+      "answer": "Datemi",
+      "explanation": "Imperativo 'voi' + местоимение: datemi."
+    },
+    {
+      "question": "___ ! (alzarsi - tu)",
+      "options": [
+        "Alzati",
+        "Si alzi",
+        "Alzatevi"
+      ],
+      "answer": "Alzati",
+      "explanation": "Imperativo возвратного глагола per 'tu': alzati."
+    },
+    {
+      "question": "___ le mani! (lavarsi - tu)",
+      "options": [
+        "Lavati",
+        "Si lavi",
+        "Lavatevi"
+      ],
+      "answer": "Lavati",
+      "explanation": "Imperativo возвратного глагола per 'tu': lavati."
+    },
+    {
+      "question": "___ ! (sedersi - tu)",
+      "options": [
+        "Siediti",
+        "Si sieda",
+        "Sedetevi"
+      ],
+      "answer": "Siediti",
+      "explanation": "Imperativo возвратного глагола per 'tu': siediti."
+    },
+    {
+      "question": "___ presto! (vestirsi - tu)",
+      "options": [
+        "Vestiti",
+        "Si vesta",
+        "Vestitevi"
+      ],
+      "answer": "Vestiti",
+      "explanation": "Imperativo возвратного глагола per 'tu': vestiti."
+    },
+    {
+      "question": "___ , signore! (accomodarsi - Lei)",
+      "options": [
+        "Si accomodi",
+        "Accomodati",
+        "Accomodatevi"
+      ],
+      "answer": "Si accomodi",
+      "explanation": "Imperativo formale возвратного глагола: si accomodi."
+    },
+    {
+      "question": "___ , prego! (sedersi - Lei)",
+      "options": [
+        "Si sieda",
+        "Siediti",
+        "Sedetevi"
+      ],
+      "answer": "Si sieda",
+      "explanation": "Imperativo formale возвратного глагола: si sieda."
+    },
+    {
+      "question": "___ ! (alzarsi - Lei)",
+      "options": [
+        "Si alzi",
+        "Alzati",
+        "Alzatevi"
+      ],
+      "answer": "Si alzi",
+      "explanation": "Imperativo formale возвратного глагола: si alzi."
+    },
+    {
+      "question": "___ ragazzi! (alzarsi - voi)",
+      "options": [
+        "Alzatevi",
+        "Alzati",
+        "Si alzi"
+      ],
+      "answer": "Alzatevi",
+      "explanation": "Imperativo per 'voi' возвратного глагола: alzatevi."
+    },
+    {
+      "question": "___ le mani! (lavarsi - voi)",
+      "options": [
+        "Lavatevi",
+        "Lavati",
+        "Si lavi"
+      ],
+      "answer": "Lavatevi",
+      "explanation": "Imperativo per 'voi' возвратного глагола: lavatevi."
+    },
+    {
+      "question": "___ ! (divertirsi - voi)",
+      "options": [
+        "Divertitevi",
+        "Divertiti",
+        "Si diverta"
+      ],
+      "answer": "Divertitevi",
+      "explanation": "Imperativo per 'voi' возвратного глагола: divertitevi."
+    },
+    {
+      "question": "___ ! (preoccuparsi - negativo tu)",
+      "options": [
+        "Non preoccuparti",
+        "Non ti preoccupi",
+        "Non preoccupatevi"
+      ],
+      "answer": "Non preoccuparti",
+      "explanation": "Imperativo negativo per 'tu': non + infinito возвратного глагола."
+    },
+    {
+      "question": "___ ! (alzarsi - negativo tu)",
+      "options": [
+        "Non alzarti",
+        "Non ti alzi",
+        "Non alzatevi"
+      ],
+      "answer": "Non alzarti",
+      "explanation": "Imperativo negativo per 'tu': non + infinito (non alzarti)."
+    },
+    {
+      "question": "___ troppo! (mangiare - negativo tu)",
+      "options": [
+        "Non mangiare",
+        "Non mangia",
+        "Non mangi"
+      ],
+      "answer": "Non mangiare",
+      "explanation": "Imperativo negativo per 'tu': non + infinito."
+    },
+    {
+      "question": "___ forte! (gridare - negativo tu)",
+      "options": [
+        "Non gridare",
+        "Non grida",
+        "Non gridi"
+      ],
+      "answer": "Non gridare",
+      "explanation": "Imperativo negativo per 'tu': non + infinito."
+    },
+    {
+      "question": "___ tardi! (tornare - negativo tu)",
+      "options": [
+        "Non tornare",
+        "Non torna",
+        "Non torni"
+      ],
+      "answer": "Non tornare",
+      "explanation": "Imperativo negativo per 'tu': non + infinito."
+    },
+    {
+      "question": "___ , signora! (preoccuparsi - negativo Lei)",
+      "options": [
+        "Non si preoccupi",
+        "Non preoccuparti",
+        "Non preoccupatevi"
+      ],
+      "answer": "Non si preoccupi",
+      "explanation": "Imperativo negativo per 'Lei': non + congiuntivo."
+    },
+    {
+      "question": "___ ! (fumare - negativo Lei)",
+      "options": [
+        "Non fumi",
+        "Non fumare",
+        "Non fuma"
+      ],
+      "answer": "Non fumi",
+      "explanation": "Imperativo negativo per 'Lei': non + congiuntivo (non fumi)."
+    },
+    {
+      "question": "___ ! (entrare - negativo Lei)",
+      "options": [
+        "Non entri",
+        "Non entrare",
+        "Non entra"
+      ],
+      "answer": "Non entri",
+      "explanation": "Imperativo negativo per 'Lei': non + congiuntivo."
+    },
+    {
+      "question": "___ ! (disturbare - negativo Lei)",
+      "options": [
+        "Non disturbi",
+        "Non disturbare",
+        "Non disturba"
+      ],
+      "answer": "Non disturbi",
+      "explanation": "Imperativo negativo per 'Lei': non + congiuntivo."
+    },
+    {
+      "question": "___ ! (correre - negativo voi)",
+      "options": [
+        "Non correte",
+        "Non correre",
+        "Non corre"
+      ],
+      "answer": "Non correte",
+      "explanation": "Imperativo negativo per 'voi': non + imperativo (non correte)."
+    },
+    {
+      "question": "___ troppo! (parlare - negativo voi)",
+      "options": [
+        "Non parlate",
+        "Non parlare",
+        "Non parla"
+      ],
+      "answer": "Non parlate",
+      "explanation": "Imperativo negativo per 'voi': non + imperativo."
+    },
+    {
+      "question": "___ ! (preoccuparsi - negativo voi)",
+      "options": [
+        "Non preoccupatevi",
+        "Non preoccuparti",
+        "Non si preoccupi"
+      ],
+      "answer": "Non preoccupatevi",
+      "explanation": "Imperativo negativo возвратного глагола per 'voi': non + imperativo."
+    },
+    {
+      "question": "___ gentile! (essere - tu)",
+      "options": [
+        "Sii",
+        "Sia",
+        "Siate"
+      ],
+      "answer": "Sii",
+      "explanation": "Imperativo irregolare da 'essere' per 'tu': sii."
+    },
+    {
+      "question": "___ paziente, signore! (essere - Lei)",
+      "options": [
+        "Sia",
+        "Sii",
+        "Siate"
+      ],
+      "answer": "Sia",
+      "explanation": "Imperativo formale da 'essere': sia."
+    },
+    {
+      "question": "___ bravi! (essere - voi)",
+      "options": [
+        "Siate",
+        "Sii",
+        "Sia"
+      ],
+      "answer": "Siate",
+      "explanation": "Imperativo da 'essere' per 'voi': siate."
+    },
+    {
+      "question": "___ pigro! (essere - negativo tu)",
+      "options": [
+        "Non essere",
+        "Non sei",
+        "Non sia"
+      ],
+      "answer": "Non essere",
+      "explanation": "Imperativo negativo per 'tu': non + infinito (non essere)."
+    },
+    {
+      "question": "___ pazienza! (avere - tu)",
+      "options": [
+        "Abbi",
+        "Abbia",
+        "Abbiate"
+      ],
+      "answer": "Abbi",
+      "explanation": "Imperativo irregolare da 'avere' per 'tu': abbi."
+    },
+    {
+      "question": "___ fiducia! (avere - Lei)",
+      "options": [
+        "Abbia",
+        "Abbi",
+        "Abbiate"
+      ],
+      "answer": "Abbia",
+      "explanation": "Imperativo formale da 'avere': abbia."
+    },
+    {
+      "question": "___ coraggio! (avere - voi)",
+      "options": [
+        "Abbiate",
+        "Abbi",
+        "Abbia"
+      ],
+      "answer": "Abbiate",
+      "explanation": "Imperativo da 'avere' per 'voi': abbiate."
+    },
+    {
+      "question": "___ paura! (avere - negativo tu)",
+      "options": [
+        "Non avere",
+        "Non hai",
+        "Non abbia"
+      ],
+      "answer": "Non avere",
+      "explanation": "Imperativo negativo per 'tu': non + infinito."
+    },
+    {
+      "question": "___ via! (andare - tu)",
+      "options": [
+        "Va'",
+        "Vada",
+        "Andate"
+      ],
+      "answer": "Va'",
+      "explanation": "Imperativo irregolare da 'andare' per 'tu': va' (forma abbreviata)."
+    },
+    {
+      "question": "___ attenzione! (fare - tu)",
+      "options": [
+        "Fa'",
+        "Faccia",
+        "Fate"
+      ],
+      "answer": "Fa'",
+      "explanation": "Imperativo irregolare da 'fare' per 'tu': fa' (forma abbreviata)."
+    },
+    {
+      "question": "___ il libro! (dare - tu)",
+      "options": [
+        "Da'",
+        "Dia",
+        "Date"
+      ],
+      "answer": "Da'",
+      "explanation": "Imperativo irregolare da 'dare' per 'tu': da' (forma abbreviata)."
+    },
+    {
+      "question": "___ zitto! (stare - tu)",
+      "options": [
+        "Sta'",
+        "Stia",
+        "State"
+      ],
+      "answer": "Sta'",
+      "explanation": "Imperativo irregolare da 'stare' per 'tu': sta' (forma abbreviata)."
+    },
+    {
+      "question": "___ la verità! (dire - tu)",
+      "options": [
+        "Di'",
+        "Dica",
+        "Dite"
+      ],
+      "answer": "Di'",
+      "explanation": "Imperativo irregolare da 'dire' per 'tu': di' (forma abbreviata)."
+    },
+    {
+      "question": "___ avanti! (andare - Lei)",
+      "options": [
+        "Vada",
+        "Va'",
+        "Andate"
+      ],
+      "answer": "Vada",
+      "explanation": "Imperativo formale da 'andare': vada."
+    },
+    {
+      "question": "___ attenzione! (fare - Lei)",
+      "options": [
+        "Faccia",
+        "Fa'",
+        "Fate"
+      ],
+      "answer": "Faccia",
+      "explanation": "Imperativo formale da 'fare': faccia."
+    },
+    {
+      "question": "___ a me! (dare - Lei)",
+      "options": [
+        "Dia",
+        "Da'",
+        "Date"
+      ],
+      "answer": "Dia",
+      "explanation": "Imperativo formale da 'dare': dia."
+    },
+    {
+      "question": "___ la verità! (dire - Lei)",
+      "options": [
+        "Dica",
+        "Di'",
+        "Dite"
+      ],
+      "answer": "Dica",
+      "explanation": "Imperativo formale da 'dire': dica."
+    },
+    {
+      "question": "___ tranquillo! (stare - Lei)",
+      "options": [
+        "Stia",
+        "Sta'",
+        "State"
+      ],
+      "answer": "Stia",
+      "explanation": "Imperativo formale da 'stare': stia."
+    },
+    {
+      "question": "___ subito! (andare - voi)",
+      "options": [
+        "Andate",
+        "Va'",
+        "Vada"
+      ],
+      "answer": "Andate",
+      "explanation": "Imperativo per 'voi' da 'andare': andate."
+    },
+    {
+      "question": "___ i compiti! (fare - voi)",
+      "options": [
+        "Fate",
+        "Fa'",
+        "Faccia"
+      ],
+      "answer": "Fate",
+      "explanation": "Imperativo per 'voi' da 'fare': fate."
+    },
+    {
+      "question": "___ il libro! (dare - voi)",
+      "options": [
+        "Date",
+        "Da'",
+        "Dia"
+      ],
+      "answer": "Date",
+      "explanation": "Imperativo per 'voi' da 'dare': date."
+    },
+    {
+      "question": "___ tutto! (dire - voi)",
+      "options": [
+        "Dite",
+        "Di'",
+        "Dica"
+      ],
+      "answer": "Dite",
+      "explanation": "Imperativo per 'voi' da 'dire': dite."
+    },
+    {
+      "question": "___ attenti! (stare - voi)",
+      "options": [
+        "State",
+        "Sta'",
+        "Stia"
+      ],
+      "answer": "State",
+      "explanation": "Imperativo per 'voi' da 'stare': state."
+    },
+    {
+      "question": "___ , per favore! (scusare - tu)",
+      "options": [
+        "Scusa",
+        "Scusi",
+        "Scusate"
+      ],
+      "answer": "Scusa",
+      "explanation": "Imperativo informale: scusa (извини)."
+    },
+    {
+      "question": "___ , signora! (scusare - Lei)",
+      "options": [
+        "Scusi",
+        "Scusa",
+        "Scusate"
+      ],
+      "answer": "Scusi",
+      "explanation": "Imperativo formale: scusi (извините)."
+    },
+    {
+      "question": "___ ! (sentire - tu)",
+      "options": [
+        "Senti",
+        "Senta",
+        "Sentite"
+      ],
+      "answer": "Senti",
+      "explanation": "Imperativo informale: senti (послушай)."
+    },
+    {
+      "question": "___ , signore! (sentire - Lei)",
+      "options": [
+        "Senta",
+        "Senti",
+        "Sentite"
+      ],
+      "answer": "Senta",
+      "explanation": "Imperativo formale: senta (послушайте)."
+    },
+    {
+      "question": "___ ! (guardare - tu)",
+      "options": [
+        "Guarda",
+        "Guardi",
+        "Guardate"
+      ],
+      "answer": "Guarda",
+      "explanation": "Imperativo informale: guarda (смотри)."
+    },
+    {
+      "question": "___ qui! (venire - Lei)",
+      "options": [
+        "Venga",
+        "Vieni",
+        "Venite"
+      ],
+      "answer": "Venga",
+      "explanation": "Imperativo formale da 'venire': venga."
+    },
+    {
+      "question": "___ subito! (tornare - tu)",
+      "options": [
+        "Torna",
+        "Torni",
+        "Tornate"
+      ],
+      "answer": "Torna",
+      "explanation": "Imperativo informale: torna."
+    },
+    {
+      "question": "___ a casa! (rimanere - voi)",
+      "options": [
+        "Rimanete",
+        "Rimani",
+        "Rimanga"
+      ],
+      "answer": "Rimanete",
+      "explanation": "Imperativo per 'voi' da 'rimanere': rimanete."
+    },
+    {
+      "question": "___ più piano! (parlare - Lei)",
+      "options": [
+        "Parli",
+        "Parla",
+        "Parlate"
+      ],
+      "answer": "Parli",
+      "explanation": "Imperativo formale: parli più piano."
+    },
+    {
+      "question": "___ velocemente! (scrivere - tu)",
+      "options": [
+        "Scrivi",
+        "Scriva",
+        "Scrivete"
+      ],
+      "answer": "Scrivi",
+      "explanation": "Imperativo informale: scrivi."
+    },
+    {
+      "question": "___ la finestra! (aprire - tu)",
+      "options": [
+        "Apri",
+        "Apra",
+        "Aprite"
+      ],
+      "answer": "Apri",
+      "explanation": "Imperativo per 'tu' da 'aprire': apri."
+    },
+    {
+      "question": "___ il nome! (scrivere - Lei)",
+      "options": [
+        "Scriva",
+        "Scrivi",
+        "Scrivete"
+      ],
+      "answer": "Scriva",
+      "explanation": "Imperativo formale da 'scrivere': scriva."
+    },
+    {
+      "question": "___ insieme! (lavorare - voi)",
+      "options": [
+        "Lavorate",
+        "Lavora",
+        "Lavori"
+      ],
+      "answer": "Lavorate",
+      "explanation": "Imperativo per 'voi' da 'lavorare': lavorate."
+    },
+    {
+      "question": "___ rumore! (fare - negativo tu)",
+      "options": [
+        "Non fare",
+        "Non fa",
+        "Non faccia"
+      ],
+      "answer": "Non fare",
+      "explanation": "Imperativo negativo per 'tu': non + infinito."
+    },
+    {
+      "question": "___ la musica! (spegnere - tu)",
+      "options": [
+        "Spegni",
+        "Spenga",
+        "Spegnete"
+      ],
+      "answer": "Spegni",
+      "explanation": "Imperativo per 'tu' da 'spegnere': spegni."
+    },
+    {
+      "question": "___ pronto! (essere - negativo voi)",
+      "options": [
+        "Non siate",
+        "Non essere",
+        "Non sia"
+      ],
+      "answer": "Non siate",
+      "explanation": "Imperativo negativo per 'voi': non + imperativo."
+    }
+  ]
+}
