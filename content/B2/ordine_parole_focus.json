@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Ordine delle parole per il focus (B2)",
+  "exercises": [
+    {
+      "question": "Mario, ___ è molto bravo.",
+      "options": [
+        "lui",
+        "lo",
+        "gli"
+      ],
+      "answer": "lui",
+      "explanation": "Esercizio 1: La forma corretta è 'lui'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Maria, ___ è molto intelligente.",
+      "options": [
+        "lei",
+        "la",
+        "le"
+      ],
+      "answer": "lei",
+      "explanation": "Esercizio 2: La forma corretta è 'lei'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "I bambini, ___ sono molto vivaci.",
+      "options": [
+        "loro",
+        "li",
+        "gli"
+      ],
+      "answer": "loro",
+      "explanation": "Esercizio 3: La forma corretta è 'loro'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Gli studenti, ___ studiano molto.",
+      "options": [
+        "loro",
+        "li",
+        "gli"
+      ],
+      "answer": "loro",
+      "explanation": "Esercizio 4: La forma corretta è 'loro'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "I professori, ___ insegnano bene.",
+      "options": [
+        "loro",
+        "li",
+        "gli"
+      ],
+      "answer": "loro",
+      "explanation": "Esercizio 5: La forma corretta è 'loro'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Il libro, ___ è molto interessante.",
+      "options": [
+        "esso",
+        "lo",
+        "gli"
+      ],
+      "answer": "esso",
+      "explanation": "Esercizio 6: La forma corretta è 'esso'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "La casa, ___ è molto bella.",
+      "options": [
+        "essa",
+        "la",
+        "le"
+      ],
+      "answer": "essa",
+      "explanation": "Esercizio 7: La forma corretta è 'essa'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "I fiori, ___ sono molto profumati.",
+      "options": [
+        "essi",
+        "li",
+        "gli"
+      ],
+      "answer": "essi",
+      "explanation": "Esercizio 8: La forma corretta è 'essi'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Le rose, ___ sono molto belle.",
+      "options": [
+        "esse",
+        "le",
+        "gli"
+      ],
+      "answer": "esse",
+      "explanation": "Esercizio 9: La forma corretta è 'esse'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Il cane, ___ è molto fedele.",
+      "options": [
+        "esso",
+        "lo",
+        "gli"
+      ],
+      "answer": "esso",
+      "explanation": "Esercizio 10: La forma corretta è 'esso'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Il libro, ___ ho letto ieri.",
+      "options": [
+        "lo",
+        "lui",
+        "gli"
+      ],
+      "answer": "lo",
+      "explanation": "Esercizio 11: La forma corretta è 'lo'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "La lettera, ___ ho scritto stamattina.",
+      "options": [
+        "la",
+        "lei",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "Esercizio 12: La forma corretta è 'la'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "I compiti, ___ ho fatto ieri sera.",
+      "options": [
+        "li",
+        "loro",
+        "gli"
+      ],
+      "answer": "li",
+      "explanation": "Esercizio 13: La forma corretta è 'li'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Le lezioni, ___ ho seguito attentamente.",
+      "options": [
+        "le",
+        "loro",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Esercizio 14: La forma corretta è 'le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Il lavoro, ___ ho finito oggi.",
+      "options": [
+        "lo",
+        "lui",
+        "gli"
+      ],
+      "answer": "lo",
+      "explanation": "Esercizio 15: La forma corretta è 'lo'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "La macchina, ___ ho comprato l'anno scorso.",
+      "options": [
+        "la",
+        "lei",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "Esercizio 16: La forma corretta è 'la'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "I vestiti, ___ ho comprato ieri.",
+      "options": [
+        "li",
+        "loro",
+        "gli"
+      ],
+      "answer": "li",
+      "explanation": "Esercizio 17: La forma corretta è 'li'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Le scarpe, ___ ho messo stamattina.",
+      "options": [
+        "le",
+        "loro",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Esercizio 18: La forma corretta è 'le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Il telefono, ___ ho perso ieri.",
+      "options": [
+        "lo",
+        "lui",
+        "gli"
+      ],
+      "answer": "lo",
+      "explanation": "Esercizio 19: La forma corretta è 'lo'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Le chiavi, ___ ho dimenticato a casa.",
+      "options": [
+        "le",
+        "loro",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Esercizio 20: La forma corretta è 'le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "A Mario, ___ ho dato il libro.",
+      "options": [
+        "gli",
+        "lo",
+        "lui"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 21: La forma corretta è 'gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "A Maria, ___ ho regalato i fiori.",
+      "options": [
+        "le",
+        "la",
+        "lei"
+      ],
+      "answer": "le",
+      "explanation": "Esercizio 22: La forma corretta è 'le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Ai bambini, ___ ho raccontato una storia.",
+      "options": [
+        "gli",
+        "li",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 23: La forma corretta è 'gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Agli studenti, ___ ho spiegato la lezione.",
+      "options": [
+        "gli",
+        "li",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 24: La forma corretta è 'gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Ai professori, ___ ho chiesto aiuto.",
+      "options": [
+        "gli",
+        "li",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 25: La forma corretta è 'gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Di Mario, ___ parlo sempre.",
+      "options": [
+        "ne",
+        "lo",
+        "lui"
+      ],
+      "answer": "ne",
+      "explanation": "Esercizio 26: La forma corretta è 'ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Di Maria, ___ parlo spesso.",
+      "options": [
+        "ne",
+        "la",
+        "lei"
+      ],
+      "answer": "ne",
+      "explanation": "Esercizio 27: La forma corretta è 'ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Dei bambini, ___ mi occupo volentieri.",
+      "options": [
+        "ne",
+        "li",
+        "loro"
+      ],
+      "answer": "ne",
+      "explanation": "Esercizio 28: La forma corretta è 'ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Degli studenti, ___ mi preoccupo sempre.",
+      "options": [
+        "ne",
+        "li",
+        "loro"
+      ],
+      "answer": "ne",
+      "explanation": "Esercizio 29: La forma corretta è 'ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Dei professori, ___ mi fido completamente.",
+      "options": [
+        "ne",
+        "li",
+        "loro"
+      ],
+      "answer": "ne",
+      "explanation": "Esercizio 30: La forma corretta è 'ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Con Mario, ___ vado al cinema.",
+      "options": [
+        "ci",
+        "lo",
+        "lui"
+      ],
+      "answer": "ci",
+      "explanation": "Esercizio 31: La forma corretta è 'ci'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Con Maria, ___ esco spesso.",
+      "options": [
+        "ci",
+        "la",
+        "lei"
+      ],
+      "answer": "ci",
+      "explanation": "Esercizio 32: La forma corretta è 'ci'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Con i bambini, ___ gioco volentieri.",
+      "options": [
+        "ci",
+        "li",
+        "loro"
+      ],
+      "answer": "ci",
+      "explanation": "Esercizio 33: La forma corretta è 'ci'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Con gli studenti, ___ lavoro bene.",
+      "options": [
+        "ci",
+        "li",
+        "loro"
+      ],
+      "answer": "ci",
+      "explanation": "Esercizio 34: La forma corretta è 'ci'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Con i professori, ___ collaboro sempre.",
+      "options": [
+        "ci",
+        "li",
+        "loro"
+      ],
+      "answer": "ci",
+      "explanation": "Esercizio 35: La forma corretta è 'ci'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ è molto bravo, Mario.",
+      "options": [
+        "Lui",
+        "Lo",
+        "Gli"
+      ],
+      "answer": "Lui",
+      "explanation": "Esercizio 36: La forma corretta è 'Lui'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ è molto intelligente, Maria.",
+      "options": [
+        "Lei",
+        "La",
+        "Le"
+      ],
+      "answer": "Lei",
+      "explanation": "Esercizio 37: La forma corretta è 'Lei'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ sono molto vivaci, i bambini.",
+      "options": [
+        "Loro",
+        "Li",
+        "Gli"
+      ],
+      "answer": "Loro",
+      "explanation": "Esercizio 38: La forma corretta è 'Loro'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ studiano molto, gli studenti.",
+      "options": [
+        "Loro",
+        "Li",
+        "Gli"
+      ],
+      "answer": "Loro",
+      "explanation": "Esercizio 39: La forma corretta è 'Loro'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ insegnano bene, i professori.",
+      "options": [
+        "Loro",
+        "Li",
+        "Gli"
+      ],
+      "answer": "Loro",
+      "explanation": "Esercizio 40: La forma corretta è 'Loro'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ è molto interessante, il libro.",
+      "options": [
+        "Esso",
+        "Lo",
+        "Gli"
+      ],
+      "answer": "Esso",
+      "explanation": "Esercizio 41: La forma corretta è 'Esso'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ è molto bella, la casa.",
+      "options": [
+        "Essa",
+        "La",
+        "Le"
+      ],
+      "answer": "Essa",
+      "explanation": "Esercizio 42: La forma corretta è 'Essa'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ sono molto profumati, i fiori.",
+      "options": [
+        "Essi",
+        "Li",
+        "Gli"
+      ],
+      "answer": "Essi",
+      "explanation": "Esercizio 43: La forma corretta è 'Essi'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ sono molto belle, le rose.",
+      "options": [
+        "Esse",
+        "Le",
+        "Gli"
+      ],
+      "answer": "Esse",
+      "explanation": "Esercizio 44: La forma corretta è 'Esse'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ è molto fedele, il cane.",
+      "options": [
+        "Esso",
+        "Lo",
+        "Gli"
+      ],
+      "answer": "Esso",
+      "explanation": "Esercizio 45: La forma corretta è 'Esso'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho letto ieri, il libro.",
+      "options": [
+        "Lo",
+        "Lui",
+        "Gli"
+      ],
+      "answer": "Lo",
+      "explanation": "Esercizio 46: La forma corretta è 'Lo'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho scritto stamattina, la lettera.",
+      "options": [
+        "La",
+        "Lei",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 47: La forma corretta è 'La'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho fatto ieri sera, i compiti.",
+      "options": [
+        "Li",
+        "Loro",
+        "Gli"
+      ],
+      "answer": "Li",
+      "explanation": "Esercizio 48: La forma corretta è 'Li'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho seguito attentamente, le lezioni.",
+      "options": [
+        "Le",
+        "Loro",
+        "Gli"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 49: La forma corretta è 'Le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho finito oggi, il lavoro.",
+      "options": [
+        "Lo",
+        "Lui",
+        "Gli"
+      ],
+      "answer": "Lo",
+      "explanation": "Esercizio 50: La forma corretta è 'Lo'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho comprato l'anno scorso, la macchina.",
+      "options": [
+        "La",
+        "Lei",
+        "Le"
+      ],
+      "answer": "La",
+      "explanation": "Esercizio 51: La forma corretta è 'La'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho comprato ieri, i vestiti.",
+      "options": [
+        "Li",
+        "Loro",
+        "Gli"
+      ],
+      "answer": "Li",
+      "explanation": "Esercizio 52: La forma corretta è 'Li'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho messo stamattina, le scarpe.",
+      "options": [
+        "Le",
+        "Loro",
+        "Gli"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 53: La forma corretta è 'Le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho perso ieri, il telefono.",
+      "options": [
+        "Lo",
+        "Lui",
+        "Gli"
+      ],
+      "answer": "Lo",
+      "explanation": "Esercizio 54: La forma corretta è 'Lo'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho dimenticato a casa, le chiavi.",
+      "options": [
+        "Le",
+        "Loro",
+        "Gli"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 55: La forma corretta è 'Le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho dato il libro, a Mario.",
+      "options": [
+        "Gli",
+        "Lo",
+        "Lui"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 56: La forma corretta è 'Gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho regalato i fiori, a Maria.",
+      "options": [
+        "Le",
+        "La",
+        "Lei"
+      ],
+      "answer": "Le",
+      "explanation": "Esercizio 57: La forma corretta è 'Le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho raccontato una storia, ai bambini.",
+      "options": [
+        "Gli",
+        "Li",
+        "Loro"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 58: La forma corretta è 'Gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho spiegato la lezione, agli studenti.",
+      "options": [
+        "Gli",
+        "Li",
+        "Loro"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 59: La forma corretta è 'Gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ ho chiesto aiuto, ai professori.",
+      "options": [
+        "Gli",
+        "Li",
+        "Loro"
+      ],
+      "answer": "Gli",
+      "explanation": "Esercizio 60: La forma corretta è 'Gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ parlo sempre, di Mario.",
+      "options": [
+        "Ne",
+        "Lo",
+        "Lui"
+      ],
+      "answer": "Ne",
+      "explanation": "Esercizio 61: La forma corretta è 'Ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ parlo spesso, di Maria.",
+      "options": [
+        "Ne",
+        "La",
+        "Lei"
+      ],
+      "answer": "Ne",
+      "explanation": "Esercizio 62: La forma corretta è 'Ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ mi occupo volentieri, dei bambini.",
+      "options": [
+        "Ne",
+        "Li",
+        "Loro"
+      ],
+      "answer": "Ne",
+      "explanation": "Esercizio 63: La forma corretta è 'Ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ mi preoccupo sempre, degli studenti.",
+      "options": [
+        "Ne",
+        "Li",
+        "Loro"
+      ],
+      "answer": "Ne",
+      "explanation": "Esercizio 64: La forma corretta è 'Ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ mi fido completamente, dei professori.",
+      "options": [
+        "Ne",
+        "Li",
+        "Loro"
+      ],
+      "answer": "Ne",
+      "explanation": "Esercizio 65: La forma corretta è 'Ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ vado al cinema, con Mario.",
+      "options": [
+        "Ci",
+        "Lo",
+        "Lui"
+      ],
+      "answer": "Ci",
+      "explanation": "Esercizio 66: La forma corretta è 'Ci'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ esco spesso, con Maria.",
+      "options": [
+        "Ci",
+        "La",
+        "Lei"
+      ],
+      "answer": "Ci",
+      "explanation": "Esercizio 67: La forma corretta è 'Ci'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ gioco volentieri, con i bambini.",
+      "options": [
+        "Ci",
+        "Li",
+        "Loro"
+      ],
+      "answer": "Ci",
+      "explanation": "Esercizio 68: La forma corretta è 'Ci'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ lavoro bene, con gli studenti.",
+      "options": [
+        "Ci",
+        "Li",
+        "Loro"
+      ],
+      "answer": "Ci",
+      "explanation": "Esercizio 69: La forma corretta è 'Ci'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "___ collaboro sempre, con i professori.",
+      "options": [
+        "Ci",
+        "Li",
+        "Loro"
+      ],
+      "answer": "Ci",
+      "explanation": "Esercizio 70: La forma corretta è 'Ci'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Mario, ___ è molto bravo in matematica.",
+      "options": [
+        "lui",
+        "lo",
+        "gli"
+      ],
+      "answer": "lui",
+      "explanation": "Esercizio 71: La forma corretta è 'lui'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Maria, ___ è molto brava in italiano.",
+      "options": [
+        "lei",
+        "la",
+        "le"
+      ],
+      "answer": "lei",
+      "explanation": "Esercizio 72: La forma corretta è 'lei'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "I bambini, ___ sono molto vivaci oggi.",
+      "options": [
+        "loro",
+        "li",
+        "gli"
+      ],
+      "answer": "loro",
+      "explanation": "Esercizio 73: La forma corretta è 'loro'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Gli studenti, ___ studiano molto per l'esame.",
+      "options": [
+        "loro",
+        "li",
+        "gli"
+      ],
+      "answer": "loro",
+      "explanation": "Esercizio 74: La forma corretta è 'loro'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "I professori, ___ insegnano bene la materia.",
+      "options": [
+        "loro",
+        "li",
+        "gli"
+      ],
+      "answer": "loro",
+      "explanation": "Esercizio 75: La forma corretta è 'loro'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Il libro, ___ è molto interessante da leggere.",
+      "options": [
+        "esso",
+        "lo",
+        "gli"
+      ],
+      "answer": "esso",
+      "explanation": "Esercizio 76: La forma corretta è 'esso'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "La casa, ___ è molto bella da vedere.",
+      "options": [
+        "essa",
+        "la",
+        "le"
+      ],
+      "answer": "essa",
+      "explanation": "Esercizio 77: La forma corretta è 'essa'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "I fiori, ___ sono molto profumati in primavera.",
+      "options": [
+        "essi",
+        "li",
+        "gli"
+      ],
+      "answer": "essi",
+      "explanation": "Esercizio 78: La forma corretta è 'essi'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Le rose, ___ sono molto belle da ammirare.",
+      "options": [
+        "esse",
+        "le",
+        "gli"
+      ],
+      "answer": "esse",
+      "explanation": "Esercizio 79: La forma corretta è 'esse'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Il cane, ___ è molto fedele al padrone.",
+      "options": [
+        "esso",
+        "lo",
+        "gli"
+      ],
+      "answer": "esso",
+      "explanation": "Esercizio 80: La forma corretta è 'esso'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Il libro, ___ ho letto ieri sera.",
+      "options": [
+        "lo",
+        "lui",
+        "gli"
+      ],
+      "answer": "lo",
+      "explanation": "Esercizio 81: La forma corretta è 'lo'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "La lettera, ___ ho scritto stamattina presto.",
+      "options": [
+        "la",
+        "lei",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "Esercizio 82: La forma corretta è 'la'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "I compiti, ___ ho fatto ieri sera tardi.",
+      "options": [
+        "li",
+        "loro",
+        "gli"
+      ],
+      "answer": "li",
+      "explanation": "Esercizio 83: La forma corretta è 'li'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Le lezioni, ___ ho seguito attentamente oggi.",
+      "options": [
+        "le",
+        "loro",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Esercizio 84: La forma corretta è 'le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Il lavoro, ___ ho finito oggi pomeriggio.",
+      "options": [
+        "lo",
+        "lui",
+        "gli"
+      ],
+      "answer": "lo",
+      "explanation": "Esercizio 85: La forma corretta è 'lo'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "La macchina, ___ ho comprato l'anno scorso.",
+      "options": [
+        "la",
+        "lei",
+        "le"
+      ],
+      "answer": "la",
+      "explanation": "Esercizio 86: La forma corretta è 'la'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "I vestiti, ___ ho comprato ieri al centro.",
+      "options": [
+        "li",
+        "loro",
+        "gli"
+      ],
+      "answer": "li",
+      "explanation": "Esercizio 87: La forma corretta è 'li'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Le scarpe, ___ ho messo stamattina per andare al lavoro.",
+      "options": [
+        "le",
+        "loro",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Esercizio 88: La forma corretta è 'le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Il telefono, ___ ho perso ieri in ufficio.",
+      "options": [
+        "lo",
+        "lui",
+        "gli"
+      ],
+      "answer": "lo",
+      "explanation": "Esercizio 89: La forma corretta è 'lo'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Le chiavi, ___ ho dimenticato a casa ieri.",
+      "options": [
+        "le",
+        "loro",
+        "gli"
+      ],
+      "answer": "le",
+      "explanation": "Esercizio 90: La forma corretta è 'le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "A Mario, ___ ho dato il libro che aveva chiesto.",
+      "options": [
+        "gli",
+        "lo",
+        "lui"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 91: La forma corretta è 'gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "A Maria, ___ ho regalato i fiori per il compleanno.",
+      "options": [
+        "le",
+        "la",
+        "lei"
+      ],
+      "answer": "le",
+      "explanation": "Esercizio 92: La forma corretta è 'le'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Ai bambini, ___ ho raccontato una storia prima di dormire.",
+      "options": [
+        "gli",
+        "li",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 93: La forma corretta è 'gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Agli studenti, ___ ho spiegato la lezione di matematica.",
+      "options": [
+        "gli",
+        "li",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 94: La forma corretta è 'gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Ai professori, ___ ho chiesto aiuto per il progetto.",
+      "options": [
+        "gli",
+        "li",
+        "loro"
+      ],
+      "answer": "gli",
+      "explanation": "Esercizio 95: La forma corretta è 'gli'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Di Mario, ___ parlo sempre con grande affetto.",
+      "options": [
+        "ne",
+        "lo",
+        "lui"
+      ],
+      "answer": "ne",
+      "explanation": "Esercizio 96: La forma corretta è 'ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Di Maria, ___ parlo spesso con i colleghi.",
+      "options": [
+        "ne",
+        "la",
+        "lei"
+      ],
+      "answer": "ne",
+      "explanation": "Esercizio 97: La forma corretta è 'ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Dei bambini, ___ mi occupo volentieri ogni giorno.",
+      "options": [
+        "ne",
+        "li",
+        "loro"
+      ],
+      "answer": "ne",
+      "explanation": "Esercizio 98: La forma corretta è 'ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Degli studenti, ___ mi preoccupo sempre per il loro futuro.",
+      "options": [
+        "ne",
+        "li",
+        "loro"
+      ],
+      "answer": "ne",
+      "explanation": "Esercizio 99: La forma corretta è 'ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    },
+    {
+      "question": "Dei professori, ___ mi fido completamente per la loro competenza.",
+      "options": [
+        "ne",
+        "li",
+        "loro"
+      ],
+      "answer": "ne",
+      "explanation": "Esercizio 100: La forma corretta è 'ne'. L'ordine delle parole in italiano può essere modificato per dare enfasi o focus a elementi specifici della frase."
+    }
+  ]
+}
