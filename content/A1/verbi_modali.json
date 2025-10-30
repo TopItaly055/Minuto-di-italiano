@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Verbi modali (A1)",
+  "exercises": [
+    {
+      "question": "Io ___ venire domani.",
+      "options": [
+        "posso",
+        "puoi",
+        "può"
+      ],
+      "answer": "posso",
+      "explanation": "Io (я) требует формы 'posso' от модального глагола potere."
+    },
+    {
+      "question": "Tu ___ aiutarmi?",
+      "options": [
+        "puoi",
+        "posso",
+        "può"
+      ],
+      "answer": "puoi",
+      "explanation": "Tu (ты) требует формы 'puoi' от модального глагола potere."
+    },
+    {
+      "question": "Lui ___ parlare italiano.",
+      "options": [
+        "può",
+        "posso",
+        "puoi"
+      ],
+      "answer": "può",
+      "explanation": "Lui (он) требует формы 'può' от модального глагола potere."
+    },
+    {
+      "question": "Lei ___ restare qui.",
+      "options": [
+        "può",
+        "puoi",
+        "possiamo"
+      ],
+      "answer": "può",
+      "explanation": "Lei (она) требует формы 'può' от модального глагола potere."
+    },
+    {
+      "question": "Noi ___ partire presto.",
+      "options": [
+        "possiamo",
+        "possono",
+        "potete"
+      ],
+      "answer": "possiamo",
+      "explanation": "Noi (мы) требует формы 'possiamo' от модального глагола potere."
+    },
+    {
+      "question": "Voi ___ aspettare?",
+      "options": [
+        "potete",
+        "possiamo",
+        "possono"
+      ],
+      "answer": "potete",
+      "explanation": "Voi (вы) требует формы 'potete' от модального глагола potere."
+    },
+    {
+      "question": "Loro ___ entrare.",
+      "options": [
+        "possono",
+        "può",
+        "potete"
+      ],
+      "answer": "possono",
+      "explanation": "Loro (они) требует формы 'possono' от модального глагола potere."
+    },
+    {
+      "question": "Io ___ studiare.",
+      "options": [
+        "devo",
+        "devi",
+        "deve"
+      ],
+      "answer": "devo",
+      "explanation": "Io (я) требует формы 'devo' от модального глагола dovere."
+    },
+    {
+      "question": "Tu ___ lavorare?",
+      "options": [
+        "devi",
+        "devo",
+        "deve"
+      ],
+      "answer": "devi",
+      "explanation": "Tu (ты) требует формы 'devi' от модального глагола dovere."
+    },
+    {
+      "question": "Lui ___ partire.",
+      "options": [
+        "deve",
+        "devo",
+        "devi"
+      ],
+      "answer": "deve",
+      "explanation": "Lui (он) требует формы 'deve' от модального глагола dovere."
+    },
+    {
+      "question": "Lei ___ tornare a casa.",
+      "options": [
+        "deve",
+        "devi",
+        "dobbiamo"
+      ],
+      "answer": "deve",
+      "explanation": "Lei (она) требует формы 'deve' от модального глагола dovere."
+    },
+    {
+      "question": "Noi ___ andare.",
+      "options": [
+        "dobbiamo",
+        "devono",
+        "dovete"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Noi (мы) требует формы 'dobbiamo' от модального глагола dovere."
+    },
+    {
+      "question": "Voi ___ finire?",
+      "options": [
+        "dovete",
+        "dobbiamo",
+        "devono"
+      ],
+      "answer": "dovete",
+      "explanation": "Voi (вы) требует формы 'dovete' от модального глагола dovere."
+    },
+    {
+      "question": "Loro ___ pagare.",
+      "options": [
+        "devono",
+        "deve",
+        "dovete"
+      ],
+      "answer": "devono",
+      "explanation": "Loro (они) требует формы 'devono' от модального глагола dovere."
+    },
+    {
+      "question": "Io ___ un caffè.",
+      "options": [
+        "voglio",
+        "vuoi",
+        "vuole"
+      ],
+      "answer": "voglio",
+      "explanation": "Io (я) требует формы 'voglio' от модального глагола volere."
+    },
+    {
+      "question": "Tu ___ mangiare?",
+      "options": [
+        "vuoi",
+        "voglio",
+        "vuole"
+      ],
+      "answer": "vuoi",
+      "explanation": "Tu (ты) требует формы 'vuoi' от модального глагола volere."
+    },
+    {
+      "question": "Lui ___ dormire.",
+      "options": [
+        "vuole",
+        "voglio",
+        "vuoi"
+      ],
+      "answer": "vuole",
+      "explanation": "Lui (он) требует формы 'vuole' от модального глагола volere."
+    },
+    {
+      "question": "Lei ___ partire.",
+      "options": [
+        "vuole",
+        "vuoi",
+        "vogliamo"
+      ],
+      "answer": "vuole",
+      "explanation": "Lei (она) требует формы 'vuole' от модального глагола volere."
+    },
+    {
+      "question": "Noi ___ restare.",
+      "options": [
+        "vogliamo",
+        "vogliono",
+        "volete"
+      ],
+      "answer": "vogliamo",
+      "explanation": "Noi (мы) требует формы 'vogliamo' от модального глагола volere."
+    },
+    {
+      "question": "Voi ___ venire?",
+      "options": [
+        "volete",
+        "vogliamo",
+        "vogliono"
+      ],
+      "answer": "volete",
+      "explanation": "Voi (вы) требует формы 'volete' от модального глагола volere."
+    },
+    {
+      "question": "Loro ___ andare.",
+      "options": [
+        "vogliono",
+        "vuole",
+        "volete"
+      ],
+      "answer": "vogliono",
+      "explanation": "Loro (они) требует формы 'vogliono' от модального глагола volere."
+    },
+    {
+      "question": "___ aprire la finestra?",
+      "options": [
+        "Posso",
+        "Devo",
+        "Voglio"
+      ],
+      "answer": "Posso",
+      "explanation": "Potere выражает разрешение/возможность: могу ли я открыть окно?"
+    },
+    {
+      "question": "Non ___ venire stasera.",
+      "options": [
+        "posso",
+        "devo",
+        "voglio"
+      ],
+      "answer": "posso",
+      "explanation": "Potere выражает возможность: не могу прийти."
+    },
+    {
+      "question": "___ aiutarmi, per favore?",
+      "options": [
+        "Puoi",
+        "Devi",
+        "Vuoi"
+      ],
+      "answer": "Puoi",
+      "explanation": "Potere выражает просьбу: можешь мне помочь?"
+    },
+    {
+      "question": "Lui non ___ guidare.",
+      "options": [
+        "può",
+        "deve",
+        "vuole"
+      ],
+      "answer": "può",
+      "explanation": "Potere выражает способность: он не может водить."
+    },
+    {
+      "question": "___ usare il telefono?",
+      "options": [
+        "Posso",
+        "Devo",
+        "Voglio"
+      ],
+      "answer": "Posso",
+      "explanation": "Potere выражает разрешение: могу я воспользоваться телефоном?"
+    },
+    {
+      "question": "___ andare a scuola.",
+      "options": [
+        "Devo",
+        "Posso",
+        "Voglio"
+      ],
+      "answer": "Devo",
+      "explanation": "Dovere выражает обязанность: должен идти в школу."
+    },
+    {
+      "question": "Tu ___ studiare di più.",
+      "options": [
+        "devi",
+        "puoi",
+        "vuoi"
+      ],
+      "answer": "devi",
+      "explanation": "Dovere выражает необходимость: ты должен больше учиться."
+    },
+    {
+      "question": "Noi ___ partire subito.",
+      "options": [
+        "dobbiamo",
+        "possiamo",
+        "vogliamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Dovere выражает необходимость: мы должны уйти сейчас."
+    },
+    {
+      "question": "___ pagare il conto.",
+      "options": [
+        "Devo",
+        "Posso",
+        "Voglio"
+      ],
+      "answer": "Devo",
+      "explanation": "Dovere выражает обязанность: должен оплатить счет."
+    },
+    {
+      "question": "Voi ___ fare i compiti.",
+      "options": [
+        "dovete",
+        "potete",
+        "volete"
+      ],
+      "answer": "dovete",
+      "explanation": "Dovere выражает обязанность: вы должны делать домашнее задание."
+    },
+    {
+      "question": "___ un gelato.",
+      "options": [
+        "Voglio",
+        "Devo",
+        "Posso"
+      ],
+      "answer": "Voglio",
+      "explanation": "Volere выражает желание: хочу мороженое."
+    },
+    {
+      "question": "Tu ___ bere qualcosa?",
+      "options": [
+        "vuoi",
+        "devi",
+        "puoi"
+      ],
+      "answer": "vuoi",
+      "explanation": "Volere выражает желание: ты хочешь что-то выпить?"
+    },
+    {
+      "question": "Lei ___ comprare una casa.",
+      "options": [
+        "vuole",
+        "deve",
+        "può"
+      ],
+      "answer": "vuole",
+      "explanation": "Volere выражает желание: она хочет купить дом."
+    },
+    {
+      "question": "Noi ___ andare al cinema.",
+      "options": [
+        "vogliamo",
+        "dobbiamo",
+        "possiamo"
+      ],
+      "answer": "vogliamo",
+      "explanation": "Volere выражает желание: мы хочем пойти в кино."
+    },
+    {
+      "question": "___ imparare l'italiano.",
+      "options": [
+        "Voglio",
+        "Devo",
+        "Posso"
+      ],
+      "answer": "Voglio",
+      "explanation": "Volere выражает желание: хочу выучить итальянский."
+    },
+    {
+      "question": "Non ___ mangiare la carne. (способность)",
+      "options": [
+        "posso",
+        "devo",
+        "voglio"
+      ],
+      "answer": "posso",
+      "explanation": "Potere для выражения способности: не могу есть мясо."
+    },
+    {
+      "question": "___ alzarmi presto domani. (обязанность)",
+      "options": [
+        "Devo",
+        "Posso",
+        "Voglio"
+      ],
+      "answer": "Devo",
+      "explanation": "Dovere для выражения обязанности: должен встать рано завтра."
+    },
+    {
+      "question": "___ viaggiare in Italia. (желание)",
+      "options": [
+        "Voglio",
+        "Devo",
+        "Posso"
+      ],
+      "answer": "Voglio",
+      "explanation": "Volere для выражения желания: хочу поехать в Италию."
+    },
+    {
+      "question": "Tu ___ parlare più piano? (просьба)",
+      "options": [
+        "puoi",
+        "devi",
+        "vuoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Potere для выражения просьбы: можешь говорить медленнее?"
+    },
+    {
+      "question": "Lui ___ lavorare oggi. (обязанность)",
+      "options": [
+        "deve",
+        "può",
+        "vuole"
+      ],
+      "answer": "deve",
+      "explanation": "Dovere для выражения обязанности: он должен работать сегодня."
+    },
+    {
+      "question": "Io ___ parlare italiano.",
+      "options": [
+        "so",
+        "posso",
+        "voglio"
+      ],
+      "answer": "so",
+      "explanation": "Sapere (знать как) + инфинитив: я умею говорить по-итальянски."
+    },
+    {
+      "question": "Tu ___ nuotare?",
+      "options": [
+        "sai",
+        "puoi",
+        "vuoi"
+      ],
+      "answer": "sai",
+      "explanation": "Sapere (знать как) + инфинитив: ты умеешь плавать?"
+    },
+    {
+      "question": "Lei ___ cucinare bene.",
+      "options": [
+        "sa",
+        "può",
+        "vuole"
+      ],
+      "answer": "sa",
+      "explanation": "Sapere (знать как) + инфинитив: она умеет хорошо готовить."
+    },
+    {
+      "question": "Noi ___ guidare.",
+      "options": [
+        "sappiamo",
+        "possiamo",
+        "vogliamo"
+      ],
+      "answer": "sappiamo",
+      "explanation": "Sapere (знать как) + инфинитив: мы умеем водить."
+    },
+    {
+      "question": "Loro ___ ballare.",
+      "options": [
+        "sanno",
+        "possono",
+        "vogliono"
+      ],
+      "answer": "sanno",
+      "explanation": "Sapere (знать как) + инфинитив: они умеют танцевать."
+    },
+    {
+      "question": "___ venire con me?",
+      "options": [
+        "Puoi",
+        "Devi",
+        "Sai"
+      ],
+      "answer": "Puoi",
+      "explanation": "Potere в вопросе: можешь пойти со мной?"
+    },
+    {
+      "question": "___ andare a casa adesso?",
+      "options": [
+        "Devo",
+        "Posso",
+        "So"
+      ],
+      "answer": "Devo",
+      "explanation": "Dovere в вопросе: я должен идти домой сейчас?"
+    },
+    {
+      "question": "___ mangiare la pizza?",
+      "options": [
+        "Vuoi",
+        "Devi",
+        "Sai"
+      ],
+      "answer": "Vuoi",
+      "explanation": "Volere в вопросе: хочешь пиццу?"
+    },
+    {
+      "question": "Quando ___ partire?",
+      "options": [
+        "dobbiamo",
+        "possiamo",
+        "sappiamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Dovere в вопросе: когда мы должны уехать?"
+    },
+    {
+      "question": "Dove ___ andare?",
+      "options": [
+        "volete",
+        "dovete",
+        "sapete"
+      ],
+      "answer": "volete",
+      "explanation": "Volere в вопросе: куда вы хотите пойти?"
+    },
+    {
+      "question": "Non ___ uscire stasera.",
+      "options": [
+        "posso",
+        "devo",
+        "so"
+      ],
+      "answer": "posso",
+      "explanation": "Отрицание с potere: не могу выйти вечером."
+    },
+    {
+      "question": "Non ___ studiare oggi.",
+      "options": [
+        "voglio",
+        "posso",
+        "so"
+      ],
+      "answer": "voglio",
+      "explanation": "Отрицание с volere: не хочу учиться сегодня."
+    },
+    {
+      "question": "Non ___ andare al lavoro.",
+      "options": [
+        "devo",
+        "voglio",
+        "so"
+      ],
+      "answer": "devo",
+      "explanation": "Отрицание с dovere: не должен идти на работу."
+    },
+    {
+      "question": "Lui non ___ parlare francese.",
+      "options": [
+        "sa",
+        "può",
+        "vuole"
+      ],
+      "answer": "sa",
+      "explanation": "Отрицание с sapere: он не умеет говорить по-французски."
+    },
+    {
+      "question": "Noi non ___ restare.",
+      "options": [
+        "possiamo",
+        "dobbiamo",
+        "sappiamo"
+      ],
+      "answer": "possiamo",
+      "explanation": "Отрицание с potere: мы не можем остаться."
+    },
+    {
+      "question": "Io ___ fare la spesa.",
+      "options": [
+        "devo",
+        "posso",
+        "so"
+      ],
+      "answer": "devo",
+      "explanation": "Dovere + fare: должен сделать покупки."
+    },
+    {
+      "question": "Tu ___ vedere questo film.",
+      "options": [
+        "devi",
+        "puoi",
+        "sai"
+      ],
+      "answer": "devi",
+      "explanation": "Dovere + vedere: ты должен посмотреть этот фильм."
+    },
+    {
+      "question": "Lei ___ leggere il libro.",
+      "options": [
+        "vuole",
+        "deve",
+        "sa"
+      ],
+      "answer": "vuole",
+      "explanation": "Volere + leggere: она хочет прочитать книгу."
+    },
+    {
+      "question": "Noi ___ ascoltare la musica.",
+      "options": [
+        "vogliamo",
+        "dobbiamo",
+        "sappiamo"
+      ],
+      "answer": "vogliamo",
+      "explanation": "Volere + ascoltare: мы хотим слушать музыку."
+    },
+    {
+      "question": "Voi ___ scrivere una lettera.",
+      "options": [
+        "dovete",
+        "potete",
+        "sapete"
+      ],
+      "answer": "dovete",
+      "explanation": "Dovere + scrivere: вы должны написать письмо."
+    },
+    {
+      "question": "___ un'informazione? (просьба)",
+      "options": [
+        "Posso avere",
+        "Devo avere",
+        "Voglio avere"
+      ],
+      "answer": "Posso avere",
+      "explanation": "Potere для вежливой просьбы: могу я получить информацию?"
+    },
+    {
+      "question": "___ aiuto, per favore. (просьба)",
+      "options": [
+        "Posso avere",
+        "Devo avere",
+        "So avere"
+      ],
+      "answer": "Posso avere",
+      "explanation": "Potere для вежливой просьбы: могу я получить помощь?"
+    },
+    {
+      "question": "___ andare via adesso. (обязанность)",
+      "options": [
+        "Devo",
+        "Posso",
+        "Voglio"
+      ],
+      "answer": "Devo",
+      "explanation": "Dovere для обязанности: должен уйти сейчас."
+    },
+    {
+      "question": "___ riposare. (желание)",
+      "options": [
+        "Voglio",
+        "Devo",
+        "Posso"
+      ],
+      "answer": "Voglio",
+      "explanation": "Volere для желания: хочу отдохнуть."
+    },
+    {
+      "question": "___ entrare? (разрешение)",
+      "options": [
+        "Posso",
+        "Devo",
+        "Voglio"
+      ],
+      "answer": "Posso",
+      "explanation": "Potere для запроса разрешения: могу войти?"
+    },
+    {
+      "question": "Domani ___ visitare il museo.",
+      "options": [
+        "possiamo",
+        "dobbiamo",
+        "sappiamo"
+      ],
+      "answer": "possiamo",
+      "explanation": "Potere для возможности в будущем: завтра сможем посетить музей."
+    },
+    {
+      "question": "Stasera ___ studiare.",
+      "options": [
+        "devo",
+        "posso",
+        "so"
+      ],
+      "answer": "devo",
+      "explanation": "Dovere для обязанности: вечером должен учиться."
+    },
+    {
+      "question": "Dopo ___ andare a casa.",
+      "options": [
+        "voglio",
+        "devo",
+        "so"
+      ],
+      "answer": "voglio",
+      "explanation": "Volere для желания: потом хочу пойти домой."
+    },
+    {
+      "question": "Ora non ___ parlare.",
+      "options": [
+        "posso",
+        "devo",
+        "so"
+      ],
+      "answer": "posso",
+      "explanation": "Potere для возможности: сейчас не могу говорить."
+    },
+    {
+      "question": "Oggi ___ finire il lavoro.",
+      "options": [
+        "devo",
+        "posso",
+        "voglio"
+      ],
+      "answer": "devo",
+      "explanation": "Dovere для обязанности: сегодня должен закончить работу."
+    },
+    {
+      "question": "Scusa, ___ passare? (вежливая просьба)",
+      "options": [
+        "posso",
+        "devo",
+        "voglio"
+      ],
+      "answer": "posso",
+      "explanation": "Potere для вежливой просьбы: извините, могу пройти?"
+    },
+    {
+      "question": "___ parlare con il direttore. (необходимость)",
+      "options": [
+        "Devo",
+        "Posso",
+        "Voglio"
+      ],
+      "answer": "Devo",
+      "explanation": "Dovere для необходимости: должен поговорить с директором."
+    },
+    {
+      "question": "___ comprare il pane. (желание)",
+      "options": [
+        "Voglio",
+        "Devo",
+        "Posso"
+      ],
+      "answer": "Voglio",
+      "explanation": "Volere для желания: хочу купить хлеб."
+    },
+    {
+      "question": "Non ___ fumare qui. (запрет)",
+      "options": [
+        "puoi",
+        "devi",
+        "vuoi"
+      ],
+      "answer": "puoi",
+      "explanation": "Potere для выражения запрета: нельзя курить здесь."
+    },
+    {
+      "question": "___ tornare presto. (обязанность)",
+      "options": [
+        "Devo",
+        "Posso",
+        "Voglio"
+      ],
+      "answer": "Devo",
+      "explanation": "Dovere для обязанности: должен вернуться рано."
+    },
+    {
+      "question": "Mio fratello ___ giocare a calcio.",
+      "options": [
+        "sa",
+        "deve",
+        "vuole"
+      ],
+      "answer": "sa",
+      "explanation": "Sapere для умения: мой брат умеет играть в футбол."
+    },
+    {
+      "question": "I bambini ___ dormire.",
+      "options": [
+        "devono",
+        "possono",
+        "sanno"
+      ],
+      "answer": "devono",
+      "explanation": "Dovere для обязанности: дети должны спать."
+    },
+    {
+      "question": "Maria ___ partire domani.",
+      "options": [
+        "deve",
+        "può",
+        "sa"
+      ],
+      "answer": "deve",
+      "explanation": "Dovere для необходимости: Мария должна уехать завтра."
+    },
+    {
+      "question": "Gli studenti ___ studiare.",
+      "options": [
+        "devono",
+        "possono",
+        "sanno"
+      ],
+      "answer": "devono",
+      "explanation": "Dovere для обязанности: студенты должны учиться."
+    },
+    {
+      "question": "Il professore ___ spiegare la lezione.",
+      "options": [
+        "deve",
+        "può",
+        "sa"
+      ],
+      "answer": "deve",
+      "explanation": "Dovere для обязанности: профессор должен объяснить урок."
+    },
+    {
+      "question": "Scusi, ___ chiudere la porta?",
+      "options": [
+        "può",
+        "deve",
+        "sa"
+      ],
+      "answer": "può",
+      "explanation": "Potere для вежливой просьбы: извините, можете закрыть дверь?"
+    },
+    {
+      "question": "___ prenotare un tavolo.",
+      "options": [
+        "Voglio",
+        "Devo",
+        "So"
+      ],
+      "answer": "Voglio",
+      "explanation": "Volere для желания: хочу забронировать столик."
+    },
+    {
+      "question": "Non ___ capire l'italiano.",
+      "options": [
+        "so",
+        "devo",
+        "voglio"
+      ],
+      "answer": "so",
+      "explanation": "Sapere для умения: не умею понимать итальянский."
+    },
+    {
+      "question": "___ prendere il treno.",
+      "options": [
+        "Devo",
+        "Posso",
+        "So"
+      ],
+      "answer": "Devo",
+      "explanation": "Dovere для необходимости: должен сесть на поезд."
+    },
+    {
+      "question": "___ rimanere a casa.",
+      "options": [
+        "Voglio",
+        "Devo",
+        "So"
+      ],
+      "answer": "Voglio",
+      "explanation": "Volere для желания: хочу остаться дома."
+    },
+    {
+      "question": "Io ___ andare in vacanza.",
+      "options": [
+        "voglio",
+        "devo",
+        "so"
+      ],
+      "answer": "voglio",
+      "explanation": "Volere для желания: хочу поехать в отпуск."
+    },
+    {
+      "question": "Tu ___ fare attenzione.",
+      "options": [
+        "devi",
+        "puoi",
+        "sai"
+      ],
+      "answer": "devi",
+      "explanation": "Dovere для предупреждения: ты должен быть внимательным."
+    },
+    {
+      "question": "Lei ___ suonare il piano.",
+      "options": [
+        "sa",
+        "deve",
+        "vuole"
+      ],
+      "answer": "sa",
+      "explanation": "Sapere для умения: она умеет играть на пианино."
+    },
+    {
+      "question": "Noi ___ aspettare qui.",
+      "options": [
+        "dobbiamo",
+        "possiamo",
+        "sappiamo"
+      ],
+      "answer": "dobbiamo",
+      "explanation": "Dovere для обязанности: мы должны ждать здесь."
+    },
+    {
+      "question": "Voi ___ venire alla festa?",
+      "options": [
+        "potete",
+        "dovete",
+        "sapete"
+      ],
+      "answer": "potete",
+      "explanation": "Potere для возможности: вы можете прийти на вечеринку?"
+    },
+    {
+      "question": "Loro ___ parlare tre lingue.",
+      "options": [
+        "sanno",
+        "devono",
+        "vogliono"
+      ],
+      "answer": "sanno",
+      "explanation": "Sapere для умения: они знают три языка."
+    },
+    {
+      "question": "___ usare il computer.",
+      "options": [
+        "So",
+        "Devo",
+        "Voglio"
+      ],
+      "answer": "So",
+      "explanation": "Sapere для умения: я умею пользоваться компьютером."
+    },
+    {
+      "question": "___ comprare i biglietti.",
+      "options": [
+        "Devo",
+        "Posso",
+        "So"
+      ],
+      "answer": "Devo",
+      "explanation": "Dovere для обязанности: должен купить билеты."
+    },
+    {
+      "question": "___ parlare con te.",
+      "options": [
+        "Voglio",
+        "Devo",
+        "So"
+      ],
+      "answer": "Voglio",
+      "explanation": "Volere для желания: хочу поговорить с тобой."
+    },
+    {
+      "question": "___ nuotare bene.",
+      "options": [
+        "Sai",
+        "Devi",
+        "Vuoi"
+      ],
+      "answer": "Sai",
+      "explanation": "Sapere для умения: ты умеешь хорошо плавать."
+    },
+    {
+      "question": "Non ___ uscire oggi.",
+      "options": [
+        "posso",
+        "devo",
+        "so"
+      ],
+      "answer": "posso",
+      "explanation": "Potere для возможности: не могу выйти сегодня."
+    },
+    {
+      "question": "___ mangiare qualcosa?",
+      "options": [
+        "Vuoi",
+        "Devi",
+        "Sai"
+      ],
+      "answer": "Vuoi",
+      "explanation": "Volere для предложения: хочешь что-нибудь поесть?"
+    },
+    {
+      "question": "___ essere gentile.",
+      "options": [
+        "Devi",
+        "Puoi",
+        "Sai"
+      ],
+      "answer": "Devi",
+      "explanation": "Dovere для совета: ты должен быть вежливым."
+    },
+    {
+      "question": "___ andare dal dottore.",
+      "options": [
+        "Devo",
+        "Posso",
+        "So"
+      ],
+      "answer": "Devo",
+      "explanation": "Dovere для необходимости: должен пойти к врачу."
+    }
+  ]
+}
