@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Scelta strategica tempi/modi (C2)",
+  "exercises": [
+    {
+      "question": "Nel 1492 Colombo ___ l'America.",
+      "options": [
+        "scopre",
+        "scoprì",
+        "ha scoperto"
+      ],
+      "answer": "scopre",
+      "explanation": "Esercizio 1: La forma corretta è 'scopre'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Nel 1969 l'uomo ___ sulla Luna.",
+      "options": [
+        "sbarra",
+        "sbarcò",
+        "ha sbarcato"
+      ],
+      "answer": "sbarra",
+      "explanation": "Esercizio 2: La forma corretta è 'sbarra'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Nel 1989 ___ il Muro di Berlino.",
+      "options": [
+        "cade",
+        "cadde",
+        "è caduto"
+      ],
+      "answer": "cade",
+      "explanation": "Esercizio 3: La forma corretta è 'cade'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Nel 2001 ___ le Torri Gemelle.",
+      "options": [
+        "crollano",
+        "crollarono",
+        "sono crollate"
+      ],
+      "answer": "crollano",
+      "explanation": "Esercizio 4: La forma corretta è 'crollano'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Nel 2020 ___ la pandemia.",
+      "options": [
+        "inizia",
+        "iniziò",
+        "è iniziata"
+      ],
+      "answer": "inizia",
+      "explanation": "Esercizio 5: La forma corretta è 'inizia'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Mentre ___ la lezione, arrivò il professore.",
+      "options": [
+        "seguivo",
+        "seguo",
+        "seguirò"
+      ],
+      "answer": "seguivo",
+      "explanation": "Esercizio 6: La forma corretta è 'seguivo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Mentre ___ il libro, suonò il telefono.",
+      "options": [
+        "leggevo",
+        "leggo",
+        "leggerò"
+      ],
+      "answer": "leggevo",
+      "explanation": "Esercizio 7: La forma corretta è 'leggevo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Mentre ___ la musica, bussò alla porta.",
+      "options": [
+        "ascoltavo",
+        "ascolto",
+        "ascolterò"
+      ],
+      "answer": "ascoltavo",
+      "explanation": "Esercizio 8: La forma corretta è 'ascoltavo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Mentre ___ la TV, arrivò l'ospite.",
+      "options": [
+        "guardavo",
+        "guardo",
+        "guarderò"
+      ],
+      "answer": "guardavo",
+      "explanation": "Esercizio 9: La forma corretta è 'guardavo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Mentre ___ il caffè, suonò il campanello.",
+      "options": [
+        "bevevo",
+        "bevo",
+        "berrò"
+      ],
+      "answer": "bevevo",
+      "explanation": "Esercizio 10: La forma corretta è 'bevevo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Ieri ___ a Roma.",
+      "options": [
+        "andai",
+        "sono andato",
+        "vado"
+      ],
+      "answer": "andai",
+      "explanation": "Esercizio 11: La forma corretta è 'andai'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Ieri ___ il libro.",
+      "options": [
+        "lessi",
+        "ho letto",
+        "leggo"
+      ],
+      "answer": "lessi",
+      "explanation": "Esercizio 12: La forma corretta è 'lessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Ieri ___ la lezione.",
+      "options": [
+        "seguii",
+        "ho seguito",
+        "seguo"
+      ],
+      "answer": "seguii",
+      "explanation": "Esercizio 13: La forma corretta è 'seguii'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Ieri ___ la musica.",
+      "options": [
+        "ascoltai",
+        "ho ascoltato",
+        "ascolto"
+      ],
+      "answer": "ascoltai",
+      "explanation": "Esercizio 14: La forma corretta è 'ascoltai'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Ieri ___ la TV.",
+      "options": [
+        "guardai",
+        "ho guardato",
+        "guardo"
+      ],
+      "answer": "guardai",
+      "explanation": "Esercizio 15: La forma corretta è 'guardai'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Quando ___ a casa, ti chiamerò.",
+      "options": [
+        "sarai arrivato",
+        "arriverai",
+        "arrivi"
+      ],
+      "answer": "sarai arrivato",
+      "explanation": "Esercizio 16: La forma corretta è 'sarai arrivato'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Quando ___ il lavoro, uscirò.",
+      "options": [
+        "avrai finito",
+        "finirai",
+        "finisci"
+      ],
+      "answer": "avrai finito",
+      "explanation": "Esercizio 17: La forma corretta è 'avrai finito'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Quando ___ la lezione, studierò.",
+      "options": [
+        "avrai seguito",
+        "seguirai",
+        "segui"
+      ],
+      "answer": "avrai seguito",
+      "explanation": "Esercizio 18: La forma corretta è 'avrai seguito'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Quando ___ il libro, lo riporterò.",
+      "options": [
+        "avrai letto",
+        "leggerai",
+        "leggi"
+      ],
+      "answer": "avrai letto",
+      "explanation": "Esercizio 19: La forma corretta è 'avrai letto'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Quando ___ la musica, la spegnerò.",
+      "options": [
+        "avrai ascoltato",
+        "ascolterai",
+        "ascolti"
+      ],
+      "answer": "avrai ascoltato",
+      "explanation": "Esercizio 20: La forma corretta è 'avrai ascoltato'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "È necessario che ___ puntuale.",
+      "options": [
+        "sia",
+        "è",
+        "sarà"
+      ],
+      "answer": "sia",
+      "explanation": "Esercizio 21: La forma corretta è 'sia'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "È importante che ___ la lezione.",
+      "options": [
+        "segua",
+        "segue",
+        "seguirà"
+      ],
+      "answer": "segua",
+      "explanation": "Esercizio 22: La forma corretta è 'segua'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "È fondamentale che ___ il libro.",
+      "options": [
+        "legga",
+        "legge",
+        "leggerà"
+      ],
+      "answer": "legga",
+      "explanation": "Esercizio 23: La forma corretta è 'legga'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "È essenziale che ___ la musica.",
+      "options": [
+        "ascolti",
+        "ascolta",
+        "ascolterà"
+      ],
+      "answer": "ascolti",
+      "explanation": "Esercizio 24: La forma corretta è 'ascolti'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "È cruciale che ___ la TV.",
+      "options": [
+        "guardi",
+        "guarda",
+        "guarderà"
+      ],
+      "answer": "guardi",
+      "explanation": "Esercizio 25: La forma corretta è 'guardi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Se ___ tempo, studierei di più.",
+      "options": [
+        "avessi",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avessi",
+      "explanation": "Esercizio 26: La forma corretta è 'avessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Se ___ denaro, viaggerei.",
+      "options": [
+        "avessi",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avessi",
+      "explanation": "Esercizio 27: La forma corretta è 'avessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Se ___ coraggio, proverei.",
+      "options": [
+        "avessi",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avessi",
+      "explanation": "Esercizio 28: La forma corretta è 'avessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Se ___ pazienza, aspetterei.",
+      "options": [
+        "avessi",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avessi",
+      "explanation": "Esercizio 29: La forma corretta è 'avessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Se ___ fiducia, crederei.",
+      "options": [
+        "avessi",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avessi",
+      "explanation": "Esercizio 30: La forma corretta è 'avessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ puntuale alla lezione.",
+      "options": [
+        "Sii",
+        "Sei",
+        "Sarai"
+      ],
+      "answer": "Sii",
+      "explanation": "Esercizio 31: La forma corretta è 'Sii'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la lezione con attenzione.",
+      "options": [
+        "Segui",
+        "Segue",
+        "Seguirai"
+      ],
+      "answer": "Segui",
+      "explanation": "Esercizio 32: La forma corretta è 'Segui'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ il libro con calma.",
+      "options": [
+        "Leggi",
+        "Legge",
+        "Leggerai"
+      ],
+      "answer": "Leggi",
+      "explanation": "Esercizio 33: La forma corretta è 'Leggi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la musica con piacere.",
+      "options": [
+        "Ascolta",
+        "Ascolta",
+        "Ascolterai"
+      ],
+      "answer": "Ascolta",
+      "explanation": "Esercizio 34: La forma corretta è 'Ascolta'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la TV con moderazione.",
+      "options": [
+        "Guarda",
+        "Guarda",
+        "Guarderai"
+      ],
+      "answer": "Guarda",
+      "explanation": "Esercizio 35: La forma corretta è 'Guarda'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la lezione, ho capito tutto.",
+      "options": [
+        "Seguendo",
+        "Seguito",
+        "Seguirò"
+      ],
+      "answer": "Seguendo",
+      "explanation": "Esercizio 36: La forma corretta è 'Seguendo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ il libro, ho imparato molto.",
+      "options": [
+        "Leggendo",
+        "Letto",
+        "Leggerò"
+      ],
+      "answer": "Leggendo",
+      "explanation": "Esercizio 37: La forma corretta è 'Leggendo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la musica, mi sono rilassato.",
+      "options": [
+        "Ascoltando",
+        "Ascoltato",
+        "Ascolterò"
+      ],
+      "answer": "Ascoltando",
+      "explanation": "Esercizio 38: La forma corretta è 'Ascoltando'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la TV, ho visto il film.",
+      "options": [
+        "Guardando",
+        "Guardato",
+        "Guarderò"
+      ],
+      "answer": "Guardando",
+      "explanation": "Esercizio 39: La forma corretta è 'Guardando'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ il caffè, ho chiacchierato.",
+      "options": [
+        "Bevendo",
+        "Bevuto",
+        "Berrò"
+      ],
+      "answer": "Bevendo",
+      "explanation": "Esercizio 40: La forma corretta è 'Bevendo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Lei ___ italiano molto bene.",
+      "options": [
+        "parla",
+        "parli",
+        "parlate"
+      ],
+      "answer": "parla",
+      "explanation": "Esercizio 41: La forma corretta è 'parla'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Tu ___ italiano molto bene.",
+      "options": [
+        "parli",
+        "parla",
+        "parlate"
+      ],
+      "answer": "parli",
+      "explanation": "Esercizio 42: La forma corretta è 'parli'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Voi ___ italiano molto bene.",
+      "options": [
+        "parlate",
+        "parli",
+        "parla"
+      ],
+      "answer": "parlate",
+      "explanation": "Esercizio 43: La forma corretta è 'parlate'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Lei ___ italiano molto bene.",
+      "options": [
+        "parla",
+        "parli",
+        "parlate"
+      ],
+      "answer": "parla",
+      "explanation": "Esercizio 44: La forma corretta è 'parla'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Tu ___ italiano molto bene.",
+      "options": [
+        "parli",
+        "parla",
+        "parlate"
+      ],
+      "answer": "parli",
+      "explanation": "Esercizio 45: La forma corretta è 'parli'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il volume ___ interessante.",
+      "options": [
+        "risulta",
+        "è",
+        "sarà"
+      ],
+      "answer": "risulta",
+      "explanation": "Esercizio 46: La forma corretta è 'risulta'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il libro ___ interessante.",
+      "options": [
+        "è",
+        "risulta",
+        "sarà"
+      ],
+      "answer": "è",
+      "explanation": "Esercizio 47: La forma corretta è 'è'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "La pubblicazione ___ interessante.",
+      "options": [
+        "risulta",
+        "è",
+        "sarà"
+      ],
+      "answer": "risulta",
+      "explanation": "Esercizio 48: La forma corretta è 'risulta'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il testo ___ interessante.",
+      "options": [
+        "è",
+        "risulta",
+        "sarà"
+      ],
+      "answer": "è",
+      "explanation": "Esercizio 49: La forma corretta è 'è'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "L'opera ___ interessante.",
+      "options": [
+        "risulta",
+        "è",
+        "sarà"
+      ],
+      "answer": "risulta",
+      "explanation": "Esercizio 50: La forma corretta è 'risulta'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il sistema ___ funzionare.",
+      "options": [
+        "deve",
+        "dovrebbe",
+        "dovrà"
+      ],
+      "answer": "deve",
+      "explanation": "Esercizio 51: La forma corretta è 'deve'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il meccanismo ___ funzionare.",
+      "options": [
+        "dovrebbe",
+        "deve",
+        "dovrà"
+      ],
+      "answer": "dovrebbe",
+      "explanation": "Esercizio 52: La forma corretta è 'dovrebbe'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "L'apparato ___ funzionare.",
+      "options": [
+        "deve",
+        "dovrebbe",
+        "dovrà"
+      ],
+      "answer": "deve",
+      "explanation": "Esercizio 53: La forma corretta è 'deve'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il dispositivo ___ funzionare.",
+      "options": [
+        "dovrebbe",
+        "deve",
+        "dovrà"
+      ],
+      "answer": "dovrebbe",
+      "explanation": "Esercizio 54: La forma corretta è 'dovrebbe'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "L'impianto ___ funzionare.",
+      "options": [
+        "deve",
+        "dovrebbe",
+        "dovrà"
+      ],
+      "answer": "deve",
+      "explanation": "Esercizio 55: La forma corretta è 'deve'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il sole ___ nel cielo.",
+      "options": [
+        "splende",
+        "brilla",
+        "luccica"
+      ],
+      "answer": "splende",
+      "explanation": "Esercizio 56: La forma corretta è 'splende'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "La stella ___ nel cielo.",
+      "options": [
+        "brilla",
+        "splende",
+        "luccica"
+      ],
+      "answer": "brilla",
+      "explanation": "Esercizio 57: La forma corretta è 'brilla'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il diamante ___ nel cielo.",
+      "options": [
+        "luccica",
+        "splende",
+        "brilla"
+      ],
+      "answer": "luccica",
+      "explanation": "Esercizio 58: La forma corretta è 'luccica'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il sole ___ nel cielo.",
+      "options": [
+        "splende",
+        "brilla",
+        "luccica"
+      ],
+      "answer": "splende",
+      "explanation": "Esercizio 59: La forma corretta è 'splende'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "La stella ___ nel cielo.",
+      "options": [
+        "brilla",
+        "splende",
+        "luccica"
+      ],
+      "answer": "brilla",
+      "explanation": "Esercizio 60: La forma corretta è 'brilla'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Se ___ tempo, studierei di più.",
+      "options": [
+        "avessi",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avessi",
+      "explanation": "Esercizio 61: La forma corretta è 'avessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Se ___ denaro, viaggerei.",
+      "options": [
+        "avessi",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avessi",
+      "explanation": "Esercizio 62: La forma corretta è 'avessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Se ___ coraggio, proverei.",
+      "options": [
+        "avessi",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avessi",
+      "explanation": "Esercizio 63: La forma corretta è 'avessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Se ___ pazienza, aspetterei.",
+      "options": [
+        "avessi",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avessi",
+      "explanation": "Esercizio 64: La forma corretta è 'avessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Se ___ fiducia, crederei.",
+      "options": [
+        "avessi",
+        "ho",
+        "avrò"
+      ],
+      "answer": "avessi",
+      "explanation": "Esercizio 65: La forma corretta è 'avessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "È necessario che ___ puntuale.",
+      "options": [
+        "sia",
+        "è",
+        "sarà"
+      ],
+      "answer": "sia",
+      "explanation": "Esercizio 66: La forma corretta è 'sia'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "È importante che ___ la lezione.",
+      "options": [
+        "segua",
+        "segue",
+        "seguirà"
+      ],
+      "answer": "segua",
+      "explanation": "Esercizio 67: La forma corretta è 'segua'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "È fondamentale che ___ il libro.",
+      "options": [
+        "legga",
+        "legge",
+        "leggerà"
+      ],
+      "answer": "legga",
+      "explanation": "Esercizio 68: La forma corretta è 'legga'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "È essenziale che ___ la musica.",
+      "options": [
+        "ascolti",
+        "ascolta",
+        "ascolterà"
+      ],
+      "answer": "ascolti",
+      "explanation": "Esercizio 69: La forma corretta è 'ascolti'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "È cruciale che ___ la TV.",
+      "options": [
+        "guardi",
+        "guarda",
+        "guarderà"
+      ],
+      "answer": "guardi",
+      "explanation": "Esercizio 70: La forma corretta è 'guardi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ puntuale alla lezione.",
+      "options": [
+        "Sii",
+        "Sei",
+        "Sarai"
+      ],
+      "answer": "Sii",
+      "explanation": "Esercizio 71: La forma corretta è 'Sii'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la lezione con attenzione.",
+      "options": [
+        "Segui",
+        "Segue",
+        "Seguirai"
+      ],
+      "answer": "Segui",
+      "explanation": "Esercizio 72: La forma corretta è 'Segui'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ il libro con calma.",
+      "options": [
+        "Leggi",
+        "Legge",
+        "Leggerai"
+      ],
+      "answer": "Leggi",
+      "explanation": "Esercizio 73: La forma corretta è 'Leggi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la musica con piacere.",
+      "options": [
+        "Ascolta",
+        "Ascolta",
+        "Ascolterai"
+      ],
+      "answer": "Ascolta",
+      "explanation": "Esercizio 74: La forma corretta è 'Ascolta'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la TV con moderazione.",
+      "options": [
+        "Guarda",
+        "Guarda",
+        "Guarderai"
+      ],
+      "answer": "Guarda",
+      "explanation": "Esercizio 75: La forma corretta è 'Guarda'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la lezione, ho capito tutto.",
+      "options": [
+        "Seguendo",
+        "Seguito",
+        "Seguirò"
+      ],
+      "answer": "Seguendo",
+      "explanation": "Esercizio 76: La forma corretta è 'Seguendo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ il libro, ho imparato molto.",
+      "options": [
+        "Leggendo",
+        "Letto",
+        "Leggerò"
+      ],
+      "answer": "Leggendo",
+      "explanation": "Esercizio 77: La forma corretta è 'Leggendo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la musica, mi sono rilassato.",
+      "options": [
+        "Ascoltando",
+        "Ascoltato",
+        "Ascolterò"
+      ],
+      "answer": "Ascoltando",
+      "explanation": "Esercizio 78: La forma corretta è 'Ascoltando'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ la TV, ho visto il film.",
+      "options": [
+        "Guardando",
+        "Guardato",
+        "Guarderò"
+      ],
+      "answer": "Guardando",
+      "explanation": "Esercizio 79: La forma corretta è 'Guardando'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "___ il caffè, ho chiacchierato.",
+      "options": [
+        "Bevendo",
+        "Bevuto",
+        "Berrò"
+      ],
+      "answer": "Bevendo",
+      "explanation": "Esercizio 80: La forma corretta è 'Bevendo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il volume ___ interessante.",
+      "options": [
+        "risulta",
+        "è",
+        "sarà"
+      ],
+      "answer": "risulta",
+      "explanation": "Esercizio 81: La forma corretta è 'risulta'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il libro ___ interessante.",
+      "options": [
+        "è",
+        "risulta",
+        "sarà"
+      ],
+      "answer": "è",
+      "explanation": "Esercizio 82: La forma corretta è 'è'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "La pubblicazione ___ interessante.",
+      "options": [
+        "risulta",
+        "è",
+        "sarà"
+      ],
+      "answer": "risulta",
+      "explanation": "Esercizio 83: La forma corretta è 'risulta'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Il testo ___ interessante.",
+      "options": [
+        "è",
+        "risulta",
+        "sarà"
+      ],
+      "answer": "è",
+      "explanation": "Esercizio 84: La forma corretta è 'è'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "L'opera ___ interessante.",
+      "options": [
+        "risulta",
+        "è",
+        "sarà"
+      ],
+      "answer": "risulta",
+      "explanation": "Esercizio 85: La forma corretta è 'risulta'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Nel 1492 Colombo ___ l'America.",
+      "options": [
+        "scopre",
+        "scoprì",
+        "ha scoperto"
+      ],
+      "answer": "scopre",
+      "explanation": "Esercizio 86: La forma corretta è 'scopre'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Nel 1969 l'uomo ___ sulla Luna.",
+      "options": [
+        "sbarra",
+        "sbarcò",
+        "ha sbarcato"
+      ],
+      "answer": "sbarra",
+      "explanation": "Esercizio 87: La forma corretta è 'sbarra'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Nel 1989 ___ il Muro di Berlino.",
+      "options": [
+        "cade",
+        "cadde",
+        "è caduto"
+      ],
+      "answer": "cade",
+      "explanation": "Esercizio 88: La forma corretta è 'cade'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Nel 2001 ___ le Torri Gemelle.",
+      "options": [
+        "crollano",
+        "crollarono",
+        "sono crollate"
+      ],
+      "answer": "crollano",
+      "explanation": "Esercizio 89: La forma corretta è 'crollano'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Nel 2020 ___ la pandemia.",
+      "options": [
+        "inizia",
+        "iniziò",
+        "è iniziata"
+      ],
+      "answer": "inizia",
+      "explanation": "Esercizio 90: La forma corretta è 'inizia'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Mentre ___ la lezione 91, arrivò il professore.",
+      "options": [
+        "seguivo",
+        "seguo",
+        "seguirò"
+      ],
+      "answer": "seguivo",
+      "explanation": "Esercizio 91: La forma corretta è 'seguivo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Mentre ___ il libro, suonò il telefono.",
+      "options": [
+        "leggevo",
+        "leggo",
+        "leggerò"
+      ],
+      "answer": "leggevo",
+      "explanation": "Esercizio 92: La forma corretta è 'leggevo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Mentre ___ la musica, bussò alla porta.",
+      "options": [
+        "ascoltavo",
+        "ascolto",
+        "ascolterò"
+      ],
+      "answer": "ascoltavo",
+      "explanation": "Esercizio 93: La forma corretta è 'ascoltavo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Mentre ___ la TV, arrivò l'ospite.",
+      "options": [
+        "guardavo",
+        "guardo",
+        "guarderò"
+      ],
+      "answer": "guardavo",
+      "explanation": "Esercizio 94: La forma corretta è 'guardavo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Mentre ___ il caffè, suonò il campanello.",
+      "options": [
+        "bevevo",
+        "bevo",
+        "berrò"
+      ],
+      "answer": "bevevo",
+      "explanation": "Esercizio 95: La forma corretta è 'bevevo'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Ieri ___ a Roma.",
+      "options": [
+        "andai",
+        "sono andato",
+        "vado"
+      ],
+      "answer": "andai",
+      "explanation": "Esercizio 96: La forma corretta è 'andai'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Ieri ___ il libro.",
+      "options": [
+        "lessi",
+        "ho letto",
+        "leggo"
+      ],
+      "answer": "lessi",
+      "explanation": "Esercizio 97: La forma corretta è 'lessi'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Ieri ___ la lezione 98.",
+      "options": [
+        "seguii",
+        "ho seguito",
+        "seguo"
+      ],
+      "answer": "seguii",
+      "explanation": "Esercizio 98: La forma corretta è 'seguii'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Ieri ___ la musica.",
+      "options": [
+        "ascoltai",
+        "ho ascoltato",
+        "ascolto"
+      ],
+      "answer": "ascoltai",
+      "explanation": "Esercizio 99: La forma corretta è 'ascoltai'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    },
+    {
+      "question": "Ieri ___ la TV.",
+      "options": [
+        "guardai",
+        "ho guardato",
+        "guardo"
+      ],
+      "answer": "guardai",
+      "explanation": "Esercizio 100: La forma corretta è 'guardai'. La scelta strategica dei tempi e modi regola l'uso di tempi/modi in contesti complessi e il cambio di registro in situazioni diverse."
+    }
+  ]
+}
