@@ -1,0 +1,1005 @@
+{
+  "topic_name": "Futuro semplice e andare a + infinito (A2)",
+  "exercises": [
+    {
+      "question": "Domani io ___ con il direttore.",
+      "options": [
+        "parlerò",
+        "parlerai",
+        "parlerà"
+      ],
+      "answer": "parlerò",
+      "explanation": "Futuro semplice для 'io' от глагола 'parlare': parlerò."
+    },
+    {
+      "question": "Domani tu ___ italiano?",
+      "options": [
+        "parlerai",
+        "parlerò",
+        "parlerà"
+      ],
+      "answer": "parlerai",
+      "explanation": "Futuro semplice для 'tu' от глагола 'parlare': parlerai."
+    },
+    {
+      "question": "Domani lui ___ con Maria.",
+      "options": [
+        "parlerà",
+        "parlerò",
+        "parlerai"
+      ],
+      "answer": "parlerà",
+      "explanation": "Futuro semplice для 'lui' от глагола 'parlare': parlerà."
+    },
+    {
+      "question": "Domani noi ___ insieme.",
+      "options": [
+        "parleremo",
+        "parlerete",
+        "parleranno"
+      ],
+      "answer": "parleremo",
+      "explanation": "Futuro semplice для 'noi' от глагола 'parlare': parleremo."
+    },
+    {
+      "question": "Domani voi ___ con loro?",
+      "options": [
+        "parlerete",
+        "parleremo",
+        "parleranno"
+      ],
+      "answer": "parlerete",
+      "explanation": "Futuro semplice для 'voi' от глагола 'parlare': parlerete."
+    },
+    {
+      "question": "Domani loro ___ in italiano.",
+      "options": [
+        "parleranno",
+        "parlerà",
+        "parlerete"
+      ],
+      "answer": "parleranno",
+      "explanation": "Futuro semplice для 'loro' от глагола 'parlare': parleranno."
+    },
+    {
+      "question": "Io ___ il treno domani.",
+      "options": [
+        "prenderò",
+        "prenderai",
+        "prenderà"
+      ],
+      "answer": "prenderò",
+      "explanation": "Futuro semplice для 'io' от глагола 'prendere': prenderò."
+    },
+    {
+      "question": "Tu ___ l'autobus?",
+      "options": [
+        "prenderai",
+        "prenderò",
+        "prenderà"
+      ],
+      "answer": "prenderai",
+      "explanation": "Futuro semplice для 'tu' от глагола 'prendere': prenderai."
+    },
+    {
+      "question": "Lui ___ un caffè.",
+      "options": [
+        "prenderà",
+        "prenderò",
+        "prenderai"
+      ],
+      "answer": "prenderà",
+      "explanation": "Futuro semplice для 'lui' от глагола 'prendere': prenderà."
+    },
+    {
+      "question": "Noi ___ la metro.",
+      "options": [
+        "prenderemo",
+        "prenderete",
+        "prenderanno"
+      ],
+      "answer": "prenderemo",
+      "explanation": "Futuro semplice для 'noi' от глагола 'prendere': prenderemo."
+    },
+    {
+      "question": "Voi ___ un taxi?",
+      "options": [
+        "prenderete",
+        "prenderemo",
+        "prenderanno"
+      ],
+      "answer": "prenderete",
+      "explanation": "Futuro semplice для 'voi' от глагола 'prendere': prenderete."
+    },
+    {
+      "question": "Loro ___ l'aereo.",
+      "options": [
+        "prenderanno",
+        "prenderà",
+        "prenderete"
+      ],
+      "answer": "prenderanno",
+      "explanation": "Futuro semplice для 'loro' от глагола 'prendere': prenderanno."
+    },
+    {
+      "question": "Io ___ domani.",
+      "options": [
+        "partirò",
+        "partirai",
+        "partirà"
+      ],
+      "answer": "partirò",
+      "explanation": "Futuro semplice для 'io' от глагола 'partire': partirò."
+    },
+    {
+      "question": "Tu ___ la settimana prossima?",
+      "options": [
+        "partirai",
+        "partirò",
+        "partirà"
+      ],
+      "answer": "partirai",
+      "explanation": "Futuro semplice для 'tu' от глагола 'partire': partirai."
+    },
+    {
+      "question": "Lei ___ per Roma.",
+      "options": [
+        "partirà",
+        "partirò",
+        "partirai"
+      ],
+      "answer": "partirà",
+      "explanation": "Futuro semplice для 'lei' от глагола 'partire': partirà."
+    },
+    {
+      "question": "Noi ___ insieme.",
+      "options": [
+        "partiremo",
+        "partirete",
+        "partiranno"
+      ],
+      "answer": "partiremo",
+      "explanation": "Futuro semplice для 'noi' от глагола 'partire': partiremo."
+    },
+    {
+      "question": "Voi ___ presto?",
+      "options": [
+        "partirete",
+        "partiremo",
+        "partiranno"
+      ],
+      "answer": "partirete",
+      "explanation": "Futuro semplice для 'voi' от глагола 'partire': partirete."
+    },
+    {
+      "question": "Loro ___ domani mattina.",
+      "options": [
+        "partiranno",
+        "partirà",
+        "partirete"
+      ],
+      "answer": "partiranno",
+      "explanation": "Futuro semplice для 'loro' от глагола 'partire': partiranno."
+    },
+    {
+      "question": "Io ___ in ufficio domani.",
+      "options": [
+        "sarò",
+        "sarai",
+        "sarà"
+      ],
+      "answer": "sarò",
+      "explanation": "Futuro semplice от 'essere': io sarò (неправильная форма)."
+    },
+    {
+      "question": "Tu ___ a casa?",
+      "options": [
+        "sarai",
+        "sarò",
+        "sarà"
+      ],
+      "answer": "sarai",
+      "explanation": "Futuro semplice от 'essere': tu sarai."
+    },
+    {
+      "question": "Lui ___ felice.",
+      "options": [
+        "sarà",
+        "sarò",
+        "sarai"
+      ],
+      "answer": "sarà",
+      "explanation": "Futuro semplice от 'essere': lui sarà."
+    },
+    {
+      "question": "Noi ___ pronti.",
+      "options": [
+        "saremo",
+        "sarete",
+        "saranno"
+      ],
+      "answer": "saremo",
+      "explanation": "Futuro semplice от 'essere': noi saremo."
+    },
+    {
+      "question": "Voi ___ contenti?",
+      "options": [
+        "sarete",
+        "saremo",
+        "saranno"
+      ],
+      "answer": "sarete",
+      "explanation": "Futuro semplice от 'essere': voi sarete."
+    },
+    {
+      "question": "Loro ___ qui.",
+      "options": [
+        "saranno",
+        "sarà",
+        "sarete"
+      ],
+      "answer": "saranno",
+      "explanation": "Futuro semplice от 'essere': loro saranno."
+    },
+    {
+      "question": "Io ___ tempo domani.",
+      "options": [
+        "avrò",
+        "avrai",
+        "avrà"
+      ],
+      "answer": "avrò",
+      "explanation": "Futuro semplice от 'avere': io avrò (неправильная форма)."
+    },
+    {
+      "question": "Tu ___ bisogno di aiuto?",
+      "options": [
+        "avrai",
+        "avrò",
+        "avrà"
+      ],
+      "answer": "avrai",
+      "explanation": "Futuro semplice от 'avere': tu avrai."
+    },
+    {
+      "question": "Lei ___ un bambino.",
+      "options": [
+        "avrà",
+        "avrò",
+        "avrai"
+      ],
+      "answer": "avrà",
+      "explanation": "Futuro semplice от 'avere': lei avrà."
+    },
+    {
+      "question": "Noi ___ una riunione.",
+      "options": [
+        "avremo",
+        "avrete",
+        "avranno"
+      ],
+      "answer": "avremo",
+      "explanation": "Futuro semplice от 'avere': noi avremo."
+    },
+    {
+      "question": "Voi ___ fortuna.",
+      "options": [
+        "avrete",
+        "avremo",
+        "avranno"
+      ],
+      "answer": "avrete",
+      "explanation": "Futuro semplice от 'avere': voi avrete."
+    },
+    {
+      "question": "Loro ___ successo.",
+      "options": [
+        "avranno",
+        "avrà",
+        "avrete"
+      ],
+      "answer": "avranno",
+      "explanation": "Futuro semplice от 'avere': loro avranno."
+    },
+    {
+      "question": "Io ___ al mare.",
+      "options": [
+        "andrò",
+        "andrai",
+        "andrà"
+      ],
+      "answer": "andrò",
+      "explanation": "Futuro semplice от 'andare': io andrò (неправильная форма)."
+    },
+    {
+      "question": "Tu ___ a Roma?",
+      "options": [
+        "andrai",
+        "andrò",
+        "andrà"
+      ],
+      "answer": "andrai",
+      "explanation": "Futuro semplice от 'andare': tu andrai."
+    },
+    {
+      "question": "Lui ___ in vacanza.",
+      "options": [
+        "andrà",
+        "andrò",
+        "andrai"
+      ],
+      "answer": "andrà",
+      "explanation": "Futuro semplice от 'andare': lui andrà."
+    },
+    {
+      "question": "Noi ___ al cinema.",
+      "options": [
+        "andremo",
+        "andrete",
+        "andranno"
+      ],
+      "answer": "andremo",
+      "explanation": "Futuro semplice от 'andare': noi andremo."
+    },
+    {
+      "question": "Voi ___ a scuola?",
+      "options": [
+        "andrete",
+        "andremo",
+        "andranno"
+      ],
+      "answer": "andrete",
+      "explanation": "Futuro semplice от 'andare': voi andrete."
+    },
+    {
+      "question": "Loro ___ al concerto.",
+      "options": [
+        "andranno",
+        "andrà",
+        "andrete"
+      ],
+      "answer": "andranno",
+      "explanation": "Futuro semplice от 'andare': loro andranno."
+    },
+    {
+      "question": "Io ___ colazione presto.",
+      "options": [
+        "farò",
+        "farai",
+        "farà"
+      ],
+      "answer": "farò",
+      "explanation": "Futuro semplice от 'fare': io farò (неправильная форма)."
+    },
+    {
+      "question": "Tu ___ sport domani?",
+      "options": [
+        "farai",
+        "farò",
+        "farà"
+      ],
+      "answer": "farai",
+      "explanation": "Futuro semplice от 'fare': tu farai."
+    },
+    {
+      "question": "Lei ___ la spesa.",
+      "options": [
+        "farà",
+        "farò",
+        "farai"
+      ],
+      "answer": "farà",
+      "explanation": "Futuro semplice от 'fare': lei farà."
+    },
+    {
+      "question": "Noi ___ una festa.",
+      "options": [
+        "faremo",
+        "farete",
+        "faranno"
+      ],
+      "answer": "faremo",
+      "explanation": "Futuro semplice от 'fare': noi faremo."
+    },
+    {
+      "question": "Voi ___ i compiti?",
+      "options": [
+        "farete",
+        "faremo",
+        "faranno"
+      ],
+      "answer": "farete",
+      "explanation": "Futuro semplice от 'fare': voi farete."
+    },
+    {
+      "question": "Loro ___ un viaggio.",
+      "options": [
+        "faranno",
+        "farà",
+        "farete"
+      ],
+      "answer": "faranno",
+      "explanation": "Futuro semplice от 'fare': loro faranno."
+    },
+    {
+      "question": "Io ___ studiare adesso.",
+      "options": [
+        "vado a",
+        "vai a",
+        "va a"
+      ],
+      "answer": "vado a",
+      "explanation": "Перифраза 'andare a + infinito' выражает ближайшее будущее: vado a studiare."
+    },
+    {
+      "question": "Tu ___ mangiare?",
+      "options": [
+        "vai a",
+        "vado a",
+        "va a"
+      ],
+      "answer": "vai a",
+      "explanation": "Перифраза для 'tu': vai a mangiare (собираешься есть)."
+    },
+    {
+      "question": "Lui ___ dormire.",
+      "options": [
+        "va a",
+        "vado a",
+        "vai a"
+      ],
+      "answer": "va a",
+      "explanation": "Перифраза для 'lui': va a dormire (собирается спать)."
+    },
+    {
+      "question": "Noi ___ partire.",
+      "options": [
+        "andiamo a",
+        "andate a",
+        "vanno a"
+      ],
+      "answer": "andiamo a",
+      "explanation": "Перифраза для 'noi': andiamo a partire (собираемся уехать)."
+    },
+    {
+      "question": "Voi ___ uscire?",
+      "options": [
+        "andate a",
+        "andiamo a",
+        "vanno a"
+      ],
+      "answer": "andate a",
+      "explanation": "Перифраза для 'voi': andate a uscire (собираетесь выйти)."
+    },
+    {
+      "question": "Loro ___ lavorare.",
+      "options": [
+        "vanno a",
+        "va a",
+        "andate a"
+      ],
+      "answer": "vanno a",
+      "explanation": "Перифраза для 'loro': vanno a lavorare (собираются работать)."
+    },
+    {
+      "question": "Domani ___ al mare. (в будущем)",
+      "options": [
+        "andrò",
+        "vado a andare",
+        "vado"
+      ],
+      "answer": "andrò",
+      "explanation": "Для отдаленного будущего используется futuro semplice: andrò."
+    },
+    {
+      "question": "Adesso ___ studiare. (сейчас)",
+      "options": [
+        "vado a",
+        "andrò a",
+        "studio"
+      ],
+      "answer": "vado a",
+      "explanation": "Для ближайшего будущего используется перифраза: vado a studiare."
+    },
+    {
+      "question": "La settimana prossima ___ un esame. (в будущем)",
+      "options": [
+        "avrò",
+        "vado ad avere",
+        "ho"
+      ],
+      "answer": "avrò",
+      "explanation": "Для отдаленного будущего: avrò un esame."
+    },
+    {
+      "question": "Ora ___ fare i compiti. (сейчас)",
+      "options": [
+        "vado a",
+        "farò",
+        "faccio"
+      ],
+      "answer": "vado a",
+      "explanation": "Для ближайшего будущего: vado a fare."
+    },
+    {
+      "question": "Io ___ domani.",
+      "options": [
+        "verrò",
+        "venirò",
+        "venerò"
+      ],
+      "answer": "verrò",
+      "explanation": "Futuro semplice от 'venire': verrò (неправильная форма)."
+    },
+    {
+      "question": "Tu ___ alla festa?",
+      "options": [
+        "verrai",
+        "venirai",
+        "venerai"
+      ],
+      "answer": "verrai",
+      "explanation": "Futuro semplice от 'venire': verrai."
+    },
+    {
+      "question": "Lei ___ con noi.",
+      "options": [
+        "verrà",
+        "venirà",
+        "venerà"
+      ],
+      "answer": "verrà",
+      "explanation": "Futuro semplice от 'venire': verrà."
+    },
+    {
+      "question": "Noi ___ insieme.",
+      "options": [
+        "verremo",
+        "verrete",
+        "verranno"
+      ],
+      "answer": "verremo",
+      "explanation": "Futuro semplice от 'venire': verremo."
+    },
+    {
+      "question": "Voi ___ in macchina?",
+      "options": [
+        "verrete",
+        "verremo",
+        "verranno"
+      ],
+      "answer": "verrete",
+      "explanation": "Futuro semplice от 'venire': verrete."
+    },
+    {
+      "question": "Loro ___ tardi.",
+      "options": [
+        "verranno",
+        "verrà",
+        "verrete"
+      ],
+      "answer": "verranno",
+      "explanation": "Futuro semplice от 'venire': verranno."
+    },
+    {
+      "question": "Io ___ studiare.",
+      "options": [
+        "dovrò",
+        "doverò",
+        "andrò"
+      ],
+      "answer": "dovrò",
+      "explanation": "Futuro semplice от 'dovere': dovrò (неправильная форма)."
+    },
+    {
+      "question": "Tu ___ venire?",
+      "options": [
+        "potrai",
+        "poterai",
+        "poterrai"
+      ],
+      "answer": "potrai",
+      "explanation": "Futuro semplice от 'potere': potrai (неправильная форма)."
+    },
+    {
+      "question": "Lui ___ partire.",
+      "options": [
+        "vorrà",
+        "volerà",
+        "andrà"
+      ],
+      "answer": "vorrà",
+      "explanation": "Futuro semplice от 'volere': vorrà (неправильная форма)."
+    },
+    {
+      "question": "Noi ___ lavorare molto.",
+      "options": [
+        "dovremo",
+        "doveremo",
+        "andremo"
+      ],
+      "answer": "dovremo",
+      "explanation": "Futuro semplice от 'dovere': dovremo."
+    },
+    {
+      "question": "Voi ___ restare?",
+      "options": [
+        "potrete",
+        "poterete",
+        "poterrete"
+      ],
+      "answer": "potrete",
+      "explanation": "Futuro semplice от 'potere': potrete."
+    },
+    {
+      "question": "Loro ___ viaggiare.",
+      "options": [
+        "vorranno",
+        "voleranno",
+        "andranno"
+      ],
+      "answer": "vorranno",
+      "explanation": "Futuro semplice от 'volere': vorranno."
+    },
+    {
+      "question": "Io ___ il film domani.",
+      "options": [
+        "vedrò",
+        "vederò",
+        "vedirò"
+      ],
+      "answer": "vedrò",
+      "explanation": "Futuro semplice от 'vedere': vedrò (неправильная форма)."
+    },
+    {
+      "question": "Tu ___ i tuoi amici?",
+      "options": [
+        "vedrai",
+        "vederai",
+        "vedirai"
+      ],
+      "answer": "vedrai",
+      "explanation": "Futuro semplice от 'vedere': vedrai."
+    },
+    {
+      "question": "Noi ___ in Italia.",
+      "options": [
+        "vivremo",
+        "viveremo",
+        "viviremo"
+      ],
+      "answer": "vivremo",
+      "explanation": "Futuro semplice от 'vivere': vivremo (неправильная форма)."
+    },
+    {
+      "question": "Loro ___ insieme.",
+      "options": [
+        "vivranno",
+        "viveranno",
+        "viviranno"
+      ],
+      "answer": "vivranno",
+      "explanation": "Futuro semplice от 'vivere': vivranno."
+    },
+    {
+      "question": "Aspetta, ___ chiamare Maria!",
+      "options": [
+        "vado a",
+        "andrò a",
+        "chiamo"
+      ],
+      "answer": "vado a",
+      "explanation": "Ближайшее действие: vado a chiamare (сейчас позвоню)."
+    },
+    {
+      "question": "Tra un minuto ___ uscire.",
+      "options": [
+        "vado a",
+        "uscirò",
+        "esco"
+      ],
+      "answer": "vado a",
+      "explanation": "Очень близкое будущее: vado a uscire."
+    },
+    {
+      "question": "Adesso ___ preparare la cena.",
+      "options": [
+        "vado a",
+        "preparerò",
+        "preparo"
+      ],
+      "answer": "vado a",
+      "explanation": "Ближайшее намерение: vado a preparare."
+    },
+    {
+      "question": "Subito ___ fare i compiti.",
+      "options": [
+        "vado a",
+        "farò",
+        "faccio"
+      ],
+      "answer": "vado a",
+      "explanation": "Немедленное действие: vado a fare."
+    },
+    {
+      "question": "Domani ___ a casa.",
+      "options": [
+        "resterò",
+        "vado a restare",
+        "resto"
+      ],
+      "answer": "resterò",
+      "explanation": "'Domani' указывает на futuro semplice: resterò."
+    },
+    {
+      "question": "La settimana prossima ___ in vacanza.",
+      "options": [
+        "partirò",
+        "vado a partire",
+        "parto"
+      ],
+      "answer": "partirò",
+      "explanation": "'La settimana prossima' требует futuro semplice: partirò."
+    },
+    {
+      "question": "L'anno prossimo ___ l'università.",
+      "options": [
+        "finirò",
+        "vado a finire",
+        "finisco"
+      ],
+      "answer": "finirò",
+      "explanation": "'L'anno prossimo' требует futuro semplice: finirò."
+    },
+    {
+      "question": "Tra un mese ___ il lavoro.",
+      "options": [
+        "comincerò",
+        "vado a cominciare",
+        "comincio"
+      ],
+      "answer": "comincerò",
+      "explanation": "'Tra un mese' требует futuro semplice: comincerò."
+    },
+    {
+      "question": "Io ___ i soldi in banca.",
+      "options": [
+        "metterò",
+        "meterò",
+        "mettirò"
+      ],
+      "answer": "metterò",
+      "explanation": "Futuro semplice от 'mettere': metterò (удвоенная t)."
+    },
+    {
+      "question": "Tu ___ la casa.",
+      "options": [
+        "berrai",
+        "beverai",
+        "birai"
+      ],
+      "answer": "berrai",
+      "explanation": "Futuro semplice от 'bere': berrai (неправильная основа)."
+    },
+    {
+      "question": "Lui ___ in Italia.",
+      "options": [
+        "rimarrà",
+        "rimanerà",
+        "rimanirà"
+      ],
+      "answer": "rimarrà",
+      "explanation": "Futuro semplice от 'rimanere': rimarrà (неправильная форма)."
+    },
+    {
+      "question": "Noi ___ tutto.",
+      "options": [
+        "sapremo",
+        "saperemo",
+        "sapiremo"
+      ],
+      "answer": "sapremo",
+      "explanation": "Futuro semplice от 'sapere': sapremo (неправильная форма)."
+    },
+    {
+      "question": "Stasera ___ al ristorante.",
+      "options": [
+        "andrò",
+        "vado a andare",
+        "vado"
+      ],
+      "answer": "andrò",
+      "explanation": "'Stasera' - близкое, но не немедленное будущее: andrò."
+    },
+    {
+      "question": "Tra poco ___ telefonare.",
+      "options": [
+        "vado a",
+        "telefonerò",
+        "telefono"
+      ],
+      "answer": "vado a",
+      "explanation": "'Tra poco' указывает на очень близкое будущее: vado a telefonare."
+    },
+    {
+      "question": "Dopodomani ___ Maria.",
+      "options": [
+        "vedrò",
+        "vado a vedere",
+        "vedo"
+      ],
+      "answer": "vedrò",
+      "explanation": "'Dopodomani' требует futuro semplice: vedrò."
+    },
+    {
+      "question": "Subito ___ rispondere.",
+      "options": [
+        "vado a",
+        "risponderò",
+        "rispondo"
+      ],
+      "answer": "vado a",
+      "explanation": "'Subito' указывает на немедленное действие: vado a rispondere."
+    },
+    {
+      "question": "Quando ___ ?",
+      "options": [
+        "partirai",
+        "vai a partire",
+        "parti"
+      ],
+      "answer": "partirai",
+      "explanation": "В вопросах о будущем используется futuro semplice: quando partirai?"
+    },
+    {
+      "question": "Dove ___ domani?",
+      "options": [
+        "andrai",
+        "vai a andare",
+        "vai"
+      ],
+      "answer": "andrai",
+      "explanation": "Вопрос о будущем: dove andrai?"
+    },
+    {
+      "question": "Cosa ___ stasera?",
+      "options": [
+        "farai",
+        "vai a fare",
+        "fai"
+      ],
+      "answer": "farai",
+      "explanation": "Вопрос о будущем: cosa farai?"
+    },
+    {
+      "question": "Chi ___ alla festa?",
+      "options": [
+        "verrà",
+        "va a venire",
+        "viene"
+      ],
+      "answer": "verrà",
+      "explanation": "Вопрос о будущем: chi verrà?"
+    },
+    {
+      "question": "Io ___ un caffè tra poco.",
+      "options": [
+        "prenderò",
+        "vado a prendere",
+        "prendo"
+      ],
+      "answer": "vado a prendere",
+      "explanation": "'Tra poco' указывает на очень близкое будущее: vado a prendere."
+    },
+    {
+      "question": "L'estate prossima ___ in Spagna.",
+      "options": [
+        "andrò",
+        "vado a andare",
+        "vado"
+      ],
+      "answer": "andrò",
+      "explanation": "'L'estate prossima' требует futuro semplice: andrò."
+    },
+    {
+      "question": "Io ___ la verità sempre.",
+      "options": [
+        "dirò",
+        "vado a dire",
+        "dico"
+      ],
+      "answer": "dirò",
+      "explanation": "Futuro semplice от 'dire': dirò (неправильная форма)."
+    },
+    {
+      "question": "Tu ___ qui domani?",
+      "options": [
+        "rimarrai",
+        "vai a rimanere",
+        "rimani"
+      ],
+      "answer": "rimarrai",
+      "explanation": "Futuro semplice от 'rimanere': rimarrai."
+    },
+    {
+      "question": "Noi ___ la casa l'anno prossimo.",
+      "options": [
+        "venderemo",
+        "andiamo a vendere",
+        "vendiamo"
+      ],
+      "answer": "venderemo",
+      "explanation": "'L'anno prossimo' требует futuro semplice: venderemo."
+    },
+    {
+      "question": "Adesso ___ la porta.",
+      "options": [
+        "vado ad aprire",
+        "aprirò",
+        "apro"
+      ],
+      "answer": "vado ad aprire",
+      "explanation": "Немедленное действие: vado ad aprire."
+    },
+    {
+      "question": "Tra cinque minuti ___ pronto.",
+      "options": [
+        "sarò",
+        "vado a essere",
+        "sono"
+      ],
+      "answer": "sarò",
+      "explanation": "'Tra cinque minuti' требует futuro semplice: sarò."
+    },
+    {
+      "question": "Domani ___ il compleanno.",
+      "options": [
+        "farò",
+        "vado a fare",
+        "faccio"
+      ],
+      "answer": "farò",
+      "explanation": "'Domani' требует futuro semplice: farò."
+    },
+    {
+      "question": "Ora ___ la finestra.",
+      "options": [
+        "vado a chiudere",
+        "chiuderò",
+        "chiudo"
+      ],
+      "answer": "vado a chiudere",
+      "explanation": "Немедленное действие: vado a chiudere."
+    },
+    {
+      "question": "Il mese prossimo ___ ventotto anni.",
+      "options": [
+        "compirò",
+        "vado a compiere",
+        "compio"
+      ],
+      "answer": "compirò",
+      "explanation": "'Il mese prossimo' требует futuro semplice: compirò."
+    },
+    {
+      "question": "Subito ___ chiamare.",
+      "options": [
+        "vado a",
+        "chiamerò",
+        "chiamo"
+      ],
+      "answer": "vado a",
+      "explanation": "Немедленное действие: vado a chiamare."
+    },
+    {
+      "question": "Fra due giorni ___ l'esame.",
+      "options": [
+        "avrò",
+        "vado ad avere",
+        "ho"
+      ],
+      "answer": "avrò",
+      "explanation": "'Fra due giorni' требует futuro semplice: avrò."
+    }
+  ]
+}
