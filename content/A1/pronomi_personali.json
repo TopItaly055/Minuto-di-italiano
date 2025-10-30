@@ -1,0 +1,1035 @@
+{
+  "topic_name": "Личные местоимения в функции подлежащего (A1)",
+  "exercises": [
+    {
+      "question": "___ sono italiano.",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' (я) согласуется с глаголом 'sono' в 1-м лице единственного числа."
+    },
+    {
+      "question": "___ abito a Roma.",
+      "options": [
+        "Io",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' (я) согласуется с глаголом 'abito' в 1-м лице единственного числа."
+    },
+    {
+      "question": "___ studio l'italiano.",
+      "options": [
+        "Io",
+        "Lei",
+        "Voi"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' (я) согласуется с глаголом 'studio' в 1-м лице единственного числа."
+    },
+    {
+      "question": "___ sono felice.",
+      "options": [
+        "Io",
+        "Lui",
+        "Loro"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' (я) согласуется с глаголом 'sono' и прилагательным 'felice'."
+    },
+    {
+      "question": "___ lavoro in ufficio.",
+      "options": [
+        "Io",
+        "Tu",
+        "Lei"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' (я) согласуется с глаголом 'lavoro' в 1-м лице единственного числа."
+    },
+    {
+      "question": "___ sei italiano?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lui"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' (ты) согласуется с глаголом 'sei' во 2-м лице единственного числа."
+    },
+    {
+      "question": "___ parli inglese?",
+      "options": [
+        "Tu",
+        "Io",
+        "Noi"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' (ты) согласуется с глаголом 'parli' во 2-м лице единственного числа."
+    },
+    {
+      "question": "___ abiti qui?",
+      "options": [
+        "Tu",
+        "Lei",
+        "Voi"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' (ты) согласуется с глаголом 'abiti' во 2-м лице единственного числа."
+    },
+    {
+      "question": "___ sei molto bravo.",
+      "options": [
+        "Tu",
+        "Io",
+        "Loro"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' (ты) согласуется с глаголом 'sei' и прилагательным 'bravo'."
+    },
+    {
+      "question": "___ studi medicina?",
+      "options": [
+        "Tu",
+        "Lui",
+        "Noi"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' (ты) согласуется с глаголом 'studi' во 2-м лице единственного числа."
+    },
+    {
+      "question": "___ è mio fratello.",
+      "options": [
+        "Lui",
+        "Io",
+        "Tu"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' (он) согласуется с глаголом 'è' в 3-м лице единственного числа."
+    },
+    {
+      "question": "___ lavora in banca.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' (он) согласуется с глаголом 'lavora' в 3-м лице единственного числа."
+    },
+    {
+      "question": "___ abita a Milano.",
+      "options": [
+        "Lui",
+        "Io",
+        "Voi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' (он) согласуется с глаголом 'abita' в 3-м лице единственного числа."
+    },
+    {
+      "question": "___ è molto simpatico.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Loro"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' (он) согласуется с глаголом 'è' и прилагательным 'simpatico'."
+    },
+    {
+      "question": "___ studia all'università.",
+      "options": [
+        "Lui",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' (он) согласуется с глаголом 'studia' в 3-м лице единственного числа."
+    },
+    {
+      "question": "___ è mia sorella.",
+      "options": [
+        "Lei",
+        "Lui",
+        "Tu"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' (она) согласуется с глаголом 'è' в 3-м лице единственного числа."
+    },
+    {
+      "question": "___ parla francese.",
+      "options": [
+        "Lei",
+        "Io",
+        "Noi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' (она) согласуется с глаголом 'parla' в 3-м лице единственного числа."
+    },
+    {
+      "question": "___ è molto bella.",
+      "options": [
+        "Lei",
+        "Lui",
+        "Voi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' (она) согласуется с глаголом 'è' и прилагательным 'bella'."
+    },
+    {
+      "question": "___ lavora in ospedale.",
+      "options": [
+        "Lei",
+        "Tu",
+        "Loro"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' (она) согласуется с глаголом 'lavora' в 3-м лице единственного числа."
+    },
+    {
+      "question": "___ abita vicino a me.",
+      "options": [
+        "Lei",
+        "Io",
+        "Lui"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' (она) согласуется с глаголом 'abita' в 3-м лице единственного числа."
+    },
+    {
+      "question": "___ siamo italiani.",
+      "options": [
+        "Noi",
+        "Voi",
+        "Loro"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' (мы) согласуется с глаголом 'siamo' в 1-м лице множественного числа."
+    },
+    {
+      "question": "___ studiamo insieme.",
+      "options": [
+        "Noi",
+        "Io",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' (мы) согласуется с глаголом 'studiamo' в 1-м лице множественного числа."
+    },
+    {
+      "question": "___ abitiamo a Roma.",
+      "options": [
+        "Noi",
+        "Voi",
+        "Lei"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' (мы) согласуется с глаголом 'abitiamo' в 1-м лице множественного числа."
+    },
+    {
+      "question": "___ parliamo italiano.",
+      "options": [
+        "Noi",
+        "Loro",
+        "Lui"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' (мы) согласуется с глаголом 'parliamo' в 1-м лице множественного числа."
+    },
+    {
+      "question": "___ siamo molto felici.",
+      "options": [
+        "Noi",
+        "Voi",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' (мы) согласуется с глаголом 'siamo' и прилагательным 'felici'."
+    },
+    {
+      "question": "___ siete studenti?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Loro"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' (вы) согласуется с глаголом 'siete' во 2-м лице множественного числа."
+    },
+    {
+      "question": "___ parlate inglese?",
+      "options": [
+        "Voi",
+        "Io",
+        "Tu"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' (вы) согласуется с глаголом 'parlate' во 2-м лице множественного числа."
+    },
+    {
+      "question": "___ abitate qui?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lei"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' (вы) согласуется с глаголом 'abitate' во 2-м лице множественного числа."
+    },
+    {
+      "question": "___ siete molto bravi.",
+      "options": [
+        "Voi",
+        "Loro",
+        "Lui"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' (вы) согласуется с глаголом 'siete' и прилагательным 'bravi'."
+    },
+    {
+      "question": "___ studiate medicina?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Tu"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' (вы) согласуется с глаголом 'studiate' во 2-м лице множественного числа."
+    },
+    {
+      "question": "___ sono miei amici.",
+      "options": [
+        "Loro",
+        "Noi",
+        "Voi"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' (они) согласуется с глаголом 'sono' в 3-м лице множественного числа."
+    },
+    {
+      "question": "___ parlano italiano.",
+      "options": [
+        "Loro",
+        "Io",
+        "Tu"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' (они) согласуется с глаголом 'parlano' в 3-м лице множественного числа."
+    },
+    {
+      "question": "___ abitano a Milano.",
+      "options": [
+        "Loro",
+        "Noi",
+        "Lei"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' (они) согласуется с глаголом 'abitano' в 3-м лице множественного числа."
+    },
+    {
+      "question": "___ lavorano in ufficio.",
+      "options": [
+        "Loro",
+        "Voi",
+        "Lui"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' (они) согласуется с глаголом 'lavorano' в 3-м лице множественного числа."
+    },
+    {
+      "question": "___ sono molto simpatici.",
+      "options": [
+        "Loro",
+        "Noi",
+        "Tu"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' (они) согласуется с глаголом 'sono' и прилагательным 'simpatici'."
+    },
+    {
+      "question": "___ sono stanco.",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' согласуется с глаголом 'sono' и прилагательным 'stanco'."
+    },
+    {
+      "question": "___ sei a casa?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' согласуется с глаголом 'sei'."
+    },
+    {
+      "question": "___ è dottore.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' согласуется с глаголом 'è'."
+    },
+    {
+      "question": "___ è insegnante.",
+      "options": [
+        "Lei",
+        "Io",
+        "Voi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' согласуется с глаголом 'è'."
+    },
+    {
+      "question": "___ siamo a scuola.",
+      "options": [
+        "Noi",
+        "Loro",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' согласуется с глаголом 'siamo'."
+    },
+    {
+      "question": "___ siete in ritardo.",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lui"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' согласуется с глаголом 'siete'."
+    },
+    {
+      "question": "___ sono in vacanza.",
+      "options": [
+        "Loro",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' согласуется с глаголом 'sono' в 3-м лице множественного числа."
+    },
+    {
+      "question": "___ ho fame.",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' согласуется с глаголом 'ho' (avere)."
+    },
+    {
+      "question": "___ hai sete?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' согласуется с глаголом 'hai' (avere)."
+    },
+    {
+      "question": "___ ha un cane.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' согласуется с глаголом 'ha' (avere)."
+    },
+    {
+      "question": "___ ha due gatti.",
+      "options": [
+        "Lei",
+        "Io",
+        "Voi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' согласуется с глаголом 'ha' (avere)."
+    },
+    {
+      "question": "___ abbiamo una casa.",
+      "options": [
+        "Noi",
+        "Loro",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' согласуется с глаголом 'abbiamo' (avere)."
+    },
+    {
+      "question": "___ avete tempo?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lui"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' согласуется с глаголом 'avete' (avere)."
+    },
+    {
+      "question": "___ hanno figli.",
+      "options": [
+        "Loro",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' согласуется с глаголом 'hanno' (avere)."
+    },
+    {
+      "question": "___ parlo italiano.",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' согласуется с глаголом 'parlo' (parlare)."
+    },
+    {
+      "question": "___ parli bene.",
+      "options": [
+        "Tu",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' согласуется с глаголом 'parli' (parlare)."
+    },
+    {
+      "question": "___ parla francese.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' согласуется с глаголом 'parla' (parlare)."
+    },
+    {
+      "question": "___ parla spagnolo.",
+      "options": [
+        "Lei",
+        "Io",
+        "Voi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' согласуется с глаголом 'parla' (parlare)."
+    },
+    {
+      "question": "___ parliamo inglese.",
+      "options": [
+        "Noi",
+        "Loro",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' согласуется с глаголом 'parliamo' (parlare)."
+    },
+    {
+      "question": "___ parlate tedesco?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lui"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' согласуется с глаголом 'parlate' (parlare)."
+    },
+    {
+      "question": "___ parlano cinese.",
+      "options": [
+        "Loro",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' согласуется с глаголом 'parlano' (parlare)."
+    },
+    {
+      "question": "___ prendo il caffè.",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' согласуется с глаголом 'prendo' (prendere)."
+    },
+    {
+      "question": "___ prendi il tè?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' согласуется с глаголом 'prendi' (prendere)."
+    },
+    {
+      "question": "___ prende l'autobus.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' согласуется с глаголом 'prende' (prendere)."
+    },
+    {
+      "question": "___ prende il treno.",
+      "options": [
+        "Lei",
+        "Io",
+        "Voi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' согласуется с глаголом 'prende' (prendere)."
+    },
+    {
+      "question": "___ prendiamo la metro.",
+      "options": [
+        "Noi",
+        "Loro",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' согласуется с глаголом 'prendiamo' (prendere)."
+    },
+    {
+      "question": "___ prendete un taxi?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lui"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' согласуется с глаголом 'prendete' (prendere)."
+    },
+    {
+      "question": "___ prendono il bus.",
+      "options": [
+        "Loro",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' согласуется с глаголом 'prendono' (prendere)."
+    },
+    {
+      "question": "___ mangio la pasta.",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' согласуется с глаголом 'mangio' (mangiare)."
+    },
+    {
+      "question": "___ bevi l'acqua?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' согласуется с глаголом 'bevi' (bere)."
+    },
+    {
+      "question": "___ legge il giornale.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' согласуется с глаголом 'legge' (leggere)."
+    },
+    {
+      "question": "___ scrive una lettera.",
+      "options": [
+        "Lei",
+        "Io",
+        "Voi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' согласуется с глаголом 'scrive' (scrivere)."
+    },
+    {
+      "question": "___ guardiamo la TV.",
+      "options": [
+        "Noi",
+        "Loro",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' согласуется с глаголом 'guardiamo' (guardare)."
+    },
+    {
+      "question": "___ ascoltate la musica?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lui"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' согласуется с глаголом 'ascoltate' (ascoltare)."
+    },
+    {
+      "question": "___ dormono molto.",
+      "options": [
+        "Loro",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' согласуется с глаголом 'dormono' (dormire)."
+    },
+    {
+      "question": "___ sei di Roma?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lui"
+      ],
+      "answer": "Tu",
+      "explanation": "В вопросе местоимение 'tu' согласуется с глаголом 'sei'."
+    },
+    {
+      "question": "___ abiti qui?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Tu",
+      "explanation": "В вопросе местоимение 'tu' согласуется с глаголом 'abiti'."
+    },
+    {
+      "question": "___ siete pronti?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Loro"
+      ],
+      "answer": "Voi",
+      "explanation": "В вопросе местоимение 'voi' согласуется с глаголом 'siete'."
+    },
+    {
+      "question": "___ hai fame?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lui"
+      ],
+      "answer": "Tu",
+      "explanation": "В вопросе местоимение 'tu' согласуется с глаголом 'hai'."
+    },
+    {
+      "question": "___ avete sete?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lei"
+      ],
+      "answer": "Voi",
+      "explanation": "В вопросе местоимение 'voi' согласуется с глаголом 'avete'."
+    },
+    {
+      "question": "___ non sono stanco.",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' согласуется с отрицательной формой 'non sono'."
+    },
+    {
+      "question": "___ non parli italiano?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' согласуется с отрицательной формой 'non parli'."
+    },
+    {
+      "question": "___ non abita qui.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' согласуется с отрицательной формой 'non abita'."
+    },
+    {
+      "question": "___ non lavora oggi.",
+      "options": [
+        "Lei",
+        "Io",
+        "Voi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' согласуется с отрицательной формой 'non lavora'."
+    },
+    {
+      "question": "___ non abbiamo tempo.",
+      "options": [
+        "Noi",
+        "Loro",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' согласуется с отрицательной формой 'non abbiamo'."
+    },
+    {
+      "question": "___ non capite?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lui"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' согласуется с отрицательной формой 'non capite'."
+    },
+    {
+      "question": "___ non studiano.",
+      "options": [
+        "Loro",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' согласуется с отрицательной формой 'non studiano'."
+    },
+    {
+      "question": "___ vado al cinema.",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' согласуется с глаголом 'vado' (andare)."
+    },
+    {
+      "question": "___ vai a scuola?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' согласуется с глаголом 'vai' (andare)."
+    },
+    {
+      "question": "___ va al lavoro.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' согласуется с глаголом 'va' (andare)."
+    },
+    {
+      "question": "___ va in vacanza.",
+      "options": [
+        "Lei",
+        "Io",
+        "Voi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' согласуется с глаголом 'va' (andare)."
+    },
+    {
+      "question": "___ andiamo al mare.",
+      "options": [
+        "Noi",
+        "Loro",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' согласуется с глаголом 'andiamo' (andare)."
+    },
+    {
+      "question": "___ andate al parco?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lui"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' согласуется с глаголом 'andate' (andare)."
+    },
+    {
+      "question": "___ vanno in città.",
+      "options": [
+        "Loro",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' согласуется с глаголом 'vanno' (andare)."
+    },
+    {
+      "question": "___ posso venire?",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' согласуется с глаголом 'posso' (potere)."
+    },
+    {
+      "question": "___ puoi aiutarmi?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' согласуется с глаголом 'puoi' (potere)."
+    },
+    {
+      "question": "___ deve studiare.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' согласуется с глаголом 'deve' (dovere)."
+    },
+    {
+      "question": "___ vuole mangiare.",
+      "options": [
+        "Lei",
+        "Io",
+        "Voi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' согласуется с глаголом 'vuole' (volere)."
+    },
+    {
+      "question": "___ dobbiamo andare.",
+      "options": [
+        "Noi",
+        "Loro",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' согласуется с глаголом 'dobbiamo' (dovere)."
+    },
+    {
+      "question": "___ potete restare?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lui"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' согласуется с глаголом 'potete' (potere)."
+    },
+    {
+      "question": "___ vogliono partire.",
+      "options": [
+        "Loro",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' согласуется с глаголом 'vogliono' (volere)."
+    },
+    {
+      "question": "___ faccio colazione.",
+      "options": [
+        "Io",
+        "Tu",
+        "Lui"
+      ],
+      "answer": "Io",
+      "explanation": "Местоимение 'io' согласуется с глаголом 'faccio' (fare)."
+    },
+    {
+      "question": "___ fai sport?",
+      "options": [
+        "Tu",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Tu",
+      "explanation": "Местоимение 'tu' согласуется с глаголом 'fai' (fare)."
+    },
+    {
+      "question": "___ fa la spesa.",
+      "options": [
+        "Lui",
+        "Tu",
+        "Noi"
+      ],
+      "answer": "Lui",
+      "explanation": "Местоимение 'lui' согласуется с глаголом 'fa' (fare)."
+    },
+    {
+      "question": "___ fa la doccia.",
+      "options": [
+        "Lei",
+        "Io",
+        "Voi"
+      ],
+      "answer": "Lei",
+      "explanation": "Местоимение 'lei' согласуется с глаголом 'fa' (fare)."
+    },
+    {
+      "question": "___ facciamo una pausa.",
+      "options": [
+        "Noi",
+        "Loro",
+        "Tu"
+      ],
+      "answer": "Noi",
+      "explanation": "Местоимение 'noi' согласуется с глаголом 'facciamo' (fare)."
+    },
+    {
+      "question": "___ fate i compiti?",
+      "options": [
+        "Voi",
+        "Noi",
+        "Lui"
+      ],
+      "answer": "Voi",
+      "explanation": "Местоимение 'voi' согласуется с глаголом 'fate' (fare)."
+    },
+    {
+      "question": "___ fanno festa.",
+      "options": [
+        "Loro",
+        "Io",
+        "Lei"
+      ],
+      "answer": "Loro",
+      "explanation": "Местоимение 'loro' согласуется с глаголом 'fanno' (fare)."
+    }
+  ]
+}
