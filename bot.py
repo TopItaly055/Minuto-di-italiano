@@ -41,8 +41,9 @@ log = logging.getLogger("gram-bot")
 TOKEN = os.getenv("BOT_TOKEN")
 WEBHOOK_URL = os.getenv("WEBHOOK_URL", "")
 PORT = int(os.getenv("PORT", 8443))
+ADMIN_USER_ID = os.getenv("ADMIN_USER_ID", "")  # Ваш Telegram user ID для админ-команд
 CONTENT_DIR = "content"
-LEVELS = ["A1", "A2", "B1", "B2"]
+LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
 
 STATE_LEVEL, STATE_TOPIC, STATE_QUIZ = range(3)
 
@@ -191,6 +192,63 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "ℹ️ /help - показать эту справку\n\n"
         "Удачи в изучении итальянского! 🇮🇹"
     )
+
+
+async def health_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Проверка статуса бота."""
+    mode = "webhook" if WEBHOOK_URL else "polling"
+    await _reply(
+        update,
+        f"✅ Бот работает!\n\n"
+        f"🔧 Режим: {mode}\n"
+        f"🌐 Webhook URL: {WEBHOOK_URL if WEBHOOK_URL else 'не установлен (polling)'}\n"
+        f"🚀 Статус: онлайн"
+    )
+
+
+async def admin_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Админ-панель для управления ботом."""
+    user_id = _get_user_id(update)
+    
+    if ADMIN_USER_ID and str(user_id) != ADMIN_USER_ID:
+        await _reply(update, "❌ У вас нет прав администратора.")
+        return
+    
+    # Статистика бота
+    total_users = len(USER_STATS)
+    mode = "webhook" if WEBHOOK_URL else "polling"
+    
+    stats_text = f"🔐 Админ-панель\n\n"
+    stats_text += f"👥 Всего пользователей: {total_users}\n"
+    stats_text += f"🔧 Режим работы: {mode}\n"
+    
+    if WEBHOOK_URL:
+        stats_text += f"🌐 Webhook: {WEBHOOK_URL}\n"
+    
+    # Статистика по контенту
+    try:
+        total_exercises = 0
+        for level in LEVELS:
+            level_path = os.path.join(CONTENT_DIR, level)
+            if os.path.exists(level_path):
+                for file in os.listdir(level_path):
+                    if file.endswith(".json"):
+                        file_path = os.path.join(level_path, file)
+                        try:
+                            with open(file_path, "r", encoding="utf-8") as f:
+                                data = json.load(f)
+                                total_exercises += len(data.get("exercises", []))
+                        except:
+                            pass
+        stats_text += f"📚 Всего упражнений: {total_exercises}\n"
+    except:
+        pass
+    
+    stats_text += f"\n📝 Команды:\n"
+    stats_text += f"/health - проверить статус бота\n"
+    stats_text += f"/admin - эта панель"
+    
+    await _reply(update, stats_text)
 
 
 async def stats_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -522,6 +580,8 @@ def main():
     app.add_handler(CommandHandler("achievements", achievements))
     app.add_handler(CommandHandler("reset", reset_stats))
     app.add_handler(CommandHandler("cancel", cancel))
+    app.add_handler(CommandHandler("health", health_command))
+    app.add_handler(CommandHandler("admin", admin_command))
 
     conv = ConversationHandler(
         entry_points=[CommandHandler("quiz", quiz)],
