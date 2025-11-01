@@ -528,7 +528,9 @@ async def set_webhook_on_startup(app):
             log.info("🗑️  Старый webhook удален")
         
         # Устанавливаем правильный webhook
-        webhook_url_to_set = webhook_url_to_set.rstrip('/')
+        # ВАЖНО: webhook_url должен заканчиваться на /webhook
+        if not webhook_url_to_set.endswith('/webhook'):
+            webhook_url_to_set = webhook_url_to_set.rstrip('/') + '/webhook'
         await app.bot.set_webhook(url=webhook_url_to_set, drop_pending_updates=True)
         log.info(f"🔗 Webhook установлен: {webhook_url_to_set}")
         
