@@ -602,16 +602,16 @@ def main():
     
     try:
         # Запускаем webhook сервер
-        log.info(f"🌐 URL path: /webhook")
-        log.info(f"🔍 Проверяю что webhook URL правильный: {WEBHOOK_URL}")
+        # ВАЖНО: url_path для python-telegram-bot должен быть БЕЗ начального слэша!
+        log.info(f"🌐 Запускаю webhook на порту {PORT}")
+        log.info(f"🔗 URL: {WEBHOOK_URL}")
+        log.info(f"📂 Path: webhook (без слэша)")
         
-        # Запускаем webhook
-        # ВАЖНО: url_path должен быть "/webhook" (со слэшем), и webhook_url должен заканчиваться на /webhook
         app.run_webhook(
             listen="0.0.0.0",
             port=int(PORT),
             webhook_url=WEBHOOK_URL,
-            url_path="/webhook",  # Путь ДОЛЖЕН начинаться со слэша
+            url_path="webhook",  # БЕЗ начального слэша для python-telegram-bot!
             allowed_updates=Update.ALL_TYPES,
             drop_pending_updates=True
         )
