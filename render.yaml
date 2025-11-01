@@ -13,6 +13,9 @@ services:
           type: web
           name: minuto-di-italiano-bot
           property: host
-          format: https://{{host}}/webhook
+          format: https://{{host}}
       - key: PORT
-        value: "8443"
+        fromService:
+          type: web
+          name: minuto-di-italiano-bot
+          property: port
