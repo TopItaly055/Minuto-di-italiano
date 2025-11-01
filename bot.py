@@ -53,6 +53,9 @@ if WEBHOOK_URL_RAW:
             WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
     else:
         WEBHOOK_URL = WEBHOOK_URL_RAW.rstrip('/')
+else:
+    # WEBHOOK_URL не установлен - используем fallback (для Render)
+    WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
 
 PORT = int(os.getenv("PORT", 10000))
 CONTENT_DIR = "content"
@@ -549,23 +552,18 @@ def main():
     # Загружаем статистику при запуске
     _load_user_stats()
 
-    # Выбираем метод запуска
-    if WEBHOOK_URL:
-        # Используем веб-хук для Render
-        app = (
-            ApplicationBuilder()
-            .token(TOKEN)
-            .post_init(set_webhook_on_startup)
-            .build()
-        )
-    else:
-        # Используем polling для локальной разработки
-        app = (
-            ApplicationBuilder()
-            .token(TOKEN)
-            .post_init(delete_webhook_on_startup)
-            .build()
-        )
+    # Всегда используем webhook для Render (даже если переменная не установлена)
+    # Это важно для работы на Render
+    log.info(f"📋 WEBHOOK_URL_RAW из env: {WEBHOOK_URL_RAW[:50] if WEBHOOK_URL_RAW else 'не установлен'}...")
+    log.info(f"📋 Final WEBHOOK_URL: {WEBHOOK_URL}")
+    
+    # Используем веб-хук для Render
+    app = (
+        ApplicationBuilder()
+        .token(TOKEN)
+        .post_init(set_webhook_on_startup)
+        .build()
+    )
 
     app.add_error_handler(on_error)
     app.add_handler(CommandHandler("start", start))
@@ -587,38 +585,36 @@ def main():
     )
     app.add_handler(conv)
 
-    if WEBHOOK_URL:
-        log.info(f"✅ Запускаем с веб-хуком...")
-        log.info(f"🔗 Webhook URL: {WEBHOOK_URL}")
-        log.info(f"🔑 BOT_TOKEN: {'✅ установлен' if TOKEN else '❌ ОТСУТСТВУЕТ!'}")
-        log.info(f"🌐 PORT: {PORT}")
-        log.info(f"📡 Слушаем на: 0.0.0.0:{PORT}")
-        
-        try:
-            # Запускаем webhook сервер
-            app.run_webhook(
-                listen="0.0.0.0",
-                port=PORT,
-                webhook_url=WEBHOOK_URL,
-                allowed_updates=Update.ALL_TYPES,
-                drop_pending_updates=True
-            )
-        except OSError as e:
-            if "Address already in use" in str(e) or "already in use" in str(e):
-                log.error(f"❌ Порт {PORT} уже занят! Попробуйте использовать другой порт.")
-            else:
-                log.error(f"❌ Ошибка сети: {e}")
-            import traceback
-            log.error(traceback.format_exc())
-            raise
-        except Exception as e:
-            log.error(f"❌ Ошибка запуска webhook: {e}")
-            import traceback
-            log.error(traceback.format_exc())
-            raise
-    else:
-        log.info("✅ Запускаем polling…")
-        app.run_polling(drop_pending_updates=True, allowed_updates=Update.ALL_TYPES)
+    # Всегда запускаем webhook для Render
+    log.info(f"✅ Запускаем с веб-хуком...")
+    log.info(f"🔗 Webhook URL: {WEBHOOK_URL}")
+    log.info(f"🔑 BOT_TOKEN: {'✅ установлен' if TOKEN else '❌ ОТСУТСТВУЕТ!'}")
+    log.info(f"🌐 PORT: {PORT}")
+    log.info(f"📡 Слушаем на: 0.0.0.0:{PORT}")
+    log.info(f"🚀 Бот готов к работе!")
+    
+    try:
+        # Запускаем webhook сервер
+        app.run_webhook(
+            listen="0.0.0.0",
+            port=PORT,
+            webhook_url=WEBHOOK_URL,
+            allowed_updates=Update.ALL_TYPES,
+            drop_pending_updates=True
+        )
+    except OSError as e:
+        if "Address already in use" in str(e) or "already in use" in str(e):
+            log.error(f"❌ Порт {PORT} уже занят! Попробуйте использовать другой порт.")
+        else:
+            log.error(f"❌ Ошибка сети: {e}")
+        import traceback
+        log.error(traceback.format_exc())
+        raise
+    except Exception as e:
+        log.error(f"❌ Ошибка запуска webhook: {e}")
+        import traceback
+        log.error(traceback.format_exc())
+        raise
 
 
 if __name__ == "__main__":
