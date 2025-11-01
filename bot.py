@@ -492,23 +492,34 @@ async def delete_webhook_on_startup(app):
 
 async def set_webhook_on_startup(app):
     """Устанавливаем веб-хук при запуске."""
-    if WEBHOOK_URL:
-        try:
-            webhook_url = WEBHOOK_URL.rstrip('/')
-            await app.bot.set_webhook(url=webhook_url, drop_pending_updates=True)
-            log.info(f"🔗 Webhook установлен: {webhook_url}")
-            
-            # Проверяем статус webhook
-            webhook_info = await app.bot.get_webhook_info()
-            log.info(f"📊 Webhook info: URL={webhook_info.url}, Pending={webhook_info.pending_update_count}")
-            if webhook_info.last_error_date:
-                log.warning(f"⚠️  Last webhook error: {webhook_info.last_error_message}")
-        except Exception as e:
-            log.error(f"❌ Ошибка установки webhook: {e}")
-            raise
-    else:
-        await app.bot.delete_webhook(drop_pending_updates=True)
-        log.info("🔄 Webhook удален, используется polling")
+    # Всегда устанавливаем правильный webhook если есть URL
+    webhook_url_to_set = WEBHOOK_URL if WEBHOOK_URL else "https://minuto-di-italiano-bot.onrender.com/webhook"
+    
+    try:
+        # Удаляем старый неправильный webhook если есть
+        old_info = await app.bot.get_webhook_info()
+        if old_info.url and "api.render.com/deploy" in old_info.url:
+            log.warning(f"⚠️  Найден неправильный webhook: {old_info.url}")
+            await app.bot.delete_webhook(drop_pending_updates=True)
+            log.info("🗑️  Старый webhook удален")
+        
+        # Устанавливаем правильный webhook
+        webhook_url_to_set = webhook_url_to_set.rstrip('/')
+        await app.bot.set_webhook(url=webhook_url_to_set, drop_pending_updates=True)
+        log.info(f"🔗 Webhook установлен: {webhook_url_to_set}")
+        
+        # Проверяем статус
+        webhook_info = await app.bot.get_webhook_info()
+        log.info(f"📊 Webhook info: URL={webhook_info.url}, Pending={webhook_info.pending_update_count}")
+        if webhook_info.last_error_date:
+            log.warning(f"⚠️  Last webhook error: {webhook_info.last_error_message}")
+        if webhook_info.url != webhook_url_to_set:
+            log.error(f"❌ Webhook URL не совпадает! Ожидался: {webhook_url_to_set}, установлен: {webhook_info.url}")
+    except Exception as e:
+        log.error(f"❌ Ошибка установки webhook: {e}")
+        import traceback
+        log.error(traceback.format_exc())
+        raise
 
 
 # ——————————————————————————————————————————————
