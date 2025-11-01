@@ -52,7 +52,12 @@ if WEBHOOK_URL_RAW:
         else:
             WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
     else:
-        WEBHOOK_URL = WEBHOOK_URL_RAW.rstrip('/')
+        # Гарантируем что URL заканчивается на /webhook
+        url_clean = WEBHOOK_URL_RAW.rstrip('/')
+        if not url_clean.endswith('/webhook'):
+            WEBHOOK_URL = f"{url_clean}/webhook"
+        else:
+            WEBHOOK_URL = url_clean
 else:
     # WEBHOOK_URL не установлен - используем fallback (для Render)
     WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
@@ -595,13 +600,16 @@ def main():
     
     try:
         # Запускаем webhook сервер
-        # Явно указываем url_path для обработки запросов на /webhook
-        log.info(f"🌐 URL path будет: /webhook")
+        log.info(f"🌐 URL path: /webhook")
+        log.info(f"🔍 Проверяю что webhook URL правильный: {WEBHOOK_URL}")
+        
+        # Запускаем webhook
+        # ВАЖНО: url_path должен быть "/webhook" (со слэшем), и webhook_url должен заканчиваться на /webhook
         app.run_webhook(
             listen="0.0.0.0",
-            port=PORT,
+            port=int(PORT),
             webhook_url=WEBHOOK_URL,
-            url_path="/webhook",  # Явно указываем путь
+            url_path="/webhook",  # Путь ДОЛЖЕН начинаться со слэша
             allowed_updates=Update.ALL_TYPES,
             drop_pending_updates=True
         )
