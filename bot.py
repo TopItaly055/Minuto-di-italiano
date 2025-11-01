@@ -44,13 +44,15 @@ WEBHOOK_URL_RAW = os.getenv("WEBHOOK_URL", "").strip()
 # Исправляем webhook URL если он неправильный
 WEBHOOK_URL = ""
 if WEBHOOK_URL_RAW:
-    if "api.render.com/deploy" in WEBHOOK_URL_RAW or not WEBHOOK_URL_RAW.startswith("http"):
-        # Используем явно заданный URL или формируем из имени сервиса
-        external_url = os.getenv("RENDER_EXTERNAL_URL", "").strip()
-        if external_url:
-            WEBHOOK_URL = f"{external_url.rstrip('/')}/webhook"
-        else:
-            WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
+    # КРИТИЧЕСКАЯ ПРОВЕРКА: если URL содержит "api.render.com/deploy" - это неправильный URL!
+    if "api.render.com/deploy" in WEBHOOK_URL_RAW:
+        # Это неправильный URL от Render - используем правильный публичный URL
+        log.warning(f"⚠️  Обнаружен неправильный webhook URL: {WEBHOOK_URL_RAW[:50]}...")
+        log.warning("   Используем правильный публичный URL")
+        WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
+    elif not WEBHOOK_URL_RAW.startswith("http"):
+        # Не HTTP URL - используем fallback
+        WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
     else:
         # Гарантируем что URL заканчивается на /webhook
         url_clean = WEBHOOK_URL_RAW.rstrip('/')
