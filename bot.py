@@ -39,7 +39,20 @@ log = logging.getLogger("gram-bot")
 #                  КОНСТАНТЫ
 # ——————————————————————————————————————————————
 TOKEN = os.getenv("BOT_TOKEN")
-WEBHOOK_URL = os.getenv("WEBHOOK_URL", "")
+WEBHOOK_URL_RAW = os.getenv("WEBHOOK_URL", "")
+# Исправляем webhook URL если он неправильный (содержит api.render.com/deploy)
+if WEBHOOK_URL_RAW and "api.render.com/deploy" in WEBHOOK_URL_RAW:
+    # Получаем правильный URL из RENDER_EXTERNAL_URL или формируем из имени сервиса
+    external_url = os.getenv("RENDER_EXTERNAL_URL", "")
+    if external_url:
+        WEBHOOK_URL = f"{external_url.rstrip('/')}/webhook"
+    else:
+        # Fallback - используем имя сервиса
+        service_name = "minuto-di-italiano-bot"
+        WEBHOOK_URL = f"https://{service_name}.onrender.com/webhook"
+    log.warning(f"⚠️  Исправлен неправильный webhook URL на: {WEBHOOK_URL}")
+else:
+    WEBHOOK_URL = WEBHOOK_URL_RAW.rstrip('/')
 PORT = int(os.getenv("PORT", 10000))
 CONTENT_DIR = "content"
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
