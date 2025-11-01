@@ -595,10 +595,13 @@ def main():
     
     try:
         # Запускаем webhook сервер
+        # Явно указываем url_path для обработки запросов на /webhook
+        log.info(f"🌐 URL path будет: /webhook")
         app.run_webhook(
             listen="0.0.0.0",
             port=PORT,
             webhook_url=WEBHOOK_URL,
+            url_path="/webhook",  # Явно указываем путь
             allowed_updates=Update.ALL_TYPES,
             drop_pending_updates=True
         )
