@@ -479,10 +479,18 @@ async def delete_webhook_on_startup(app):
 async def set_webhook_on_startup(app):
     """Устанавливаем веб-хук при запуске."""
     if WEBHOOK_URL:
-        await app.bot.set_webhook(url=WEBHOOK_URL)
-        log.info(f"🔗 Webhook установлен: {WEBHOOK_URL}")
+        # Убеждаемся что URL заканчивается правильно
+        webhook_url = WEBHOOK_URL.rstrip('/')
+        await app.bot.set_webhook(url=webhook_url, drop_pending_updates=True)
+        log.info(f"🔗 Webhook установлен: {webhook_url}")
+        
+        # Проверяем статус webhook
+        webhook_info = await app.bot.get_webhook_info()
+        log.info(f"📊 Webhook info: URL={webhook_info.url}, Pending={webhook_info.pending_update_count}")
+        if webhook_info.last_error_date:
+            log.warning(f"⚠️  Last webhook error: {webhook_info.last_error_message}")
     else:
-        await app.bot.delete_webhook()
+        await app.bot.delete_webhook(drop_pending_updates=True)
         log.info("🔄 Webhook удален, используется polling")
 
 
