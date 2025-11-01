@@ -39,38 +39,22 @@ log = logging.getLogger("gram-bot")
 #                  КОНСТАНТЫ
 # ——————————————————————————————————————————————
 TOKEN = os.getenv("BOT_TOKEN")
+
+# УПРОЩЕННАЯ ЛОГИКА: всегда используем правильный webhook URL для Render
 WEBHOOK_URL_RAW = os.getenv("WEBHOOK_URL", "").strip()
 
-# КРИТИЧЕСКОЕ ИСПРАВЛЕНИЕ: проверяем и исправляем webhook URL
-WEBHOOK_URL = ""
-if WEBHOOK_URL_RAW:
-    # КРИТИЧЕСКАЯ ПРОВЕРКА: если URL содержит "api.render.com/deploy" - это неправильный URL!
-    if "api.render.com/deploy" in WEBHOOK_URL_RAW:
-        # Это неправильный URL от Render - используем правильный публичный URL
-        log.warning(f"⚠️  Обнаружен неправильный webhook URL: {WEBHOOK_URL_RAW[:50]}...")
-        log.warning("   Используем правильный публичный URL")
-        WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
-    elif not WEBHOOK_URL_RAW.startswith("http"):
-        WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
+# Исправляем webhook URL
+if WEBHOOK_URL_RAW and "api.render.com/deploy" not in WEBHOOK_URL_RAW and WEBHOOK_URL_RAW.startswith("http"):
+    # Используем переданный URL, но гарантируем /webhook в конце
+    if not WEBHOOK_URL_RAW.endswith("/webhook"):
+        WEBHOOK_URL = WEBHOOK_URL_RAW.rstrip("/") + "/webhook"
     else:
-        # Гарантируем что URL заканчивается на /webhook
-        url_clean = WEBHOOK_URL_RAW.rstrip('/')
-        if not url_clean.endswith('/webhook'):
-            WEBHOOK_URL = f"{url_clean}/webhook"
-        else:
-            WEBHOOK_URL = url_clean
+        WEBHOOK_URL = WEBHOOK_URL_RAW
 else:
-    # WEBHOOK_URL не установлен - используем fallback (для Render)
+    # Используем правильный публичный URL
     WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
 
-# PORT должен быть строкой для Render, потом конвертируем в int
-PORT_STR = os.getenv("PORT", "10000")
-try:
-    PORT = int(PORT_STR)
-except (ValueError, TypeError):
-    PORT = 10000
-    log.warning(f"⚠️  Не удалось преобразовать PORT '{PORT_STR}' в int, используем {PORT}")
-
+PORT = int(os.getenv("PORT", "10000"))
 CONTENT_DIR = "content"
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
 
@@ -209,7 +193,7 @@ async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         update,
         "📖 Справка по командам:\n\n"
         "🎯 /quiz - начать новую тренировку\n"
-        "   Выберите уровень (A1, A2, B1, B2) и тему\n\n"
+        "   Выберите уровень (A1, A2, B1, B2, C1, C2) и тему\n\n"
         "📊 /stats - посмотреть вашу статистику\n"
         "   Узнайте свой прогресс и достижения\n\n"
         "🏅 /achievements - ваши достижения\n"
@@ -500,17 +484,10 @@ async def on_error(update: object, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 
 # ——————————————————————————————————————————————
-#             СБРОС WEBHOOK ПЕРЕД POLLING
+#             WEBHOOK УПРАВЛЕНИЕ
 # ——————————————————————————————————————————————
-async def delete_webhook_on_startup(app):
-    await app.bot.delete_webhook(drop_pending_updates=True)
-    log.info("🔄 Webhook удалён, очередь сброшена.")
-
 async def set_webhook_on_startup(app):
     """Устанавливаем веб-хук при запуске."""
-    # КРИТИЧНО: гарантируем что webhook URL правильный
-    webhook_url_to_set = WEBHOOK_URL if WEBHOOK_URL else "https://minuto-di-italiano-bot.onrender.com/webhook"
-    
     try:
         # Удаляем старый неправильный webhook если есть
         old_info = await app.bot.get_webhook_info()
@@ -519,25 +496,19 @@ async def set_webhook_on_startup(app):
             await app.bot.delete_webhook(drop_pending_updates=True)
             log.info("🗑️  Старый webhook удален")
         
-        # ВАЖНО: webhook_url должен заканчиваться на /webhook
-        if not webhook_url_to_set.endswith('/webhook'):
-            webhook_url_to_set = webhook_url_to_set.rstrip('/') + '/webhook'
-        
-        await app.bot.set_webhook(url=webhook_url_to_set, drop_pending_updates=True)
-        log.info(f"🔗 Webhook установлен: {webhook_url_to_set}")
+        # Устанавливаем правильный webhook
+        await app.bot.set_webhook(url=WEBHOOK_URL, drop_pending_updates=True)
+        log.info(f"🔗 Webhook установлен: {WEBHOOK_URL}")
         
         # Проверяем статус
         webhook_info = await app.bot.get_webhook_info()
         log.info(f"📊 Webhook info: URL={webhook_info.url}, Pending={webhook_info.pending_update_count}")
         if webhook_info.last_error_date:
             log.warning(f"⚠️  Last webhook error: {webhook_info.last_error_message}")
-        if webhook_info.url != webhook_url_to_set:
-            log.error(f"❌ Webhook URL не совпадает! Ожидался: {webhook_url_to_set}, установлен: {webhook_info.url}")
     except Exception as e:
         log.error(f"❌ Ошибка установки webhook: {e}")
         import traceback
         log.error(traceback.format_exc())
-        raise
 
 
 # ——————————————————————————————————————————————
@@ -551,28 +522,17 @@ def main():
     # Загружаем статистику при запуске
     _load_user_stats()
 
-    # КРИТИЧНО: Для Render ВСЕГДА используем webhook
-    # Проверяем что мы на Render (по наличию PORT из окружения или другим признакам)
-    IS_RENDER = os.getenv("RENDER", "").lower() == "true" or os.getenv("PORT") is not None
+    # Для Render ВСЕГДА используем webhook
+    log.info("🚀 Запуск бота на Render")
+    log.info(f"🔗 Webhook URL: {WEBHOOK_URL}")
+    log.info(f"🌐 PORT: {PORT}")
     
-    if IS_RENDER or WEBHOOK_URL:
-        # Используем веб-хук для Render
-        log.info("🌐 Определено: Render или webhook URL установлен - используем webhook")
-        app = (
-            ApplicationBuilder()
-            .token(TOKEN)
-            .post_init(set_webhook_on_startup)
-            .build()
-        )
-    else:
-        # Используем polling для локальной разработки
-        log.info("💻 Локальная разработка - используем polling")
-        app = (
-            ApplicationBuilder()
-            .token(TOKEN)
-            .post_init(delete_webhook_on_startup)
-            .build()
-        )
+    app = (
+        ApplicationBuilder()
+        .token(TOKEN)
+        .post_init(set_webhook_on_startup)
+        .build()
+    )
 
     app.add_error_handler(on_error)
     app.add_handler(CommandHandler("start", start))
@@ -594,35 +554,16 @@ def main():
     )
     app.add_handler(conv)
 
-    # КРИТИЧНО: Для Render ВСЕГДА используем webhook
-    if IS_RENDER or WEBHOOK_URL:
-        log.info("=" * 60)
-        log.info("🚀 ЗАПУСК БОТА С WEBHOOK")
-        log.info("=" * 60)
-        log.info(f"🔗 Webhook URL: {WEBHOOK_URL}")
-        log.info(f"🌐 PORT: {PORT}")
-        log.info(f"📂 URL path: webhook (без слэша)")
-        log.info(f"🏗️  IS_RENDER: {IS_RENDER}")
-        log.info("=" * 60)
-        
-        try:
-            # КРИТИЧНО: url_path должен быть БЕЗ начального слэша для python-telegram-bot!
-            app.run_webhook(
-                listen="0.0.0.0",
-                port=PORT,
-                webhook_url=WEBHOOK_URL,
-                url_path="webhook",  # БЕЗ слэша! Это критично для исправления 404!
-                allowed_updates=Update.ALL_TYPES,
-                drop_pending_updates=True
-            )
-        except Exception as e:
-            log.error(f"❌ Ошибка запуска webhook: {e}")
-            import traceback
-            log.error(traceback.format_exc())
-            raise
-    else:
-        log.info("✅ Запускаем polling…")
-        app.run_polling(drop_pending_updates=True, allowed_updates=Update.ALL_TYPES)
+    # Запускаем webhook
+    log.info("✅ Бот готов к работе!")
+    app.run_webhook(
+        listen="0.0.0.0",
+        port=PORT,
+        webhook_url=WEBHOOK_URL,
+        url_path="webhook",
+        allowed_updates=Update.ALL_TYPES,
+        drop_pending_updates=True
+    )
 
 
 if __name__ == "__main__":
