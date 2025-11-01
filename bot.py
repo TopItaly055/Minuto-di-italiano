@@ -171,21 +171,28 @@ def _update_user_stats(user_id: int, is_correct: bool, topic_name: str, level: s
 #                  ХЕНДЛЕРЫ
 # ——————————————————————————————————————————————
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    """Обработчик команды /start"""
+    log.info(f"📥 Получена команда /start")
     user_id = _get_user_id(update)
     _init_user_stats(user_id)
     
-    await _reply(
-        update,
-        "👋 Привет! Я — тренажёр по итальянскому языку.\n\n"
-        "📚 Доступные команды:\n"
-        "• /quiz - начать тренировку\n"
-        "• /stats - посмотреть статистику\n"
-        "• /achievements - ваши достижения\n"
-        "• /help - справка по командам\n"
-        "• /reset - сбросить статистику\n"
-        "• /cancel - отменить текущую тренировку\n\n"
-        "Выберите /quiz, чтобы начать!",
-    )
+    try:
+        await _reply(
+            update,
+            "👋 Привет! Я — тренажёр по итальянскому языку.\n\n"
+            "📚 Доступные команды:\n"
+            "• /quiz - начать тренировку\n"
+            "• /stats - посмотреть статистику\n"
+            "• /achievements - ваши достижения\n"
+            "• /help - справка по командам\n"
+            "• /reset - сбросить статистику\n"
+            "• /cancel - отменить текущую тренировку\n\n"
+            "Выберите /quiz, чтобы начать!",
+        )
+        log.info(f"✅ Ответ отправлен")
+    except Exception as e:
+        log.error(f"❌ Ошибка отправки: {e}")
+        raise
 
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -480,7 +487,16 @@ async def achievements(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 async def on_error(update: object, context: ContextTypes.DEFAULT_TYPE) -> None:
-    log.exception("Ошибка обработчика: %s", context.error)
+    """Обработчик ошибок"""
+    log.error(f"❌ Ошибка обработчика: {context.error}")
+    if update:
+        try:
+            log.error(f"📥 Update type: {type(update)}")
+            if hasattr(update, 'message'):
+                log.error(f"   Message: {update.message}")
+        except:
+            pass
+    log.exception("Полный traceback:")
 
 
 # ——————————————————————————————————————————————
@@ -572,10 +588,14 @@ def main():
     app.add_handler(conv)
 
     if WEBHOOK_URL:
-        log.info(f"✅ Запускаем с веб-хуком на порту {PORT}...")
+        log.info(f"✅ Запускаем с веб-хуком...")
         log.info(f"🔗 Webhook URL: {WEBHOOK_URL}")
-        log.info(f"🔑 BOT_TOKEN: {'установлен' if TOKEN else 'ОТСУТСТВУЕТ!'}")
+        log.info(f"🔑 BOT_TOKEN: {'✅ установлен' if TOKEN else '❌ ОТСУТСТВУЕТ!'}")
+        log.info(f"🌐 PORT: {PORT}")
+        log.info(f"📡 Слушаем на: 0.0.0.0:{PORT}")
+        
         try:
+            # Запускаем webhook сервер
             app.run_webhook(
                 listen="0.0.0.0",
                 port=PORT,
@@ -583,6 +603,14 @@ def main():
                 allowed_updates=Update.ALL_TYPES,
                 drop_pending_updates=True
             )
+        except OSError as e:
+            if "Address already in use" in str(e) or "already in use" in str(e):
+                log.error(f"❌ Порт {PORT} уже занят! Попробуйте использовать другой порт.")
+            else:
+                log.error(f"❌ Ошибка сети: {e}")
+            import traceback
+            log.error(traceback.format_exc())
+            raise
         except Exception as e:
             log.error(f"❌ Ошибка запуска webhook: {e}")
             import traceback
