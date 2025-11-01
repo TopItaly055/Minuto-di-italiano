@@ -8,13 +8,12 @@ services:
     envVars:
       - key: BOT_TOKEN
         sync: false
-      - key: RENDER_EXTERNAL_URL
+      - key: WEBHOOK_URL
         fromService:
           type: web
           name: minuto-di-italiano-bot
           property: host
-      - key: WEBHOOK_URL
-        value: "https://minuto-di-italiano-bot.onrender.com/webhook"
+          format: https://{{host}}/webhook
       - key: PORT
         fromService:
           type: web
