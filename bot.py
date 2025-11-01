@@ -39,40 +39,10 @@ log = logging.getLogger("gram-bot")
 #                  КОНСТАНТЫ
 # ——————————————————————————————————————————————
 TOKEN = os.getenv("BOT_TOKEN")
-WEBHOOK_URL_RAW = os.getenv("WEBHOOK_URL", "").strip()
-
-# Исправляем webhook URL если он неправильный
-WEBHOOK_URL = ""
-if WEBHOOK_URL_RAW:
-    # КРИТИЧЕСКАЯ ПРОВЕРКА: если URL содержит "api.render.com/deploy" - это неправильный URL!
-    if "api.render.com/deploy" in WEBHOOK_URL_RAW:
-        # Это неправильный URL от Render - используем правильный публичный URL
-        log.warning(f"⚠️  Обнаружен неправильный webhook URL: {WEBHOOK_URL_RAW[:50]}...")
-        log.warning("   Используем правильный публичный URL")
-        WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
-    elif not WEBHOOK_URL_RAW.startswith("http"):
-        # Не HTTP URL - используем fallback
-        WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
-    else:
-        # Гарантируем что URL заканчивается на /webhook
-        url_clean = WEBHOOK_URL_RAW.rstrip('/')
-        if not url_clean.endswith('/webhook'):
-            WEBHOOK_URL = f"{url_clean}/webhook"
-        else:
-            WEBHOOK_URL = url_clean
-else:
-    # WEBHOOK_URL не установлен - используем fallback (для Render)
-    WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
-
-# PORT должен быть строкой для Render, потом конвертируем в int
-PORT_STR = os.getenv("PORT", "10000")
-try:
-    PORT = int(PORT_STR)
-except (ValueError, TypeError):
-    PORT = 10000
-    log.warning(f"⚠️  Не удалось преобразовать PORT '{PORT_STR}' в int, используем {PORT}")
+WEBHOOK_URL = os.getenv("WEBHOOK_URL", "")
+PORT = int(os.getenv("PORT", 8443))
 CONTENT_DIR = "content"
-LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
+LEVELS = ["A1", "A2", "B1", "B2"]
 
 STATE_LEVEL, STATE_TOPIC, STATE_QUIZ = range(3)
 
@@ -187,28 +157,21 @@ def _update_user_stats(user_id: int, is_correct: bool, topic_name: str, level: s
 #                  ХЕНДЛЕРЫ
 # ——————————————————————————————————————————————
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    """Обработчик команды /start"""
-    log.info(f"📥 Получена команда /start")
     user_id = _get_user_id(update)
     _init_user_stats(user_id)
     
-    try:
-        await _reply(
-            update,
-            "👋 Привет! Я — тренажёр по итальянскому языку.\n\n"
-            "📚 Доступные команды:\n"
-            "• /quiz - начать тренировку\n"
-            "• /stats - посмотреть статистику\n"
-            "• /achievements - ваши достижения\n"
-            "• /help - справка по командам\n"
-            "• /reset - сбросить статистику\n"
-            "• /cancel - отменить текущую тренировку\n\n"
-            "Выберите /quiz, чтобы начать!",
-        )
-        log.info(f"✅ Ответ отправлен")
-    except Exception as e:
-        log.error(f"❌ Ошибка отправки: {e}")
-        raise
+    await _reply(
+        update,
+        "👋 Привет! Я — тренажёр по итальянскому языку.\n\n"
+        "📚 Доступные команды:\n"
+        "• /quiz - начать тренировку\n"
+        "• /stats - посмотреть статистику\n"
+        "• /achievements - ваши достижения\n"
+        "• /help - справка по командам\n"
+        "• /reset - сбросить статистику\n"
+        "• /cancel - отменить текущую тренировку\n\n"
+        "Выберите /quiz, чтобы начать!",
+    )
 
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -503,16 +466,7 @@ async def achievements(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 
 async def on_error(update: object, context: ContextTypes.DEFAULT_TYPE) -> None:
-    """Обработчик ошибок"""
-    log.error(f"❌ Ошибка обработчика: {context.error}")
-    if update:
-        try:
-            log.error(f"📥 Update type: {type(update)}")
-            if hasattr(update, 'message'):
-                log.error(f"   Message: {update.message}")
-        except:
-            pass
-    log.exception("Полный traceback:")
+    log.exception("Ошибка обработчика: %s", context.error)
 
 
 # ——————————————————————————————————————————————
@@ -524,36 +478,12 @@ async def delete_webhook_on_startup(app):
 
 async def set_webhook_on_startup(app):
     """Устанавливаем веб-хук при запуске."""
-    # Всегда устанавливаем правильный webhook если есть URL
-    webhook_url_to_set = WEBHOOK_URL if WEBHOOK_URL else "https://minuto-di-italiano-bot.onrender.com/webhook"
-    
-    try:
-        # Удаляем старый неправильный webhook если есть
-        old_info = await app.bot.get_webhook_info()
-        if old_info.url and "api.render.com/deploy" in old_info.url:
-            log.warning(f"⚠️  Найден неправильный webhook: {old_info.url}")
-            await app.bot.delete_webhook(drop_pending_updates=True)
-            log.info("🗑️  Старый webhook удален")
-        
-        # Устанавливаем правильный webhook
-        # ВАЖНО: webhook_url должен заканчиваться на /webhook
-        if not webhook_url_to_set.endswith('/webhook'):
-            webhook_url_to_set = webhook_url_to_set.rstrip('/') + '/webhook'
-        await app.bot.set_webhook(url=webhook_url_to_set, drop_pending_updates=True)
-        log.info(f"🔗 Webhook установлен: {webhook_url_to_set}")
-        
-        # Проверяем статус
-        webhook_info = await app.bot.get_webhook_info()
-        log.info(f"📊 Webhook info: URL={webhook_info.url}, Pending={webhook_info.pending_update_count}")
-        if webhook_info.last_error_date:
-            log.warning(f"⚠️  Last webhook error: {webhook_info.last_error_message}")
-        if webhook_info.url != webhook_url_to_set:
-            log.error(f"❌ Webhook URL не совпадает! Ожидался: {webhook_url_to_set}, установлен: {webhook_info.url}")
-    except Exception as e:
-        log.error(f"❌ Ошибка установки webhook: {e}")
-        import traceback
-        log.error(traceback.format_exc())
-        raise
+    if WEBHOOK_URL:
+        await app.bot.set_webhook(url=WEBHOOK_URL)
+        log.info(f"🔗 Webhook установлен: {WEBHOOK_URL}")
+    else:
+        await app.bot.delete_webhook()
+        log.info("🔄 Webhook удален, используется polling")
 
 
 # ——————————————————————————————————————————————
@@ -567,18 +497,23 @@ def main():
     # Загружаем статистику при запуске
     _load_user_stats()
 
-    # Всегда используем webhook для Render (даже если переменная не установлена)
-    # Это важно для работы на Render
-    log.info(f"📋 WEBHOOK_URL_RAW из env: {WEBHOOK_URL_RAW[:50] if WEBHOOK_URL_RAW else 'не установлен'}...")
-    log.info(f"📋 Final WEBHOOK_URL: {WEBHOOK_URL}")
-    
-    # Используем веб-хук для Render
-    app = (
-        ApplicationBuilder()
-        .token(TOKEN)
-        .post_init(set_webhook_on_startup)
-        .build()
-    )
+    # Выбираем метод запуска
+    if WEBHOOK_URL:
+        # Используем веб-хук для Render
+        app = (
+            ApplicationBuilder()
+            .token(TOKEN)
+            .post_init(set_webhook_on_startup)
+            .build()
+        )
+    else:
+        # Используем polling для локальной разработки
+        app = (
+            ApplicationBuilder()
+            .token(TOKEN)
+            .post_init(delete_webhook_on_startup)
+            .build()
+        )
 
     app.add_error_handler(on_error)
     app.add_handler(CommandHandler("start", start))
@@ -600,45 +535,17 @@ def main():
     )
     app.add_handler(conv)
 
-    # Всегда запускаем webhook для Render
-    log.info("=" * 60)
-    log.info("🚀 ЗАПУСК БОТА")
-    log.info("=" * 60)
-    log.info(f"✅ Запускаем с веб-хуком...")
-    log.info(f"🔗 Webhook URL: {WEBHOOK_URL}")
-    log.info(f"🔑 BOT_TOKEN: {'✅ установлен' if TOKEN else '❌ ОТСУТСТВУЕТ!'}")
-    log.info(f"🌐 PORT (raw): {os.getenv('PORT', 'не установлен')}")
-    log.info(f"🌐 PORT (int): {PORT}")
-    log.info(f"📂 URL path: webhook (без слэша)")
-    log.info(f"📡 Слушаем на: 0.0.0.0:{PORT}")
-    log.info("=" * 60)
-    
-    try:
-        # Запускаем webhook сервер
-        # ВАЖНО: url_path для python-telegram-bot должен быть БЕЗ начального слэша!
-        log.info("🔄 Запускаю run_webhook...")
+    if WEBHOOK_URL:
+        log.info("✅ Запускаем с веб-хуком…")
         app.run_webhook(
             listen="0.0.0.0",
             port=PORT,
             webhook_url=WEBHOOK_URL,
-            url_path="webhook",  # БЕЗ начального слэша!
-            allowed_updates=Update.ALL_TYPES,
-            drop_pending_updates=True
+            allowed_updates=Update.ALL_TYPES
         )
-        log.info("✅ Webhook сервер запущен!")
-    except OSError as e:
-        if "Address already in use" in str(e) or "already in use" in str(e):
-            log.error(f"❌ Порт {PORT} уже занят! Попробуйте использовать другой порт.")
-        else:
-            log.error(f"❌ Ошибка сети: {e}")
-        import traceback
-        log.error(traceback.format_exc())
-        raise
-    except Exception as e:
-        log.error(f"❌ Ошибка запуска webhook: {e}")
-        import traceback
-        log.error(traceback.format_exc())
-        raise
+    else:
+        log.info("✅ Запускаем polling…")
+        app.run_polling(drop_pending_updates=True, allowed_updates=Update.ALL_TYPES)
 
 
 if __name__ == "__main__":
