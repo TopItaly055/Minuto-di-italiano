@@ -62,7 +62,13 @@ else:
     # WEBHOOK_URL не установлен - используем fallback (для Render)
     WEBHOOK_URL = "https://minuto-di-italiano-bot.onrender.com/webhook"
 
-PORT = int(os.getenv("PORT", 10000))
+# PORT должен быть строкой для Render, потом конвертируем в int
+PORT_STR = os.getenv("PORT", "10000")
+try:
+    PORT = int(PORT_STR)
+except (ValueError, TypeError):
+    PORT = 10000
+    log.warning(f"⚠️  Не удалось преобразовать PORT '{PORT_STR}' в int, используем {PORT}")
 CONTENT_DIR = "content"
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
 
@@ -593,28 +599,31 @@ def main():
     app.add_handler(conv)
 
     # Всегда запускаем webhook для Render
+    log.info("=" * 60)
+    log.info("🚀 ЗАПУСК БОТА")
+    log.info("=" * 60)
     log.info(f"✅ Запускаем с веб-хуком...")
     log.info(f"🔗 Webhook URL: {WEBHOOK_URL}")
     log.info(f"🔑 BOT_TOKEN: {'✅ установлен' if TOKEN else '❌ ОТСУТСТВУЕТ!'}")
-    log.info(f"🌐 PORT: {PORT}")
+    log.info(f"🌐 PORT (raw): {os.getenv('PORT', 'не установлен')}")
+    log.info(f"🌐 PORT (int): {PORT}")
+    log.info(f"📂 URL path: webhook (без слэша)")
     log.info(f"📡 Слушаем на: 0.0.0.0:{PORT}")
-    log.info(f"🚀 Бот готов к работе!")
+    log.info("=" * 60)
     
     try:
         # Запускаем webhook сервер
         # ВАЖНО: url_path для python-telegram-bot должен быть БЕЗ начального слэша!
-        log.info(f"🌐 Запускаю webhook на порту {PORT}")
-        log.info(f"🔗 URL: {WEBHOOK_URL}")
-        log.info(f"📂 Path: webhook (без слэша)")
-        
+        log.info("🔄 Запускаю run_webhook...")
         app.run_webhook(
             listen="0.0.0.0",
-            port=int(PORT),
+            port=PORT,
             webhook_url=WEBHOOK_URL,
-            url_path="webhook",  # БЕЗ начального слэша для python-telegram-bot!
+            url_path="webhook",  # БЕЗ начального слэша!
             allowed_updates=Update.ALL_TYPES,
             drop_pending_updates=True
         )
+        log.info("✅ Webhook сервер запущен!")
     except OSError as e:
         if "Address already in use" in str(e) or "already in use" in str(e):
             log.error(f"❌ Порт {PORT} уже занят! Попробуйте использовать другой порт.")
