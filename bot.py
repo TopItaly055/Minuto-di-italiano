@@ -40,7 +40,7 @@ log = logging.getLogger("gram-bot")
 # ——————————————————————————————————————————————
 TOKEN = os.getenv("BOT_TOKEN")
 WEBHOOK_URL = os.getenv("WEBHOOK_URL", "")
-PORT = int(os.getenv("PORT", 8443))
+PORT = int(os.getenv("PORT", 10000))
 CONTENT_DIR = "content"
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]
 
@@ -536,13 +536,18 @@ def main():
     app.add_handler(conv)
 
     if WEBHOOK_URL:
-        log.info("✅ Запускаем с веб-хуком…")
-        app.run_webhook(
-            listen="0.0.0.0",
-            port=PORT,
-            webhook_url=WEBHOOK_URL,
-            allowed_updates=Update.ALL_TYPES
-        )
+        log.info(f"✅ Запускаем с веб-хуком на порту {PORT}...")
+        log.info(f"🔗 Webhook URL: {WEBHOOK_URL}")
+        try:
+            app.run_webhook(
+                listen="0.0.0.0",
+                port=PORT,
+                webhook_url=WEBHOOK_URL,
+                allowed_updates=Update.ALL_TYPES
+            )
+        except Exception as e:
+            log.error(f"❌ Ошибка запуска webhook: {e}")
+            raise
     else:
         log.info("✅ Запускаем polling…")
         app.run_polling(drop_pending_updates=True, allowed_updates=Update.ALL_TYPES)
